@@ -1,149 +1,98 @@
 {
    "weather_details": {
-      "27.05.2024": {
-         "rainfall": 2,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 73,
-         "rh_min": 29,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "28.05.2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 40,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "29.05.2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 23,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "30.05.2024": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "31.05.2024": {
-         "rainfall": 4,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 69,
-         "rh_min": 29,
-         "wind_speed": 10,
-         "wind_direction": 199,
-         "cloud_cover": 6
-      },
-      "01.06.2024": {
-         "rainfall": 4,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 69,
-         "rh_min": 29,
-         "wind_speed": 10,
-         "wind_direction": 199,
-         "cloud_cover": 6
-      },
-      "02.06.2024": {
+      "08-06-2024": {
          "rainfall": 10,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 73,
-         "rh_min": 33,
-         "wind_speed": 11,
-         "wind_direction": 199,
-         "cloud_cover": 7
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 68,
+         "rh_min": 32,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 6
       },
-      "03.06.2024": {
+      "09-06-2024": {
          "rainfall": 15,
-         "t_max": 37,
-         "t_min": 24,
-         "rh_max": 72,
-         "rh_min": 38,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 81,
+         "rh_min": 37,
          "wind_speed": 12,
-         "wind_direction": 238,
-         "cloud_cover": 5
+         "wind_direction": 248,
+         "cloud_cover": 6
       },
-      "04.06.2024": {
+      "10-06-2024": {
          "rainfall": 5,
-         "t_max": 36,
-         "t_min": 23,
-         "rh_max": 70,
-         "rh_min": 40,
-         "wind_speed": 14,
-         "wind_direction": 243,
-         "cloud_cover": 3
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 72,
+         "rh_min": 39,
+         "wind_speed": 12,
+         "wind_direction": 251,
+         "cloud_cover": 6
       },
-      "05.06.2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 23,
-         "rh_max": 65,
-         "rh_min": 38,
-         "wind_speed": 13,
-         "wind_direction": 208,
-         "cloud_cover": 4
+      "11-06-2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 77,
+         "rh_min": 52,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "12-06-2024": {
+         "rainfall": 7,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 71,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "rice",
       "groundnut",
       "chilli",
-      "brinjal",
-      "cattle & buffalo",
-      "poultry"
+      "okra",
+      "pumkin",
+      "pointed gaurd"
    ],
-   "general_advisory": "Plant protection measures may be taken up when weather becomes clear. Regular surveillance work should be taken up in all crops to know the incidence of various insect pests, diseases, and initiate the control strategies.",
+   "general_advisory": "Go for spraying operation when weather becomes clear and dry. Before kharif crop go for collection of soil sample and test it in nearby district agriculture offices.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Those summer rice at maturity stage should go for harvesting when 80 -85% grains in the panicles are matured. Keep watch for rainfall before harvesting and harvested paddy should be kept in a safe place.",
-            "Moisture content of the rice grain should be brought down to 11 -14% for long term storage by drying under Sun for 2 -3 days."
+            "Harvest rice when 80 -85% grains in the panicles are matured. Keep watch for rainfall before harvesting and harvested paddy kept in a safe place.",
+            "Farmers are advised to get ready with seeds of kharif rice.",
+            "After received of sufficient rainfall, farmers are advised for sowing of dhanicha seeds @ 12 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3 -4 weeks old before 10 -15 days of transplanting of rice. Apply all phosphatic fertilizers of Kharif rice to this green manuring crop in advance."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Keep watch for rainfall before harvesting and harvest the crop when plant turns yellow and leaves start drying.",
-            "To avoid aflatoxin formation, dry the pods in the sun for 4 -5 days."
+            "To avoid the aflatoxin formation, dry the pods in the sun for 4 -5 days. Repeat drying for 2 or 3 more days after an interval of 2 or 3 days to ensure complete drying. Reduce the moisture in pods to 8 -9% before storing of groundnut."
          ]
       },
       "chilli": {
          "advisory": [
-            "Chances of fruit rot infestation in chilli, if observed, spray Azoxystrobin 23% SC @ 1 ml or Azoxystrobin 12.5 % + Tebuconazole 12.5% SC @ 1.6 ml/litre of water."
+            "Incidence of thrips may observe in chilli, if observe spray Imidacloprid 17.8% SL @ 0.5 ml/litre of water or Fipronil 5% SC @ 2 ml/litre of water."
          ]
       },
-      "brinjal": {
+      "okra": {
          "advisory": [
-            "Wilting may be reported in tomato and brinjal field, to control it drenching with Copper oxycloride 50% WP @ 3 g and Streptomycin + Tetracycline (90+10) @ 0.15 g/litre of water."
+            "YMV may observe in bhindi, to control it remove affected plants and spray Thiomethoxam 25% WG @ 0.2 g/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water"
          ]
       },
-      "cattle & buffalo": {
+      "pumkin": {
          "advisory": [
-            "Provide shade & plenty of clean drinking water.",
-            "Improve ventilation in the barn/shed. Don’t allow them to graze or work between 10 AM to 4 PM."
+            "Red pumpkin beetle may observe in Cucurbitaceous crops. To control it spray Azadirachtin 0.03% (300 ppm) @ 5 ml/litre of water or Cyantraniliprole 10.26% OD @ 1.8 ml/litre of water."
          ]
       },
-      "poultry": {
+      "pointed gaurd": {
          "advisory": [
-            "Don’t overcrowd the poultry shed. Provide fan and sprinkle water 2 -3 times per day if required."
+            "Fruit and vine rot of pointed gourd may observe. To control it remove damaged fruit and vines from the field and should not be kept in and around the field. Spray alternately Copper Oxychloride 50% WP @ 3g/litre of water and Metalaxyl 8% + Mancozeb 64% @ 2.5 g/litre of water."
          ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

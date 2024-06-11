@@ -1,51 +1,72 @@
 {
    "weather_details": {
-      "2022-01-01": {
+      "2024-06-08": {
          "rainfall": 5,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 80,
-         "rh_min": 50,
-         "wind_speed": 15,
-         "wind_direction": 180,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 78,
+         "rh_min": 39,
+         "wind_speed": 8,
+         "wind_direction": 210,
+         "cloud_cover": 7
+      },
+      "2024-06-09": {
+         "rainfall": 1,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 76,
+         "rh_min": 26,
+         "wind_speed": 10,
+         "wind_direction": 285,
          "cloud_cover": 6
       },
-      "2022-01-02": {
-         "rainfall": 8,
-         "t_max": 22,
-         "t_min": 12,
-         "rh_max": 85,
-         "rh_min": 55,
-         "wind_speed": 12,
+      "2024-06-10": {
+         "rainfall": 3,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 44,
+         "wind_speed": 9,
          "wind_direction": 200,
-         "cloud_cover": 8
+         "cloud_cover": 5
+      },
+      "2024-06-11": {
+         "rainfall": 2,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 63,
+         "rh_min": 33,
+         "wind_speed": 13,
+         "wind_direction": 259,
+         "cloud_cover": 5
+      },
+      "2024-06-12": {
+         "rainfall": 10,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 33,
+         "wind_speed": 11,
+         "wind_direction": 236,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "maize",
-      "poultry"
+      "maize"
    ],
-   "general_advisory": "It is recommended to plant rice and maize, and take care of poultry during this period. Watch out for heavy rainfall.",
+   "general_advisory": "The mean maximum daily temperature was 37.7°C and the mean minimum daily temperature was 24.7°C of the Gajapati district during the last week. The district received 47.1 mm of rainfall during the last week. Drain out excess water from the non-paddy crop field and vegetables. Go for immediate harvesting of the summer rice and bring the harvested paddy to a safer place. Cover the freshly prepared vegetable nursery with polythene or with straw to avoid high temperature. Go for sowing of maize. The weather and time are optimum for sowing green manuring crops in the areas receiving rain. Green manuring crops are sown in medium and low land conditions at 6-8 weeks before planting. Use 10 kg seeds per acre. Otherwise 6 kg/acre in case of mixed planting with paddy. Sowing time should be adjusted in such a way that the crop will attain a 5-week stage just at 7 days before transplanting. Apply all the recommended doses of phosphorous of rice (100 kg of SSP) to the field during sowing time. Go for ploughing at places receiving soaking rainfall to reduce weed infestation, to destroy eggs and larvae of hibernated soil insects, and to increase soil profile recharge.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Plant rice in well-drained soil.",
-            "Apply nitrogen fertilizer for better growth."
+            "For safe storage of harvested paddy/rice, use ‘Super Grain Bag’ which is helpful for retaining the quality, texture, colour, aroma, and taste of the commodities for a longer period of time. Soon after noticing the infestation of the stored grain, take up fumigation by using Aluminium Phosphide (do not use in dwelling houses) tablets @ 3 tablets/ton of grain (total 9 gm of tablets) in fairly airtight containers or by covering grain bags with a thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation. All the corners of the plastic cover should be plastered with a 6-inch-thick layer of mud/adhesive tapes to prevent leakage of gas. Maintain a minimum exposure period of about 7-10 days for a better result. Kharif paddy: As most part of the already received substantial amount of summer rainfall land preparation should be done in upland and rainfed lowland areas, where direct seeded rice is to be grown. Land preparation for dry nursery may be done with the onset of the pre-monsoon."
          ]
       },
       "maize": {
          "advisory": [
-            "Ensure proper irrigation for maize crops.",
-            "Protect maize plants from pests."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Maintain hygiene in poultry farms.",
-            "Provide adequate ventilation for chickens."
+            "N/A"
          ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

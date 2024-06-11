@@ -1,129 +1,102 @@
 {
    "weather_details": {
-      "01-06-2024": {
-         "rainfall": 3,
-         "t_max": 34,
-         "t_min": 30,
-         "rh_max": 77,
-         "rh_min": 46,
-         "wind_speed": 27,
-         "wind_direction": 207,
+      "08-06-2024": {
+         "rainfall": 7,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 65,
+         "rh_min": 21,
+         "wind_speed": 24,
+         "wind_direction": 216,
          "cloud_cover": 6
       },
-      "02-06-2024": {
-         "rainfall": 4,
-         "t_max": 35,
-         "t_min": 29,
-         "rh_max": 79,
-         "rh_min": 46,
-         "wind_speed": 27,
-         "wind_direction": 202,
+      "09-06-2024": {
+         "rainfall": 2,
+         "t_max": 39,
+         "t_min": 27,
+         "rh_max": 56,
+         "rh_min": 18,
+         "wind_speed": 23,
+         "wind_direction": 238,
          "cloud_cover": 5
       },
-      "03-06-2024": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 28,
-         "rh_max": 80,
-         "rh_min": 43,
-         "wind_speed": 27,
-         "wind_direction": 202,
-         "cloud_cover": 5
-      },
-      "04-06-2024": {
+      "10-06-2024": {
          "rainfall": 0,
-         "t_max": 36,
+         "t_max": 39,
          "t_min": 28,
-         "rh_max": 75,
-         "rh_min": 30,
-         "wind_speed": 24,
+         "rh_max": 51,
+         "rh_min": 29,
+         "wind_speed": 20,
          "wind_direction": 238,
          "cloud_cover": 4
       },
-      "05-06-2024": {
+      "11-06-2024": {
          "rainfall": 0,
-         "t_max": 37,
+         "t_max": 39,
+         "t_min": 28,
+         "rh_max": 51,
+         "rh_min": 22,
+         "wind_speed": 29,
+         "wind_direction": 236,
+         "cloud_cover": 4
+      },
+      "12-06-2024": {
+         "rainfall": 10,
+         "t_max": 38,
          "t_min": 27,
-         "rh_max": 68,
-         "rh_min": 20,
-         "wind_speed": 22,
-         "wind_direction": 243,
-         "cloud_cover": 3
+         "rh_max": 51,
+         "rh_min": 18,
+         "wind_speed": 29,
+         "wind_direction": 248,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
       "sugarcane",
-      "brinjal",
-      "chilli",
-      "tomato",
-      "okra",
-      "mango",
-      "papaya",
-      "banana",
+      "vegetables",
+      "fruit",
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "According to IMD, Bhubaneswar, Thunderstorm with very light rainfall is expected in the coming days. Make necessary arrangements for draining out excess water from crop fields in case of rain & give staking in creeping vegetable crops. Farmers are advised to go for summer ploughing and avoid spraying insecticides due to the heavy wind speed forecasted in the next five days. Regular monitoring of insects and diseases in field and vegetable crops is recommended.",
+   "general_advisory": "According to MC, Bhubaneswar forecast, district may receive dry weather / heat wave with very light rain at some places in next 5 days, provide needful irrigation to crops and vegetables. For paddy cultivation, always use good quality seeds. Germination test is advisable before sowing. Apply 3 ton of well decomposed FYM during final land preparation. Go for green manuring crops i.e. Dhanicha immediately after summer ploughing. For timely planting of vegetables prepare the nursery bed immediately before monsoon rain for better utilization of rain water. Provide clean and adequate water to the cattle. Allow them for grazing either in morning or in afternoon hour.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Instead of manual DSR, farmers are advised to follow mechanized DSR cultivation with appropriate practices.",
-            "Arrange good quality seeds of Dhanicha for green manuring crop."
+            "Instead of manual DSR followed by beushaning the farmers are advised to follow mechanized DSR cultivation with appropriate package of practices (Variety selection, Seed treatment, Nutrient management).",
+            "Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days.",
+            "Arrange good quality seeds of @12kg/acre as green manuring crop."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Control mealy bug, scale insect, and other sucking pests by spraying Thiamethoxam@80g/acre.",
-            "To control early shot borer in sugarcane, foliar spray Fipronil 5SC@400 ml/acre is advised."
+            "Wrapping and propping should be done when the crop becomes 4-5 months old in medium and late duration varieties.",
+            "To control early shot borer in sugarcane foliar spray of Fipronil 5SC @400 ml/acre is advised."
          ]
       },
-      "brinjal": {
+      "vegetables": {
          "advisory": [
             "For timely planting of kharif vegetables like Brinjal & Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed.",
-            "To control Fruit and shoot borer in Brinjal, Tomato & Okra, spray Neem based pesticide 1500ppm@600ml/acre at initial stages."
+            "To control Fruit and shoot borer in Brinjal, Tomato & Okra Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water."
          ]
       },
-      "chilli": {
+      "fruit": {
          "advisory": [
-            "For timely planting of kharif vegetables like Brinjal & Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "To control Fruit and shoot borer in Brinjal, Tomato & Okra, spray Neem based pesticide 1500ppm@600ml/acre at initial stages."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "To control Fruit and shoot borer in Brinjal, Tomato & Okra, spray Neem based pesticide 1500ppm@600ml/acre at initial stages."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "To control fruit fly attack in mango, use fruit fly trap."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Drain out excess water from the root zone of the plant. Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Provide drainage. Stacking is done with bamboo and other types of sticks during the fruit development stage to protect the plant against wind and rainfall."
+            "To control fruit fly attack in mango, use of fruit fly trap should be advised.",
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "To prepare fish pond, apply lime @40-60 kg/acre based on PH & alkalinity value of water. Maintain a water level of 5 ft. in the grow-out ponds."
+            "To prepare fish pond, apply lime @40-60 kg/acre based on PH & alkalinity value of water. Maintain water level of 5 ft. in the grow out ponds."
          ]
       },
       "livestock": {
          "advisory": [
-            "Clean the shed & apply disinfectant to protect the animals from any disease outbreak."
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done.",
+            "Provide clean and adequate water to the cattle. Allow them for grazing either in morning or in afternoon hour."
          ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

@@ -1,72 +1,72 @@
 {
    "weather_details": {
-      "2024-06-01": {
-         "rainfall": 2,
-         "t_max": 41,
+      "2024-06-08": {
+         "rainfall": 0,
+         "t_max": 40,
          "t_min": 26,
-         "rh_max": 84,
-         "rh_min": 30,
-         "wind_speed": 13,
-         "wind_direction": 135,
-         "cloud_cover": 5
+         "rh_max": 48,
+         "rh_min": 20,
+         "wind_speed": 14,
+         "wind_direction": 281,
+         "cloud_cover": 4
       },
-      "2024-06-02": {
+      "2024-06-09": {
          "rainfall": 2,
          "t_max": 40,
          "t_min": 26,
-         "rh_max": 78,
-         "rh_min": 37,
-         "wind_speed": 9,
-         "wind_direction": 163,
-         "cloud_cover": 5
-      },
-      "2024-06-03": {
-         "rainfall": 5,
-         "t_max": 39,
-         "t_min": 26,
-         "rh_max": 79,
-         "rh_min": 18,
-         "wind_speed": 11,
-         "wind_direction": 124,
-         "cloud_cover": 6
-      },
-      "2024-06-04": {
-         "rainfall": 4,
-         "t_max": 39,
-         "t_min": 26,
-         "rh_max": 41,
-         "rh_min": 15,
-         "wind_speed": 12,
-         "wind_direction": 225,
-         "cloud_cover": 2
-      },
-      "2024-06-05": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 61,
-         "rh_min": 16,
-         "wind_speed": 13,
-         "wind_direction": 216,
+         "rh_max": 51,
+         "rh_min": 17,
+         "wind_speed": 16,
+         "wind_direction": 290,
          "cloud_cover": 4
+      },
+      "2024-06-10": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 45,
+         "rh_min": 20,
+         "wind_speed": 18,
+         "wind_direction": 270,
+         "cloud_cover": 3
+      },
+      "2024-06-11": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 44,
+         "rh_min": 14,
+         "wind_speed": 20,
+         "wind_direction": 257,
+         "cloud_cover": 4
+      },
+      "2024-06-12": {
+         "rainfall": 2,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 52,
+         "rh_min": 18,
+         "wind_speed": 19,
+         "wind_direction": 252,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "brinjal",
-      "common fish"
+      "cucumber",
+      "chicken"
    ],
-   "general_advisory": "The district likely to get thunderstorm with 40-50 kmph wind on Friday, give staking in creeping vegetables. Withhold irrigation and Pesticide, Insecticide, application due to upcoming rainy weather. For planting of fruit crops in July and August go for digging of pits before onset of monsoon to effect solarisation of soils removed from the pits for killing the hibernated insects and their eggs. The Angul district is likely to receive light rainfall in the coming two days, make sure to conserve rainwater in view of forecasted less monsoon rainfall in the month of June. The bunds of the fields must be strengthened.",
+   "general_advisory": "Keeping in view of hot weather, farmers are advised for frequent irrigation in vegetables, nurseries of vegetables, fodder crops and orchards. Make arrangement for straw mulching to reduce evaporation. Withhold irrigation and Pesticide, Insecticide on Saturday, Tuesday, application due to upcoming rainy weather",
    "crops_data": {
-      "brinjal": {
+      "cucumber": {
          "advisory": [
-            "Due increased temperature and suitable humidity fruit and shoot borer might affect brinjal crop. In case brinjal crop is infested with fruit borer install pheromone trap @ 25 / ha, spray spinsad 7ml/ 15 litres of water. Go for application after cessation of rainfall."
+            "Frequent and light irrigation in the vegetable crops, attending reproductive stage i.e flowering and fruiting should be done in the rainless days to minimize flower and fruit drop in view of persisting hot days. Also use mulch to minimize evaporation of water from soil."
          ]
       },
-      "common fish": {
+      "chicken": {
          "advisory": [
-            "Remove the predatory and unwanted fishes from the pond for better culture practices. Pond should be dried and properly ploughed with application of lime @250kg/ha. Inside embankment of pond dykes should be cleaned with free from any aquatic weeds."
+            "To protect Poultry birds from ongoing hot weather and minimize heat stress, make provision for adequate availability of drinking water, put wet gunny bags in the places left for ventilation in the noon hour."
          ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

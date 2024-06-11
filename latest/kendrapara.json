@@ -1,101 +1,97 @@
 {
    "weather_details": {
-      "01/06/2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 28,
-         "rh_max": 81,
-         "rh_min": 59,
-         "wind_speed": 31,
-         "wind_direction": 204,
-         "cloud_cover": 4
-      },
-      "02/06/2024": {
+      "08/06/2024": {
          "rainfall": 5,
-         "t_max": 35,
-         "t_min": 28,
-         "rh_max": 82,
-         "rh_min": 57,
-         "wind_speed": 31,
-         "wind_direction": 202,
+         "t_max": 38,
+         "t_min": 27,
+         "rh_max": 73,
+         "rh_min": 29,
+         "wind_speed": 27,
+         "wind_direction": 206,
          "cloud_cover": 5
       },
-      "03/06/2024": {
-         "rainfall": 10,
-         "t_max": 35,
+      "09/06/2024": {
+         "rainfall": 0,
+         "t_max": 38,
          "t_min": 27,
-         "rh_max": 83,
-         "rh_min": 57,
+         "rh_max": 63,
+         "rh_min": 32,
+         "wind_speed": 26,
+         "wind_direction": 212,
+         "cloud_cover": 4
+      },
+      "10/06/2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 27,
+         "rh_max": 59,
+         "rh_min": 36,
+         "wind_speed": 31,
+         "wind_direction": 225,
+         "cloud_cover": 3
+      },
+      "11/06/2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 28,
+         "rh_max": 61,
+         "rh_min": 33,
          "wind_speed": 32,
-         "wind_direction": 202,
+         "wind_direction": 225,
          "cloud_cover": 4
       },
-      "04/06/2024": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 81,
-         "rh_min": 47,
-         "wind_speed": 27,
-         "wind_direction": 204,
-         "cloud_cover": 4
-      },
-      "05/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 26,
-         "rh_max": 71,
-         "rh_min": 39,
-         "wind_speed": 14,
-         "wind_direction": 238,
+      "12/06/2024": {
+         "rainfall": 5,
+         "t_max": 38,
+         "t_min": 28,
+         "rh_max": 65,
+         "rh_min": 31,
+         "wind_speed": 15,
+         "wind_direction": 243,
          "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
       "arhar",
-      "sugarcane",
-      "drumstick",
-      "chilli",
-      "brinjal"
+      "maize",
+      "okra",
+      "brinjal",
+      "cucurbits"
    ],
-   "general_advisory": "Harvesting of summer rice and post harvesting operations of rabi crops are ongoing. Intercultural operations and top dressing of summer non-paddy crops are being carried out. Plant protection measures for various flowers are also in progress. Ensure clean water and adequate grazing time for cattle.",
+   "general_advisory": "Sowing of green manuring crops has been started. Plant protection activities are ongoing. Apply necessary protection to plants. Top dressing of sugarcane is carried out. Overall crop condition is normal.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Use certified seeds for paddy cultivation.",
-            "Perform germination test before sowing seeds."
+            "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing.",
+            "Varietal selection of paddy varieties based on maturity days."
          ]
       },
       "arhar": {
          "advisory": [
-            "Use recommended seed rates for different varieties of arhar.",
-            "Perform proper seed treatment with recommended products."
+            "Seed treatment recommendations for arhar."
          ]
       },
-      "sugarcane": {
+      "maize": {
          "advisory": [
-            "Uproot and dispose of infected plants with grassy shoot disease.",
-            "Spray appropriate insecticides to manage Aphids."
+            "Seed treatment to avoid infestation of Fall Army Worm."
          ]
       },
-      "drumstick": {
+      "okra": {
          "advisory": [
-            "Spray Cypermethrin to manage pod borer infestation."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Identify and manage mite infestation in chilli crops.",
-            "Spray recommended insecticides for mite control."
+            "Management of shoot and fruit borer in Okra."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Select suitable varieties of brinjal for cultivation.",
-            "Prepare nursery beds properly for brinjal crops."
+            "Seed rate and treatment recommendations for improved and hybrid varieties of Brinjal."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Chance of late blight disease in cucurbits due to rise in temperature. Control measures advised."
          ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

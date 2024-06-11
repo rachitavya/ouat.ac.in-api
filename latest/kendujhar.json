@@ -1,111 +1,125 @@
 {
    "weather_details": {
-      "01-06-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 28,
-         "rh_max": 84,
-         "rh_min": 43,
-         "wind_speed": 14,
-         "wind_direction": 193,
-         "cloud_cover": 5
-      },
-      "02-06-2024": {
-         "rainfall": 10,
-         "t_max": 35,
-         "t_min": 28,
-         "rh_max": 83,
-         "rh_min": 33,
-         "wind_speed": 14,
-         "wind_direction": 171,
+      "08-06-2024": {
+         "rainfall": 7,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 51,
+         "rh_min": 21,
+         "wind_speed": 15,
+         "wind_direction": 214,
          "cloud_cover": 6
       },
-      "03-06-2024": {
-         "rainfall": 15,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 87,
-         "rh_min": 22,
-         "wind_speed": 13,
-         "wind_direction": 160,
+      "09-06-2024": {
+         "rainfall": 2,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 54,
+         "rh_min": 16,
+         "wind_speed": 17,
+         "wind_direction": 285,
          "cloud_cover": 5
       },
-      "04-06-2024": {
-         "rainfall": 2,
-         "t_max": 35,
+      "10-06-2024": {
+         "rainfall": 0,
+         "t_max": 40,
          "t_min": 27,
-         "rh_max": 61,
-         "rh_min": 20,
-         "wind_speed": 11,
-         "wind_direction": 225,
+         "rh_max": 52,
+         "rh_min": 19,
+         "wind_speed": 17,
+         "wind_direction": 248,
          "cloud_cover": 3
       },
-      "05-06-2024": {
+      "11-06-2024": {
          "rainfall": 0,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 63,
-         "rh_min": 17,
-         "wind_speed": 11,
-         "wind_direction": 236,
-         "cloud_cover": 4
+         "t_max": 40,
+         "t_min": 27,
+         "rh_max": 44,
+         "rh_min": 15,
+         "wind_speed": 17,
+         "wind_direction": 285,
+         "cloud_cover": 5
+      },
+      "12-06-2024": {
+         "rainfall": 5,
+         "t_max": 38,
+         "t_min": 27,
+         "rh_max": 51,
+         "rh_min": 16,
+         "wind_speed": 20,
+         "wind_direction": 270,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
+      "cowpea",
+      "lady finger",
       "bitter gourd",
-      "chilli",
       "brinjal",
       "pointed gourd",
       "mango",
       "banana",
-      "cow",
-      "goat"
+      "goat",
+      "poultry",
+      "cow"
    ],
-   "general_advisory": "The monsoon rain is in time this year as per IMD forecast. Prepare the field by cross ploughing for the cultivation of paddy and maize. Make bunds to store rainwater for paddy cultivation.",
+   "general_advisory": "Irrigate the crop if water stress is seen. Prepare the field by cross ploughing for the cultivation of paddy and maize. Make bunds to store rainwater for paddy cultivation. Prepare the paddy nursery.",
    "crops_data": {
       "paddy": {
          "advisory": [
             "Prepare paddy nursery for sowing in kharif season.",
-            "Collect high yielding varieties (HYV) of paddy seeds and soak them in water for 12 - 24 hours."
+            "Collect high yielding varieties (HYV) of paddy seeds and soak them in water for 12-24 hours.",
+            "Make the field ready for puddling.",
+            "Varieties like Sahabhagi, Lalat, Kalachampa, MTU7029 etc."
          ]
       },
       "maize": {
          "advisory": [
             "Prepare the field for maize sowing.",
+            "Make proper irrigation channel to store water and remove excess stagnation of water.",
             "Sowing of maize can be done with one irrigation after 1 day of sowing.",
-            "Apply pre-emergence herbicide Atrazine 50 WP @ 500 g/ha at 3 days after sowing to manage weeds."
+            "Apply pre-emergence herbicide Atrazine 50 WP @ 500 g/ha at 3 days after sowing to manage weeds.",
+            "Before sowing of the maize seeds, seed treatment with fungicides should be done."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Sowing of seeds followed by one irrigation is must for its optimal growth.",
+            "Spray Imidachloprid 17.8% SL @ 2.5 ml/lt of water to manage Thrips, ants and other sucking pests."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "Plough the land and add FYM @ 2.5 kg/acre.",
+            "Before sowing, treat the seeds with the Tricoderma viride @ 4 g/kg seeds.",
+            "For hybrids a seed rate of 2.5 kg/ha should be used with a spacing of 45 x 30 cm."
          ]
       },
       "bitter gourd": {
          "advisory": [
-            "Sow the seeds or transplant the cuttings and apply FYM and vermicompost 10 cm away from the root.",
+            "Treat the seeds with Thiram @ 3 g/kg of seeds.",
+            "Sow the seeds and apply FYM and vermicompost 10 cm away from the root.",
             "Provide first irrigation after sowing or transplanting of the cuttings."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "To manage Chilli thrips, spray Imidachloprid 17.8% SL @ 3 ml/10lt of water or Emamectin Benzoate 5% SG @ 4g/10lt of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Harvest the matured fruits and keep at safe places.",
-            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10 lt of water.",
-            "For kharif season, Sowing of seeds can be done for transplanting at a later stage."
+            "In raised nursery beds, sow the seeds at 10 cm apart.",
+            "Transplanting can be done 30-35 days after sowing."
          ]
       },
       "pointed gourd": {
          "advisory": [
             "Make drainage channel to remove excess water.",
-            "Cercospora Leaf Spot can be managed by applying Mancozeb @ 2 - 3 g/lt of water."
+            "Cercospora Leaf Spot can be managed by applying Mancozeb @ 2-3 g/lt of water."
          ]
       },
       "mango": {
          "advisory": [
             "Spray Acephate 75 SP @ 1 g/lt to control mango hopper.",
-            "For controlling mango fruit fly, spray Malathion @ 2 ml/lt of water."
+            "For controlling mango fruitfly, spray Malathion @ 2 ml/lt of water."
          ]
       },
       "banana": {
@@ -115,18 +129,23 @@
             "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves."
          ]
       },
+      "goat": {
+         "advisory": [
+            "Graze the goats or provide them feed at regular intervals.",
+            "Consult the veterinary doctor if any diseases seen."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "To reduce the heat effect, keep the poultry farm cool and maintain hygiene around it."
+         ]
+      },
       "cow": {
          "advisory": [
             "Provide clean drinking water to the animals.",
             "Keep the cow shed clean and hygienic."
          ]
-      },
-      "goat": {
-         "advisory": [
-            "Graze the goats or provide them feed at regular intervals.",
-            "Consult the veterinary doctor if any diseases are seen."
-         ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

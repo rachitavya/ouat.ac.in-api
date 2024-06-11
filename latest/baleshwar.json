@@ -1,135 +1,103 @@
 {
    "weather_details": {
-      "01-06-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 29,
-         "rh_max": 80,
-         "rh_min": 59,
-         "wind_speed": 27,
-         "wind_direction": 204,
-         "cloud_cover": 7
-      },
-      "02-06-2024": {
-         "rainfall": 10,
-         "t_max": 35,
-         "t_min": 29,
-         "rh_max": 85,
-         "rh_min": 57,
-         "wind_speed": 24,
-         "wind_direction": 202,
-         "cloud_cover": 7
-      },
-      "03-06-2024": {
-         "rainfall": 10,
-         "t_max": 35,
-         "t_min": 28,
-         "rh_max": 84,
-         "rh_min": 49,
-         "wind_speed": 25,
-         "wind_direction": 202,
-         "cloud_cover": 4
-      },
-      "04-06-2024": {
-         "rainfall": 2,
-         "t_max": 35,
+      "08-06-2024": {
+         "rainfall": 7,
+         "t_max": 38,
          "t_min": 27,
-         "rh_max": 74,
-         "rh_min": 39,
-         "wind_speed": 19,
-         "wind_direction": 202,
+         "rh_max": 66,
+         "rh_min": 33,
+         "wind_speed": 24,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "09-06-2024": {
+         "rainfall": 4,
+         "t_max": 38,
+         "t_min": 27,
+         "rh_max": 60,
+         "rh_min": 29,
+         "wind_speed": 22,
+         "wind_direction": 238,
          "cloud_cover": 5
       },
-      "05-06-2024": {
+      "10-06-2024": {
          "rainfall": 0,
-         "t_max": 35,
+         "t_max": 39,
+         "t_min": 28,
+         "rh_max": 53,
+         "rh_min": 35,
+         "wind_speed": 22,
+         "wind_direction": 243,
+         "cloud_cover": 4
+      },
+      "11-06-2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 28,
+         "rh_max": 57,
+         "rh_min": 29,
+         "wind_speed": 24,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      },
+      "12-06-2024": {
+         "rainfall": 5,
+         "t_max": 38,
          "t_min": 27,
-         "rh_max": 67,
-         "rh_min": 34,
-         "wind_speed": 20,
-         "wind_direction": 238,
-         "cloud_cover": 6
+         "rh_max": 51,
+         "rh_min": 27,
+         "wind_speed": 24,
+         "wind_direction": 244,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "rice",
       "sugarcane",
-      "brinjal",
-      "chilli",
-      "tomato",
-      "okra",
-      "mango",
-      "papaya",
-      "banana",
-      "fish",
+      "vegetables",
+      "fruit",
+      "pisciculture",
       "livestock"
    ],
-   "general_advisory": "According to IMD, Bhubaneswar, Thunderstorm with very light to moderate rainfall is expected in the coming days. Make necessary arrangements for draining out excess water from crop fields in case of rain & stake creeping vegetable crops. Avoid spraying insecticides due to heavy wind speed forecasted in the next five days. Regular monitoring of insect and disease population in field and vegetable crops is advised.",
+   "general_advisory": "According to MC, Bhubaneswar forecast, the district may receive dry weather/heat wave with very light rain at some places in the next 5 days. Provide necessary irrigation to crops and vegetables. For paddy cultivation, always use good quality seeds. Germination test is advisable before sowing. Apply well-decomposed FYM during final land preparation. Go for green manuring crops immediately after summer ploughing. For timely planting of vegetables, prepare the nursery bed immediately before monsoon rain for better utilization of rainwater. Provide clean and adequate water to the cattle. Allow them for grazing either in the morning or afternoon hours.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Instead of manual DSR, follow mechanized DSR cultivation with appropriate practices",
-            "Go for summer ploughing by utilizing recent rain",
-            "Arrange good quality seeds of Dhanicha @12kg/acre as green manuring crop"
+            "Instead of manual DSR followed by beushaning, farmers are advised to follow mechanized DSR cultivation with appropriate practices.",
+            "Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days.",
+            "Arrange good quality seeds of @12kg/acre as green manuring crop."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Control mealy bug, scale insect & other sucking pests by spraying Thiamethoxam@80g/acre",
-            "To control early shot borer in sugarcane, foliar spray of Fipronil 5SC @400 ml/acre is advised"
+            "Wrapping and propping should be done when the crop becomes 4-5 months old in medium and late duration varieties.",
+            "To control early shot borer in sugarcane, foliar spray of Fipronil 5SC @400 ml/acre is advised."
          ]
       },
-      "brinjal": {
+      "vegetables": {
          "advisory": [
-            "For timely planting, prepare nursery bed & treat seed with (Carboxin+Thiram)@2g/kg of seed",
-            "To control Fruit and shoot borer, spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later, alternate spray Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water"
+            "For timely planting of kharif vegetables like Brinjal & Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed.",
+            "To control Fruit and shoot borer in Brinjal, Tomato & Okra, Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water."
          ]
       },
-      "chilli": {
+      "fruit": {
          "advisory": [
-            "For timely planting, prepare nursery bed & treat seed with (Carboxin+Thiram)@2g/kg of seed",
-            "To control Fruit and shoot borer, spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later, alternate spray Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water"
+            "To control fruit fly attack in mango, use a fruit fly trap should be advised.",
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus."
          ]
       },
-      "tomato": {
+      "pisciculture": {
          "advisory": [
-            "For timely planting, prepare nursery bed & treat seed with (Carboxin+Thiram)@2g/kg of seed",
-            "To control Fruit and shoot borer, spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later, alternate spray Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water"
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "For timely planting, prepare nursery bed & treat seed with (Carboxin+Thiram)@2g/kg of seed",
-            "To control Fruit and shoot borer, spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later, alternate spray Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water"
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "To control fruit fly attack, use fruit fly trap",
-            "Papaya - Drain out excess water from the root zone of the plant. Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus"
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "To control fruit fly attack, use fruit fly trap",
-            "Papaya - Drain out excess water from the root zone of the plant. Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus"
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Provide drainage. Staking with bamboo and other sticks during fruit development stage to protect the plant against wind and rainfall"
-         ]
-      },
-      "fish": {
-         "advisory": [
-            "To prepare fish pond, apply lime @40-60 kg/acre based on PH & alkalinity value of water. Maintain water level of 5 ft. in grow out ponds."
+            "To prepare a fish pond, apply lime @40-60 kg/acre based on PH & alkalinity value of water.",
+            "Maintain a water level of 5 ft. in the grow-out ponds."
          ]
       },
       "livestock": {
          "advisory": [
-            "Clean the shed & apply disinfectant to protect the animals from any disease outbreak"
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia, etc., these must be done.",
+            "Provide clean and adequate water to the cattle. Allow them for grazing either in the morning or afternoon hour."
          ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

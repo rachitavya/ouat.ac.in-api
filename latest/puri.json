@@ -1,102 +1,97 @@
 {
    "weather_details": {
-      "01/06/2024": {
-         "rainfall": 3,
-         "t_max": 34,
+      "08/06/2024": {
+         "rainfall": 0,
+         "t_max": 36,
          "t_min": 30,
-         "rh_max": 87,
-         "rh_min": 74,
-         "wind_speed": 33,
-         "wind_direction": 202,
+         "rh_max": 76,
+         "rh_min": 54,
+         "wind_speed": 34,
+         "wind_direction": 212,
          "cloud_cover": 4
       },
-      "02/06/2024": {
+      "09/06/2024": {
          "rainfall": 2,
-         "t_max": 34,
+         "t_max": 35,
          "t_min": 30,
-         "rh_max": 87,
-         "rh_min": 74,
-         "wind_speed": 34,
-         "wind_direction": 202,
-         "cloud_cover": 6
-      },
-      "03/06/2024": {
-         "rainfall": 3,
-         "t_max": 33,
-         "t_min": 29,
-         "rh_max": 86,
-         "rh_min": 72,
-         "wind_speed": 37,
-         "wind_direction": 202,
+         "rh_max": 71,
+         "rh_min": 58,
+         "wind_speed": 33,
+         "wind_direction": 207,
          "cloud_cover": 5
       },
-      "04/06/2024": {
-         "rainfall": 2,
+      "10/06/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 30,
+         "rh_max": 75,
+         "rh_min": 61,
+         "wind_speed": 30,
+         "wind_direction": 212,
+         "cloud_cover": 4
+      },
+      "11/06/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 29,
+         "rh_max": 73,
+         "rh_min": 52,
+         "wind_speed": 36,
+         "wind_direction": 212,
+         "cloud_cover": 4
+      },
+      "12/06/2024": {
+         "rainfall": 5,
          "t_max": 33,
          "t_min": 28,
-         "rh_max": 86,
-         "rh_min": 68,
-         "wind_speed": 39,
-         "wind_direction": 202,
-         "cloud_cover": 2
-      },
-      "05/06/2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 84,
-         "rh_min": 62,
-         "wind_speed": 38,
-         "wind_direction": 238,
+         "rh_max": 73,
+         "rh_min": 50,
+         "wind_speed": 37,
+         "wind_direction": 225,
          "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
       "arhar",
-      "sugarcane",
-      "drumstick",
-      "chilli",
+      "maize",
+      "okra",
       "brinjal",
-      "mango"
+      "cucurbits"
    ],
-   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Apply 2 ton of well decomposed FYM during final land preparation. Provide clean and adequate water to the cattle...",
+   "general_advisory": "Incorporate well decomposed Farm Yard Manure or cow-dung @ 8 quintals /acre during the final land preparation in direct seeded rice. For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. To avoid ants, during nursery preparation, apply Dust Chloropyriphos powder around the nursery bed. Apply 2 ton of well decomposed FYM during final land preparation. For planting of fruit crops in July and August go for digging of pits before onset of monsoon to effect solarisation of soils removed from the pits for killing the hibernated insects and their eggs. Initial land preparation should be done for dry nursery for Kharif rice.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Good Quality Seed Priming..."
+            "Varietial selection",
+            "Seed Treatment - Seed treatment is necessary before sowing of Paddy. It will control Seed borne diseases to some extent. Before sowing, seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP or thiram 75 % WS @ 3 gm/kg of seeds."
          ]
       },
       "arhar": {
          "advisory": [
-            "PRG-235, PRG 176, VL ARHAR1, T-Arhar etc are some improved varieties of Arhar. If  line sowing..."
+            "Seed Treatment - Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP or 7 gram/kg of seeds Imidacloprid 70% WS or 5-9 ml/kg seeds Imidacloprid 48% FS or 7-10ml/kg seeds Thiomethoxam 30% FS. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
          ]
       },
-      "sugarcane": {
+      "maize": {
          "advisory": [
-            "Grassy shoot disease- Uproot and dispose the infected plants by burning..."
+            "Seed Treatment - To avoid the infestation of Fall Army Worm seed treatment is mandatory that saves the plant from insect attack in the initial stages of crop growth. Treat 1-kg seeds with 4-ml Cyantraniliprole19.8% +Thiomethoxam19.8% FS."
          ]
       },
-      "drumstick": {
+      "okra": {
          "advisory": [
-            "To manage Pod borer infestation in drum stick Spray Cypermethrine @ 80 g per  acre at 15 days interval..."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "There are chances of infestation of mites in chilli crop. Initial symptoms of severely infested plants..."
+            "To manage shoot and fruit borer in Okra, remove the affected terminal shoot showing bore holes and the affected fruits. During primary stage of pest infestation spray neem-based pesticide (Azadirachitin) 1500 PPM @ 600 ml/acre by mixing in 200 litre of water. To manage the pest biologically spray Bacillus thuringiensis var. Kurstaki 5 % WP @ 400 g/acre. Spray Emamectin Benzoate 5% SG @ 80g/acre or Chlorantraniliprole 18.5 % SC @80ml/acre or Pyridalyl 10% EC @ 300 ml/acre by mixing in 200 litre of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Nursery Management and Varietal selection - Brinjal can be cultivated throughout the year..."
+            "Seed rate for improved and hybrid variety of brinjal cultivation is 200 and 80g/acre respectively. Apply 20-kg of completely decomposed FYM in the nursery bed, 10 days before sowing. Seed treatment can be done with Carbendazim 50 % WP @ 2-g/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP @ 3-gm/kg of seeds. After about 6 hours of seed treatment sow the seeds at 2.5 x 5 cm at a depth of 1cm. After sowing, drench the soil with a mixture of 2-g Carbendazim in 1-litre water. Cover the nursery bed with paddy straw or dried leaves for better germination."
          ]
       },
-      "mango": {
+      "cucurbits": {
          "advisory": [
-            "To control fruit fly attack, use of fruit fly trap should be advised. For control of black tip and internal necrosis..."
+            "There is a chance of late blight disease in cucurbits due to rise in day temperature. To control this, spray Carbendazim 12 % + Mancozeb 63 % WP @ 2g per litre of water."
          ]
       }
    },
-   "date": "31-05-2024"
+   "date": "07-06-2024"
 }

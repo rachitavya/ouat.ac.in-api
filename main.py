@@ -13,6 +13,7 @@ import logging
 from dotenv import load_dotenv
 from datetime import datetime
 from utils import *
+from src.translate import translate_json
 
 load_dotenv()
 
@@ -35,6 +36,17 @@ async def save_response(results,districts_data,temp_dir):
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
+
+        try:
+            translated_response= await translate_json(response)        
+            os.makedirs("latest/odia", exist_ok=True)
+            with open(f"latest/odia/{district}.json", "w") as f:
+                json.dump(translated_response, f, ensure_ascii=False, indent=3)                    
+        except Exception as e:
+            logging.error(f"Error translating JSON for {district}.json: {e}", exc_info=True)
+            print("Cannot translate", district)
+
+        
     if len(inconsistent)>0:
         print("Going again for inconsistent json for",[a[0] for a in inconsistent])
         return await refine_response(inconsistent)                    
@@ -54,13 +66,22 @@ async def refine_response(inconsistent):
                 raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
         except Exception as e:
             counter+=1
-            response={"ERROR":"Not getting consistent data."}
+            response["ERROR"]="Not getting consistent data."
             inconsistent_districts.append(district)
         
         response = await remove_empty_crops(response)
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
+
+        try:
+            translated_response=await translate_json(response)
+            os.makedirs("latest/odia", exist_ok=True)
+            with open(f"latest/odia/{district}.json", "w") as f:
+                json.dump(translated_response, f, ensure_ascii=False, indent=3)                    
+        except Exception as e:
+            logging.error(f"Error translating JSON for {district}.json: {e}", exc_info=True)
+            print("Cannot translate", district)
         
     return inconsistent_districts
 
@@ -91,7 +112,8 @@ async def retry_response(district,response,e):
         response = json.loads(response)
         response['date'] = date
     except Exception as e:
-        print("lol",e)
+        response['date']=date
+        print("Error while retrying response",e)
         
     return district,response
 
@@ -100,13 +122,12 @@ async def process_pdf(district_data, temp_dir):
     district_name = district_data['district_name']
     date = district_data['date'].replace('/', '-')
     pdf_link = district_data['link']['english']
-
     print("Processing data for", district_name)
-    pdf_path = download_pdf(pdf_link, temp_dir)
+    pdf_path = await download_pdf(pdf_link, temp_dir)
     c=0
     if pdf_path is None:
         logging.error(f"Error downloading PDF for {district_name}")
-        return district_name,{'date':'date',"error":"Error in getting the document."}
+        return district_name,{'date':date, "error":"Error in getting the document."}
 
     try:
         reader = PdfReader(pdf_path)
@@ -133,7 +154,7 @@ async def process_pdf(district_data, temp_dir):
 
     except Exception as e:
         logging.error(f"Error processing PDF for {district_name}: {e}")
-        return district_name, {'date':'date',"error":"Error in getting the response."}
+        return district_name, {'date':date,"error":"Error in getting the response."}
 
     return district_name, response
 
@@ -160,7 +181,6 @@ async def main():
         move_json_to_history("latest","history")
     except Exception as e:
         print("error moving latest to history",e)
-
 
     #Inititiating tasks
     tasks = [process_pdf(district_data, temp_dir) for district_data in districts_data]

@@ -13,6 +13,7 @@ import logging
 from dotenv import load_dotenv
 from datetime import datetime
 from utils import *
+from src.translate import translate_json
 
 load_dotenv()
 
@@ -35,6 +36,17 @@ async def save_response(results,districts_data,temp_dir):
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
+
+        try:
+            translated_response= await translate_json(response)        
+            os.makedirs("latest/hindi", exist_ok=True)
+            with open(f"latest/hindi/{district}.json", "w") as f:
+                json.dump(translated_response, f, ensure_ascii=False, indent=3)                    
+        except Exception as e:
+            logging.error(f"Error translating JSON for {district}.json: {e}", exc_info=True)
+            print("Cannot translate", district)
+
+        
     if len(inconsistent)>0:
         print("Going again for inconsistent json for",[a[0] for a in inconsistent])
         return await refine_response(inconsistent)                    
@@ -54,13 +66,22 @@ async def refine_response(inconsistent):
                 raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
         except Exception as e:
             counter+=1
-            response={"ERROR":"Not getting consistent data."}
+            response["ERROR"]="Not getting consistent data."
             inconsistent_districts.append(district)
         
         response = await remove_empty_crops(response)
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
+
+        try:
+            translated_response=await translate_json(response)
+            os.makedirs("latest/hindi", exist_ok=True)
+            with open(f"latest/hindi/{district}.json", "w") as f:
+                json.dump(translated_response, f, ensure_ascii=False, indent=3)                    
+        except Exception as e:
+            logging.error(f"Error translating JSON for {district}.json: {e}", exc_info=True)
+            print("Cannot translate", district)
         
     return inconsistent_districts
 
@@ -91,7 +112,8 @@ async def retry_response(district,response,e):
         response = json.loads(response)
         response['date'] = date
     except Exception as e:
-        print("lol",e)
+        response['date']=date
+        print("Error while retrying response",e)
         
     return district,response
 
@@ -100,13 +122,12 @@ async def process_pdf(district_data, temp_dir):
     district_name = district_data['district_name']
     date = district_data['date'].replace('/', '-')
     pdf_link = district_data['link']['english']
-
     print("Processing data for", district_name)
-    pdf_path = download_pdf(pdf_link, temp_dir)
+    pdf_path = await download_pdf(pdf_link, temp_dir)
     c=0
     if pdf_path is None:
         logging.error(f"Error downloading PDF for {district_name}")
-        return district_name,{'date':'date',"error":"Error in getting the document."}
+        return district_name,{'date':date, "error":"Error in getting the document."}
 
     try:
         reader = PdfReader(pdf_path)
@@ -133,7 +154,7 @@ async def process_pdf(district_data, temp_dir):
 
     except Exception as e:
         logging.error(f"Error processing PDF for {district_name}: {e}")
-        return district_name, {'date':'date',"error":"Error in getting the response."}
+        return district_name, {'date':date,"error":"Error in getting the response."}
 
     return district_name, response
 
@@ -150,7 +171,8 @@ async def main():
     temp_dir = tempfile.mkdtemp()
 
     try:
-        districts_data = scraper()
+        # districts_data = scraper()
+        districts_data=[{'district_name': 'anugul', 'date': '11/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/ANGUL_IAAS_ENGLISH_11.06.2024_24_47.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/ANGUL_IAAS_ODIA_11.06.2024_24_47.pdf'}}, {'district_name': 'baudh', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Boudh_IAAS_English_14.06.2024-_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Boudh_IAAS_Odia_14.06.2024-_24_48.pdf'}}, {'district_name': 'balangir', 'date': '07/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Balangir_IAAS_english_07.06.24_23_46.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Balangir_IAAS_odia_07.06.24_23_46.pdf'}}, {'district_name': 'bhadrak', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Bhadrak_IAAS_Eng_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Bhadrak_IAAS_Odia_14.06.2024_24_48.pdf'}}, {'district_name': 'baleshwar', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Balasore_IAAS_Eng_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Balasore_IAAS_Odia_14.06.2024_24_48.pdf'}}, {'district_name': 'bargarh', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Bargarh_IAAS_English_14.06.2024-_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Bargarh_IAAS_Odia_14.06.2024-_24_48.pdf'}}, {'district_name': 'cuttack', 'date': '02/04/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/04/Cuttack_IAAS_English_02.04.2024_14_27.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/04/Cuttack_IAAS_Odia_02.04.2024_14_27.pdf'}}, {'district_name': 'debagarh', 'date': '04/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Deogarh_IAAS_English_04-.06.2024_23_45.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Deogarh_IAAS_Odia_04.06.2024_23_45.pdf'}}, {'district_name': 'dhenkanal', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Dhenkanal_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Dhenkanal_IAAS_ODIA_14.06.2024_24_48.pdf'}}, {'district_name': 'ganjam', 'date': '11/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/GANJAM_IAAS_ENGLISH_11.06.2024_24_27.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/GANJAM_IAAS_ODIA_11.06.2024_24_27.pdf'}}, {'district_name': 'gajapati', 'date': '11/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Gajapati_IAAS_English_11.06.2024_24_47.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Gajapati_IAAS_Odia_11.06.2024_24_47.pdf'}}, {'district_name': 'jajpur', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Jajpur_IAAS_Eng_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Jajpur_IAAS_Odia_14.06.2024_24_48.pdf'}}, {'district_name': 'jharsuguda', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Jharsuguda_IAAS_English_14.06.2024-_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Jharsuguda_IAAS_Odia_14.06.2024-_24_48.pdf'}}, {'district_name': 'jagatsinghapur', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Jagatsinghpur_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Jagatsinghpur_IAAS_Odia-Bulletin_14.06.2024_24_48.pdf'}}, {'district_name': 'kendrapara', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Kendrapara_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Kendrapara_IAAS_Odia-Bulletin_14.06.2024_24_48.pdf'}}, {'district_name': 'kandhamal', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Kandhamal_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Kandhamal_IAAS_Odia_14.06.2024_24_48-1.pdf'}}, {'district_name': 'koraput', 'date': '14/06/2024', 'link': {'english': '', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Koraput_IAAS_-Odia_14.06.2024_24_48.pdf'}}, {'district_name': 'kendujhar', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Keonjhar_IAAS_-English-_14.06.2024_-24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Keonjhar_IAAS_Odia_-14.06.2024_-24_48.pdf'}}, {'district_name': 'kalahandi', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Kalahandi_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Kalahandi_IAAS_Odia_14.06.2024_24_48.pdf'}}, {'district_name': 'khordha', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Khordha_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Khordha_IAAS_Odia-Bulletin_14.06.2024_24_48.pdf'}}, {'district_name': 'malkangiri', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Malkangiri_IAAS_-Eng._14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Malkangiri_IAAS_-Odia_14.06.2024_24_48.pdf'}}, {'district_name': 'mayurbhanj', 'date': '11/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Mayurbhanj_IAAS_English_11.06.2024_24_47.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Mayurbhanj_IAAS_Odia_11.06.2024_24_47.pdf'}}, {'district_name': 'nayagarh', 'date': '02/04/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/04/Nayagarh_IAAS_English_02.04.2024_14_27.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/04/Nayagarh_IAAS_Odia_02.04.2024_14_27.pdf'}}, {'district_name': 'nuapada', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Nuapada_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Nuapada_IAAS_Odia_14.06.2024_24_48.pdf'}}, {'district_name': 'nabarangapur', 'date': '14/06/2024', 'link': {'english': '', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Nabarangpur_IAAS_Odia._14.06.2024_24_48.pdf'}}, {'district_name': 'puri', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Puri_IAAS_English_14.06.2024_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Puri_IAAS_Odia-Bulletin_14.06.2024_24_48.pdf'}}, {'district_name': 'rayagada', 'date': '31/05/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/05/Rayagada_IAAS_English_31.05.2024_22_44.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/05/Rayagada_IAAS_Odia_31.05.2024_22_44.pdf'}}, {'district_name': 'sambalpur', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Sambalpur_IAAS_English_14.06.2024-_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Sambalpur_IAAS_Odia_14.06.2024-_24_48.pdf'}}, {'district_name': 'subarnapur', 'date': '14/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Sonepur_IAAS_English_14.06.2024-_24_48.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Sonepur_IAAS_Odia_14.06.2024-_24_48.pdf'}}, {'district_name': 'sundargarh', 'date': '04/06/2024', 'link': {'english': 'https://ouat.ac.in/wp-content/uploads/2024/06/Sundergarh_IAAS_English_04.06.2024_23_45.pdf', 'odia': 'https://ouat.ac.in/wp-content/uploads/2024/06/Sundergarh_IAAS_Odia_04.06.2024_23_45.pdf'}}]
     except Exception as e:
         logging.error(f"Error getting districts data: {e}")
         print("Error scraping website")
@@ -160,7 +182,6 @@ async def main():
         move_json_to_history("latest","history")
     except Exception as e:
         print("error moving latest to history",e)
-
 
     #Inititiating tasks
     tasks = [process_pdf(district_data, temp_dir) for district_data in districts_data]

@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "08-06-2024": {
+         "rainfall": 2,
+         "t_max": 43,
+         "t_min": 24,
+         "rh_max": 45,
+         "rh_min": 23,
+         "wind_speed": 16,
+         "wind_direction": 242,
+         "cloud_cover": 6
+      },
+      "09-06-2024": {
+         "rainfall": 0,
+         "t_max": 44,
+         "t_min": 25,
+         "rh_max": 49,
+         "rh_min": 19,
+         "wind_speed": 18,
+         "wind_direction": 270,
+         "cloud_cover": 5
+      },
+      "10-06-2024": {
+         "rainfall": 0,
+         "t_max": 45,
+         "t_min": 26,
+         "rh_max": 46,
+         "rh_min": 19,
+         "wind_speed": 19,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "11-06-2024": {
+         "rainfall": 0,
+         "t_max": 45,
+         "t_min": 26,
+         "rh_max": 48,
+         "rh_min": 15,
+         "wind_speed": 22,
+         "wind_direction": 270,
+         "cloud_cover": 4
+      },
+      "12-06-2024": {
+         "rainfall": 5,
+         "t_max": 44,
+         "t_min": 25,
+         "rh_max": 60,
+         "rh_min": 21,
+         "wind_speed": 20,
+         "wind_direction": 252,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "summer rice",
+      "kharif rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo",
+      "poultry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, light to moderate rain or thundershower likely at one or two places over the districts of Odisha during the week -1 (7th to 13th June, 2024). Maximum temperature very likely to be above normal by 3-5 oC at a few places over the districts of Odisha, consequently isolated heat wave likely over the districts of interior Odisha during week-1...",
+   "crops_data": {
+      "summer rice": {
+         "advisory": [
+            "Farmers are advised to store their crop in a safe place. After proper drying, grains should be stored in Super Grain Bag to retain the quality, texture, colour, aroma and taste of grain for a longer period of time, extend the germination life of seed, control insect grain pests (without using chemical) etc."
+         ]
+      },
+      "kharif rice": {
+         "advisory": [
+            "Preparation of field for kharif crop production should be started with deep summer ploughing after harvesting of summer rice or in fallow land and leave as such for direct exposure of sunlight which helps in minimizing weed flora and insect attack.",
+            "Some of the improved rice varieties such as Khandagiri, Sahabhagi Dhan, Mandakini, Naveen etc., for upland, MTU 1156, MTU 1153, Lalat, Improved Lalat, MTU-1001, MTU-1010 for medium land and Pooja, Pratikshya, Swarna, Swarna Sub-1, Mrinalini, Hashanta, Rani Dhan, MTU-1064 etc. for low land condition should be recommended."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Farmers should start land preparation for cultivation of cotton crop.",
+            "Seed rate: 800-1500 g per acre.",
+            "Seed treatment: Before sowing, seed should be treated with imidachloprid 70 WG @ 7 g/kg of seed for protection against sucking pests.",
+            "Spacing: For normal varieties: 90 × 45-60 cm and for hybrid it should be 90-120 × 90 cm.",
+            "Fertilizer Application: For Hybrid varieties 48 kg Nitrogen, 24 kg each Phosphorus and Potash whereas 32 kg Nitrogen, 16 kg each Phosphorus and Potash for normal varieties should be recommended. All Phosphorus and Potash and 1/4 th of Nitrogen should be applied as basal and rest amount of nitrogen should be applied in 2 splits."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Prevailing weather condition is favourable for increasing the sucking insect pest population in vegetable crops so its regular monitoring should be advised. If the attack of those insects is noticed, then spraying of Thiamethoxam 25% WG @ 0.2-0.3g or Imidacloprid 17.8 % SL @ 0.3ml per liter of water should be advised.",
+            "To control fruit borer attack in Tomato and fruit and shoot borer attack in Brinjal and Okra, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised under clear weather."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "To protect the animal from the heat wave, farmers should make provision to provide fresh clean and cold drinking water to the animal along with green grass, protein-fat bypass supplement, mineral mixture and salt. Keep animals in the shade and don’t make them work between 11 am to 4 pm. Deworming and vaccination of the animal should be ensured before the commencement of monsoon to avoid spreading of diseases during the rainy season."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "During the heat wave period covering the window with wet gunny bag and thatching of roof with straw and make provision to ensure proper ventilation and cooling of poultry shed. Feeding will be continued with a supplement of vitamin E and C with water till the end of the heat wave. Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
+         ]
+      }
+   },
+   "date": "07-06-2024"
+}

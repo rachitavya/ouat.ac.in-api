@@ -1,96 +1,103 @@
 {
    "weather_details": {
-      "05/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 50,
-         "rh_min": 19,
-         "wind_speed": 12,
-         "wind_direction": 234,
-         "cloud_cover": 4
-      },
-      "06/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 48,
-         "rh_min": 15,
-         "wind_speed": 9,
-         "wind_direction": 288,
-         "cloud_cover": 4
-      },
-      "07/06/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 52,
-         "rh_min": 20,
-         "wind_speed": 14,
-         "wind_direction": 285,
-         "cloud_cover": 3
-      },
-      "08/06/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 48,
-         "rh_min": 19,
-         "wind_speed": 13,
+      "29/06/2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 47,
+         "wind_speed": 10,
          "wind_direction": 248,
-         "cloud_cover": 4
+         "cloud_cover": 7
       },
-      "09/06/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 46,
-         "rh_min": 18,
-         "wind_speed": 15,
+      "30/06/2024": {
+         "rainfall": 17,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 56,
+         "wind_speed": 10,
          "wind_direction": 244,
-         "cloud_cover": 3
+         "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 58,
+         "wind_speed": 11,
+         "wind_direction": 249,
+         "cloud_cover": 7
+      },
+      "02/07/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 63,
+         "wind_speed": 15,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "03/07/2024": {
+         "rainfall": 1,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 13,
+         "wind_direction": 252,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "sri paddy",
-      "ragi",
-      "ginger",
-      "maize",
-      "sunflower",
-      "onion"
+      "pulses",
+      "vegetables",
+      "kharif crops",
+      "dhaincha seeds",
+      "brinjal",
+      "cucurbits",
+      "yam"
    ],
-   "general_advisory": "Due to the rain received, go for summer cultivation and mechanized cultivation will invert the soil and pest and pathogen will be exposed to the sun and get killed. In case of shortage of water, go for alternate row irrigation method for better utilization of water which saves around 50% water. Also, the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature. Farmers are advised to avoid exposure outside during the peak heat hours of the day.",
+   "general_advisory": "Farmers are advised to avoid exposure outside during the peak heat hours of the day. Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
    "crops_data": {
-      "sri paddy": {
+      "pulses": {
          "advisory": [
-            "Harvest the crop when 85% of the crop turns yellow. Drain out excess water 7 days before the harvest of the crop."
+            "After the monsoon rainfall, prepare the land and start sowing different pulses in the field."
          ]
       },
-      "ragi": {
+      "vegetables": {
          "advisory": [
-            "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm."
          ]
       },
-      "ginger": {
+      "kharif crops": {
          "advisory": [
-            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6 -8 q/ac. Each piece should be 20 g and contain 2 -3 eyes. Treat the seeds before planting in the field."
+            "Choose the variety according to land type and resources available."
          ]
       },
-      "maize": {
+      "dhaincha seeds": {
          "advisory": [
-            "Choose good varieties like Klinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
+            "In areas where rain is received, go for sowing the Dhaincha seeds @ 10kg/ac which should be incorporated in the field at 3 weeks stage prior to main kharif crop cultivation."
          ]
       },
-      "sunflower": {
+      "brinjal": {
          "advisory": [
-            "For good seed filling, apply 2 -3 g of Borax/liter of water. Early sown crop when the lower side of head turns yellow, go for cutting the head and dry it under the sun for 4 -5 days. If fruit borer attacks then go for spraying Bioinsecticide NPV @ 250 LE mixed in 200 Liters of water."
+            "Due to temperature effect, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm.",
+            "Due to weather, there may be an attack of Mites, to manage this, spray Dicofol."
          ]
       },
-      "onion": {
+      "cucurbits": {
          "advisory": [
-            "Harvest the onion leaving 2 -3 cm from the neck and cut all the roots and dry it under the shed during high temperature."
+            "Prepare poison baits for white flies by mixing Malathion and Jaggery in water."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 q/ac. The seed material should be of 150-200g. Prepare the well-pulverized field and make pits for planting."
          ]
       }
    },
-   "date": "04-06-2024"
+   "date": "28-06-2024"
 }

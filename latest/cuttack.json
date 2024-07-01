@@ -53,14 +53,13 @@
    },
    "names_of_crops": [
       "paddy",
-      "summer pulses",
-      "oilseed",
-      "vegetables",
       "mustard",
       "groundnut",
       "mung",
       "biri",
       "kulthi",
+      "black gram",
+      "green gram",
       "sugarcane",
       "maize",
       "tomato",
@@ -68,130 +67,100 @@
       "coconut",
       "vegetable seedlings",
       "fingerlings",
-      "black gram",
-      "green gram",
-      "early shoot borer",
-      "shoot and fruit borer",
       "okra",
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Water deficit during these stages should be avoided. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Conserve water by irrigating alternate rows. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels to save water wastage. Apply specific pesticides for tomato, brinjal, and other crops as mentioned. Consider different management practices for various crops.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane and top-dress with 4% potassium. Apply sprinkler irrigation and conserve water by irrigating alternate rows. Irrigate the maize crop as required. Spread polythene in irrigation channels for efficient water usage. Take measures to prevent wilting in tomato and brinjal. Implement appropriate measures for different crops like mulching coconut leaves, covering vegetable seedlings, and maintaining proper water temperature for fingerlings.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Water management is crucial at critical stages.",
-            "Use specific pesticides for stem borer and blast disease."
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "Follow recommended sowing practices."
-         ]
-      },
-      "oilseed": {
-         "advisory": [
-            "Ensure proper harvesting techniques."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Pay attention to specific vegetable requirements."
+            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit during these stages."
          ]
       },
       "mustard": {
          "advisory": [
-            "Ensure adequate moisture levels for good growth."
+            "Completion of harvesting"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Complete harvesting on time."
+            "Completion of harvesting"
          ]
       },
       "mung": {
          "advisory": [
-            "Monitor crop conditions regularly."
+            "Completion of harvesting"
          ]
       },
       "biri": {
          "advisory": [
-            "Harvest according to maturity."
+            "Completion of harvesting"
          ]
       },
       "kulthi": {
          "advisory": [
-            "Monitor pest infestations."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Take preventive measures against shoot borers."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Increase irrigation based on high temperatures."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Apply specific pest control measures."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Install pheromone traps for effective management."
-         ]
-      },
-      "coconut": {
-         "advisory": [
-            "Mulch coconut leaves to reduce water loss."
-         ]
-      },
-      "vegetable seedlings": {
-         "advisory": [
-            "Protect seedlings from excessive heat."
-         ]
-      },
-      "fingerlings": {
-         "advisory": [
-            "Monitor water temperature for fingerlings."
+            "Completion of harvesting"
          ]
       },
       "black gram": {
          "advisory": [
-            "Implement caterpillar management practices."
+            "Tobacco caterpillar management"
          ]
       },
       "green gram": {
          "advisory": [
-            "Monitor pest movements for effective management."
+            "Tobacco caterpillar management"
          ]
       },
-      "early shoot borer": {
+      "sugarcane": {
          "advisory": [
-            "Adopt frequent irrigation to control infestation."
+            "Early shoot borer management"
          ]
       },
-      "shoot and fruit borer": {
+      "maize": {
          "advisory": [
-            "Use pheromone traps and specific pesticides for control."
+            "Manage water requirements"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prevent wilting with appropriate measures"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Manage shoot and fruit borer"
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves around trees"
+         ]
+      },
+      "vegetable seedlings": {
+         "advisory": [
+            "Cover newly planted seedlings"
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings in shallow ponds if water temperature rises"
          ]
       },
       "okra": {
          "advisory": [
-            "Treat seeds for prevention of whitefly infestation."
+            "Prevent whitefly infestation"
          ]
       },
       "onion": {
          "advisory": [
-            "Implement proper post-harvest practices."
+            "Proper post-harvest handling"
          ]
       },
       "mango": {
          "advisory": [
-            "Control mango hoppers using recommended pesticides."
+            "Manage mango hopper population"
          ]
       }
    },

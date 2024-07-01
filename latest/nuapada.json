@@ -1,88 +1,163 @@
 {
    "weather_details": {
-      "15-06-2024": {
-         "rainfall": 4,
-         "t_max": 38,
-         "t_min": 27,
-         "rh_max": 63,
-         "rh_min": 25,
-         "wind_speed": 20,
-         "wind_direction": 270,
-         "cloud_cover": 6
-      },
-      "16-06-2024": {
-         "rainfall": 3,
-         "t_max": 39,
-         "t_min": 27,
-         "rh_max": 57,
-         "rh_min": 31,
+      "29-06-2024": {
+         "rainfall": 25,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 55,
          "wind_speed": 16,
-         "wind_direction": 252,
-         "cloud_cover": 6
-      },
-      "17-06-2024": {
-         "rainfall": 4,
-         "t_max": 40,
-         "t_min": 26,
-         "rh_max": 69,
-         "rh_min": 28,
-         "wind_speed": 16,
-         "wind_direction": 238,
-         "cloud_cover": 6
-      },
-      "18-06-2024": {
-         "rainfall": 7,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 66,
-         "rh_min": 37,
-         "wind_speed": 13,
          "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "30-06-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 84,
+         "rh_min": 63,
+         "wind_speed": 16,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 61,
+         "wind_speed": 17,
+         "wind_direction": 249,
          "cloud_cover": 7
       },
-      "19-06-2024": {
-         "rainfall": 10,
+      "02-07-2024": {
+         "rainfall": 3,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 58,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "03-07-2024": {
+         "rainfall": 2,
          "t_max": 37,
-         "t_min": 25,
-         "rh_max": 87,
-         "rh_min": 40,
-         "wind_speed": 13,
-         "wind_direction": 252,
-         "cloud_cover": 7
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 50,
+         "wind_speed": 18,
+         "wind_direction": 249,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
       "cotton",
+      "pigeon pea",
+      "green gram",
+      "black gram",
       "arhar",
-      "hybrid maize"
+      "hybrid maize",
+      "brinjal",
+      "chilli",
+      "okra",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
    ],
-   "general_advisory": "Make necessary arrangements for field preparation as monsoon has already entered in our state and light rainfall may receive towards the end of the week. Farmers are advised to provide necessary irrigation to the standing crops and keep your field free from weeds. Regular monitoring for incidence of insect pests should be done and application of pesticide should be done by observing the weather forecast. Farmers are advised to undertake soil test to know the soil fertility status of their crop field prior to land preparation for Kharif crops. Conserve rainwater for utilizing in land preparation by making bund and clogging the pores inside the field.",
+   "general_advisory": "As per above forecast, rain may continue up to the next two days. Farmers advised field preparation after rainfall, postpone irrigation based on expected rainfall, monitor insect pests due to high humidity, and sowing of Kharif crops.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Farmers are advised to arrange certified seeds of paddy from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc.",
-            "Seed rate : 20kg/ac for transplanted paddy, 30 -40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill."
+            "Seed rate: 20kg/ac for transplanted paddy, 30-40kg/ac for manual direct seeding, 10kg/ac for mechanical direct seeding",
+            "Suitable Varieties: Khandagiri, Sahabhagi, Jyotirmayee, and more based on land conditions",
+            "Seed Treatment, Recommended Fertilizer, Weed Management"
          ]
       },
       "cotton": {
          "advisory": [
-            "Sowing should be completed by end of June to get higher yield. Arrange good quality seeds from reliable sources like AICRP on Cotton, OUAT, and certified dealer etc.",
-            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing."
+            "Apply FYM or Compost before ploughing",
+            "Inter-cropping with pigeon pea, green gram or black gram",
+            "Seed treatment, Seed rate, Suitable Varieties",
+            "Recommended Fertilizer, Weed Management"
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "FYM application, Line sowing, Seed treatment",
+            "Seed rate, Suitable Varieties",
+            "Recommended Fertilizer, Weed Management"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Line sowing, Seed treatment",
+            "Seed rate, Suitable Varieties",
+            "Recommended Fertilizer, Weed Management"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Line sowing, Seed treatment",
+            "Seed rate, Suitable Varieties",
+            "Recommended Fertilizer, Weed Management"
          ]
       },
       "arhar": {
          "advisory": [
-            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing should be completed by the end of June to get higher yield.",
-            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation"
+            "FYM application, Line sowing, Seed treatment",
+            "Seed rate, Suitable Varieties",
+            "Recommended Fertilizer, Weed Management"
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing can be done from June to the first fortnight of July. However, if irrigation facility is available, early sowing i.e., 10 -15 days before the onset of monsoon increases productivity.",
-            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation"
+            "FYM application, Line sowing, Seed treatment",
+            "Seed rate, Suitable Varieties",
+            "Recommended Fertilizer, Weed Management"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Raised bed nursery preparation, Seed treatment",
+            "Seed rate",
+            "Nursery preparation for timely planting"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Raised bed nursery preparation, Seed treatment",
+            "Seed rate"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Sowing timeline, FYM application, Seed treatment",
+            "Seed rate"
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Vaccination, Shelter recommendation"
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Vaccination, Shelter recommendation"
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Deworming, Dipping recommendation, Shelter recommendation"
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Deworming, Dipping recommendation, Shelter recommendation"
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "28-06-2024"
 }

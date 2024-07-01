@@ -1,82 +1,127 @@
 {
    "weather_details": {
-      "2024-06-12": {
-         "rainfall": 2,
-         "t_max": 41,
+      "2024-06-29": {
+         "rainfall": 15,
+         "t_max": 34,
          "t_min": 26,
-         "rh_max": 67,
-         "rh_min": 22,
-         "wind_speed": 18,
-         "wind_direction": 204,
-         "cloud_cover": 6
+         "rh_max": 76,
+         "rh_min": 54,
+         "wind_speed": 10,
+         "wind_direction": 195,
+         "cloud_cover": 8
       },
-      "2024-06-13": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 65,
-         "rh_min": 23,
-         "wind_speed": 21,
-         "wind_direction": 207,
-         "cloud_cover": 4
-      },
-      "2024-06-14": {
-         "rainfall": 2,
-         "t_max": 42,
-         "t_min": 26,
-         "rh_max": 64,
-         "rh_min": 20,
-         "wind_speed": 20,
-         "wind_direction": 212,
-         "cloud_cover": 4
-      },
-      "2024-06-15": {
-         "rainfall": 0,
-         "t_max": 42,
+      "2024-06-30": {
+         "rainfall": 15,
+         "t_max": 34,
          "t_min": 25,
-         "rh_max": 55,
-         "rh_min": 16,
-         "wind_speed": 16,
-         "wind_direction": 205,
+         "rh_max": 80,
+         "rh_min": 52,
+         "wind_speed": 11,
+         "wind_direction": 225,
          "cloud_cover": 7
       },
-      "2024-06-16": {
+      "2024-07-01": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 82,
+         "rh_min": 57,
+         "wind_speed": 13,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "2024-07-02": {
          "rainfall": 2,
-         "t_max": 42,
-         "t_min": 24,
-         "rh_max": 54,
-         "rh_min": 16,
-         "wind_speed": 14,
-         "wind_direction": 162,
-         "cloud_cover": 8
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 84,
+         "rh_min": 62,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "2024-07-03": {
+         "rainfall": 1,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 84,
+         "rh_min": 70,
+         "wind_speed": 15,
+         "wind_direction": 249,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "ଆମ୍ବ",
-      "କଦଳୀ",
-      "ସେସ୍ବାନିଯ଼ା"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ବର୍ଷା ଜଳର ଉତ୍ତମ ଉପଯୋଗ ପାଇଁ ବର୍ଷା ପରେ ତୁରନ୍ତ ପନିପରିବା ରୋପଣ କରନ୍ତୁ। ଗୁଣବତ୍ତା ଖରାପ ହେବା ପୂର୍ବରୁ ପରିପକ୍ୱ ଉତ୍ପାଦଗୁଡ଼ିକୁ ଅମଳ କରନ୍ତୁ। ରହିବା ଏଡ଼ାଇବା ପାଇଁ କଦଳୀ ଗଛ କ୍ଷେତ୍ରରେ ଷ୍ଟାକିଂ ଦିଆଯିବା ଉଚିତ | ବଜ୍ରପାତ ଏବଂ ପ୍ରବଳ ପବନରୁ ଜାଲ ଲଗାଇ ଗଛରେ ଥିବା ଆମ୍ବକୁ ରକ୍ଷା କରନ୍ତୁ | ଅଧିକ ତାପମାତ୍ରା ଏଡ଼ାଇବା ପାଇଁ ତାଜା ପ୍ରସ୍ତୁତ ପନିପରିବା ନର୍ସରୀକୁ ପଲିଥିନ୍ କିମ୍ବା ଷ୍ଟ୍ରା ଦ୍ୱାରା ଘୋଡାଇ ଦିଅନ୍ତୁ। ଗ୍ରୀଷ୍ମକାଳୀନ ଚାଷ ପରେ ଏକର ପିଛା 10 କି. ଗ୍ରା. ହାରରେ ସେସ୍ବାନିଯ଼ା (ଧାଇନଚା) ମଞ୍ଜି ସବୁଜ ସାର ଫସଲ ଭାବେ ବୁଣିବା ଉଚିତ। ମାଟିରେ ଉଚ୍ଚ ଆର୍ଦ୍ରତା ସ୍ଥିତି ବଜାଯ଼ ରଖିବା ପାଇଁ ମଲ୍ଚ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ |",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
+      "rice": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
       "mango": {
          "advisory": [
-            "ଆନ୍ଥ୍ରାକ୍ନୋଜ୍ ପରିଚାଳନା କରିବା ପାଇଁ କାର୍ବେନଡାଜିମ୍ 50ଡବ୍ଲ୍ଯ଼ୁପି @1.0g/l କିମ୍ବା କ୍ଲୋରୋଥାଲୋନିଲ୍ 75ଡବ୍ଲ୍ଯ଼ୁପି @2.0g/l ସ୍ପ୍ରେ କରନ୍ତୁ।",
-            "ଆମ୍ବ ଫଳ ମାଛି ପରିଚାଳନା ପାଇଁ ଫଳ ମାଛି ଫାନ୍ଦ ବ୍ଯ଼ବହାର କରନ୍ତୁ |",
-            "ବ୍ଯ଼ାକ୍ଟେରିଆ କାନ୍କର ପରିଚାଳନା ପାଇଁ ତମ୍ବା ଅକ୍ସିକ୍ଲୋରାଇଡ୍ 50ଡବ୍ଲ୍ଯ଼ୁପି @2g ଏଲ୍ + ସ୍ଟ୍ରେପ୍ଟୋମାଇସିନ୍ @0.3g/l ର ସ୍ପ୍ରେ କରନ୍ତୁ।",
-            "ଶାରୀରିକ ବିଶୃଙ୍ଖଳାକୁ ପରିଚାଳନା କରିବା ପାଇଁ ବୋରାକ୍ସ @2.0g/l ସ୍ପ୍ରେ କରିବା।"
+            "Translation failed after maximum retries."
          ]
       },
-      "banana": {
+      "cucumber": {
          "advisory": [
-            "ରହିବା ଏଡ଼ାଇବା ପାଇଁ କଦଳୀ ଗଛ କ୍ଷେତ୍ରରେ ଷ୍ଟାକିଂ ଦିଆଯିବା ଉଚିତ |"
+            "Translation failed after maximum retries."
          ]
       },
-      "sesbania": {
+      "okra": {
          "advisory": [
-            "ଗ୍ରୀଷ୍ମକାଳୀନ ଚାଷ ପରେ ଏକର ପିଛା 10 କି. ଗ୍ରା. ହାରରେ ସେସ୍ବାନିଯ଼ା (ଧାଇନଚା) ମଞ୍ଜି ସବୁଜ ସାର ଫସଲ ଭାବେ ବୁଣିବା ଉଚିତ।",
-            "ମାଟିରେ ଉଚ୍ଚ ଆର୍ଦ୍ରତା ସ୍ଥିତି ବଜାଯ଼ ରଖିବା ପାଇଁ ମଲ୍ଚ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ |"
+            "Translation failed after maximum retries."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "fresh water carp": {
+         "advisory": [
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "11-06-2024"
+   "date": "Translation failed after maximum retries."
 }

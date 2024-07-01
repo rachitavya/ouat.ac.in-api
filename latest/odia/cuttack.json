@@ -52,148 +52,117 @@
       }
    },
    "names_of_crops": [
-      "ଧାନ।",
-      "ଗ୍ରୀଷ୍ମ ଋତୁର ଡାଲି",
-      "ତୈଳବୀଜ",
-      "ପନିପରିବା",
-      "ସୋରିଷ",
-      "ଚିନାବାଦାମ",
-      "ମୁଙ୍ଗ",
-      "ବିରୀ",
-      "କୁଲଥି",
-      "ଆଖୁ",
-      "ମକା",
-      "ଟମାଟୋ",
-      "ବାଇଗଣ",
-      "ନଡ଼ିଆ",
-      "ପନିପରିବା ଚାରା",
-      "ଫିଙ୍ଗରଲିଙ୍ଗ୍",
-      "କଳା ଚଣା",
-      "ସବୁଜ ଚଣା",
-      "ପ୍ରାରମ୍ଭିକ ସୁଟ୍ ବୋରର୍",
-      "ଶୁଟ୍ ଏବଂ ଫଳ ଛେଦକ",
-      "ଓକ୍ରା",
-      "ରସୁଣ",
-      "ଆମ୍ବ"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ଧାନ ଫସଲରେ, ପେନିକଲ୍ ଦୀକ୍ଷା, ପେନିକଲ୍ ଉତ୍ଥାନ, ଫୁଲ ଏବଂ କ୍ଷୀର ଦୋଇବା ପର୍ଯ୍ଯ଼ାଯ଼ ହେଉଛି ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପର୍ଯ୍ଯ଼ାଯ଼ | ଏହି ପର୍ଯ୍ଯ଼ାଯ଼ଗୁଡ଼ିକରେ ଜଳର ଅଭାବକୁ ଏଡ଼ାଇବା ଉଚିତ। ଆଖୁରେ ଶୁଖିଲା ପତ୍ରରେ ଧାଡ଼ିଗୁଡ଼ିକୁ ଢାଙ୍କି ଦିଅନ୍ତୁ। ଉତ୍ତାପ ପ୍ରଭାବକୁ ହ୍ରାସ କରିବା ପାଇଁ ସ୍ପ୍ରିଂକଲର ଜଳସେଚନ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ। ବିକଳ୍ପ ଧାଡ଼ିରେ ଜଳସେଚନ କରି ଜଳ ସଞ୍ଚଯ଼ କରନ୍ତୁ। ଅଧିକ ତାପମାତ୍ରା ମକା ଫସଲର ଜଳର ଆବଶ୍ଯ଼କତାକୁ ବଢ଼ାଇଥାଏ। ଜଳ ଅପଚଯ଼କୁ ରୋକିବା ପାଇଁ ଜଳସେଚନ ଚ୍ଯ଼ାନେଲରେ ପଲିଥିନ୍ ବିସ୍ତାର କରନ୍ତୁ। ଉଲ୍ଲେଖ କରାଯାଇଥିବା ପରି ଟମାଟୋ, ବାଇଗଣ ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ ଫସଲ ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ କୀଟନାଶକ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ | ବିଭିନ୍ନ ଫସଲ ପାଇଁ ବିଭିନ୍ନ ପରିଚାଳନା ପଦ୍ଧତି ଉପରେ ବିଚାର କରନ୍ତୁ।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପର୍ଯ୍ଯ଼ାଯ଼ରେ ଜଳ ପରିଚାଳନା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ।",
-            "କାଣ୍ଡ ଛେଦକ ଏବଂ ବିସ୍ଫୋରଣ ରୋଗ ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ କୀଟନାଶକ ବ୍ଯ଼ବହାର କରନ୍ତୁ।"
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "ପ୍ରସ୍ତାବିତ ବୁଣିବା ଅଭ୍ଯ଼ାସ ଅନୁସରଣ କରନ୍ତୁ।"
-         ]
-      },
-      "oilseed": {
-         "advisory": [
-            "ଉପଯୁକ୍ତ ଅମଳ କୌଶଳ ସୁନିଶ୍ଚିତ କରନ୍ତୁ।"
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "ନିର୍ଦ୍ଦିଷ୍ଟ ପନିପରିବା ଆବଶ୍ଯ଼କତା ପ୍ରତି ଧ୍ଯ଼ାନ ଦିଅନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "mustard": {
          "advisory": [
-            "ଭଲ ବୃଦ୍ଧି ପାଇଁ ପର୍ଯ୍ଯ଼ାପ୍ତ ଆର୍ଦ୍ରତା ସ୍ତର ସୁନିଶ୍ଚିତ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "groundnut": {
          "advisory": [
-            "ଠିକ୍ ସମଯ଼ରେ ସମ୍ପୂର୍ଣ୍ଣ ଅମଳ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "mung": {
          "advisory": [
-            "ନିଯ଼ମିତ ଭାବେ ଫସଲର ସ୍ଥିତି ଉପରେ ନଜର ରଖନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "biri": {
          "advisory": [
-            "ପରିପକ୍ୱତା ଅନୁଯାଯ଼ୀ ଅମଳ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "kulthi": {
          "advisory": [
-            "କୀଟ ସଂକ୍ରମଣ ଉପରେ ନଜର ରଖନ୍ତୁ।"
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "ସୁଟ୍ ବୋରର୍ଙ୍କ ବିରୋଧରେ ପ୍ରତିଷେଧକ ପଦକ୍ଷେପ ନିଅନ୍ତୁ।"
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "ଉଚ୍ଚ ତାପମାତ୍ରା ଆଧାରରେ ଜଳସେଚନ ବୃଦ୍ଧି କରନ୍ତୁ।"
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "ନିର୍ଦ୍ଦିଷ୍ଟ କୀଟ ନିଯ଼ନ୍ତ୍ରଣ ପଦକ୍ଷେପ ଲାଗୁ କରନ୍ତୁ।"
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "ଫଳପ୍ରଦ ପରିଚାଳନା ପାଇଁ ଫେରୋମୋନ୍ ଫାନ୍ଦ ସ୍ଥାପନ କରନ୍ତୁ।"
-         ]
-      },
-      "coconut": {
-         "advisory": [
-            "ଜଳକ୍ଷଯ଼ ହ୍ରାସ କରିବା ପାଇଁ ନଡ଼ିଆ ପତ୍ରକୁ ମଲ୍ଚ କରନ୍ତୁ।"
-         ]
-      },
-      "vegetable seedlings": {
-         "advisory": [
-            "ଚାରା ଗୁଡ଼ିକୁ ଅତ୍ଯ଼ଧିକ ଉତ୍ତାପରୁ ରକ୍ଷା କରନ୍ତୁ।"
-         ]
-      },
-      "fingerlings": {
-         "advisory": [
-            "ଫିଙ୍ଗରଲିଙ୍ଗ ପାଇଁ ଜଳ ତାପମାତ୍ରା ଉପରେ ନଜର ରଖନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "black gram": {
          "advisory": [
-            "କ୍ଯ଼ାଟର୍ପିଲର ପରିଚାଳନା ଅଭ୍ଯ଼ାସଗୁଡ଼ିକୁ କାର୍ଯ୍ଯ଼କାରୀ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "green gram": {
          "advisory": [
-            "ଫଳପ୍ରଦ ପରିଚାଳନା ପାଇଁ କୀଟ ଗତିବିଧି ଉପରେ ନଜର ରଖନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
-      "early shoot borer": {
+      "sugarcane": {
          "advisory": [
-            "ସଂକ୍ରମଣକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ ବାରମ୍ବାର ଜଳସେଚନ ଗ୍ରହଣ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
-      "shoot and fruit borer": {
+      "maize": {
          "advisory": [
-            "ନିଯ଼ନ୍ତ୍ରଣ ପାଇଁ ଫେରୋମୋନ୍ ଫାନ୍ଦ ଏବଂ ନିର୍ଦ୍ଦିଷ୍ଟ କୀଟନାଶକ ବ୍ଯ଼ବହାର କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "vegetable seedlings": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Translation failed after maximum retries."
          ]
       },
       "okra": {
          "advisory": [
-            "ଶ୍ୱେତ ମାଛି ସଂକ୍ରମଣ ରୋକିବା ପାଇଁ ମଞ୍ଜି ଉପଚାର କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "onion": {
          "advisory": [
-            "ଅମଳ ପରବର୍ତ୍ତୀ ଉପଯୁକ୍ତ ଅଭ୍ଯ଼ାସଗୁଡ଼ିକୁ କାର୍ଯ୍ଯ଼କାରୀ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "mango": {
          "advisory": [
-            "ସୁପାରିଶ କରାଯାଇଥିବା କୀଟନାଶକ ବ୍ଯ଼ବହାର କରି ଆମ୍ବ ହପରକୁ ନିଯ଼ନ୍ତ୍ରଣ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "02-04-2024"
+   "date": "Translation failed after maximum retries."
 }

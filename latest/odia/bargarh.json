@@ -1,77 +1,98 @@
 {
    "weather_details": {
-      "15-06-2024": {
-         "rainfall": 1,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 56,
-         "rh_min": 19,
-         "wind_speed": 23,
-         "wind_direction": 214,
-         "cloud_cover": 5
-      },
-      "16-06-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 50,
-         "rh_min": 25,
-         "wind_speed": 22,
-         "wind_direction": 252,
-         "cloud_cover": 4
-      },
-      "17-06-2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 26,
-         "rh_max": 57,
-         "rh_min": 21,
-         "wind_speed": 21,
-         "wind_direction": 251,
-         "cloud_cover": 4
-      },
-      "18-06-2024": {
-         "rainfall": 4,
-         "t_max": 38,
+      "29-06-2024": {
+         "rainfall": 25,
+         "t_max": 33,
          "t_min": 25,
          "rh_max": 75,
-         "rh_min": 31,
-         "wind_speed": 17,
-         "wind_direction": 216,
-         "cloud_cover": 5
+         "rh_min": 46,
+         "wind_speed": 16,
+         "wind_direction": 246,
+         "cloud_cover": 8
       },
-      "19-06-2024": {
-         "rainfall": 5,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 76,
-         "rh_min": 44,
-         "wind_speed": 19,
-         "wind_direction": 270,
+      "30-06-2024": {
+         "rainfall": 30,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 78,
+         "rh_min": 50,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 77,
+         "rh_min": 54,
+         "wind_speed": 18,
+         "wind_direction": 248,
          "cloud_cover": 7
+      },
+      "02-07-2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 55,
+         "wind_speed": 21,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "03-07-2024": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 73,
+         "rh_min": 51,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "କପା",
-      "ପନିପରିବା ଫସଲ"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ଆଇଏମଡିର ବର୍ଦ୍ଧିତ ପରିସୀମା ପୂର୍ବାନୁମାନ ଅନୁଯାଯ଼ୀ, ବର୍ଷା ସ୍ୱାଭାବିକ ଏବଂ 19 ରୁ 25 ଜୁନ୍, 2024 ମଧ୍ଯ଼ରେ ଓଡ଼ିଶା ରାଜ୍ଯ଼ରେ ଉଭଯ଼ ସର୍ବାଧିକ ଏବଂ ସର୍ବନିମ୍ନ ତାପମାତ୍ରା ସ୍ୱାଭାବିକ ରହିବ ବୋଲି ଆଶା କରାଯାଉଛି ଏବଂ ଆଗାମୀ ସପ୍ତାହର ଦ୍ୱିତୀଯ଼ାର୍ଦ୍ଧରେ ଦକ୍ଷିଣ ପଶ୍ଚିମ ମୌସୁମୀ ଆରମ୍ଭ ହେବାର ସମ୍ଭାବନା ରହିଛି, କୃଷକମାନଙ୍କୁ ଖରିଫ ଫସଲ ଚାଷ ଦିଗରେ ଆବଶ୍ଯ଼କ ପଦକ୍ଷେପ ନେବାକୁ ପରାମର୍ଶ ଦିଆଯାଇଛି। ପ୍ରଚଳିତ ପାଣିପାଗ ସ୍ଥିତି ସମସ୍ତ ପ୍ରକାରର ଫସଲରେ କ୍ଷୁଦ୍ର କୀଟ ଆକ୍ରମଣ ପାଇଁ ଅନୁକୂଳ, ତେଣୁ ଏହାର ନିଯ଼ମିତ ତଦାରଖ ପାଇଁ ପରାମର୍ଶ ଦିଆଯିବା ଉଚିତ।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
       "cotton": {
          "advisory": [
-            "କୃଷକମାନେ କପା ଚାଷ ପାଇଁ ଜମି ପ୍ରସ୍ତୁତି ଆରମ୍ଭ କରିବା ଉଚିତ।",
-            "ବିହନ ଦରଃ ଏକର ପିଛା 800-1500 ଗ୍ରାମ୍।",
-            "ବୀଜ ଉପଚାରଃ ବୁଣିବା ପୂର୍ବରୁ, ଶୋଷକ କୀଟପତଙ୍ଗରୁ ସୁରକ୍ଷା ପାଇଁ ପ୍ରତି କିଲୋଗ୍ରାମରେ 7 ଗ୍ରାମ୍ ମଞ୍ଜି ସହିତ ଇମିଡାକ୍ଲୋପ୍ରିଡ୍ 70 ଡବ୍ଲୁ. ଜି. ମଞ୍ଜି ଉପଚାର କରାଯିବା ଉଚିତ।",
-            "ସାଧାରଣ କିସମ ପାଇଁ ବ୍ଯ଼ବଧାନଃ 90 × 45-60 ସେ. ମି. ଏବଂ ହାଇବ୍ରିଡ୍ ପାଇଁ ଏହା 90-120 × 90 ସେ. ମି. ହେବା ଉଚିତ।",
-            "ସାର ପ୍ରଯ଼ୋଗଃ ହାଇବ୍ରିଡ୍ ପ୍ରଜାତି ପାଇଁ 48 କି. ଗ୍ରା. ନାଇଟ୍ରୋଜେନ୍, ପ୍ରତ୍ଯ଼େକ ଫସ୍ଫରସ୍ ଏବଂ ପୋଟାଶ୍ ପାଇଁ 24 କି. ଗ୍ରା. ଏବଂ ସାଧାରଣ ପ୍ରଜାତି ପାଇଁ 32 କି. ଗ୍ରା. ନାଇଟ୍ରୋଜେନ୍, ପ୍ରତ୍ଯ଼େକ ଫସ୍ଫରସ୍ ଏବଂ ପୋଟାଶ୍ ପାଇଁ 16 କି. ଗ୍ରା. ସୁପାରିଶ କରାଯିବା ଉଚିତ। ସମସ୍ତ ଫସଫରସ୍ ଏବଂ ପୋଟାଶ୍ ଏବଂ ନାଇଟ୍ରୋଜେନର ଏକ ଚତୁର୍ଥାଂଶ ବେସାଲ୍ ଭାବରେ ପ୍ରଯ଼ୋଗ କରାଯିବା ଉଚିତ ଏବଂ ଅବଶିଷ୍ଟ ପରିମାଣର ନାଇଟ୍ରୋଜେନ୍ 2 ବିଭାଜନରେ ପ୍ରଯ଼ୋଗ କରାଯିବା ଉଚିତ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "ସମଯ଼ ସମଯ଼ରେ ମେଘୁଆ ଏବଂ ଉଜ୍ୱଳ ପରିସ୍ଥିତି ପନିପରିବା ଫସଲରେ କୀଟ ଆକ୍ରମଣକୁ ଶୋଷିବା ପାଇଁ ଅନୁକୂଳ, ତେଣୁ ଏହାର ନିଯ଼ମିତ ତଦାରଖ ପାଇଁ ପରାମର୍ଶ ଦିଆଯିବା ଉଚିତ। ଯଦି ସେହି କୀଟପତଙ୍ଗମାନଙ୍କର ଆକ୍ରମଣ ଲକ୍ଷ୍ଯ଼ କରାଯାଏ, ତେବେ ପ୍ରତି ଲିଟର ପାଣିରେ 25 ପ୍ରତିଶତ ଡବ୍ଲୁ. ଜି. @<ଆଇ. ଡି. 1> କିମ୍ବା ଇମିଡାକ୍ଲୋପ୍ରିଡ୍ <ଆଇ. ଡି. 3> ଏସ୍. ଏଲ୍. @<ଆଇ. ଡି. 2> ସିଞ୍ଚନ କରିବାକୁ ପରାମର୍ଶ ଦିଆଯିବା ଉଚିତ।",
-            "ଆଗାମୀ ଦିନରେ ବର୍ଷା ହେବାର ସମ୍ଭାବନା ଥିବାରୁ କୃଷକମାନଙ୍କୁ ସିଞ୍ଚନ କାର୍ଯ୍ଯ଼ କରିବା ସମଯ଼ରେ ଉପଯୁକ୍ତ ଯତ୍ନ ନେବାକୁ ପରାମର୍ଶ ଦିଆଯାଇଛି।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "Translation failed after maximum retries."
 }

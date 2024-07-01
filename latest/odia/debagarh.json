@@ -1,96 +1,103 @@
 {
    "weather_details": {
-      "05/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 50,
-         "rh_min": 19,
-         "wind_speed": 12,
-         "wind_direction": 234,
-         "cloud_cover": 4
-      },
-      "06/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 48,
-         "rh_min": 15,
-         "wind_speed": 9,
-         "wind_direction": 288,
-         "cloud_cover": 4
-      },
-      "07/06/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 52,
-         "rh_min": 20,
-         "wind_speed": 14,
-         "wind_direction": 285,
-         "cloud_cover": 3
-      },
-      "08/06/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 48,
-         "rh_min": 19,
-         "wind_speed": 13,
+      "29/06/2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 47,
+         "wind_speed": 10,
          "wind_direction": 248,
-         "cloud_cover": 4
+         "cloud_cover": 7
       },
-      "09/06/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 46,
-         "rh_min": 18,
-         "wind_speed": 15,
+      "30/06/2024": {
+         "rainfall": 17,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 56,
+         "wind_speed": 10,
          "wind_direction": 244,
-         "cloud_cover": 3
+         "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 58,
+         "wind_speed": 11,
+         "wind_direction": 249,
+         "cloud_cover": 7
+      },
+      "02/07/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 63,
+         "wind_speed": 15,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "03/07/2024": {
+         "rainfall": 1,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 13,
+         "wind_direction": 252,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "ଶ୍ରୀ ଧାନ",
-      "ରାଗି।",
-      "ଅଦା।",
-      "ମକା",
-      "ସୂର୍ଯ୍ଯ଼ମୁଖୀ",
-      "ରସୁଣ"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ବର୍ଷା ହେତୁ, ଗ୍ରୀଷ୍ମ ଚାଷ ପାଇଁ ଯାଆନ୍ତୁ ଏବଂ ଯାନ୍ତ୍ରିକ ଚାଷ ମୃତ୍ତିକାକୁ ଓଲଟା କରିବ ଏବଂ କୀଟପତଙ୍ଗ ଏବଂ ରୋଗ ଜୀବାଣୁ ସୂର୍ଯ୍ଯ଼ଙ୍କ ସଂସ୍ପର୍ଶରେ ଆସିବେ ଏବଂ ମୃତ୍ଯ଼ୁବରଣ କରିବେ | ଜଳର ଅଭାବ କ୍ଷେତ୍ରରେ, ଜଳର ଉନ୍ନତ ଉପଯୋଗ ପାଇଁ ବିକଳ୍ପ ଧାଡ଼ି ଜଳସେଚନ ପଦ୍ଧତି ଅବଲମ୍ବନ କରନ୍ତୁ, ଯାହାଦ୍ୱାରା ପାଖାପାଖି 50 ପ୍ରତିଶତ ଜଳ ସଞ୍ଚଯ଼ ହୋଇପାରିବ। ଆହୁରି ମଧ୍ଯ଼, ଅର୍ଚାର୍ଡରେ ବୁନ୍ଦା ଜଳସେଚନ ବ୍ଯ଼ବସ୍ଥା ଜଳ ସଞ୍ଚଯ଼ କରିଥାଏ। ସିଞ୍ଚନ ପଦ୍ଧତି ଉଚ୍ଚ ତାପମାତ୍ରାର ପ୍ରଭାବକୁ ହ୍ରାସ କରିଥାଏ। ଦିନର ସର୍ବାଧିକ ଉତ୍ତାପ ସମଯ଼ରେ କୃଷକମାନଙ୍କୁ ବାହାରେ ବାହାରକୁ ନଯିବା ପାଇଁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
-      "sri paddy": {
+      "pulses": {
          "advisory": [
-            "ଯେତେବେଳେ ଫସଲର 85 ପ୍ରତିଶତ ହଳଦିଆ ହୋଇଯାଏ ସେତେବେଳେ ଫସଲ ଅମଳ କରନ୍ତୁ। ଫସଲ ଅମଳ ହେବାର 7 ଦିନ ପୂର୍ବରୁ ଅତିରିକ୍ତ ପାଣି ବାହାର କରିଦିଅନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
-      "ragi": {
+      "vegetables": {
          "advisory": [
-            "ଅର୍ଜୁନ, କଲୁଆ, ଶ୍ରୀପ୍ରବ ଭଳି ଭଲ କିସମ ପ୍ରତି ଏସି 4 କି. ଗ୍ରା. ରେ ବାଛନ୍ତୁ। ଭଲ ବର୍ଷା ହେବା ପରେ, ଜମି ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ ହଳ ପଛରେ ରାଗି ମଞ୍ଜି ବୁଣନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
-      "ginger": {
+      "kharif crops": {
          "advisory": [
-            "ସୁପ୍ରଭା, ସୁରୁଚି, ସୁରବି ଭଳି ଉନ୍ନତ ମାନର ଅଦା କାଣ୍ଡ ସଂଗ୍ରହ କରନ୍ତୁ। ବୀଜ ହାର ହେଉଛି 6-8 କ୍ଯ଼ୁ/ଏସି। ପ୍ରତ୍ଯ଼େକ ଖଣ୍ଡ 20 ଗ୍ରାମ୍ ହେବା ଉଚିତ ଏବଂ 2-3 ଆଖି ରହିବା ଉଚିତ୍ | କ୍ଷେତରେ ରୋପଣ କରିବା ପୂର୍ବରୁ ମଞ୍ଜିଗୁଡ଼ିକୁ ଚିକିତ୍ସା କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
-      "maize": {
+      "dhaincha seeds": {
          "advisory": [
-            "କ୍ଲିଙ୍ଗା ମକା, ପ୍ରବାଲ ଇତ୍ଯ଼ାଦି ଭଲ କିସମ ବାଛନ୍ତୁ, ଯାହା ଏସି ପିଛା 6 କି. ଗ୍ରା.। ଦୂରତା ହେଉଛି 60 x 30 ସେ. ମି.। ଅନ୍ତିମ ଭୂମି ପ୍ରସ୍ତୁତି ପରେ 8:16:16 କେଜି ଏନ. ପି. କେ./ଏସି. ର ମୂଳ ମାତ୍ରା ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
-      "sunflower": {
+      "brinjal": {
          "advisory": [
-            "ଭଲ ବୀଜ ପୂରଣ ପାଇଁ, 2-3 ଗ୍ରାମ ବୋରାକ୍ସ/ଲିଟର ପାଣି ଲଗାନ୍ତୁ। ଯେତେବେଳେ ମୁଣ୍ଡର ତଳ ଭାଗ ହଳଦିଆ ହୋଇଯାଏ, ସେତେବେଳେ ଶୀଘ୍ର ବୁଣାଯାଇଥିବା ଫସଲର ମୁଣ୍ଡ କାଟି ସୂର୍ଯ୍ଯ଼କିରଣ ତଳେ 4-5 ଦିନ ଶୁଖାନ୍ତୁ। ଯଦି ଫଳ ଛେଦକ ଆକ୍ରମଣ କରେ ତେବେ 200 ଲିଟର ପାଣିରେ 250 ଏଲଇ @ବାଯ଼ୋଇନସେକ୍ଟିସାଇଡ୍ ସ୍ପ୍ରେ କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "onion": {
+      "cucurbits": {
          "advisory": [
-            "ବେକରେ 2-3 ସେ. ମି. ଛାଡ଼ି ପିଆଜର ଅମଳ କରନ୍ତୁ ଏବଂ ସମସ୍ତ ମୂଳକୁ କାଟି ଉଚ୍ଚ ତାପମାତ୍ରାରେ ସେଡ୍ ତଳେ ଶୁଖାନ୍ତୁ |"
+            "Translation failed after maximum retries."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "04-06-2024"
+   "date": "Translation failed after maximum retries."
 }

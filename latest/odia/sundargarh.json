@@ -1,110 +1,116 @@
 {
    "weather_details": {
-      "05/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 44,
-         "rh_min": 19,
-         "wind_speed": 17,
-         "wind_direction": 238,
-         "cloud_cover": 3
+      "29/06/2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 82,
+         "rh_min": 47,
+         "wind_speed": 10,
+         "wind_direction": 243,
+         "cloud_cover": 8
       },
-      "06/06/2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 25,
-         "rh_max": 39,
-         "rh_min": 19,
-         "wind_speed": 14,
-         "wind_direction": 207,
-         "cloud_cover": 3
+      "30/06/2024": {
+         "rainfall": 20,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 63,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 8
       },
-      "07/06/2024": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 53,
-         "rh_min": 17,
-         "wind_speed": 20,
-         "wind_direction": 259,
-         "cloud_cover": 4
-      },
-      "08/06/2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 26,
-         "rh_max": 47,
-         "rh_min": 15,
-         "wind_speed": 17,
-         "wind_direction": 238,
+      "01/07/2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 58,
+         "wind_speed": 13,
+         "wind_direction": 248,
          "cloud_cover": 5
       },
-      "09/06/2024": {
-         "rainfall": 0,
-         "t_max": 43,
-         "t_min": 26,
-         "rh_max": 43,
-         "rh_min": 12,
-         "wind_speed": 17,
-         "wind_direction": 244,
-         "cloud_cover": 6
+      "02/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 68,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      },
+      "03/07/2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "ଧାନ।",
-      "ଗ୍ରୀଷ୍ମ ଋତୁର ଡାଲି",
-      "ରାଗି।",
-      "ମକା",
-      "ଅଦା।",
-      "ହଳଦୀ",
-      "ଯ଼ାମ୍",
-      "ପନିପରିବା"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ଯଦି ବର୍ଷା ହୁଏ, ଗ୍ରୀଷ୍ମକାଳୀନ ଚାଷ ପାଇଁ ଯାଆନ୍ତୁ। ଯାନ୍ତ୍ରିକ ଚାଷ ଦ୍ୱାରା ମୃତ୍ତିକା ଓଲଟପାଲଟ ହୋଇଯିବ ଏବଂ କୀଟପତଙ୍ଗ ଏବଂ ରୋଗ ଜୀବାଣୁ ସୂର୍ଯ୍ଯ଼ଙ୍କ ସଂସ୍ପର୍ଶରେ ଆସିବ ଏବଂ ମରିଯିବ। ଅର୍ଚାର୍ଡରେ ବୁନ୍ଦା ଜଳସେଚନ ବ୍ଯ଼ବସ୍ଥା ପାଇଁ ଯାଆନ୍ତୁ ଯାହା ଜଳ ସଞ୍ଚଯ଼ କରେ ଏବଂ ଉତ୍ତାପରୁ ସଞ୍ଚଯ଼ କରେ | ଜଳସେଚନ ପଦ୍ଧତିର ସିଞ୍ଚନ ଉଚ୍ଚ ତାପମାତ୍ରାର ପ୍ରଭାବକୁ ହ୍ରାସ କରିଥାଏ। ଦିନର ସର୍ବାଧିକ ଉତ୍ତାପ ସମଯ଼ରେ କୃଷକମାନଙ୍କୁ ବାହାରେ ବାହାରକୁ ନଯିବା ପାଇଁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
-      "paddy": {
+      "pulses": {
          "advisory": [
-            "ଧାନ ରୋପଣ ପାଇଁ ଭଲ ଭାବେ ଚାଷ କରାଯାଉଥିବା ଶୁଖିଲା ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ।"
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "ପରିପକ୍ୱତା ପର୍ଯ୍ଯ଼ାଯ଼ରେ ଫସଲ ଅମଳ କରନ୍ତୁ।"
-         ]
-      },
-      "ragi": {
-         "advisory": [
-            "ଅର୍ଜୁନ, କଲୁଆ, ଶ୍ରୀପ୍ରବ ପରି ଭଲ କିସମ ବାଛନ୍ତୁ @4 କେଜି/ଏସି।"
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "କ୍ଲିଙ୍ଗା ମକା, ପ୍ରବାଲ ଇତ୍ଯ଼ାଦି ଭଲ କିସମ ବାଛନ୍ତୁ, ଯାହା ଏସି ପିଛା 6 କି. ଗ୍ରା.। ଅନ୍ତିମ ଭୂମି ପ୍ରସ୍ତୁତି ପରେ 8:16:16 କେଜି NPK/AC ର ମୂଳ ମାତ୍ରା ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।"
-         ]
-      },
-      "ginger": {
-         "advisory": [
-            "ସୁପ୍ରଭା, ସୁରୁଚି, ସୁରବି ଭଳି ଉନ୍ନତ ମାନର ଅଦା କାଣ୍ଡ ସଂଗ୍ରହ କରନ୍ତୁ। ବୀଜ ହାର ହେଉଛି 6-8 କ୍ଯ଼ୁ/ଏସି। କ୍ଷେତରେ ରୋପଣ କରିବା ପୂର୍ବରୁ ମଞ୍ଜିଗୁଡ଼ିକୁ ଚିକିତ୍ସା କରନ୍ତୁ।"
-         ]
-      },
-      "turmeric": {
-         "advisory": [
-            "ରୋମା, ସୁରୋମା, ରଙ୍ଗ ଏବଂ ରଶ୍ମୀ ପରି ଭଲ କିସମ ବୁଣନ୍ତୁ | ବୀଜ ହାର 8-10 କ୍ଯ଼ୁ/ଏସି। ବୀଜ ସାମଗ୍ରୀରେ 2-3ଟି ଆଖି ଏବଂ ପ୍ରତି ଖଣ୍ଡରେ 20-25 ଗ୍ରାମ୍ ରହିବା ଉଚିତ।"
-         ]
-      },
-      "yam": {
-         "advisory": [
-            "ବୀଜ ହାର 8-10 କ୍ଯ଼ୁ/ଏସି। ବିହନ ସାମଗ୍ରୀ 150-200 ଗ୍ରାମ୍ ହେବା ଉଚିତ। ଭଲ ଭାବେ ଦଳି ହୋଇଥିବା କ୍ଷେତକୁ ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ 3 ଫୁଟ x 3 ଫୁଟ ଏବଂ 1.5ft ଗଭୀରତାର ଗର୍ତ୍ତ ତିଆରି କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
       "vegetables": {
          "advisory": [
-            "ବାଇଗଣରେ ତାପମାତ୍ରା ପ୍ରଭାବ ହେତୁ, ପାଦ ଏବଂ ଶୁଟ୍ ବୋରର୍ ନିମ୍ ଆଧାରିତ କୀଟନାଶକ ପ୍ରଯ଼ୋଗ ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇପାରିବ 330 ପିପିଏମ୍ ପ୍ରତି ଏକର 1 ଲିଟରରେ |",
-            "ପାଣିପାଗ କାରଣରୁ, ମାଇଟ୍ର ଆକ୍ରମଣ ହୋଇପାରେ, ଏହି ସ୍ପ୍ରେକୁ ପରିଚାଳନା କରିବା ପାଇଁ ଡାଇକୋଫୋଲ୍ @3 ମିଲି/ଲିଟର ପାଣି |",
-            "କୁକୁର୍ବିଟ୍ସରେ, 1 ଲିଟର ପାଣିରେ 2 ମିଲି ମାଲାଥିଅନ୍ ଏବଂ 20 ଗ୍ରାମ୍ ଗୁଡ଼ ମିଶାଇ ଧଳା ମାଛି ପାଇଁ ବିଷାକ୍ତ ବିଟ୍ ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ ବିଟ୍ଗୁଡ଼ିକୁ ଗଛ ପାଖରେ ରଖନ୍ତୁ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "04-06-2024"
+   "date": "Translation failed after maximum retries."
 }

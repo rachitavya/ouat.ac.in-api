@@ -1,103 +1,101 @@
 {
    "weather_details": {
-      "15/06/2024": {
-         "rainfall": 5,
+      "29/06/2024": {
+         "rainfall": 17,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 47,
+         "wind_speed": 16,
+         "wind_direction": 216,
+         "cloud_cover": 8
+      },
+      "30/06/2024": {
+         "rainfall": 12,
          "t_max": 33,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 50,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
          "t_min": 25,
-         "rh_max": 65,
-         "rh_min": 41,
-         "wind_speed": 20,
-         "wind_direction": 212,
+         "rh_max": 70,
+         "rh_min": 56,
+         "wind_speed": 17,
+         "wind_direction": 243,
          "cloud_cover": 7
       },
-      "16/06/2024": {
+      "02/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 69,
+         "rh_min": 55,
+         "wind_speed": 17,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "03/07/2024": {
          "rainfall": 2,
          "t_max": 36,
-         "t_min": 25,
-         "rh_max": 67,
-         "rh_min": 36,
-         "wind_speed": 20,
-         "wind_direction": 207,
-         "cloud_cover": 5
-      },
-      "17/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 66,
-         "rh_min": 43,
-         "wind_speed": 20,
-         "wind_direction": 212,
-         "cloud_cover": 4
-      },
-      "18/06/2024": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 24,
-         "rh_max": 78,
+         "t_min": 26,
+         "rh_max": 70,
          "rh_min": 52,
          "wind_speed": 18,
-         "wind_direction": 204,
-         "cloud_cover": 7
-      },
-      "19/06/2024": {
-         "rainfall": 10,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 80,
-         "rh_min": 46,
-         "wind_speed": 21,
-         "wind_direction": 225,
-         "cloud_cover": 7
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "ଧାନ।",
-      "ମକା",
-      "ଚିନାବାଦାମ",
-      "ଯ଼ାମ୍",
-      "ବାଇଗଣ",
-      "ଓକ୍ରା",
-      "କାର୍ପ୍"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ ବର୍ଷା ଉପରେ ନିର୍ଭରଶୀଳ ଧାନ ରୋପଣ ଅଞ୍ଚଳରେ ମୌସୁମୀ ବର୍ଷା ପରେ ବୁଣିବା କରାଯାଇପାରିବ। ବଗିଚା ଫସଲରେ ମାଟିରୁ ବାଷ୍ପୀକରଣ ହ୍ରାସ କରିବାକୁ ମଲ୍ଚିଙ୍ଗ ପରାମର୍ଶ ଦିଆଯାଇଛି | ଧାନ ଚାଷ ପାଇଁ ସର୍ବଦା ପ୍ରମାଣିତ ମଞ୍ଜି ବ୍ଯ଼ବହାର କରନ୍ତୁ। ଫଲ୍ ଆର୍ମି କୃମିର ସଂକ୍ରମଣରୁ ରକ୍ଷା ପାଇବା ପାଇଁ ମକା ପାଇଁ ବୀଜ ଚିକିତ୍ସା ବାଧ୍ଯ଼ତାମୂଳକ | ଉପଯୁକ୍ତ ପ୍ରକାରର ଚିନାବାଦାମ ବ୍ଯ଼ବହାର କରାଯିବା ଉଚିତ ଏବଂ ସୁପାରିସ କରାଯାଇଥିବା ବ୍ଯ଼ାକ୍ଟେରିଆ ସଂସ୍କୃତି ସହିତ ଚିକିତ୍ସା କରାଯିବା ଉଚିତ। ଉପଯୁକ୍ତ ଜମି ପ୍ରସ୍ତୁତି ସହିତ ଶ୍ରୀକୀର୍ତି, ଶ୍ରୀରୁପା, ହାଟିଖୋଜ ଇତ୍ଯ଼ାଦି କିସମ କିସମ ଗଛ ଲଗାନ୍ତୁ | ବାଇଗଣ ଗଛରେ ରୋଗକୁ ହ୍ରାସ କରିବା ଉପରେ ନିଯ଼ନ୍ତ୍ରଣ ରଖନ୍ତୁ। ଓକ୍ରାରେ କୀଟ ନିଯ଼ନ୍ତ୍ରଣ ପାଇଁ ନିମ ଆଧାରିତ କୀଟନାଶକ ବ୍ଯ଼ବହାର କରନ୍ତୁ।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "ଆର୍ଦ୍ର ନର୍ସରୀ କ୍ଷେତ୍ର ପ୍ରସ୍ତୁତି-ନର୍ସରୀ କ୍ଷେତ୍ରକୁ ଜଳସେଚନ କରନ୍ତୁ ଏବଂ ଶେଷ ପୋଖରୀରେ ଆବଶ୍ଯ଼କ ସାର ପ୍ରଯ଼ୋଗ କରନ୍ତୁ। ଅଙ୍କୁରିତ ମଞ୍ଜି ବୁଣନ୍ତୁ ଏବଂ ଉପଯୁକ୍ତ ଜଳସେଚନ ପ୍ରଦାନ କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "maize": {
          "advisory": [
-            "ବୀଜ ଚିକିତ୍ସା-ଫଲ୍ ଆର୍ମି କୃମି ସଂକ୍ରମଣରୁ ରକ୍ଷା ପାଇବା ପାଇଁ ପ୍ରସ୍ତାବିତ କୀଟନାଶକ ଦ୍ୱାରା ମଞ୍ଜି ଚିକିତ୍ସା କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "groundnut": {
+      "sugarcane": {
          "advisory": [
-            "ଉପଯୁକ୍ତ କିସମର ବ୍ଯ଼ବହାର କରନ୍ତୁ ଏବଂ ସୁପାରିସ କରାଯାଇଥିବା ବ୍ଯ଼ାକ୍ଟେରିଆ ସଂସ୍କୃତି ସହିତ ମଞ୍ଜି ବ୍ଯ଼ବହାର କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "yam": {
+      "papaya": {
          "advisory": [
-            "ଧନିଆ କିସମଗୁଡିକ ରୋପଣ କରନ୍ତୁ ଏବଂ ଆବଶ୍ଯ଼କ ଜମି ପ୍ରସ୍ତୁତି ପ୍ରଦାନ କରନ୍ତୁ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "brinjal": {
+      "poultry": {
          "advisory": [
-            "ବାଇଗଣ ଗଛରେ ରୋଗକୁ ହ୍ରାସ କରିବା ଉପରେ ନିଯ଼ନ୍ତ୍ରଣ ରଖନ୍ତୁ।"
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "ଓକ୍ରାରେ କୀଟ ନିଯ଼ନ୍ତ୍ରଣ ପାଇଁ ନିମ ଆଧାରିତ କୀଟନାଶକ ବ୍ଯ଼ବହାର କରନ୍ତୁ।"
-         ]
-      },
-      "carp": {
-         "advisory": [
-            "ବର୍ଦ୍ଧିତ ଲାଭ ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ ଅନୁପାତରେ କାର୍ପ କିସମଗୁଡ଼ିକୁ ଷ୍ଟକ୍ କରନ୍ତୁ।",
-            "ଉପଯୁକ୍ତ ଖାଦ୍ଯ଼ ଏବଂ ପରିପୂରକ ସହିତ ପୁଷ୍କରିଣୀର ଗୁଣବତ୍ତା ବଜାଯ଼ ରଖନ୍ତୁ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "Translation failed after maximum retries."
 }

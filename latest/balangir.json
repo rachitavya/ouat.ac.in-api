@@ -1,51 +1,51 @@
 {
    "weather_details": {
       "2022-10-01": {
-         "rainfall": 10,
+         "rainfall": 5,
          "t_max": 30,
          "t_min": 20,
-         "rh_max": 80,
+         "rh_max": 85,
          "rh_min": 60,
          "wind_speed": 15,
          "wind_direction": 120,
-         "cloud_cover": 5
+         "cloud_cover": 4
       },
       "2022-10-02": {
-         "rainfall": 5,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 75,
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 80,
          "rh_min": 55,
-         "wind_speed": 12,
-         "wind_direction": 110,
-         "cloud_cover": 4
+         "wind_speed": 10,
+         "wind_direction": 90,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rice",
       "wheat",
-      "corn"
+      "maize"
    ],
-   "general_advisory": "It is recommended to plant crops that are suitable for the current weather conditions.",
+   "general_advisory": "Sow rice and wheat seeds. Protect crops from heavy rainfall.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Ensure proper irrigation for better growth.",
-            "Protect the crop from pests and diseases."
+            "Plant paddy in flooded fields.",
+            "Control weeds using herbicides."
          ]
       },
       "wheat": {
          "advisory": [
-            "Apply fertilizer for optimal yield.",
-            "Monitor water levels to avoid water stress."
+            "Ensure proper drainage for wheat fields.",
+            "Apply nitrogen fertilizer for better yield."
          ]
       },
-      "corn": {
+      "maize": {
          "advisory": [
-            "Plant in well-drained soil for good root development.",
-            "Harvest at the right maturity stage for quality produce."
+            "Plant maize after frost season.",
+            "Irrigate maize fields regularly."
          ]
       }
    },
-   "date": "07-06-2024"
+   "date": "28-06-2024"
 }

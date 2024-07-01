@@ -1,103 +1,101 @@
 {
    "weather_details": {
-      "15/06/2024": {
-         "rainfall": 5,
+      "29/06/2024": {
+         "rainfall": 17,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 47,
+         "wind_speed": 16,
+         "wind_direction": 216,
+         "cloud_cover": 8
+      },
+      "30/06/2024": {
+         "rainfall": 12,
          "t_max": 33,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 50,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
          "t_min": 25,
-         "rh_max": 65,
-         "rh_min": 41,
-         "wind_speed": 20,
-         "wind_direction": 212,
+         "rh_max": 70,
+         "rh_min": 56,
+         "wind_speed": 17,
+         "wind_direction": 243,
          "cloud_cover": 7
       },
-      "16/06/2024": {
+      "02/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 69,
+         "rh_min": 55,
+         "wind_speed": 17,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "03/07/2024": {
          "rainfall": 2,
          "t_max": 36,
-         "t_min": 25,
-         "rh_max": 67,
-         "rh_min": 36,
-         "wind_speed": 20,
-         "wind_direction": 207,
-         "cloud_cover": 5
-      },
-      "17/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 66,
-         "rh_min": 43,
-         "wind_speed": 20,
-         "wind_direction": 212,
-         "cloud_cover": 4
-      },
-      "18/06/2024": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 24,
-         "rh_max": 78,
+         "t_min": 26,
+         "rh_max": 70,
          "rh_min": 52,
          "wind_speed": 18,
-         "wind_direction": 204,
-         "cloud_cover": 7
-      },
-      "19/06/2024": {
-         "rainfall": 10,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 80,
-         "rh_min": 46,
-         "wind_speed": 21,
-         "wind_direction": 225,
-         "cloud_cover": 7
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
-      "groundnut",
-      "yam",
-      "brinjal",
-      "okra",
-      "carp"
+      "sugarcane",
+      "papaya",
+      "poultry"
    ],
-   "general_advisory": "Prepare nursery bed and sowing may be done after monsoon showers in rainfed transplanted rice areas. Mulching is advised to reduce evaporation from soil in orchard crops. Always use certified seeds for paddy cultivation. Seed treatment is mandatory for maize to avoid the infestation of Fall Army Worm. Suitable varieties of groundnut should be used and treated with recommended bacterial culture. Plant yam varieties like Shreekirti, Shreerupa, Hatikhoj, etc. with proper land preparation. Control damping off disease in brinjal seedlings. Use neem-based pesticides for pest control in okra.",
+   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Incorporate green manure and apply appropriate fertilizers. Follow specific instructions for each crop mentioned.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Wet Nursery Field Preparation - Irrigate the nursery field and apply necessary fertilizers during last puddling. Sow sprouted seeds and provide appropriate irrigation."
+            "Use certified seeds",
+            "Conduct germination test before sowing",
+            "Apply appropriate fertilizers",
+            "Follow recommended spacing and depth for sowing"
          ]
       },
       "maize": {
          "advisory": [
-            "Seed Treatment - Treat seeds with recommended pesticide to avoid Fall Army Worm infestation."
+            "Use specific seed rate",
+            "Treat seeds to prevent infestation",
+            "Maintain proper spacing and basal fertilization",
+            "Implement weed control measures"
          ]
       },
-      "groundnut": {
+      "sugarcane": {
          "advisory": [
-            "Use suitable varieties and treat seeds with recommended bacterial culture."
+            "Manage early shoot borer infestation",
+            "Apply recommended insecticides as necessary"
          ]
       },
-      "yam": {
+      "papaya": {
          "advisory": [
-            "Plant yam varieties and provide necessary land preparation."
+            "Plant specific high-yielding varieties",
+            "Maintain optimal planting distance and pit dimensions",
+            "Utilize disease-resistant and tissue culture seedlings"
          ]
       },
-      "brinjal": {
+      "poultry": {
          "advisory": [
-            "Control damping off disease in brinjal seedlings."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Use neem-based pesticides for pest control in okra."
-         ]
-      },
-      "carp": {
-         "advisory": [
-            "Stock carp varieties in the specified ratio for increased benefits.",
-            "Maintain pond quality with suitable feed and supplements."
+            "Ensure proper ventilation and drainage in poultry sheds",
+            "Deworm and vaccinate poultry birds",
+            "Prevent insect pest attacks"
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "28-06-2024"
 }

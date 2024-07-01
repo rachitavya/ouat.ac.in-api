@@ -1,127 +1,99 @@
 {
    "weather_details": {
-      "15-06-2024": {
-         "rainfall": 2,
-         "t_max": 38,
-         "t_min": 27,
-         "rh_max": 48,
-         "rh_min": 20,
-         "wind_speed": 27,
-         "wind_direction": 225,
-         "cloud_cover": 4
-      },
-      "16-06-2024": {
-         "rainfall": 2,
-         "t_max": 38,
-         "t_min": 27,
-         "rh_max": 57,
-         "rh_min": 24,
-         "wind_speed": 28,
-         "wind_direction": 225,
-         "cloud_cover": 4
-      },
-      "17-06-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 27,
-         "rh_max": 55,
-         "rh_min": 27,
-         "wind_speed": 30,
+      "29-06-2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 47,
+         "wind_speed": 17,
          "wind_direction": 212,
-         "cloud_cover": 4
+         "cloud_cover": 7
       },
-      "18-06-2024": {
-         "rainfall": 4,
-         "t_max": 36,
-         "t_min": 26,
+      "30-06-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 72,
+         "rh_min": 51,
+         "wind_speed": 17,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 24,
          "rh_max": 69,
-         "rh_min": 35,
+         "rh_min": 49,
+         "wind_speed": 20,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "02-07-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 68,
+         "rh_min": 51,
          "wind_speed": 24,
-         "wind_direction": 238,
+         "wind_direction": 246,
          "cloud_cover": 6
       },
-      "19-06-2024": {
-         "rainfall": 6,
-         "t_max": 36,
+      "03-07-2024": {
+         "rainfall": 1,
+         "t_max": 35,
          "t_min": 26,
-         "rh_max": 70,
-         "rh_min": 34,
-         "wind_speed": 24,
-         "wind_direction": 225,
-         "cloud_cover": 7
+         "rh_max": 73,
+         "rh_min": 50,
+         "wind_speed": 21,
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "ଖରିଫ ଧାନ",
-      "ଆଖୁ",
-      "ବାଇଗଣ",
-      "ଲଙ୍କା",
-      "କଦଳୀ ଗୁଣ୍ଡ",
-      "କାକୁଡ଼ି",
-      "ଆମ୍ବ",
-      "ପେଁପେ",
-      "ମାଛ।",
-      "ପଶୁପାଳନ"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ମ୍ଯ଼ୁନିସିପାଲିଟି କର୍ପୋରେସନ୍, ଭୁବନେଶ୍ୱର ପୂର୍ବାନୁମାନ ଅନୁଯାଯ଼ୀ, ଆସନ୍ତା 5 ଦିନ ମଧ୍ଯ଼ରେ ଜିଲ୍ଲାର କେତେକ ସ୍ଥାନରେ ଅତି ହାଲୁକା ବର୍ଷା ସହିତ ଶୁଖିଲା ପାଗ ହୋଇପାରେ, ଫସଲ ଏବଂ ପନିପରିବା ପାଇଁ ଆବଶ୍ଯ଼କ ଜଳସେଚନ ଯୋଗାଇଥାଏ।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
-      "kharif paddy": {
+      "rice": {
          "advisory": [
-            "ଖରିଫ ଚାଉଳ ପାଇଁ ଭଲ ଭାବେ ଦଳି ହୋଇଥିବା ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ। ପ୍ରତି କିଲୋଗ୍ରାମ ମଞ୍ଜି ପିଛା 1 ଗ୍ରାମ ପ୍ଲାଣ୍ଟୋମାଇସିନ୍ ସହିତ କାର୍ବେନଡାଜିମ୍ @2 ଗ୍ରାମ ସହିତ ବୀଜ ଚିକିତ୍ସା ପରେ ପୂର୍ବ-ଉତ୍ପାଦିତ ମଞ୍ଜି ବୁଣିବା ଉଚିତ।",
-            "ହସ୍ତଚାଳିତ ଡି. ଏସ୍. ଆର୍. ଓ ତା 'ପରେ ବିଉଶନିଂ ପରିବର୍ତ୍ତେ କୃଷକମାନଙ୍କୁ ଯାନ୍ତ୍ରିକ ଡି. ଏସ୍. ଆର୍. ଚାଷକୁ ଉପଯୁକ୍ତ ପ୍ଯ଼ାକେଜ୍ ଅଭ୍ଯ଼ାସ (ବିବିଧତା ଚଯ଼ନ, ବୀଜ ଚିକିତ୍ସା, ପୁଷ୍ଟିକର ପରିଚାଳନା) ସହିତ ଅନୁସରଣ କରିବାକୁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
-            "ବିଗତ ଦିନରେ ହୋଇଥିବା ବର୍ଷାକୁ ଉପଯୋଗ କରି ଗ୍ରୀଷ୍ମକାଳୀନ ହଳ କରିବା ପାଇଁ କୃଷକମାନଙ୍କୁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
-            "ସବୁଜ ସାର ଫସଲ ଭାବରେ @12kg ଏକରର ଭଲ ଗୁଣବତ୍ତା ମଞ୍ଜି ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "ମଧ୍ଯ଼ମ ଏବଂ ବିଳମ୍ବ ଅବଧି କିସମଗୁଡ଼ିକରେ ଫସଲ 4 ରୁ 5 ମାସ ପୁରୁଣା ହେବା ପରେ ରାପିଙ୍ଗ୍ ଏବଂ ପ୍ରୋପିଙ୍ଗ୍ କରାଯିବା ଉଚିତ୍ |",
-            "ଆଖୁ ପତ୍ରର ଶୀଘ୍ର ଛେଦକକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ ଫିପ୍ରୋନିଲ 5ଏସସି @400 ମିଲି/ଏକରର ସ୍ପ୍ରେ କରିବା ପାଇଁ ପରାମର୍ଶ ଦିଆଯାଇଛି।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "brinjal": {
+      "vegetables": {
          "advisory": [
-            "ବାଇଗଣ ଏବଂ ଲଙ୍କା ପରି ଖରିଫ ପନିପରିବାର ସମଯ଼ୋଚିତ ରୋପଣ ପାଇଁ, ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ (କାର୍ବୋକ୍ସିନ + ଥିରାମ) @2g କିଲୋଗ୍ରାମ ମଞ୍ଜି ସହିତ ବୀଜକୁ ଚିକିତ୍ସା କରନ୍ତୁ।",
-            "ବାଇଗଣ, ଟମାଟୋ ଏବଂ ଓକ୍ରାରେ ଫଳ ଏବଂ ଅଙ୍କୁର ଛେଦକକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ, ପ୍ରାରମ୍ଭିକ ପର୍ଯ୍ଯ଼ାଯ଼ରେ ଏକର ପିଛା 600 ମିଲିଲିଟରରେ ନିମ ଆଧାରିତ କୀଟନାଶକ 1500 ପିପିଏମ ସ୍ପ୍ରେ କରନ୍ତୁ। ପରେ ସ୍ପିନୋସାଦ୍ 45 ଏସ୍. ସି. @70 ମିଲି/ଏକର କିମ୍ବା ଇମାମେକ୍ଟିନ୍ ବେନ୍ଜୋଏଟ୍ @<ଆଇ. ଡି. 1> ଗ୍ରାମ୍/ଏକର ଏବଂ ଥାଇକ୍ଲୋପ୍ରିଡ୍ @250 ମିଲି/ଲିଟର ପାଣିର ବିକଳ୍ପ ସ୍ପ୍ରେ ପାଇଁ ଯାଆନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "chilli": {
+      "pisciculture": {
          "advisory": [
-            "ବାଇଗଣ ଏବଂ ଲଙ୍କା ପରି ଖରିଫ ପନିପରିବାର ସମଯ଼ୋଚିତ ରୋପଣ ପାଇଁ, ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ (କାର୍ବୋକ୍ସିନ + ଥିରାମ) @2g କିଲୋଗ୍ରାମ ମଞ୍ଜି ସହିତ ବୀଜକୁ ଚିକିତ୍ସା କରନ୍ତୁ।"
-         ]
-      },
-      "bitter gourd": {
-         "advisory": [
-            "କଦଳୀ, କାକୁଡ଼ି ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ କାକୁଡ଼ି ଫସଲରେ ବିଭିନ୍ନ ଭାଇରାଲ ରୋଗକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ ଏକର ପିଛା 120 ମିଲି ଆବାମେକ୍ଟିନ କିମ୍ବା 30 ଗ୍ରାମ ଫିପ୍ରୋନିଲ 80 ଡବ୍ଲୁଜି ଲଗାନ୍ତୁ।"
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "କଦଳୀ, କାକୁଡ଼ି ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ କାକୁଡ଼ି ଫସଲରେ ବିଭିନ୍ନ ଭାଇରାଲ ରୋଗକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ ଏକର ପିଛା 120 ମିଲି ଆବାମେକ୍ଟିନ କିମ୍ବା 30 ଗ୍ରାମ ଫିପ୍ରୋନିଲ 80 ଡବ୍ଲୁଜି ଲଗାନ୍ତୁ।"
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "ଆମ୍ବରେ ଫଳ ମାଛି ଆକ୍ରମଣକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ, ଫଳ ମାଛି ଫାନ୍ଦ ବ୍ଯ଼ବହାର କରିବାକୁ ପରାମର୍ଶ ଦିଆଯିବା ଉଚିତ।"
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "ପେପା ଲିଫ୍ କର୍ଲ ଭାଇରସର ଭେକ୍ଟର (ହ୍ୱାଇଟଫ୍ଲାଇ) କୁ ଫାନ୍ଦରେ ପକାଇବା ପାଇଁ ହଳଦିଆ ଷ୍ଟିକି ଫାନ୍ଦ ଲଗାନ୍ତୁ।"
-         ]
-      },
-      "fish": {
-         "advisory": [
-            "ଦିନର ଉଚ୍ଚ ତାପମାତ୍ରାକୁ ବିଚାରକୁ ନେଇ, ତାଜା ପାଣି ମିଶାଇ ମାଛ ପୋଖରୀରେ ଜଳର ଗଭୀରତାକୁ 0.8 ମିଟରରୁ 1 ମିଟରକୁ ବୃଦ୍ଧି କରାଯିବା ଉଚିତ।",
-            "ସାଧାରଣ ଅବସ୍ଥା ତୁଳନାରେ ଖାଦ୍ଯ଼ର ପରିମାଣକୁ 10-20% ହ୍ରାସ କରନ୍ତୁ ଏବଂ ପୋଖରୀରେ ଥଣ୍ଡା ପାଣି ଯୋଗାଣ ପାଇଁ ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ, ଯାହା ଦ୍ୱାରା ତାପମାତ୍ରା ଯଥାସମ୍ଭବ 13-18 °C ମଧ୍ଯ଼ରେ ରହିବ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "livestock": {
          "advisory": [
-            "ଯଦି ପଶୁମାନଙ୍କୁ ଏପର୍ଯ୍ଯ଼ନ୍ତ ଏଫ୍. ଏମ୍. ଡି., ରକ୍ତସ୍ରାବଜନିତ ସେପ୍ଟିସେମିଆ, ବ୍ଲାକ୍ କ୍ୱାର୍ଟର୍, ଏଣ୍ଟେରୋଟକ୍ସିମିଆ ଇତ୍ଯ଼ାଦି ବିରୁଦ୍ଧରେ ଟୀକାକରଣ କରାଯାଇ ନାହିଁ, ତେବେ ଏଗୁଡ଼ିକ କରିବା ଆବଶ୍ଯ଼କ |",
-            "ପଶୁମାନଙ୍କୁ ନିଯ଼ମିତ ଭାବରେ ଲୁଣ ସହିତ ଖଣିଜ ମିଶ୍ରଣ ଦିଆଯିବା ଉଚିତ ଏବଂ ପଶୁମାନଙ୍କ ଶକ୍ତି ଆବଶ୍ଯ଼କତାକୁ ପୂରଣ କରିବା ପାଇଁ ଶୀତ ଋତୁରେ ଦୈନିକ ରାସନରେ ଗହମ ଶସ୍ଯ଼, ଗୁଡ଼ ଇତ୍ଯ଼ାଦି ଯୋଗାଇ ଦିଆଯାଇପାରେ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "Translation failed after maximum retries."
 }

@@ -1,7 +1,105 @@
 {
-   "date": "ତାରିଖ",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "29-06-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 21,
+         "cloud_cover": 8,
+         "rh_max": 85,
+         "rh_min": 62,
+         "wind_speed": 19,
+         "wind_direction": 248
+      },
+      "30-06-2024": {
+         "rainfall": 12,
+         "t_max": 29,
+         "t_min": 22,
+         "cloud_cover": 8,
+         "rh_max": 86,
+         "rh_min": 63,
+         "wind_speed": 17,
+         "wind_direction": 249
+      },
+      "01-07-2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 23,
+         "cloud_cover": 6,
+         "rh_max": 85,
+         "rh_min": 61,
+         "wind_speed": 18,
+         "wind_direction": 243
+      },
+      "02-07-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "cloud_cover": 5,
+         "rh_max": 84,
+         "rh_min": 56,
+         "wind_speed": 17,
+         "wind_direction": 248
+      },
+      "03-07-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "cloud_cover": 4,
+         "rh_max": 79,
+         "rh_min": 55,
+         "wind_speed": 20,
+         "wind_direction": 246
+      }
+   },
+   "names_of_crops": [
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
+   ],
+   "general_advisory": "Translation failed after maximum retries.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      }
+   },
+   "date": "Translation failed after maximum retries."
 }

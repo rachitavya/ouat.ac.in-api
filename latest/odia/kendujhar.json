@@ -1,144 +1,141 @@
 {
    "weather_details": {
-      "15-06-2024": {
-         "rainfall": 5,
-         "t_max": 38,
-         "t_min": 28,
-         "rh_max": 54,
-         "rh_min": 19,
-         "wind_speed": 17,
+      "29-06-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "30-06-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 86,
+         "rh_min": 63,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 4,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 65,
+         "wind_speed": 13,
          "wind_direction": 248,
          "cloud_cover": 6
       },
-      "16-06-2024": {
+      "02-07-2024": {
          "rainfall": 2,
-         "t_max": 38,
-         "t_min": 28,
-         "rh_max": 51,
-         "rh_min": 22,
-         "wind_speed": 17,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 70,
+         "wind_speed": 18,
          "wind_direction": 248,
          "cloud_cover": 5
       },
-      "17-06-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 27,
-         "rh_max": 58,
-         "rh_min": 18,
-         "wind_speed": 18,
-         "wind_direction": 248,
-         "cloud_cover": 4
-      },
-      "18-06-2024": {
-         "rainfall": 6,
-         "t_max": 37,
-         "t_min": 27,
-         "rh_max": 78,
-         "rh_min": 31,
-         "wind_speed": 15,
-         "wind_direction": 234,
-         "cloud_cover": 7
-      },
-      "19-06-2024": {
-         "rainfall": 10,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 79,
-         "rh_min": 39,
+      "03-07-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 66,
          "wind_speed": 16,
-         "wind_direction": 238,
-         "cloud_cover": 7
+         "wind_direction": 257,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "ଧାନ।",
-      "ମକା",
-      "କଦଳୀ",
-      "ମହିଳା ଆଙ୍ଗୁଠି",
-      "କଦଳୀ ଗୁଣ୍ଡ",
-      "ବାଇଗଣ",
-      "କଦଳୀ",
-      "ପେଯ଼ାରା",
-      "ଛେଳି।",
-      "କୁକୁଡ଼ା ମାଂସ"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ଆସନ୍ତା 1-2 ସପ୍ତାହ ମଧ୍ଯ଼ରେ ଦକ୍ଷିଣ-ପଶ୍ଚିମ ମୌସୁମୀ ବର୍ଷା ଆରମ୍ଭ ହୋଇପାରେ। ଧାନ କ୍ଷେତ ପ୍ରସ୍ତୁତ କରନ୍ତୁ। ଫସଲକୁ ଜଳସେଚନ କରନ୍ତୁ। ଧାନ ଏବଂ ମକା ଚାଷ ପାଇଁ କ୍ରସ୍ ହଳ କରି କ୍ଷେତ ପ୍ରସ୍ତୁତ କରନ୍ତୁ। ଧାନ ଚାଷ ପାଇଁ ବର୍ଷାଜଳ ସଞ୍ଚଯ଼ କରିବା ପାଇଁ ବନ୍ଧ ତିଆରି କରନ୍ତୁ।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "ସମଗ୍ର ଚାଷ କରାଯାଉଥିବା ଧାନ ଜମିର 10 ପ୍ରତିଶତ ଧାନ କ୍ଷେତରେ ରହିବା ଉଚିତ। ଉଦା. 1 ହେକ୍ଟର ଜମି ପାଇଁ 1000 ବର୍ଗ ମିଟର ନର୍ସରୀ କ୍ଷେତ୍ର ଆବଶ୍ଯ଼କ।",
-            "କ୍ଷେତକୁ କାଦୁଅ ପାଇଁ ପ୍ରସ୍ତୁତ କରନ୍ତୁ।",
-            "ଅଧିକ ଉତ୍ପାଦନକ୍ଷମ କିସମ (ଏଚ. ୱାଇ. ଭି.) ଯଥା-ସହଭାଗି, ଲାଲଟ, କାଲଚମ୍ପା, ଏମ. ଟି. ଯ଼ୁ. 7029 ଇତ୍ଯ଼ାଦି ଧାନ ମଞ୍ଜି ସଂଗ୍ରହ କରନ୍ତୁ ଏବଂ ସେଗୁଡ଼ିକୁ 12-24 ଘଣ୍ଟା ପର୍ଯ୍ଯ଼ନ୍ତ ପାଣିରେ ଭିଜାଇ ରଖନ୍ତୁ।",
-            "ଭିଜାଇବା ପରେ, ମଞ୍ଜି ଗୁଡ଼ିକୁ ବସ୍ତା ତଳେ ଘୋଡାଇ ଗରମ କରନ୍ତୁ, ଯାହାଦ୍ୱାରା ଏହା ଶୀଘ୍ର ଅଙ୍କୁରିତ ହେବ।",
-            "କ୍ଷେତରେ ପାଣି ରଖିବା ପାଇଁ ଉପଯୁକ୍ତ ବନ୍ଧ ତିଆରି କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "maize": {
          "advisory": [
-            "ଜଳ ସଞ୍ଚଯ଼ କରିବା ପାଇଁ ଉପଯୁକ୍ତ ଜଳସେଚନ ଚ୍ଯ଼ାନେଲ ତିଆରି କରନ୍ତୁ ଏବଂ ଜଳର ଅତିରିକ୍ତ ଜମା ଦୂର କରନ୍ତୁ।",
-            "ମକା ବୁଣିବାର ଗୋଟିଏ ଦିନ ପରେ ଗୋଟିଏ ଜଳସେଚନ ଦ୍ୱାରା ମକା ବୁଣାଯାଇପାରିବ।",
-            "ଆଗାଛାର ପରିଚାଳନା ପାଇଁ ବୁଣିବା ପରେ 3 ଦିନ ପରେ ହେକ୍ଟର ପିଛା 500 ଗ୍ରାମ୍ରେ ପ୍ରାକ-ଉଦ୍ଭବ ହର୍ବିସାଇଡ୍ ଆଟ୍ରାଜିନ୍ 50 ଡବ୍ଲ୍ଯ଼ୁ. ପି. ଲଗାନ୍ତୁ।",
-            "ମକା ମଞ୍ଜି ବୁଣିବା ପୂର୍ବରୁ, କବକନାଶକ ଦ୍ୱାରା ମଞ୍ଜି ଚିକିତ୍ସା କରାଯିବା ଉଚିତ।",
-            "50 ପ୍ରତିଶତ ଏନ୍, ସମ୍ପୂର୍ଣ୍ଣ ଫସଫରସ୍ ଏବଂ ପୋଟାସ୍ ସାର ଫସଲରେ ପ୍ରଯ଼ୋଗ କରାଯିବା ଉଚିତ୍ |",
-            "ପୂର୍ବରୁ ବୁଣାଯାଇଥିବା କେତେକ ମକା ଫସଲ ଘାସ କାଟିବା ପର୍ଯ୍ଯ଼ାଯ଼ରେ ରହିଛି। ଏଫିଡ୍ ସଂକ୍ରମଣ କ୍ଷେତ୍ରରେ, ଇମିଡାକ୍ଲୋପ୍ରିଡ୍ @2 ମିଲି/ଲିଟର ପାଣି ସ୍ପ୍ରେ କରନ୍ତୁ।"
-         ]
-      },
-      "cowpea": {
-         "advisory": [
-            "ଏହାର ସର୍ବୋତ୍ତମ ବୃଦ୍ଧି ପାଇଁ ଗୋଟିଏ ଜଳସେଚନ ପରେ ମଞ୍ଜି ବୁଣିବା ନିହାତି ଆବଶ୍ଯ଼କ।",
-            "ଥ୍ରୀପ୍, ପିମ୍ପୁଡ଼ି ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ ଶୋଷକ କୀଟକୁ ପରିଚାଳନା କରିବା ପାଇଁ ଇମିଡାକ୍ଲୋପ୍ରିଡ୍ 17.8% ଏସ୍. ଏଲ୍. @2.5 ମିଲି/ଲିଟର ପାଣି ସ୍ପ୍ରେ କରନ୍ତୁ।",
-            "ନିଯ଼ମିତ ଭାବେ ଫସଲକୁ ଜଳସେଚନ କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "lady finger": {
          "advisory": [
-            "ଜମି ହଳ କରନ୍ତୁ ଏବଂ ଏକର ପିଛା 2.5 କି. ଗ୍ରା. ରେ ଏଫ. ୱାଇ. ଏମ୍. ଯୋଗ କରନ୍ତୁ।",
-            "ବୁଣିବା ପୂର୍ବରୁ, ଟ୍ରାଇକୋଡର୍ମା ଭାଇରିଡ୍ @4 ଗ୍ରାମ୍/କେଜି ମଞ୍ଜି ସହିତ ମଞ୍ଜି ଉପଚାର କରନ୍ତୁ।",
-            "ହାଇବ୍ରିଡ୍ ପାଇଁ ହେକ୍ଟର ପିଛା 2.5 କି. ଗ୍ରା. ର ବୀଜ ହାର 45 x 30 ସେ. ମି. ବ୍ଯ଼ବଧାନ ସହିତ ବ୍ଯ଼ବହାର କରାଯିବା ଉଚିତ।",
-            "ଓକ୍ରାରେ ଥିବା ଫୁସାରିଯ଼ମ୍ ୱିଲ୍ଟ୍କୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ, 3 ଗ୍ରାମ୍/କେଜି ମଞ୍ଜି ସହିତ ମଞ୍ଜିଗୁଡ଼ିକୁ ଚିକିତ୍ସା କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "bitter gourd": {
          "advisory": [
-            "ମଞ୍ଜି ଗୁଡ଼ିକୁ 3 ଗ୍ରାମ/କେଜି ମଞ୍ଜି ଦେଇ ଉପଚାର କରନ୍ତୁ।",
-            "ମଞ୍ଜି ବୁଣନ୍ତୁ ଏବଂ ମୂଳରୁ 10 ସେ. ମି. ଦୂରରେ ଏଫ. ୱାଇ. ଏମ୍. ଏବଂ ଭର୍ମିକମ୍ପୋଷ୍ଟ ଲଗାନ୍ତୁ।",
-            "ବୁଣିବା କିମ୍ବା କାଟିବା ପରେ ପ୍ରଥମେ ଜଳସେଚନ ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "brinjal": {
          "advisory": [
-            "ଉଠାଯାଇଥିବା ନର୍ସରୀ ଶଯ୍ଯ଼ାରେ, 10 ସେ. ମି. ବ୍ଯ଼ବଧାନରେ ମଞ୍ଜି ବୁଣନ୍ତୁ।",
-            "ବୁଣିବାର 30-35 ଦିନ ପରେ ପ୍ରତିରୋପଣ କରାଯାଇପାରିବ।",
-            "ଚାରାଟି ହଠାତ୍ ଭାଙ୍ଗିଯିବା ନର୍ସରୀ ପାଳିରେ ଭିଜି ଯିବାର ଏକ ଲକ୍ଷଣ। ଏହାକୁ ପରିଚାଳନା କରିବା ପାଇଁ, ଏଗ୍ରୋସନ୍ କିମ୍ବା ସେରେସିନ୍ @2 ଗ୍ରାମ୍/କେଜି ମଞ୍ଜି ସହିତ ମଞ୍ଜି ଚିକିତ୍ସା ଆବଶ୍ଯ଼କ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "banana": {
          "advisory": [
-            "ବର୍ଷା ଜଳ ସଞ୍ଚଯ଼ କରିବା ପାଇଁ ଗଛ ଚାରିପଟେ ରିଙ୍ଗ ବେସିନ ପ୍ରସ୍ତୁତ କରନ୍ତୁ।",
-            "କଦଳୀ ଏଫିଡ୍କୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ ଡାଇମେଥୋଏଟ 30 ଇସି @2 ମିଲି/ଲିଟର ପାଣି ସ୍ପ୍ରେ କରନ୍ତୁ।",
-            "କଦଳୀରେ ହଳଦିଆ ସିଗାଟୋକା ରୋଗ ପରିଚାଳନା ପାଇଁ ପତ୍ରରେ ପ୍ରୋପିକୋନାଜୋଲ୍ @0.1% ସ୍ପ୍ରେ କରନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "guava": {
+      "papaya": {
          "advisory": [
-            "ପିମ୍ପୁଡ଼ି ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ କୀଟପତଙ୍ଗରୁ ରକ୍ଷା ପାଇବା ପାଇଁ ଗଛର ମୂଳ ଅଞ୍ଚଳ ନିକଟରେ କ୍ଲୋରୋପାଇରିଫସ୍ ଲଗାନ୍ତୁ।",
-            "ଫସଲକୁ ଜଳସେଚନ ପାଇଁ ବୃତ୍ତାକାର ଚକ୍ର ତିଆରି କରନ୍ତୁ।"
-         ]
-      },
-      "goat": {
-         "advisory": [
-            "ଛେଳିମାନଙ୍କୁ ଚାରଣ କରନ୍ତୁ କିମ୍ବା ନିଯ଼ମିତ ବ୍ଯ଼ବଧାନରେ ସେମାନଙ୍କୁ ଖାଦ୍ଯ଼ ପ୍ରଦାନ କରନ୍ତୁ।",
-            "କୌଣସି ରୋଗ ଦେଖାଗଲେ ପଶୁ ଚିକିତ୍ସକଙ୍କ ପରାମର୍ଶ ନିଅନ୍ତୁ।",
-            "ପଶୁମାନଙ୍କୁ ନିଯ଼ମିତ ଭାବେ ପାନୀଯ଼ ଜଳ ଯୋଗାଇ ଦିଅନ୍ତୁ।"
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "କୁକୁଡ଼ା ପକ୍ଷୀମାନଙ୍କୁ ଖଣିଜ ଜଳ ଯୋଗାଇଦେବା ଉଚିତ।",
-            "ପକ୍ଷୀମାନଙ୍କର ଟୀକାକରଣ ପାଇଁ ପଶୁ ଚିକିତ୍ସକଙ୍କ ପରାମର୍ଶ ନିଅନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "Translation failed after maximum retries."
 }

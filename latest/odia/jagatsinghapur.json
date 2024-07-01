@@ -1,102 +1,94 @@
 {
    "weather_details": {
-      "15/06/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 67,
-         "rh_min": 44,
-         "wind_speed": 31,
-         "wind_direction": 225,
-         "cloud_cover": 5
-      },
-      "16/06/2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 26,
-         "rh_max": 77,
-         "rh_min": 55,
-         "wind_speed": 30,
-         "wind_direction": 207,
-         "cloud_cover": 4
-      },
-      "17/06/2024": {
-         "rainfall": 0,
+      "29/06/2024": {
+         "rainfall": 15,
          "t_max": 34,
-         "t_min": 27,
-         "rh_max": 71,
-         "rh_min": 60,
-         "wind_speed": 30,
+         "t_min": 26,
+         "rh_max": 74,
+         "rh_min": 56,
+         "wind_speed": 21,
          "wind_direction": 207,
-         "cloud_cover": 4
+         "cloud_cover": 8
       },
-      "18/06/2024": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 79,
+      "30/06/2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 71,
          "rh_min": 58,
-         "wind_speed": 28,
-         "wind_direction": 204,
+         "wind_speed": 25,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 69,
+         "rh_min": 60,
+         "wind_speed": 26,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      },
+      "02/07/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 74,
+         "rh_min": 61,
+         "wind_speed": 26,
+         "wind_direction": 243,
          "cloud_cover": 6
       },
-      "19/06/2024": {
-         "rainfall": 6,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 76,
-         "rh_min": 56,
-         "wind_speed": 29,
-         "wind_direction": 212,
-         "cloud_cover": 7
+      "03/07/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 69,
+         "rh_min": 51,
+         "wind_speed": 27,
+         "wind_direction": 246,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "ଧାନ।",
-      "ମକା",
-      "ଚିନାବାଦାମ",
-      "ଯ଼ାମ୍",
-      "ବାଇଗଣ",
-      "ଓକ୍ରା",
-      "ମତ୍ସ୍ଯ଼ଚାଷ"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ ବର୍ଷା ଉପରେ ନିର୍ଭରଶୀଳ ଧାନ ରୋପଣ ଅଞ୍ଚଳରେ ମୌସୁମୀ ବର୍ଷା ପରେ ବୁଣିବା କରାଯାଇପାରିବ। ଧାନ ଚାଷ ପାଇଁ ସର୍ବଦା ପ୍ରମାଣିତ ମଞ୍ଜି ବ୍ଯ଼ବହାର କରନ୍ତୁ। ବଗିଚା ଫସଲରେ ମାଟିରୁ ବାଷ୍ପୀକରଣ ହ୍ରାସ କରିବାକୁ ମଲ୍ଚିଙ୍ଗ ପରାମର୍ଶ ଦିଆଯାଇଛି | ଅନ୍ତିମ ଜମି ପ୍ରସ୍ତୁତି ସମଯ଼ରେ ଭଲ ଭାବେ ସଙ୍କୁଚିତ ଫାର୍ମ ଯ଼ାର୍ଡ ସାର କିମ୍ବା ଗାଈ-ଗୋବରକୁ ସାମିଲ କରନ୍ତୁ। ଧାନ ପାଇଁ ଆର୍ଦ୍ର ନର୍ସରୀ କ୍ଷେତ୍ର ପ୍ରସ୍ତୁତିରେ ଜଳସେଚନ, ପୋଖରୀ, ଏବଂ ମଞ୍ଜି ଉପଚାର ଅନ୍ତର୍ଭୁକ୍ତ | ମକା, ଚିନାବାଦାମ, ଜାମୁ, ବାଇଗଣ ଏବଂ ଭେଣ୍ଡି ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ ପରାମର୍ଶ ପ୍ରଦାନ କରାଯାଏ |",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "ଜଳସେଚନ ଏବଂ କାଦୁଅ ସମେତ ଧାନ ଚାଷ ପାଇଁ ଆର୍ଦ୍ର ନର୍ସରୀ କ୍ଷେତ୍ର ପ୍ରସ୍ତୁତି ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ। ପ୍ରାରମ୍ଭିକ ପର୍ଯ୍ଯ଼ାଯ଼ରେ କୀଟ ଆକ୍ରମଣରୁ ଉଦ୍ଭିଦକୁ ରକ୍ଷା କରିବା ପାଇଁ ବୀଜ ଚିକିତ୍ସା ଆବଶ୍ଯ଼କ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "maize": {
          "advisory": [
-            "ଫଲ୍ ଆର୍ମି କୃମି ସଂକ୍ରମଣରୁ ରକ୍ଷା ପାଇବା ପାଇଁ ବୀଜ ଚିକିତ୍ସା ବାଧ୍ଯ଼ତାମୂଳକ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "groundnut": {
+      "sugarcane": {
          "advisory": [
-            "ଉପଯୁକ୍ତ ପ୍ରକାରର ଚିନାବାଦାମ ବ୍ଯ଼ବହାର କରନ୍ତୁ ଏବଂ ବୁଣିବା ପୂର୍ବରୁ ସୁପାରିଶ କରାଯାଇଥିବା ପ୍ରଜାତିର ରାଇଜୋବିଯ଼ମ୍ ବ୍ଯ଼ାକ୍ଟେରିଆ କଲ୍ଚର ସହିତ ମଞ୍ଜି ଉପଚାର କରନ୍ତୁ।"
+            "Translation failed after maximum retries."
          ]
       },
-      "yam": {
+      "papaya": {
          "advisory": [
-            "ମେ 'ରୁ ଜୁନ୍ ମାସ ହେଉଛି ଲେମ୍ବୁ ଗଛ ଲଗାଇବା ପାଇଁ ସର୍ବୋତ୍ତମ ସମଯ଼। ଉଚ୍ଚ-ଉତ୍ପାଦନକାରୀ କିସମ ବ୍ଯ଼ବହାର କରନ୍ତୁ ଏବଂ ନିର୍ଦ୍ଦିଷ୍ଟ ରୋପଣ ନିର୍ଦ୍ଦେଶାବଳୀ ଅନୁସରଣ କରନ୍ତୁ |"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
-      "brinjal": {
+      "poultry": {
          "advisory": [
-            "ବାଇଗଣ ଗଛର ରୋଗକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ, ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ଦ୍ରବଣ ସହିତ ଶଯ୍ଯ଼ା ମାଟିକୁ ଭିଜାଇ ଦିଅନ୍ତୁ |"
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "ଓକ୍ରାରେ କୀଟ ଶୋଷିବା ପ୍ରତି ସତର୍କ ରୁହନ୍ତୁ ଏବଂ ଆବଶ୍ଯ଼କ ଅନୁଯାଯ଼ୀ ଉପଯୁକ୍ତ କୀଟନାଶକ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।"
-         ]
-      },
-      "fishery": {
-         "advisory": [
-            "ଉତ୍ତମ ବୃଦ୍ଧି ପାଇଁ କାର୍ପ ପ୍ରଜାତି ସଂରକ୍ଷଣ ଏବଂ ପୁଷ୍କରିଣୀର ଗୁଣବତ୍ତା ବୃଦ୍ଧି ପାଇଁ ସୁପାରିସ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "Translation failed after maximum retries."
 }

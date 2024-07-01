@@ -1,92 +1,84 @@
 {
    "weather_details": {
-      "2024-06-12": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 28,
-         "rh_max": 74,
-         "rh_min": 29,
-         "wind_speed": 15,
-         "wind_direction": 191,
-         "cloud_cover": 6
-      },
-      "2024-06-13": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 28,
+      "2024-06-29": {
+         "rainfall": 30,
+         "t_max": 33,
+         "t_min": 25,
          "rh_max": 72,
-         "rh_min": 34,
-         "wind_speed": 18,
-         "wind_direction": 204,
-         "cloud_cover": 5
-      },
-      "2024-06-14": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 65,
-         "rh_min": 32,
-         "wind_speed": 20,
-         "wind_direction": 212,
-         "cloud_cover": 6
-      },
-      "2024-06-15": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 49,
-         "rh_min": 28,
-         "wind_speed": 18,
-         "wind_direction": 236,
+         "rh_min": 52,
+         "wind_speed": 13,
+         "wind_direction": 248,
          "cloud_cover": 8
       },
-      "2024-06-16": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 58,
-         "rh_min": 30,
-         "wind_speed": 18,
-         "wind_direction": 251,
+      "2024-06-30": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 72,
+         "rh_min": 54,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "2024-07-01": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 57,
+         "wind_speed": 14,
+         "wind_direction": 246,
          "cloud_cover": 7
+      },
+      "2024-07-02": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 74,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "2024-07-03": {
+         "rainfall": 1,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 74,
+         "rh_min": 58,
+         "wind_speed": 13,
+         "wind_direction": 246,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "rice",
-      "sesame",
-      "horticulture",
-      "poultry",
-      "others (soil / land preparation)"
+      "goat",
+      "common carp",
+      "green manuring crops"
    ],
-   "general_advisory": "light rain is expected in the coming five days so farmers may continue irrigation in standing crops. Farmers can go for the soil test before going for planning the kharif crop. Soils of 8 to 10 different places of the field can be taken by kudal by inserting a V shape and mixing the soils. After cleaning and sieving divide the soils into 4 parts and take the opposite 2 parts and place them in polythene and write the plot number and crop taken previously. Send it to soil testing lab for report.",
+   "general_advisory": "Light to moderate rain is expected farmers can go for the sowing of kharif crops in appropriate soil moisture conditions. For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Green manuring crops are sown in medium and low land conditions at 6-8 weeks before planting. Use 10 kg seeds per acre. Otherwise 6 kg/acre in case of mixed planting with paddy. Sowing time should be adjusted in such a way that the crop will attain a 5-week stage just at 7 days before transplanting.",
-            "Apply all the recommended doses of phosphorus of rice (100 kg of SSP) to the field during sowing time."
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
          ]
       },
-      "sesame": {
+      "goat": {
          "advisory": [
-            "To manage Poder borer infestation in sesame farmers can spray spinosad @165 ml per hectare."
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
          ]
       },
-      "horticulture": {
+      "common carp": {
          "advisory": [
-            "Harvest the matured fruits like mango, banana, and jackfruit and sell them before the quality deterioration.",
-            "Weather is favorable for Downy Mildew in cucurbit vegetables. To manage this disease in cucurbits spray Copper Hydroxide 77 % WP @ 3-gram/liter or Carbendazim 12 % + Mancozeb 63 % WP @ 2-gram/liter."
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in the same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
          ]
       },
-      "poultry": {
+      "green manuring crops": {
          "advisory": [
-            "Add vitamin C to food or water of poultry as it decreases dehydration in chicks."
-         ]
-      },
-      "others (soil / land preparation)": {
-         "advisory": [
-            "Summer plowing should be practiced for reducing weeds, pests & diseases in the upcoming Kharif crop."
+            "Green manuring crops are sown in medium and low land conditions at 6-8 weeks before planting. Use 10 kg seeds per acre. Otherwise 6 kg/acre in case of mixed planting with paddy. Sowing time should be adjusted in such a way that the crop will attain a 5-week stage just at 7 days before transplanting. Apply all the recommended doses of phosphorous of rice (100 kg of SSP) to the field during sowing time."
          ]
       }
    },
-   "date": "11-06-2024"
+   "date": "28-06-2024"
 }

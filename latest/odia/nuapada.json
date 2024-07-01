@@ -1,88 +1,163 @@
 {
    "weather_details": {
-      "15-06-2024": {
-         "rainfall": 4,
-         "t_max": 38,
-         "t_min": 27,
-         "rh_max": 63,
-         "rh_min": 25,
-         "wind_speed": 20,
-         "wind_direction": 270,
-         "cloud_cover": 6
-      },
-      "16-06-2024": {
-         "rainfall": 3,
-         "t_max": 39,
-         "t_min": 27,
-         "rh_max": 57,
-         "rh_min": 31,
+      "29-06-2024": {
+         "rainfall": 25,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 55,
          "wind_speed": 16,
-         "wind_direction": 252,
-         "cloud_cover": 6
-      },
-      "17-06-2024": {
-         "rainfall": 4,
-         "t_max": 40,
-         "t_min": 26,
-         "rh_max": 69,
-         "rh_min": 28,
-         "wind_speed": 16,
-         "wind_direction": 238,
-         "cloud_cover": 6
-      },
-      "18-06-2024": {
-         "rainfall": 7,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 66,
-         "rh_min": 37,
-         "wind_speed": 13,
          "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "30-06-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 84,
+         "rh_min": 63,
+         "wind_speed": 16,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 61,
+         "wind_speed": 17,
+         "wind_direction": 249,
          "cloud_cover": 7
       },
-      "19-06-2024": {
-         "rainfall": 10,
+      "02-07-2024": {
+         "rainfall": 3,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 58,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "03-07-2024": {
+         "rainfall": 2,
          "t_max": 37,
-         "t_min": 25,
-         "rh_max": 87,
-         "rh_min": 40,
-         "wind_speed": 13,
-         "wind_direction": 252,
-         "cloud_cover": 7
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 50,
+         "wind_speed": 18,
+         "wind_direction": 249,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "ଧାନ।",
-      "କପା",
-      "ଅରହର",
-      "ସଂକର ମକା"
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries.",
+      "Translation failed after maximum retries."
    ],
-   "general_advisory": "କ୍ଷେତ୍ର ପ୍ରସ୍ତୁତି ପାଇଁ ଆବଶ୍ଯ଼କ ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ କାରଣ ମୌସୁମୀ ଆମ ରାଜ୍ଯ଼ରେ ପ୍ରବେଶ କରିସାରିଛି ଏବଂ ସପ୍ତାହ ଶେଷରେ ହାଲୁକା ବର୍ଷା ହୋଇପାରେ | ଠିଆ ହୋଇଥିବା ଫସଲକୁ ଆବଶ୍ଯ଼କ ଜଳସେଚନ କରିବା ଏବଂ ନିଜ କ୍ଷେତକୁ ଆଗାଛାରୁ ମୁକ୍ତ ରଖିବା ପାଇଁ କୃଷକମାନଙ୍କୁ ପରାମର୍ଶ ଦିଆଯାଉଛି। କୀଟପତଙ୍ଗର ପ୍ରକୋପ ଉପରେ ନିଯ଼ମିତ ନଜର ରଖିବା ଉଚିତ ଏବଂ ପାଣିପାଗ ପୂର୍ବାନୁମାନ ଉପରେ ନଜର ରଖି କୀଟନାଶକ ପ୍ରଯ଼ୋଗ କରାଯିବା ଉଚିତ। ଖରିଫ ଫସଲ ପାଇଁ ଜମି ପ୍ରସ୍ତୁତ କରିବା ପୂର୍ବରୁ କୃଷକମାନଙ୍କୁ ସେମାନଙ୍କ ଫସଲ କ୍ଷେତ୍ରର ମୃତ୍ତିକା ଉର୍ବରତା ସ୍ଥିତି ଜାଣିବା ପାଇଁ ମୃତ୍ତିକା ପରୀକ୍ଷା କରିବାକୁ ପରାମର୍ଶ ଦିଆଯାଇଛି। ଜମି ପ୍ରସ୍ତୁତିରେ ବ୍ଯ଼ବହାର ପାଇଁ ବର୍ଷା ଜଳକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ, ବନ୍ଧ ତିଆରି କରି ଏବଂ କ୍ଷେତ ଭିତରେ ଥିବା ଛିଦ୍ରଗୁଡ଼ିକୁ ବନ୍ଦ କରିଦିଅନ୍ତୁ।",
+   "general_advisory": "Translation failed after maximum retries.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ, କେଭିକେ, ଓଯ଼ୁଏଟି, ବ୍ଲକ କୃଷି କାର୍ଯ୍ଯ଼ାଳଯ଼ ଇତ୍ଯ଼ାଦି ବିଶ୍ୱସନୀଯ଼ ଉତ୍ସରୁ ଧାନର ପ୍ରମାଣିତ ମଞ୍ଜି ବ୍ଯ଼ବସ୍ଥା କରିବାକୁ କୃଷକମାନଙ୍କୁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
-            "ବୀଜ ହାରଃ ରୋପଣ କରାଯାଇଥିବା ଧାନ ପାଇଁ ଏସି ପିଛା 20 କି. ଗ୍ରା., ହସ୍ତଚାଳିତ ପ୍ରତ୍ଯ଼କ୍ଷ ବିହନ ବୁଣିବା ପାଇଁ ଏସି ପିଛା 30-40 କି. ଗ୍ରା. ଏବଂ ଯାନ୍ତ୍ରିକ ପ୍ରତ୍ଯ଼କ୍ଷ ବିହନ ବୁଣିବା ପାଇଁ ଏସି ପିଛା 10 କି. ଗ୍ରା.।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "cotton": {
          "advisory": [
-            "ଅଧିକ ଉତ୍ପାଦନ ପାଇବା ପାଇଁ ଜୁନ୍ ଶେଷ ସୁଦ୍ଧା ବୁଣିବା ଶେଷ ହେବା ଉଚିତ। ଏ. ଆଇ. ସି. ଆର୍. ପି. ଭଳି ବିଶ୍ୱସନୀଯ଼ ଉତ୍ସରୁ କପା, ଓ. ଯ଼ୁ. ଏ. ଟି. ଏବଂ ସାର୍ଟିଫାଏଡ୍ ଡିଲର୍ ଇତ୍ଯ଼ାଦି ଉପରେ ଉତ୍ତମ ଗୁଣବତ୍ତା ବିଶିଷ୍ଟ ମଞ୍ଜି ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ।",
-            "ଚାଷ କରିବା ପୂର୍ବରୁ ମାଟି ଉପରେ ଏଫ. ୱାଇ. ଏମ୍. କିମ୍ବା କମ୍ପୋଷ୍ଟ @2 ଟନ୍/ଏକର କିମ୍ବା ଭର୍ମିକମ୍ପୋଷ୍ଟ <ଆଇ. ଡି. 1> ଟନ୍/ଏକର ସମାନ ଭାବେ ଲଗାନ୍ତୁ।"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "arhar": {
          "advisory": [
-            "ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ, କେ. ଭି. କେ., ଓ. ଯ଼ୁ. ଏ. ଟି., ବ୍ଲକ କୃଷି କାର୍ଯ୍ଯ଼ାଳଯ଼ ଇତ୍ଯ଼ାଦି ବିଶ୍ୱସନୀଯ଼ ଉତ୍ସରୁ ଉତ୍ତମ ମାନର ମଞ୍ଜି ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ। ଅଧିକ ଉତ୍ପାଦନ ପାଇବା ପାଇଁ ଜୁନ୍ ଶେଷ ସୁଦ୍ଧା ବୁଣିବା ଶେଷ ହେବା ଉଚିତ।",
-            "ଉଇପୋକା ସ୍ଥାନୀଯ଼ ଅଞ୍ଚଳରେ କ୍ଲୋରୋପାଇରିଫୋସ୍ ଧୂଳି ପ୍ରଯ଼ୋଗ ଭୂମି ପ୍ରସ୍ତୁତି ସମଯ଼ରେ 10 କି. ଗ୍ରା./ଏ. ସି. ରେ 1%"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ, କେ. ଭି. କେ., ଓ. ଯ଼ୁ. ଏ. ଟି., ବ୍ଲକ କୃଷି କାର୍ଯ୍ଯ଼ାଳଯ଼ ଇତ୍ଯ଼ାଦି ବିଶ୍ୱସନୀଯ଼ ଉତ୍ସରୁ ଭଲ ଗୁଣବତ୍ତା ବିଶିଷ୍ଟ ମଞ୍ଜି ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ। ଜୁନ୍ ମାସରୁ ଜୁଲାଇ ମାସର ପ୍ରଥମ ପନ୍ଦର ଦିନ ପର୍ଯ୍ଯ଼ନ୍ତ ବୁଣା ଯାଇପାରିବ। ତେବେ, ଯଦି ଜଳସେଚନ ସୁବିଧା ଉପଲବ୍ଧ ଥାଏ, ତେବେ ମୌସୁମୀ ଆରମ୍ଭ ହେବାର 10-15 ଦିନ ପୂର୍ବରୁ ଯଥାଶୀଘ୍ର ବୁଣିବା ଦ୍ୱାରା ଉତ୍ପାଦକତା ବୃଦ୍ଧି ପାଇଥାଏ।",
-            "ଉଇପୋକା ସ୍ଥାନୀଯ଼ ଅଞ୍ଚଳରେ କ୍ଲୋରୋପାଇରିଫୋସ୍ ଧୂଳି ପ୍ରଯ଼ୋଗ ଭୂମି ପ୍ରସ୍ତୁତି ସମଯ଼ରେ 10 କି. ଗ୍ରା./ଏ. ସି. ରେ 1%"
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Translation failed after maximum retries.",
+            "Translation failed after maximum retries."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Translation failed after maximum retries."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Translation failed after maximum retries."
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "Translation failed after maximum retries."
 }

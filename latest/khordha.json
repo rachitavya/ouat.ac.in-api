@@ -58,6 +58,7 @@
       "papaya",
       "poultry"
    ],
+   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Incorporate green manure and apply appropriate fertilizers. Follow specific instructions for each crop mentioned.",
    "crops_data": {
       "paddy": {
          "advisory": [

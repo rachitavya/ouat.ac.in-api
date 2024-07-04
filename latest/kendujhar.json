@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "29-06-2024": {
+      "03-07-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 25,
+         "rh_max": 80,
+         "rh_min": 65,
+         "wind_speed": 18,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "04-07-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 56,
+         "wind_speed": 12,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
          "rainfall": 15,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 81,
-         "rh_min": 55,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 59,
          "wind_speed": 10,
          "wind_direction": 248,
          "cloud_cover": 8
       },
-      "30-06-2024": {
-         "rainfall": 15,
+      "06-07-2024": {
+         "rainfall": 10,
          "t_max": 30,
-         "t_min": 22,
-         "rh_max": 86,
-         "rh_min": 63,
-         "wind_speed": 11,
-         "wind_direction": 248,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 57,
+         "wind_speed": 10,
+         "wind_direction": 238,
          "cloud_cover": 8
       },
-      "01-07-2024": {
-         "rainfall": 4,
-         "t_max": 30,
-         "t_min": 22,
-         "rh_max": 88,
-         "rh_min": 65,
-         "wind_speed": 13,
-         "wind_direction": 248,
-         "cloud_cover": 6
-      },
-      "02-07-2024": {
-         "rainfall": 2,
-         "t_max": 33,
+      "07-07-2024": {
+         "rainfall": 20,
+         "t_max": 29,
          "t_min": 24,
-         "rh_max": 88,
-         "rh_min": 70,
-         "wind_speed": 18,
+         "rh_max": 85,
+         "rh_min": 54,
+         "wind_speed": 9,
          "wind_direction": 248,
-         "cloud_cover": 5
-      },
-      "03-07-2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 66,
-         "wind_speed": 16,
-         "wind_direction": 257,
-         "cloud_cover": 4
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
@@ -60,60 +60,59 @@
       "cowpea",
       "pointed gourd",
       "banana",
-      "papaya"
+      "papaya",
+      "guava"
    ],
-   "general_advisory": "Field preparation should be done according to the rainfall. Make bunds to store rainwater for paddy cultivation. Transplanting of the nursery should be done after a sufficient amount of rainfall. Make channels to remove excess water from the field. Make water structures such as pits to save water. Postpone spraying of fertilizers and pesticides.",
+   "general_advisory": "Postpone spraying of fertilisers and pesticides. Prepare the field for paddy transplanting. Make bunds to store rainwater for paddy cultivation. Transplanting of nursery should be done after sufficient amount of rainfall. Make water structures such as pits to save water.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "On receipt of showers, prepare the field by destroying the weeds and clods.",
             "Make proper bunds to retain water in the field.",
+            "With ample amount of water stand, complete the transplanting process.",
+            "Make sure the soil is well puddled before transplanting of paddy.",
             "Monitor the field for any diseases and pests.",
-            "Apply DAP 10 days prior to pulling out of seedlings at 21-25 days.",
             "Prepare the field ready for transplanting after 21 days of sowing.",
-            "Apply full phosphatic and potassic fertilizers in the main field during the last plowing.",
-            "Puddling activities should be done with the onset of monsoon.",
+            "Apply full phosphatic and potassic fertilisers in the main field during last ploughing.",
             "Be careful while transplanting. The field should have good water stand."
          ]
       },
       "maize": {
          "advisory": [
-            "Sowing of maize should be done at the earliest.",
-            "Make sure the field is clean and weed-free.",
-            "Apply pre-emergence herbicide Atrazine 50 WP @ 500 g/ha at 3 days after sowing to manage weeds.",
+            "Those who have not sown yet, complete the process of sowing.",
+            "Remove grasses and other weeds from the main field.",
             "Before sowing of the maize seeds, seed treatment with fungicides should be done.",
-            "50% N, full phosphorus, and potash fertilizer should be applied to the crops.",
+            "50% N, full phosphorus and potash fertiliser should be applied to the crops.",
             "In case of aphids infestation, spray Imidachloprid @ 2 ml/lt of water.",
-            "Application of 25% Nitrogen (in the form of Urea) should be done at knee height stage or 25 days after sowing.",
-            "The incidence of fall armyworm may increase in the near future. Therefore, keep a watch on the pest attack."
+            "Application of 25% Nitrogen (in form of Urea) should be done at knee height stage or 25 days after sowing.",
+            "The incidence of fall army worm may increase in near future. Therefore, keep a watch on the pest attack."
          ]
       },
       "lady finger": {
          "advisory": [
-            "Sow the fungicide-treated seeds only.",
-            "Do not allow stagnant water near the germinating seed zone.",
+            "Make sure to keep the sowing area weed free.",
+            "Sow the fungicide treated seeds only.",
+            "Do not allow stagnant water near to the germinating seed zone.",
             "Apply Mancozeb or Thiram @ 3g/Kg of seed to manage Fusarium wilt."
          ]
       },
       "bitter gourd": {
          "advisory": [
             "Treat the seeds with Thiram @ 3 g/kg of seeds.",
-            "Sow the seeds and apply FYM and vermicompost 10 cm away from the root.",
             "Make channels to remove excess water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Transplanting can be done 30-35 days after sowing.",
+            "Transplanting can be done 30 -35 days after sowing.",
             "Sudden collapsing of the seedling is a symptom for damping off in nursery raising. To manage it, seed treatment with Agrosan or ceresin @ 2 g/kg of seeds is necessary.",
-            "Avoid waterlogging as it will lead to rotting."
+            "Avoid water logging as it will lead to rotting."
          ]
       },
       "cowpea": {
          "advisory": [
-            "For managing ants, Chloropyriphos application can be helpful.",
-            "Spray Imidachloprid 17.8% SL @ 2.5 ml/lt of water to manage Thrips, ants, and other sucking pests.",
-            "Monitor the field regularly for diseases and pests."
+            "Spray Imidachloprid 17.8% SL @ 2.5 ml/lt of water to manage Thrips, ants and other sucking pests.",
+            "Monitor the field regularly for disease and pests.",
+            "Harvest the first round of plucking/harvesting of cowpea."
          ]
       },
       "pointed gourd": {
@@ -124,9 +123,8 @@
       },
       "banana": {
          "advisory": [
-            "Spray Dimethoate 30 EC @ 2 ml/lt of water to control banana aphids.",
             "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves.",
-            "Prepare a ring basin around the plant to store rainwater.",
+            "Prepare ring basin around the plant to store rainwater.",
             "Provide support to the plants in case of fruiting."
          ]
       },
@@ -135,7 +133,13 @@
             "Remove excess water from the root zone.",
             "After seed treatment, sow the seeds."
          ]
+      },
+      "guava": {
+         "advisory": [
+            "Keep the plant away from water stagnation as it may lead to rotting.",
+            "Remove the grasses from the root zone otherwise it may hamper the growth of the plant."
+         ]
       }
    },
-   "date": "28-06-2024"
+   "date": "02-07-2024"
 }

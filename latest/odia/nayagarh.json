@@ -52,87 +52,57 @@
       }
    },
    "names_of_crops": [
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries."
+      "ଧାନ।",
+      "ଆଖୁ",
+      "ମକା",
+      "ଟମାଟୋ",
+      "ବାଇଗଣ",
+      "ନଡ଼ିଆ",
+      "ପନିପରିବା",
+      "ପୋଖରୀଗୁଡ଼ିକ"
    ],
-   "general_advisory": "Translation failed after maximum retries.",
+   "general_advisory": "ଧାନ ଫସଲରେ, ପେନିକଲ୍ ଆରମ୍ଭ, ପେନିକଲ୍ ଉଦ୍ଭବ, ଫୁଲ ଏବଂ କ୍ଷୀର ଦୋଇବା ପର୍ଯ୍ଯ଼ାଯ଼ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପର୍ଯ୍ଯ଼ାଯ଼ | ଜଳର ଅଭାବକୁ ଏଡ଼ାଇବା ଉଚିତ। ଆଖୁରେ ଶୁଖିଲା ପତ୍ରରେ ଧାଡ଼ିଗୁଡ଼ିକୁ ଢାଙ୍କି ଦିଅନ୍ତୁ। ମକା ଫସଲରେ ସ୍ପ୍ରିଂକଲର ଜଳସେଚନ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ। ଜଳସେଚନ ଚ୍ଯ଼ାନେଲରେ ପଲିଥିନ୍ ବିସ୍ତାର କରନ୍ତୁ। ଟମାଟୋ ଏବଂ ବାଇଗଣରେ ସ୍ଟ୍ରେପ୍ଟୋସାଇକ୍ଲିନ୍ ଲଗାନ୍ତୁ।",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ପେନିକଲ୍ ଆରମ୍ଭ, ପେନିକଲ୍ ଉଦ୍ଭବ, ଫୁଲ ଏବଂ କ୍ଷୀର ଦୋଇବା ପର୍ଯ୍ଯ଼ାଯ଼ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ | ଜଳ ଅଭାବରୁ ଦୂରେଇ ରୁହନ୍ତୁ।"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଗରମ ମାସରେ ବାରମ୍ବାର ଜଳସେଚନ କରନ୍ତୁ। ଆକ୍ରମଣ କରାଯାଇଥିବା ଅଙ୍କୁରଗୁଡ଼ିକୁ କାଟନ୍ତୁ। ପ୍ରଥମେ ଉପରକୁ ଉଠିବା ସମଯ଼ରେ ଫିପ୍ରୋନିଲ 0.3% ଜିଆର ଲଗାନ୍ତୁ।"
          ]
       },
       "maize": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଅଧିକ ତାପମାତ୍ରା ଜଳର ଆବଶ୍ଯ଼କତାକୁ ବଢ଼ାଇଥାଏ। ଠିକ୍ ସମଯ଼ରେ ଜଳସେଚନ କରନ୍ତୁ ଏବଂ ଅଟକି ରହିଥିବା ପାଣିକୁ ଏଡ଼ାଇ ଯାଆନ୍ତୁ।"
          ]
       },
       "tomato": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଶୁଷ୍କତାକୁ ରୋକିବା ପାଇଁ ମୂଳ ଅଞ୍ଚଳରେ 1ଜି ସ୍ଟ୍ରେପ୍ଟୋସାଇକ୍ଲିନ୍ ଲଗାନ୍ତୁ।"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଫେରୋମୋନ୍ ଫାନ୍ଦ ସ୍ଥାପନ କରନ୍ତୁ। ନିମ୍ବ ଆଧାରିତ କୀଟନାଶକ ସ୍ପ୍ରେ କରନ୍ତୁ। ଆବଶ୍ଯ଼କ ହେଲେ ରାସାଯ଼ନିକ ନିଯ଼ନ୍ତ୍ରଣ ପାଇଁ ଯାଆନ୍ତୁ।"
          ]
       },
       "coconut": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଜଳକ୍ଷଯ଼ ହ୍ରାସ କରିବା ପାଇଁ ଗଛ ଚାରିପାଖରେ ନଡ଼ିଆ ପତ୍ରକୁ ମଲ୍ଚ କରନ୍ତୁ।"
          ]
       },
-      "vegetable seedlings": {
+      "vegetables": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଦିନରେ ନୂତନ ରୋପଣ କରାଯାଇଥିବା ଚାରା ଗୁଡ଼ିକୁ ଢାଙ୍କି ଦିଅନ୍ତୁ।"
          ]
       },
-      "fingerlings": {
+      "ponds": {
          "advisory": [
-            "Translation failed after maximum retries."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Translation failed after maximum retries."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Translation failed after maximum retries."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Translation failed after maximum retries."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Translation failed after maximum retries."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Translation failed after maximum retries."
+            "ଯଦି ପାଣିର ତାପମାତ୍ରା ବୃଦ୍ଧି ପାଏ, ତେବେ ଫିଙ୍ଗରଲିଂ ଅମଳ କରନ୍ତୁ। ପର୍ଯ୍ଯ଼ାପ୍ତ ଜଳ ଗଭୀରତା ସୁନିଶ୍ଚିତ କରନ୍ତୁ।"
          ]
       }
    },
-   "date": "Translation failed after maximum retries."
+   "date": "02-04-2024"
 }

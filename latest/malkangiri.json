@@ -1,18 +1,38 @@
 {
    "weather_details": {
-      "24-06-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 27,
+      "28.06.2024": {
+         "rainfall": 59,
+         "t_max": 34,
+         "t_min": 25,
          "rh_max": 0,
          "rh_min": 0,
          "wind_speed": 0,
          "wind_direction": 0,
          "cloud_cover": 0
       },
-      "25-06-2024": {
+      "29.06.2024": {
          "rainfall": 1,
-         "t_max": 36,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "30.06.2024": {
+         "rainfall": 37,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "01.07.2024": {
+         "rainfall": 20,
+         "t_max": 29,
          "t_min": 26,
          "rh_max": 0,
          "rh_min": 0,
@@ -20,25 +40,55 @@
          "wind_direction": 0,
          "cloud_cover": 0
       },
-      "26-06-2024": {
-         "rainfall": 3,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "27-06-2024": {
-         "rainfall": 30,
-         "t_max": 37,
+      "03-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
          "t_min": 25,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "rh_max": 82,
+         "rh_min": 67,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "04-07-2024": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 8,
+         "wind_direction": 240,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 81,
+         "wind_speed": 6,
+         "wind_direction": 210,
+         "cloud_cover": 8
+      },
+      "06-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 73,
+         "wind_speed": 8,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "07-07-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 96,
+         "rh_min": 81,
+         "wind_speed": 10,
+         "wind_direction": 238,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
@@ -47,24 +97,25 @@
       "chilli",
       "tomato"
    ],
-   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during a dry spell. Go for field preparation for non-paddy crops like pulse, oilseeds, and vegetables in upland condition and take up early sowing/transplanting. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rain water at one portion in the field. This water can be used for irrigation in the crops during dry spell. Go for field preparation for non-paddy crops like pulse, oilseeds and vegetables in upland condition and take up early sowing/transplanting. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Complete the sowing where direct seeding is practiced. Incorporate well decomposed FYM or cow-dung @ 800 kg/acre. Apply 26 kg DAP and 20 kg MoP per acre during the last ploughing. Sow the short duration varieties @ 25-30 kg/acre behind the plough with maintaining 15-20 cm row to row distance. Before sowing seed should be treated with Trichoderma viride @ 10 g or Carbendazim 50% WP @ 1.5 g/kg seed.",
-            "In direct sown rice field, spray Bispyribac sodium 10% SC @ 15 ml/tanks of 16 litre capacity at 8-10 days after sowing or when the weeds are at 2-3 leaf stage in moist soil as an alternative to manual weeding.",
-            "Raise the nursery for transplanted kharif rice. 320 m2 nursery area is required for transplanting of one acre land. Apply 16 baskets of well decomposed FYM, 3.3 kg urea, 2.1 kg DAP, and 1.6 kg MoP in 320 m2 nursery area during land preparation."
+            "Collect hybrid or high yielding varieties of paddy with resistant to diseases and insect pests as per the land situations of the farmers from the nearby dealers.",
+            "Farmers are advised for sowing of dhanicha seeds @ 10 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3 -4 weeks old at the time of transplanting of rice. Apply phosphatic fertilizer in the dhaincha fields required for paddy cultivation",
+            "Transplant 15 -25days seedling. Treat the nursery seedlings or root dip uprooted seedlings in the solution of neem oil @ 5ml/litre of water and metalaxyl + mancozeb @ 1.25 g/litre of water."
          ]
       },
       "maize": {
          "advisory": [
-            "This is the optimum time for sowing of maize, prepare the land and incorporate FYM @ 2 t/acre at final land preparation and during sowing time apply 35 kg DAP, 4 kg urea, and 27 kg MoP per acre. Sow the maize seeds with a spacing of 60 x 20-25 cm using 6 kg seeds/acre."
+            "Complete the sowing of 10 Kg Maize hybrid seed per acre with the spacing of 60 cm row to row and 20 -25cm between plants.",
+            "Spray Atrazine @1Kg /acre within 2 days of sowing to control the weeds in maize field."
          ]
       },
       "chilli": {
          "advisory": [
-            "Incidence of thrips may observe in chilli, if observed spray Spinosad 45% SC @ 0.4 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water in clean and dry weather.",
-            "Chances of fruit rot infestation in chilli and brinjal, if observed spray Carbendazim 50% WP @ 2 g/litre of water or Copper oxychloride 50% WP @ 3 g/litre of water."
+            "This is the optimum time for direct sowing ragi. Sow the seeds @ 4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed.",
+            "Sow 4Kg seeds of Arjun, Kalua, Bharabi, etc. high yielding ragi varieties per acre."
          ]
       },
       "tomato": {
@@ -73,5 +124,5 @@
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "02-07-2024"
 }

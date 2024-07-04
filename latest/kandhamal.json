@@ -52,21 +52,30 @@
       }
    },
    "names_of_crops": [
-      "tomato/chilli",
+      "tomato",
+      "chilli",
       "rice",
-      "palak/leafy vegetables",
+      "palak",
+      "leafy vegetables",
       "maize",
       "fishery",
       "poultry"
    ],
-   "general_advisory": "Seeing the upcoming windy days, farmers are advised to postpone their spraying events. Seeing the upcoming rainfall event, make provisions for drainage of excess water to deter rotting and plantlet damage. Postpone the sowing for the rainfall. Seeing the onset of monsoon events, prepare the nursery beds with raised bed method. Make provision for giving anchor to fruit plants to prevent topp...",
+   "general_advisory": "Seeing the upcoming windy days, farmers are advised to postpone their spraying events. Seeing the upcoming rainfall event, make provisions for drainage of excess water to deter rotting and plantlet damage. Postpone the sowing for the rainfall. Seeing the onset of monsoon events, prepare the nursery beds with raised bed method. Make provision for giving anchor to fruit plants to prevent toppling.",
    "crops_data": {
-      "tomato/chilli": {
+      "tomato": {
          "advisory": [
             "Stage - nursery",
             "Water stagnation may cause root rot and motility.",
             "Make provision to drain out excess water from nursery bed.",
             "Cover the bed with polythene sheet during heavy rainfall."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Stage - nursery",
+            "Water stagnation may cause root rot and motility.",
+            "Make provision to drain out excess water from nursery bed."
          ]
       },
       "rice": {
@@ -76,7 +85,12 @@
             "Make provision to drain out excess water from nursery bed."
          ]
       },
-      "palak/leafy vegetables": {
+      "palak": {
+         "advisory": [
+            "Cover the leafy veggies with polythene during rain and drain out excess of water after rain recedes."
+         ]
+      },
+      "leafy vegetables": {
          "advisory": [
             "Cover the leafy veggies with polythene during rain and drain out excess of water after rain recedes."
          ]
@@ -90,7 +104,7 @@
          "advisory": [
             "Rainwater is acidic and can wash out alkaline materials from the edges of the pond and reduce pH of water in the pond.",
             "To limit this, use lime along edges of the pond before it rains (apply it dryly) with 10 kg lime/100m2.",
-            "After the rain, use lime with 10 -20 kg lime/ha."
+            "After the rain, use lime with 10-20 kg lime/ha."
          ]
       },
       "poultry": {

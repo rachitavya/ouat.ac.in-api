@@ -1,94 +1,93 @@
 {
    "weather_details": {
-      "29/06/2024": {
-         "rainfall": 12,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 73,
-         "rh_min": 51,
-         "wind_speed": 19,
-         "wind_direction": 212,
-         "cloud_cover": 8
-      },
-      "30/06/2024": {
-         "rainfall": 15,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 71,
-         "rh_min": 54,
-         "wind_speed": 21,
-         "wind_direction": 225,
-         "cloud_cover": 8
-      },
-      "01/07/2024": {
-         "rainfall": 5,
-         "t_max": 34,
+      "03/07/2024": {
+         "rainfall": 4,
+         "t_max": 32,
          "t_min": 25,
-         "rh_max": 68,
-         "rh_min": 53,
-         "wind_speed": 24,
-         "wind_direction": 246,
+         "rh_max": 65,
+         "rh_min": 50,
+         "wind_speed": 22,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "04/07/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 48,
+         "wind_speed": 18,
+         "wind_direction": 204,
          "cloud_cover": 7
       },
-      "02/07/2024": {
-         "rainfall": 2,
+      "05/07/2024": {
+         "rainfall": 5,
          "t_max": 35,
          "t_min": 26,
-         "rh_max": 68,
-         "rh_min": 53,
-         "wind_speed": 22,
-         "wind_direction": 246,
-         "cloud_cover": 5
+         "rh_max": 71,
+         "rh_min": 51,
+         "wind_speed": 21,
+         "wind_direction": 204,
+         "cloud_cover": 7
       },
-      "03/07/2024": {
-         "rainfall": 2,
-         "t_max": 36,
-         "t_min": 27,
-         "rh_max": 69,
+      "06/07/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 47,
+         "wind_speed": 16,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "07/07/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 73,
          "rh_min": 49,
-         "wind_speed": 10,
-         "wind_direction": 249,
-         "cloud_cover": 4
+         "wind_speed": 18,
+         "wind_direction": 208,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries."
+      "ଡାଲିଗୁଡ଼ିକ",
+      "ମକା",
+      "ପନିପରିବା",
+      "ଚିନାବାଦାମ",
+      "ମତ୍ସ୍ଯ଼ଚାଷ"
    ],
-   "general_advisory": "Translation failed after maximum retries.",
+   "general_advisory": "ଜଳ ନିଷ୍କାସନ, ପନିପରିବା ଏବଂ ଫଳ ଅମଳ ପାଇଁ ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ, ଜଳ ଅମଳ ସଂରଚନା ମରାମତି କରନ୍ତୁ, ଧାନ ପାଇଁ ସାର୍ଟିଫାଏଡ୍ ମଞ୍ଜି ବ୍ଯ଼ବହାର କରନ୍ତୁ, ଧାଇଞ୍ଚା ସବୁଜ ସାର ଫସଲ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ, ସ୍ୱଚ୍ଛ ପାଣିପାଗ ପର୍ଯ୍ଯ଼ନ୍ତ ସାର ଏବଂ କୀଟନାଶକ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ ନାହିଁ |",
    "crops_data": {
-      "paddy": {
+      "pulses": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ଧାନ କ୍ଷେତରେ ପାଣି ଛିଡ଼ା କରି ରଖନ୍ତୁ ନାହିଁ।"
          ]
       },
       "maize": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ମକା ପାଇଁ ବିହନ ହାର ଏକର ପିଛା 6-7 କିଲୋଗ୍ରାମ।",
+            "ଫଲ୍ ଆର୍ମି ୱର୍ମର ସଂକ୍ରମଣକୁ ଏଡ଼ାଇବା ପାଇଁ, Cyantraniliprole19.8% + ଥିଯ଼ାମେଥୋକ୍ସାମ୍ 19.8% FS ସହିତ ମଞ୍ଜି ଚିକିତ୍ସା କରନ୍ତୁ।",
+            "ଧାଡ଼ି ଠାରୁ ଧାଡ଼ି ମଧ୍ଯ଼ରେ ଦୂରତା 60 ସେ. ମି. ରଖନ୍ତୁ ଏବଂ ଗଛ ଲଗାଇବା ପାଇଁ 20 ସେ. ମି. ରଖନ୍ତୁ।"
          ]
       },
-      "sugarcane": {
+      "vegetables": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ପନିପରିବା ଅମଳ କରନ୍ତୁ।"
          ]
       },
-      "papaya": {
+      "groundnut": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ପ୍ରାକ୍-ଆବିର୍ଭାବ ହର୍ବିସାଇଡ୍ ଅକ୍ସିଫ୍ଲୁଅର୍ଫେନ୍ 23.5% ଇସି ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।",
+            "ପ୍ରସ୍ତାବିତ ପ୍ରଜାତିର ରାଇଜୋବିଯ଼ମ୍ ବ୍ଯ଼ାକ୍ଟେରିଆ କଲ୍ଚର ସହିତ ମଞ୍ଜି ଉପଚାର କରନ୍ତୁ।"
          ]
       },
-      "poultry": {
+      "fishery": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ରୋହୁ, କାଟଲା ଏବଂ ମୃଗାଲ୍ ଭଳି କାର୍ପ୍କୁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ଅନୁପାତ 4:3:3ରେ ମହଜୁଦ ରଖିବା ଉଚିତ।"
          ]
       }
    },
-   "date": "Translation failed after maximum retries."
+   "date": ""
 }

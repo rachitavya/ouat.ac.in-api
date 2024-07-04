@@ -1,103 +1,135 @@
 {
    "weather_details": {
-      "29/06/2024": {
-         "rainfall": 15,
-         "t_max": 33,
+      "03/07/2024": {
+         "rainfall": 5,
+         "t_max": 30,
          "t_min": 24,
          "rh_max": 83,
+         "rh_min": 64,
+         "wind_speed": 14,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "04/07/2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 54,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "05/07/2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "06/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 53,
+         "wind_speed": 10,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "07/07/2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 81,
          "rh_min": 47,
          "wind_speed": 10,
          "wind_direction": 248,
-         "cloud_cover": 7
-      },
-      "30/06/2024": {
-         "rainfall": 17,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 87,
-         "rh_min": 56,
-         "wind_speed": 10,
-         "wind_direction": 244,
          "cloud_cover": 8
-      },
-      "01/07/2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 87,
-         "rh_min": 58,
-         "wind_speed": 11,
-         "wind_direction": 249,
-         "cloud_cover": 7
-      },
-      "02/07/2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 88,
-         "rh_min": 63,
-         "wind_speed": 15,
-         "wind_direction": 248,
-         "cloud_cover": 7
-      },
-      "03/07/2024": {
-         "rainfall": 1,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 62,
-         "wind_speed": 13,
-         "wind_direction": 252,
-         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries."
+      "ଡାଲିଗୁଡ଼ିକ",
+      "ତୈଳବୀଜ",
+      "ପନିପରିବା",
+      "ରବି ଧାନ",
+      "ସୁଗନ୍ଧିତ ଧାନ",
+      "ମକା",
+      "ଚିନାବାଦାମ",
+      "ଅଦା।",
+      "ହଳଦୀ",
+      "ଯ଼ାମ୍"
    ],
-   "general_advisory": "Translation failed after maximum retries.",
+   "general_advisory": "ଦିନର ସର୍ବାଧିକ ଉତ୍ତାପ ସମଯ଼ରେ କୃଷକମାନଙ୍କୁ ବାହାରେ ବାହାରକୁ ନଯିବା ପାଇଁ ପରାମର୍ଶ ଦିଆଯାଇଛି। ମୌସୁମୀ ଋତୁରେ ଯେତେବେଳେ ସମୁଦାଯ଼ 70 ମିଲିମିଟରରୁ ଅଧିକ ବର୍ଷା ହୋଇଥାଏ, ସେତେବେଳେ ଖରିଫ ଫସଲ ବୁଣିବା ଆରମ୍ଭ କରନ୍ତୁ।",
    "crops_data": {
       "pulses": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ମୌସୁମୀ ବର୍ଷା ପରେ ଜମି ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ କ୍ଷେତରେ ବିଭିନ୍ନ ଡାଲି ବୁଣିବା ଆରମ୍ଭ କରନ୍ତୁ।"
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "ଜମିର ପ୍ରକାର ଏବଂ ଉପଲବ୍ଧ ସମ୍ବଳ ଅନୁସାରେ କିସମର ଚଯ଼ନ କରନ୍ତୁ। 115-125 ଦିନର ସ୍ୱର୍ଣ୍ଣ ଶ୍ରେଯ଼ା ପରି ବିଭିନ୍ନତା | ଏହା ମରୁଡ଼ି ସହନଶୀଳ ଏବଂ ରୋଗ ଓ କୀଟପତଙ୍ଗ ପ୍ରତି ସହନଶୀଳ।",
+            "ତିନି ବର୍ଷ ପରେ ପ୍ରମାଣିତ ମଞ୍ଜି ବଦଳାନ୍ତୁ।"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ବାଇଗଣରେ ତାପମାତ୍ରା ପ୍ରଭାବ ହେତୁ, ପାଦ ଏବଂ ଶୁଟ୍ ବୋରର୍ ନିମ୍ ଆଧାରିତ କୀଟନାଶକ ପ୍ରଯ଼ୋଗ ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇପାରିବ 330 ପିପିଏମ୍ ପ୍ରତି ଏକର 1 ଲିଟରରେ |",
+            "ପାଣିପାଗ କାରଣରୁ, ମାଇଟ୍ ଆକ୍ରମଣ ହୋଇପାରେ, ଏହି ସ୍ପ୍ରେକୁ ପରିଚାଳନା କରିବା ପାଇଁ ଡିକୋଫୋଲ୍ @3 ମିଲି/ଲିଟର ପାଣି |",
+            "କୁକୁର୍ବିଟ୍ସରେ, 1 ଲିଟର ପାଣିରେ 2 ମିଲି ମାଲାଥିଅନ୍ ଏବଂ 20 ଗ୍ରାମ୍ ଗୁଡ଼ ମିଶାଇ ଧଳା ମାଛି ପାଇଁ ବିଷାକ୍ତ ବିଟ୍ ପ୍ରସ୍ତୁତ କରନ୍ତୁ | ଏବଂ ଚାରା ଗୁଡ଼ିକୁ ଗଛ ପାଖରେ ରଖନ୍ତୁ।"
          ]
       },
-      "kharif crops": {
+      "rabi paddy": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଡାଲି, ତୈଳବୀଜ ଭଳି ପ୍ରାରମ୍ଭିକ ଭାବେ ବୁଣାଯାଇଥିବା ରବି ଫସଲ ଅମଳ ପର୍ଯ୍ଯ଼ାଯ଼ରେ ରହିଛି।"
          ]
       },
-      "dhaincha seeds": {
+      "aromatic paddy": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ନୂଆ କଳଜୀରା ଏବଂ କଳଜୀରା, ନୁଆ ଆଚାରମତୀ ଭଳି ଭଲ କିସମ ବାଛନ୍ତୁ।"
          ]
       },
-      "brinjal": {
+      "maize": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "6 କି. ଗ୍ରା./ଏ. ସି. ମୂଲ୍ଯ଼ର କଳିଙ୍ଗ ମକା, ପ୍ରବାଲ ଇତ୍ଯ଼ାଦି ଭଲ କିସମ ବାଛନ୍ତୁ। ଦୂରତା ହେଉଛି 60 x 30 ସେ. ମି.। ଅନ୍ତିମ ଭୂମି ପ୍ରସ୍ତୁତି ପରେ 8:16:16 କେଜି ଏନ. ପି. କେ./ଏସି. ର ମୂଳ ମାତ୍ରା ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।"
          ]
       },
-      "cucurbits": {
+      "groundnut": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଧରଣୀ, ସ୍ମୃତି, କଦ୍ରି-6, କଳିଙ୍ଗ ଚିନାବାଦାମ ଭଳି ଭଲ କିସମ ପ୍ରତି ଏକରରେ 75 କିଲୋଗ୍ରାମ ଫଳି ବାଛନ୍ତୁ।",
+            "ଭିଟାବ୍ଯ଼ାକ୍ସ ପାୱାର @2 ଗ୍ରାମ/କିଲୋଗ୍ରାମ ମଞ୍ଜି ସହିତ ମଞ୍ଜିଗୁଡ଼ିକୁ ଚିକିତ୍ସା କରନ୍ତୁ।",
+            "ବୁଣିବାର ମାତ୍ର ଏକ ଘଣ୍ଟା ପୂର୍ବରୁ 20 ଗ୍ରାମ୍/କି. ଗ୍ରା. ମଞ୍ଜି ସହିତ ରାଇଜୋବିଯ଼ମ୍ ସଂସ୍କୃତି ସହିତ ଉପଚାର କରନ୍ତୁ।",
+            "ଚୂଡ଼ାନ୍ତ ଜମି ପ୍ରସ୍ତୁତି ସମଯ଼ରେ 2 ଟନ ଏଫ. ୱାଇ. ଏମ୍., 1 କ୍ଯ଼ୁ ଜିପ୍ସମ ସହିତ <ଆଇ. ଡି. 1> କି. ଗ୍ରା. ଏନ୍. ପି. କେ./ଏକର ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।",
+            "ଏହାର ବ୍ଯ଼ବଧାନ ହେଉଛି 30 x 10 ସେ. ମି.।"
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "ସୁପ୍ରଭା, ସୁରୁଚି, ସୁରବି ଭଳି ଉନ୍ନତ ମାନର ଅଦା କାଣ୍ଡ ସଂଗ୍ରହ କରନ୍ତୁ।",
+            "ବୀଜର ହାର ହେଉଛି 6-8 କ୍ଯ଼ୁ/ଏସି।",
+            "ପ୍ରତ୍ଯ଼େକ ଖଣ୍ଡ 20 ଗ୍ରାମ୍ ହେବା ଉଚିତ ଏବଂ 2 ରୁ 3 ଆଖି ରହିବା ଉଚିତ୍ |",
+            "କ୍ଷେତରେ ରୋପଣ କରିବା ପୂର୍ବରୁ ମଞ୍ଜିଗୁଡ଼ିକୁ ଚିକିତ୍ସା କରନ୍ତୁ।"
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "ରୋମା, ସୁରୋମା, ରଙ୍ଗା ଏବଂ ରଶ୍ମୀ ପରି ଭଲ କିସମ ବୁଣନ୍ତୁ |",
+            "ବୀଜ ହାର ହେଉଛି 8-10 q/ac।",
+            "ବୀଜ ସାମଗ୍ରୀରେ 2ରୁ 3ଟି ଆଖି ରହିବା ଉଚିତ ଏବଂ ପ୍ରତି ଖଣ୍ଡରେ 20-25 ଗ୍ରାମ୍ ରହିବା ଉଚିତ।"
          ]
       },
       "yam": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ବୀଜ ହାର ହେଉଛି 8-10 q/ac।",
+            "ବିହନ ସାମଗ୍ରୀ 150-200 g ର ହେବା ଉଚିତ।",
+            "ଭଲ ଭାବେ ଖଣ୍ଡିତ କ୍ଷେତ୍ର ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ 3 ଫୁଟ x 3 ଫୁଟ ଏବଂ 1.5ft ଗଭୀରତାର ଗର୍ତ୍ତ ତିଆରି କରନ୍ତୁ।",
+            "ରୋପଣ ପରେ ଗର୍ତ୍ତଗୁଡ଼ିକୁ ସମାନ ପରିମାଣର ଏଫ. ୱାଇ. ଏମ୍. ଏବଂ ଉପର ମୃତ୍ତିକାରେ ଭର୍ତ୍ତି କରାଯିବା ଉଚିତ।"
          ]
       }
    },
-   "date": "Translation failed after maximum retries."
+   "date": "02-07-2024"
 }

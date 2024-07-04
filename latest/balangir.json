@@ -1,49 +1,52 @@
 {
    "weather_details": {
-      "2022-10-01": {
+      "2022-01-01": {
          "rainfall": 5,
          "t_max": 30,
          "t_min": 20,
-         "rh_max": 85,
-         "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 120,
-         "cloud_cover": 4
-      },
-      "2022-10-02": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
          "rh_max": 80,
-         "rh_min": 55,
+         "rh_min": 60,
          "wind_speed": 10,
-         "wind_direction": 90,
-         "cloud_cover": 2
+         "wind_direction": 180,
+         "cloud_cover": 5
+      },
+      "2022-01-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
       "wheat",
-      "maize"
+      "poultry"
    ],
-   "general_advisory": "Sow rice and wheat seeds. Protect crops from heavy rainfall.",
+   "general_advisory": "Sow rice and wheat crops in the recommended period. Ensure proper ventilation in poultry houses.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Plant paddy in flooded fields.",
-            "Control weeds using herbicides."
+            "Plant rice seeds in well-drained soil.",
+            "Ensure proper irrigation for optimal growth.",
+            "Watch out for pests and use appropriate pesticides."
          ]
       },
       "wheat": {
          "advisory": [
-            "Ensure proper drainage for wheat fields.",
-            "Apply nitrogen fertilizer for better yield."
+            "Prepare the soil by plowing and leveling before sowing wheat seeds.",
+            "Apply fertilizers as per soil test results.",
+            "Monitor weather conditions for disease prevention."
          ]
       },
-      "maize": {
+      "poultry": {
          "advisory": [
-            "Plant maize after frost season.",
-            "Irrigate maize fields regularly."
+            "Maintain proper hygiene in poultry houses.",
+            "Monitor feed quality and provide balanced nutrition.",
+            "Regularly check for signs of diseases and take necessary actions."
          ]
       }
    },

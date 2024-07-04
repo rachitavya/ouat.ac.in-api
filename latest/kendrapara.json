@@ -1,94 +1,93 @@
 {
    "weather_details": {
-      "29/06/2024": {
-         "rainfall": 12,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 73,
-         "rh_min": 51,
-         "wind_speed": 19,
-         "wind_direction": 212,
-         "cloud_cover": 8
-      },
-      "30/06/2024": {
-         "rainfall": 15,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 71,
-         "rh_min": 54,
-         "wind_speed": 21,
-         "wind_direction": 225,
-         "cloud_cover": 8
-      },
-      "01/07/2024": {
-         "rainfall": 5,
-         "t_max": 34,
+      "03/07/2024": {
+         "rainfall": 4,
+         "t_max": 32,
          "t_min": 25,
-         "rh_max": 68,
-         "rh_min": 53,
-         "wind_speed": 24,
-         "wind_direction": 246,
+         "rh_max": 65,
+         "rh_min": 50,
+         "wind_speed": 22,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "04/07/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 48,
+         "wind_speed": 18,
+         "wind_direction": 204,
          "cloud_cover": 7
       },
-      "02/07/2024": {
-         "rainfall": 2,
+      "05/07/2024": {
+         "rainfall": 5,
          "t_max": 35,
          "t_min": 26,
-         "rh_max": 68,
-         "rh_min": 53,
-         "wind_speed": 22,
-         "wind_direction": 246,
-         "cloud_cover": 5
+         "rh_max": 71,
+         "rh_min": 51,
+         "wind_speed": 21,
+         "wind_direction": 204,
+         "cloud_cover": 7
       },
-      "03/07/2024": {
-         "rainfall": 2,
-         "t_max": 36,
-         "t_min": 27,
-         "rh_max": 69,
+      "06/07/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 47,
+         "wind_speed": 16,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "07/07/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 73,
          "rh_min": 49,
-         "wind_speed": 10,
-         "wind_direction": 249,
-         "cloud_cover": 4
+         "wind_speed": 18,
+         "wind_direction": 208,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "paddy",
+      "pulses",
       "maize",
-      "sugarcane",
-      "papaya",
-      "poultry"
+      "vegetables",
+      "groundnut",
+      "fishery"
    ],
-   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Use appropriate agricultural practices for maize, sugarcane, papaya, and poultry to ensure healthy growth and maximize yields.",
+   "general_advisory": "Make provisions for drainage, harvest vegetables and fruit, repair water harvesting structures, use certified seeds for paddy, incorporate dhaincha green manuring crop, do not apply fertilizer & pesticides until clear weather.",
    "crops_data": {
-      "paddy": {
+      "pulses": {
          "advisory": [
-            "Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field.",
-            "Apply full dose of Phosphorus and Potash as basal dose."
+            "Don’t keep standing water in paddy nursery."
          ]
       },
       "maize": {
          "advisory": [
             "Seed rate for maize is 6-7kg/acre.",
-            "To avoid infestation of Fall Army Worm, treat seeds with Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS."
+            "To avoid the infestation of Fall Army Worm, treat seeds with Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS.",
+            "Keep row to row spacing at 60 cm and plant to plant at 20 cm."
          ]
       },
-      "sugarcane": {
+      "vegetables": {
          "advisory": [
-            "Managing early shoot borer infestation is crucial to protect crop health.",
-            "Apply recommended insecticides in case of severe infestation."
+            "Harvest vegetables."
          ]
       },
-      "papaya": {
+      "groundnut": {
          "advisory": [
-            "Plant papaya seedlings at optimal distances and use disease-resistant varieties for better results."
+            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC.",
+            "Treat seeds with recommended species of Rhizobium bacterial culture."
          ]
       },
-      "poultry": {
+      "fishery": {
          "advisory": [
-            "Ensure proper ventilation in poultry sheds during the rainy season.",
-            "Regular deworming and vaccination are essential for poultry health."
+            "Carp such as Rohu, Catla and Mrigal should be stocked in a certain ratio of 4:3:3."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": ""
 }

@@ -1,44 +1,54 @@
 {
    "weather_details": {
-      "24-06-2024": {
-         "rainfall": 0.5,
-         "t_max": 30,
+      "03-07-2024": {
+         "rainfall": 5,
+         "t_max": 27,
          "t_min": 21,
-         "rh_max": 85,
-         "rh_min": 71,
-         "wind_speed": 16,
+         "rh_max": 83,
+         "rh_min": 73,
+         "wind_speed": 14,
          "wind_direction": 248,
          "cloud_cover": 8
       },
-      "25-06-2024": {
-         "rainfall": 0.2,
-         "t_max": 32,
+      "04-07-2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 21,
+         "rh_max": 86,
+         "rh_min": 59,
+         "wind_speed": 12,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 10,
+         "t_max": 29,
          "t_min": 22,
          "rh_max": 82,
+         "rh_min": 70,
+         "wind_speed": 11,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "06-07-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 87,
          "rh_min": 63,
-         "wind_speed": 16,
+         "wind_speed": 11,
          "wind_direction": 248,
          "cloud_cover": 8
       },
-      "26-06-2024": {
-         "rainfall": 1.3,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": null,
-         "rh_min": null,
-         "wind_speed": null,
-         "wind_direction": null,
-         "cloud_cover": null
-      },
-      "27-06-2024": {
-         "rainfall": 62.4,
-         "t_max": 31,
+      "07-07-2024": {
+         "rainfall": 15,
+         "t_max": 27,
          "t_min": 20,
-         "rh_max": null,
-         "rh_min": null,
-         "wind_speed": null,
-         "wind_direction": null,
-         "cloud_cover": null
+         "rh_max": 90,
+         "rh_min": 71,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
@@ -50,45 +60,43 @@
       "ginger",
       "turmeric"
    ],
-   "general_advisory": "Rainfall is expected during the next five days. Farmers are advised to store rainwater for irrigation, do field preparation for non-paddy crops, and take appropriate plant protection measures.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Go for field preparation for non-paddy crops like pulse, oilseeds, and vegetables in upland condition and take up early sowing/transplanting. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Complete sowing of direct seeding with proper fertilization and seed treatment."
+            "Collect hybrid or high yielding varieties of paddy with resistant to diseases and insect pests as per the land situations of the farmers from the nearby dealers. Farmers are advised for sowing of dhanicha seeds @ 10 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3-4 weeks old at the time of transplanting of rice. Apply phosphatic fertilizer in the dhaincha fields required for paddy cultivation. Transplant 15-25 days seedling. Treat the nursery seedlings or root dip uprooted seedlings in the solution of neem oil @ 5ml/litre of water and metalaxyl + mancozeb @ 1.25 g/litre of water."
          ]
       },
       "maize": {
          "advisory": [
-            "Optimum time for sowing maize with specific fertilization and seed spacing."
+            "Complete the sowing of 10 Kg Maize hybrid seed per acre with the spacing of 60 cm row to row and 20-25cm between plants. Spray Atrazine @1Kg/acre within 2 days of sowing to control the weeds in maize field."
          ]
       },
       "ragi": {
          "advisory": [
-            "Optimum time for direct sowing ragi with specific fertilization and seed treatment."
+            "This is the optimum time for direct sowing ragi. Sow the seeds @4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed. Sow 4Kg seeds of Arjun, Kalua, Bharabi, etc. high yielding ragi varieties per acre."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply specific pesticides for bacterial wilting in tomatoes."
+            "If bacterial wilting observes in tomato, apply Plantomycin @ 1.0 g and Copper Oxychloride @ 2 g/litre of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Use neem-based pesticides for fruit and shoot borer control.",
-            "Use specific sprays for fruit rot infestation."
+            "To control fruit and shoot borer in brinjal spray neem-based pesticide 1500 ppm @ 3 ml/litre of water at initial stages. Later on go for alternate spray of Spinosad 45% SC @ 0.4 ml/litre of water and Thiodicarb 75% WP @ 1.25 g/litre of water at 15 days interval. Chances of fruit rot infestation in chilli and brinjal, if observed spray Carbendazim 50% WP @ 2 g/litre of water or Copper oxycloride 50% WP @ 3 g/litre of water."
          ]
       },
       "ginger": {
          "advisory": [
-            "Follow specific guidelines for growing ginger with proper seed rate and fertilization."
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Follow specific guidelines for growing turmeric with proper seed rate and fertilization."
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
          ]
       }
    },
-   "date": "28-06-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "02-07-2024"
 }

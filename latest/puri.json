@@ -1,97 +1,96 @@
 {
    "weather_details": {
-      "29/06/2024": {
-         "rainfall": 15,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 61,
-         "wind_speed": 24,
-         "wind_direction": 225,
+      "03/07/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 29,
+         "rh_max": 75,
+         "rh_min": 67,
+         "wind_speed": 21,
+         "wind_direction": 248,
          "cloud_cover": 8
       },
-      "30/06/2024": {
+      "04/07/2024": {
          "rainfall": 10,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 72,
-         "rh_min": 64,
-         "wind_speed": 26,
-         "wind_direction": 225,
-         "cloud_cover": 7
-      },
-      "01/07/2024": {
-         "rainfall": 4,
          "t_max": 34,
-         "t_min": 26,
-         "rh_max": 72,
-         "rh_min": 68,
+         "t_min": 29,
+         "rh_max": 77,
+         "rh_min": 61,
          "wind_speed": 27,
-         "wind_direction": 243,
-         "cloud_cover": 5
+         "wind_direction": 207,
+         "cloud_cover": 8
       },
-      "02/07/2024": {
-         "rainfall": 3,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 73,
-         "rh_min": 66,
+      "05/07/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 30,
+         "rh_max": 75,
+         "rh_min": 63,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "06/07/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 30,
+         "rh_max": 79,
+         "rh_min": 62,
          "wind_speed": 24,
-         "wind_direction": 243,
-         "cloud_cover": 4
+         "wind_direction": 204,
+         "cloud_cover": 8
       },
-      "03/07/2024": {
-         "rainfall": 1,
+      "07/07/2024": {
+         "rainfall": 5,
          "t_max": 34,
-         "t_min": 28,
-         "rh_max": 72,
-         "rh_min": 60,
-         "wind_speed": 26,
-         "wind_direction": 246,
-         "cloud_cover": 4
+         "t_min": 29,
+         "rh_max": 76,
+         "rh_min": 61,
+         "wind_speed": 19,
+         "wind_direction": 208,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
+      "groundnut",
+      "cucurbits",
       "sugarcane",
-      "papaya"
+      "fishery"
    ],
-   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test advisable before sowing. Use appropriate seed rates for optimal growth. Incorporate green manuring crops for soil health. Follow specific fertilizer recommendations for different crops. Ensure proper maintenance practices for each crop.",
+   "general_advisory": "Make provisions for drainage, where kharif maize or pulses etc. have been sown. Don’t keep standing water in paddy nursery. Harvest vegetables, ripened mangoes and other fruits. Repair water harvesting structure, field bunds to store excess rainwater for utilization in case of early or mid-season droughts. For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field. Do not apply fertilizer & pesticides until clear weather.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Always use certified seeds for paddy cultivation.",
-            "Conduct germination tests before sowing.",
-            "Incorporate dhaincha green manuring crop during initial puddling.",
-            "Apply recommended doses of Phosphorus and Potash as basal dose.",
-            "Consider growing Arhar as an intercrop in groundnut for profit and soil health.",
-            "Treat okra seeds with imidacloprid for early-stage pest resistance.",
-            "Ensure proper soil moisture conditions for sowing.",
-            "Use recommended methods for sowing paddy seeds."
+            "Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP during the last puddling in 10-decimal nursery area. Apply Chlorantraniliprole 0.4 % G(Ferterra/Enfuse) @ 400-gram or Cartap Hydrochloride 4% GR (Caldan 4G/Boregan G) @ 800-gram or Fipronil 0.3% GR (Sergent /Reagent) @ 1-kg in the 10 decimal nursery area 7-days before transplanting to manage gall midge, stem borer, caseworm, leaf folder and root knot nematode up to 3 weeks after transplanting."
          ]
       },
       "maize": {
          "advisory": [
-            "Use appropriate seed rate for maize cultivation.",
-            "Treat maize seeds to prevent infestations.",
-            "Follow specific row and plant spacings for optimal growth.",
-            "Apply recommended basal fertilizer doses.",
-            "Implement chemical weed control measures as needed."
+            "Seed rate for maize is 6-7kg/acre. To avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4 -ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS. Keep row to row spacing at 60 cm and plant to plant at 20 cm. To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough. Apply 55 kg of DAP and 22-kg of potash as basal fertilizer. For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1- 2 DAS."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Sowing Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 D AS. Apply herbicide when soil is moist. Treat the seeds with a recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Vegetative To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP (Hi-dice/Kocide) @ 3-gram/litre or Fosetyl -AL 80 % WP (Aliette)@ 3-gram /litre or Carbendazim 12 % + Mancozeb 63 % WP (Saaf/Sixer) @ 2-gram/litre."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Manage early shoot borer infestation in sugarcane.",
-            "Apply appropriate insecticides in case of severe infestation."
+            "Vegetative There are chances of top shoot borer infestation in the sugarcane crop. To manage the top shoot borer in Sugarcane spray Fipronil 5 % SC (Reagent / Sergent/Ashirwaad) @ 600- ml/acre or Profenophos 50% EC (Profex / Prahar/Capture) @ 400-ml/acre by mixing it in 200- litre of water."
          ]
       },
-      "papaya": {
+      "fishery": {
          "advisory": [
-            "Plant papaya seedlings at recommended distances.",
-            "Use disease-resistant and tissue culture seedlings for papaya cultivation."
+            "Carp such as Rohu, Catla, and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran are given in the same ratio @ 5% of the total biomass of stocking material. Cow dung, urea, and super phosphate should be applied to increase pond quality."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "02-07-2024"
 }

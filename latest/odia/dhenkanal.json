@@ -1,73 +1,95 @@
 {
    "weather_details": {
-      "28.06.2024": {
+      "02.07.2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 85,
-         "rh_min": 60,
+         "t_max": 32,
+         "t_min": 27,
+         "rh_max": 82,
+         "rh_min": 56,
          "wind_speed": 10,
-         "wind_direction": 120,
+         "wind_direction": 90,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries."
+      "ଫିଙ୍ଗର ମିଲେଟ୍",
+      "ତିଲ।",
+      "ଚିନାବାଦାମ",
+      "ପେଁପେ",
+      "ବାଇଗଣ",
+      "ଓକ୍ରା",
+      "କଦଳୀ",
+      "କଦଳୀ",
+      "କଦଳୀ ଗୁଣ୍ଡ",
+      "ଧନିଆ ଗୁଣ୍ଡ",
+      "କାକୁଡ଼ି"
    ],
-   "general_advisory": "Translation failed after maximum retries.",
+   "general_advisory": "ବିଭିନ୍ନ ଫସଲ ରୋପଣ ପାଇଁ ଅନୁକୂଳ ପାଣିପାଗ ପରିସ୍ଥିତି। କୀଟପତଙ୍ଗ ଏବଂ ରୋଗ ପରିଚାଳନା ପାଇଁ ଯତ୍ନ ନିଆଯିବା ଉଚିତ।",
    "crops_data": {
       "finger millet": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ଫିଙ୍ଗର ମିଲେଟ୍ର ନର୍ସରୀ ବୁଣିବା ସମଯ଼",
+            "ଦିବ୍ଯ଼ସିଂହ, ଏ. କେ. ପି.-2, ଏ. କେ. ପି.-3 ଇତ୍ଯ଼ାଦି ଉଚ୍ଚ ଉତ୍ପାଦନକ୍ଷମ କିସମର ବ୍ଯ଼ବହାର କରନ୍ତୁ।",
+            "ଉପଯୁକ୍ତ ବୀଜ ଚିକିତ୍ସା ଏବଂ ପୁଷ୍ଟିକର ପରିଚାଳନା ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।"
          ]
       },
       "sesame": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ତିଲ ବୁଣିବା ପାଇଁ ଅନୁକୂଳ ପାଣିପାଗ",
+            "ଉନ୍ନତ ଏଚ. ୱାଇ. ଭି. କିସମ ଯେପରିକି ଅସୃତ, ସ୍ମାରକ ଇତ୍ଯ଼ାଦି ବ୍ଯ଼ବହାର କରନ୍ତୁ।",
+            "ଉପଯୁକ୍ତ ବିହନ ଚିକିତ୍ସା ଏବଂ ପୋଷକ ତତ୍ତ୍ୱ ପ୍ରଯ଼ୋଗ"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ଆଗାଛା ନିଯ଼ନ୍ତ୍ରଣ ପାଇଁ ପ୍ରାକ୍-ଆବିର୍ଭାବ ତୃଣନାଶକ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ",
+            "ସଠିକ ରୋପଣ କୌଶଳ ଏବଂ ପୋଷକ ତତ୍ତ୍ୱ ପରିଚାଳନା"
          ]
       },
       "papaya": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ଆଳୁ ଚାଷ ପାଇଁ ଅନୁକୂଳ ପାଣିପାଗ ସ୍ଥିତି",
+            "ସୁପାରିସ କରାଯାଇଥିବା ଅଧିକ ଉତ୍ପାଦନକ୍ଷମ କିସମର ବ୍ଯ଼ବହାର କରନ୍ତୁ",
+            "ରୋଗ ପ୍ରତିରୋଧକ ପ୍ରଜାତି ସହିତ ଉପଯୁକ୍ତ ବ୍ଯ଼ବଧାନରେ ଚାରା ରୋପଣ କରନ୍ତୁ।"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries.",
-            "Translation failed after maximum retries."
+            "ଶୁଟ୍ ଏବଂ ଫ୍ରୁଟ୍ ବୋରର୍ କୀଟକୁ ସଠିକ୍ ଭାବରେ ପରିଚାଳନା କରନ୍ତୁ",
+            "ନିଯ଼ନ୍ତ୍ରଣ ପାଇଁ ଫେରୋମୋନ୍ ଫାନ୍ଦ ଏବଂ ନିମ-ଆଧାରିତ କୀଟନାଶକ ବ୍ଯ଼ବହାର କରନ୍ତୁ।",
+            "ଆବଶ୍ଯ଼କ ପଡ଼ିଲେ ରାସାଯ଼ନିକ ନିଯ଼ନ୍ତ୍ରଣ ପଦକ୍ଷେପ ଅନୁସରଣ କରନ୍ତୁ।"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "ଯଦି ଉପଲବ୍ଧ ଥାଏ, ଓକ୍ରା ପାଇଁ ପରାମର୍ଶ ସୂଚନା"
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "ଯଦି ଉପଲବ୍ଧ ଥାଏ, ତେବେ କାଉପି ପାଇଁ ପରାମର୍ଶ ସୂଚନା"
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "ଯଦି ଉପଲବ୍ଧ, କଦଳୀ ପାଇଁ ପରାମର୍ଶ ସୂଚନା"
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "ଯଦି ଉପଲବ୍ଧ ତେବେ ବିଟର୍ ଗୋର୍ଡ ପାଇଁ ପରାମର୍ଶ ସୂଚନା"
+         ]
+      },
+      "ridge gourd": {
+         "advisory": [
+            "ଯଦି ଉପଲବ୍ଧ ଥାଏ, ତେବେ ରିଜ୍ ଗୋର୍ଡ ପାଇଁ ପରାମର୍ଶ ସୂଚନା"
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "ଯଦି ଉପଲବ୍ଧ, ତେବେ କାକୁଡ଼ି ପାଇଁ ପରାମର୍ଶ ସୂଚନା"
          ]
       }
    },
-   "date": "Translation failed after maximum retries."
+   "date": "02-07-2024"
 }

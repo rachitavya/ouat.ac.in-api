@@ -1,73 +1,59 @@
 {
    "weather_details": {
-      "28.06.2024": {
+      "02.07.2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 85,
-         "rh_min": 60,
+         "t_max": 32,
+         "t_min": 27,
+         "rh_max": 82,
+         "rh_min": 56,
          "wind_speed": 10,
-         "wind_direction": 120,
+         "wind_direction": 90,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "finger millet",
-      "green gram",
-      "black gram",
       "sesame",
       "groundnut",
       "papaya",
       "brinjal"
    ],
-   "general_advisory": "It is time for nursery sowing of Finger millet. Seed treatment and proper spacing are crucial for optimal growth. Weather conditions favor the planting of Papaya and Sesame. Pest management strategies for Brinjal include traps and specific insecticides.",
+   "general_advisory": "Optimum weather conditions for planting various crops. Care should be taken to manage pests and diseases.",
    "crops_data": {
       "finger millet": {
          "advisory": [
-            "Sowing of high yielding varieties like Divyasingh, AKP-2, AKP-3, etc.",
-            "Seed treatment with Thiram or Trycychlozole",
-            "Proper application of Nitrogen and Phosphorous"
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Seed treatment before sowing",
-            "Proper land preparation and application of fertilizers"
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Seed treatment with carbendazim",
-            "Application of urea, DAP, MOP, and cowdung manure"
+            "Time for nursery sowing of Finger millet",
+            "Use high yielding varieties like Divyasingh, AKP-2, AKP-3, etc.",
+            "Apply proper seed treatment and nutrient management"
          ]
       },
       "sesame": {
          "advisory": [
-            "Sowing of improved HYV varieties",
-            "Seed treatment with Ceresan",
-            "Proper NPK application"
+            "Optimum weather for sowing of Sesame",
+            "Use improved HYV varieties like Asrit, Smarak, etc.",
+            "Proper seed treatment and nutrient application"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Application of pre-emergence herbicide",
-            "Proper management practices"
+            "Apply pre-emergence herbicide for weed control",
+            "Correct planting technique and nutrient management"
          ]
       },
       "papaya": {
          "advisory": [
-            "Optimum weather for planting",
-            "Selection of appropriate HYV",
-            "Proper spacing and pit preparation"
+            "Optimum weather conditions for planting Papaya",
+            "Use recommended high yielding varieties",
+            "Plant seedlings at appropriate spacing with disease-resistant varieties"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Installation of pheromone traps for insect management",
-            "Use of neem-based pesticide",
-            "Chemical control for pest infestation"
+            "Manage Shoot and Fruit Borer insect properly",
+            "Use pheromone traps and neem-based pesticides for control",
+            "Follow chemical control measures if needed"
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "02-07-2024"
 }

@@ -1,90 +1,94 @@
 {
    "weather_details": {
-      "29-06-2024": {
-         "rainfall": 20,
+      "03-07-2024": {
+         "rainfall": 5,
          "t_max": 33,
-         "t_min": 24,
-         "rh_max": 72,
-         "rh_min": 45,
-         "wind_speed": 15,
-         "wind_direction": 214,
+         "t_min": 25,
+         "rh_max": 63,
+         "rh_min": 48,
+         "wind_speed": 22,
+         "wind_direction": 257,
          "cloud_cover": 8
       },
-      "30-06-2024": {
-         "rainfall": 15,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 75,
-         "rh_min": 49,
-         "wind_speed": 14,
+      "04-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 44,
+         "wind_speed": 17,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 70,
+         "rh_min": 45,
+         "wind_speed": 12,
          "wind_direction": 238,
          "cloud_cover": 8
       },
-      "01-07-2024": {
-         "rainfall": 6,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 74,
-         "rh_min": 49,
-         "wind_speed": 17,
-         "wind_direction": 248,
-         "cloud_cover": 7
-      },
-      "02-07-2024": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 73,
-         "rh_min": 53,
-         "wind_speed": 20,
-         "wind_direction": 248,
-         "cloud_cover": 6
-      },
-      "03-07-2024": {
-         "rainfall": 3,
+      "06-07-2024": {
+         "rainfall": 7,
          "t_max": 35,
          "t_min": 26,
-         "rh_max": 77,
-         "rh_min": 50,
-         "wind_speed": 17,
-         "wind_direction": 248,
-         "cloud_cover": 5
+         "rh_max": 74,
+         "rh_min": 40,
+         "wind_speed": 14,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      },
+      "07-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 40,
+         "wind_speed": 12,
+         "wind_direction": 210,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries.",
-      "Translation failed after maximum retries."
+      "ଚାଉଳ",
+      "ଆଖୁ",
+      "ପନିପରିବା",
+      "ମତ୍ସ୍ଯ଼ଚାଷ"
    ],
-   "general_advisory": "Translation failed after maximum retries.",
+   "general_advisory": "ଆଇଏମଡି ପୂର୍ବାନୁମାନ ଅନୁଯାଯ଼ୀ, ଆଗାମୀ ଦିନରେ ଅତି ହାଲୁକା ରୁ ହାଲୁକା ବର୍ଷା ହେବାର ସମ୍ଭାବନା ରହିଛି। କୃଷକମାନଙ୍କୁ ସିଞ୍ଚନ କାର୍ଯ୍ଯ଼ କରିବା ସମଯ଼ରେ ଉପଯୁକ୍ତ ଯତ୍ନ ନେବାକୁ ଏବଂ ଖରିଫ ଫସଲ ଏବଂ ପନିପରିବା ପାଇଁ ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତି ଆରମ୍ଭ କରିବାକୁ ପରାମର୍ଶ ଦିଆଯାଇଛି। ମୌସୁମୀ ବାଯ଼ୁ ରାଜ୍ଯ଼ରେ ପ୍ରବେଶ କରିସାରିଥିବାରୁ କ୍ଷେତ୍ର ପ୍ରସ୍ତୁତି ପାଇଁ ଆବଶ୍ଯ଼କ ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ। ସ୍ଥାଯ଼ୀ ଫସଲ ଏବଂ ପନିପରିବା ପାଇଁ ଆବଶ୍ଯ଼କ ଜଳସେଚନ ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ।",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ଖରିଫ ଚାଉଳ ପାଇଁ ଭଲ ଭାବେ ଫୁଟା ଯାଇଥିବା ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ।",
+            "ପ୍ରତି କିଲୋଗ୍ରାମ ମଞ୍ଜି ପିଛା 1 ଗ୍ରାମ ମଞ୍ଜି ସହିତ ପ୍ଲାଣ୍ଟୋମାଇସିନ୍ ସହିତ କାର୍ବେନଡାଜିମ୍ @2 ଗ୍ରାମ ମଞ୍ଜି ଚିକିତ୍ସା ପରେ ପୂର୍ବ-ଉତ୍ପାଦିତ ମଞ୍ଜି ବୁଣିବା ଉଚିତ।",
+            "ଉପଯୁକ୍ତ ପ୍ଯ଼ାକେଜ୍ ଅଭ୍ଯ଼ାସ ସହିତ ଯାନ୍ତ୍ରିକ ଡି. ଏସ୍. ଆର୍. ଚାଷ ପାଇଁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
+            "ନିକଟରେ ହୋଇଥିବା ବର୍ଷାକୁ ବ୍ଯ଼ବହାର କରି ଗ୍ରୀଷ୍ମକାଳୀନ ଚାଷ କରିବାକୁ କୃଷକମାନଙ୍କୁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
+            "ସବୁଜ ସାର ଫସଲ ଭାବରେ @12kg ଏକରର ଭଲ ଗୁଣବତ୍ତା ମଞ୍ଜି ବ୍ଯ଼ବସ୍ଥା କରନ୍ତୁ।"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ମଧ୍ଯ଼ମ ଏବଂ ବିଳମ୍ବ ଅବଧି କିସମଗୁଡ଼ିକରେ ଫସଲ 4 ରୁ 5 ମାସ ପୁରୁଣା ହେବା ପରେ ରାପିଙ୍ଗ୍ ଏବଂ ପ୍ରୋପିଙ୍ଗ୍ କରାଯିବା ଉଚିତ୍ |",
+            "ଆଖୁ ପତ୍ର ଛେଦନକାରୀକୁ ଶୀଘ୍ର ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ ଫିପ୍ରୋନିଲ 5ଏସସି @400 ମିଲି/ଏକରର ସ୍ପ୍ରେ କରିବା ପାଇଁ ପରାମର୍ଶ ଦିଆଯାଇଛି।"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Translation failed after maximum retries."
+            "ପନିପରିବା ଫସଲରେ କୀଟପତଙ୍ଗ ଆକ୍ରମଣ ପାଇଁ ନିଯ଼ମିତ ତଦାରଖ କରିବାକୁ ପରାମର୍ଶ ଦିଆଯାଇଛି।",
+            "ଭେଣ୍ଡି ଏବଂ ବାଇଗଣରେ ମିଳି ବଗ୍କୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ 0.40 ଗ୍ରାମ/ଲିଟର ପାଣି ବ୍ଯ଼ବହାର କରନ୍ତୁ।",
+            "ଖରିଫ ପନିପରିବାର ଠିକ୍ ସମଯ଼ରେ ରୋପଣ ପାଇଁ ନର୍ସରୀ ଶଯ୍ଯ଼ା ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ (କାର୍ବୋକ୍ସିନ + ଥିରାମ) @2g କିଲୋଗ୍ରାମ ମଞ୍ଜି ବ୍ଯ଼ବହାର କରନ୍ତୁ।",
+            "ବାଇଗଣ, ଟମାଟୋ ଏବଂ ଓକ୍ରାରେ ଫଳ ଏବଂ ଅଙ୍କୁର ଛେଦକକୁ ନିଯ଼ନ୍ତ୍ରଣ କରିବା ପାଇଁ ପ୍ରାରମ୍ଭିକ ପର୍ଯ୍ଯ଼ାଯ଼ରେ ନିମ୍ବ-ଆଧାରିତ କୀଟନାଶକ 1500 ପିପିଏମ @600ml ଏକର ସ୍ପ୍ରେ କରନ୍ତୁ।"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Translation failed after maximum retries."
-         ]
-      },
-      "livestock": {
-         "advisory": [
-            "Translation failed after maximum retries."
+            "ବର୍ଦ୍ଧିତ ଲାଭ ପାଇଁ ରୋହୁ, କାଟଲା ଏବଂ ମୃଗାଲ୍ ଭଳି ଷ୍ଟକ୍ କାର୍ପ୍କୁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ଅନୁପାତ 4:3:3ରେ ରଖନ୍ତୁ।",
+            "ଏକ ମାନକ ଷ୍ଟକିଂ ଭାବରେ ହେକ୍ଟର ପିଛା 5,000 ଫିଙ୍ଗରଲିଙ୍ଗ୍ର ଘନତ୍ୱ ବଜାଯ଼ ରଖନ୍ତୁ |",
+            "ଚିନାବାଦାମ ତେଲ କେକ୍ ଏବଂ ଚାଉଳ ଚୋପା ସମାନ ଅନୁପାତରେ @5 ଷ୍ଟକିଂ ସାମଗ୍ରୀର ମୋଟ ବାଯ଼ୋମାସର% ପ୍ରଦାନ କରନ୍ତୁ | ପୁଷ୍କରିଣୀର ଗୁଣବତ୍ତା ବଢ଼ାଇବା ପାଇଁ ଗାଈ ଗୋବର, ଯ଼ୁରିଆ ଏବଂ ସୁପର ଫସଫେଟ୍ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।"
          ]
       }
    },
-   "date": "Translation failed after maximum retries."
+   "date": "02-07-2024"
 }

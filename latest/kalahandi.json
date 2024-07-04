@@ -1,136 +1,131 @@
 {
    "weather_details": {
-      "29-06-2024": {
-         "rainfall": 30,
-         "t_max": 30,
-         "t_min": 21,
+      "03-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 23,
          "rh_max": 80,
-         "rh_min": 57,
+         "rh_min": 61,
          "wind_speed": 14,
-         "wind_direction": 246,
+         "wind_direction": 225,
          "cloud_cover": 8
       },
-      "30-06-2024": {
-         "rainfall": 20,
-         "t_max": 30,
-         "t_min": 21,
-         "rh_max": 85,
+      "04-07-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 84,
+         "rh_min": 58,
+         "wind_speed": 11,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 208,
+         "cloud_cover": 8
+      },
+      "06-07-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 59,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      },
+      "07-07-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 88,
          "rh_min": 60,
          "wind_speed": 12,
-         "wind_direction": 236,
-         "cloud_cover": 8
-      },
-      "01-07-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 87,
-         "rh_min": 69,
-         "wind_speed": 12,
-         "wind_direction": 238,
-         "cloud_cover": 7
-      },
-      "02-07-2024": {
-         "rainfall": 3,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 56,
-         "wind_speed": 13,
          "wind_direction": 243,
-         "cloud_cover": 6
-      },
-      "03-07-2024": {
-         "rainfall": 1,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 80,
-         "rh_min": 57,
-         "wind_speed": 15,
-         "wind_direction": 244,
-         "cloud_cover": 5
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "paddy",
-      "maize",
-      "pigeon pea",
       "cotton",
-      "green gram",
-      "black gram",
       "arhar",
       "hybrid maize",
       "brinjal",
-      "chilli"
+      "chilli",
+      "okra",
+      "cattle & buffalo",
+      "goat & sheep"
    ],
-   "general_advisory": "As per above forecast, rain may continue up to next two days. Farmers are advised to Initiate field preparation by utilizing rainwater soon after cessation of rainfall. Farmers are advised to postpone irrigation to the standing crops by keeping in view of realized and anticipated rainfall and undertake necessary steps to remove excess water from the crop field. In view of high relative humidity due to expected rainfall along with cloudy weather, regular monitoring for incidence of insect pest should be done in standing crops and application of pesticide should be avoided for next two days keeping in view of weather forecast. Sowing of Kharif crops like Maize, Pigeon pea, Groundnut, Cotton, Green gram etc. should be completed soon after cessation of rainfall with availability of adequate soil moisture. Protect the vegetable seedlings in nursery from rain by covering with polythene or by making a shed over the nursery bed. Farmers are advised to take necessary actions to prevent rainwater entering into the animal shed.",
+   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread to widespread rain/thundershower is very likely over districts of Odisha during week-2 (5th to 11th July 2024) and overall rainfall activity likely to be slightly above normal. Also, possibility of isolated heavy to very heavy rain over the districts of Odisha during week-2 (5th to 11th July 2024). There is low probability of formation of another low-pressure area over north Bay of Bengal with northwestwards movement.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Seed rate : 20kg/ac for transplanted paddy, 30-40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill.",
-            "Incorporate well decomposed FYM @ 8 q/acre during the final land preparation.",
+            "Seed rate: 20kg/ac for transplanted paddy, 30-40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill.",
+            "Recommended dose of Fertilizer: Apply 26 kg DAP + 10 kg MOP + 10 kg ZnSO4 in upland condition and 35 kg DAP + 13 kg MOP + 10 kg ZnSO4 per acre in medium and low land condition as basal application.",
             "Weed Management: Apply pre-emergence herbicide Pretilachlor 30.7% EC @ 800ml/acre or Oxyflourfen 23.5% EC @ 250 ml/acre by mixing with 200 liters of water at 24-48 hrs after cessation of rain."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
-            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 25 cm for irrigated condition and 75 cm x 25 cm for rainfed condition.",
-            "Seed treatment with suitable fungicide and insecticides is essential to prevent the crop from the attack of soil borne diseases and insect-pests. Treat 1 kg of seed with 2g (Bavistin + Captan in 1:1 ratio) and 4 g of Imidacloprid."
-         ]
-      },
-      "pigeon pea": {
-         "advisory": [
-            "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
-            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 15 cm.",
-            "Treat the seed with Thiram (2gm) + Carbendazim (1gm) or Thiram @ 3 gm or Tricoderma virdie 5-7g /kg of seed. Culture: Rhizobium and PSB culture 7-10 g /kg seed."
          ]
       },
       "cotton": {
          "advisory": [
             "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing.",
-            "Farmers can select Pigeon pea (8:2 row proportions) and green gram/black gram (1:2 row proportions) as intercrop.",
-            "Dibble the seed in lines @ one seed per peat at a depth of 3-5cm and cover the seed with soil. Provide a spacing of 90 cm x 60 cm in normal planting and 60 cm x 10 cm for high density planting system."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Apply well decomposed FYM or vermicompost @ 2 tonnes/acre before last ploughing.",
-            "Apply P and K fertilization @ 18-20 kg P2O5 + 40-45 kg K2O per acre."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Apply FYM or compost @ 2 tonnes/acre before land preparation.",
-            "Apply Nitrogen fortification of recommended dose to soil."
+            "Seed treatment with Imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pest.",
+            "Weed Management: Apply Pendimethalin 30% EC @ 1 liter/acre by mixing with 200 liters of water within 3 days after sowing and there should be sufficient soil moisture in the soil."
          ]
       },
       "arhar": {
          "advisory": [
             "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
-            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 15 cm.",
-            "Treat the seed with Thiram (2gm) + Carbendazim (1gm) or Thiram @ 3 gm or Tricoderma virdie 5-7g /kg of seed. Culture: Rhizobium and PSB culture 7-10 g /kg seed."
+            "Seed treatment with Thiram (2gm) + Carbendazim (1gm) or Thiram @ 3 gm or Tricoderma virdie 5-7g/kg of seed."
          ]
       },
       "hybrid maize": {
          "advisory": [
             "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
-            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation.",
+            "Seed treatment with suitable fungicide and insecticides to prevent the crop from the attack of soil borne diseases and insect-pests.",
             "Weed Management: Apply Atrazine 50% WP @ 500-800 g/acre by mixing with 200 liters of water within 3 days after sowing and there should be sufficient soil moisture in the soil."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting.",
-            "Treat the seed with Trichoderma viride 1% @ 10g /kg or Captan 75% WS @ 2-3g/kg of seed before sowing to prevent diseases like wilting & damping off."
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli, etc. for timely planting.",
+            "Seed rate: 200-250 g/acre.",
+            "Seed treatment with Trichoderma viride 1% @ 10g/kg or Captan 75% WS @ 2-3g/kg of seed before sowing to prevent diseases like wilting & damping off."
          ]
       },
       "chilli": {
          "advisory": [
-            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting.",
-            "Treat the seed with Trichoderma viride 1% @ 10g /kg or Captan 75% WS @ 2-3g/kg of seed before sowing to prevent diseases like wilting & damping off."
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli, etc. for timely planting.",
+            "Seed rate: 200-250 g/acre.",
+            "Seed treatment with Trichoderma viride 1% @ 10g/kg or Captan 75% WS @ 2-3g/kg of seed before sowing to prevent diseases like wilting & damping off."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Sowing should be completed by the end of July to get higher yield.",
+            "Apply well decomposed FYM @ 2t/acre at the time of land preparation.",
+            "Seed rate: 4kg/acre. Seed should be treated with Bavistin @ 2g/kg of seed before sowing to prevent from wilting disease."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Vaccinate against FMD, HS, BQ.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water.",
+            "Damaged roof of the shed should be repaired to prevent leakage of water during rainy season."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites.",
+            "Dipping should be done in case of sheep against external parasites.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "02-07-2024"
 }

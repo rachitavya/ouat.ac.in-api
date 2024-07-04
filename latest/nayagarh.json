@@ -58,79 +58,49 @@
       "tomato",
       "brinjal",
       "coconut",
-      "vegetable seedlings",
-      "fingerlings",
-      "black gram",
-      "green gram",
-      "okra",
-      "onion",
-      "mango"
+      "vegetables",
+      "ponds"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels to save water wastage. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves around a coconut tree. Cover newly planted vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds if water temperature rises. Yellow stem borer and blast disease management in paddy. Tobacco caterpillar management in black gram and green gram. Early shoot borer management in sugarcane. Brinjal shoot and fruit borer management. Whitefly infestation prevention in okra. Onion harvesting and storage. Mango hopper control.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical stages. Water scarcity should be avoided. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation in maize crop. Spread polythene in irrigation channels. Apply Streptocyclin in tomato and brinjal.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit during these stages."
+            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water scarcity."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves. Top-dress with potassium. Apply sprinkler irrigation. Irrigate frequently during hot months. Timely cutting of attacked shoots."
+            "Irrigate frequently during hot months. Cut attacked shoots. Apply Fipronil 0.3% GR at first earthing up."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement. Irrigate the crop. Do not allow water to stagnate."
+            "High temperature increases water requirement. Irrigate timely and avoid stagnant water."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply Streptocyclin in root zone to prevent wilting."
+            "Apply 1g Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps. Spray neem-based pesticide in early stages. Chemical control if necessary."
+            "Install pheromone traps. Spray neem-based pesticide. Go for chemical control if required."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves to reduce water loss."
+            "Mulch coconut leaves around the tree to reduce water loss."
          ]
       },
-      "vegetable seedlings": {
+      "vegetables": {
          "advisory": [
-            "Cover newly planted seedlings with paper caps during the day."
+            "Cover newly planted seedlings during the day."
          ]
       },
-      "fingerlings": {
+      "ponds": {
          "advisory": [
-            "Harvest fingerlings in shallow ponds."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Check caterpillar migration. Dust with Chlorpyriphos. Spray insecticides if necessary."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Check caterpillar migration. Dust with Chlorpyriphos. Spray insecticides if necessary."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Treat seeds with Imidacloprid. Install yellow sticky traps."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Cut tops after harvesting. Dry bulbs in well-ventilated room for storage."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Control mango hoppers by spraying specified insecticides."
+            "Harvest fingerlings if water temperature rises. Ensure sufficient water depth."
          ]
       }
    },

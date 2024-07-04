@@ -87,6 +87,13 @@
             "Maintain optimal planting distance and pit dimensions",
             "Utilize disease-resistant and tissue culture seedlings"
          ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation and drainage in poultry sheds",
+            "Deworm and vaccinate poultry birds",
+            "Prevent insect pest attacks"
+         ]
       }
    },
    "date": "28-06-2024"

@@ -29,10 +29,14 @@ jobs:
     - name: Set up OpenAI API key
       run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
+    - name: Set up Bhashini API key
+      run: echo "BHASHINI_API_KEY=${{ secrets.BHASHINI_API_KEY }}" >> $GITHUB_ENV
+
     - name: Run Python Script
       run: python main.py
       env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        BHASHINI_API_KEY: ${{ secrets.BHASHINI_API_KEY }}
 
     - name: Commit and Push
       uses: stefanzweifel/git-auto-commit-action@v5

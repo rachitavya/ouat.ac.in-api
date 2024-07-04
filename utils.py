@@ -99,7 +99,7 @@ def move_json_to_history(source_dir, dest_dir):
                     print(f"Moved {filename} to {dest_path}")
 
     process_directory(source_dir, dest_dir)
-    hindi_source_dir = os.path.join(source_dir, "hindi")
-    hindi_dest_dir = os.path.join(dest_dir, "hindi")
-    if os.path.exists(hindi_source_dir):
-        process_directory(hindi_source_dir, hindi_dest_dir)            
+    odia_source_dir = os.path.join(source_dir, "odia")
+    odia_dest_dir = os.path.join(dest_dir, "odia")
+    if os.path.exists(odia_source_dir):
+        process_directory(odia_source_dir, odia_dest_dir)            

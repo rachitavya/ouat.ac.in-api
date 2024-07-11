@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "03-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 78,
+         "rh_min": 66,
+         "wind_speed": 16,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      },
+      "04-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 77,
+         "rh_min": 52,
+         "wind_speed": 14,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 53,
+         "wind_speed": 14,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      },
+      "06-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 50,
+         "wind_speed": 15,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      },
+      "07-07-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 47,
+         "wind_speed": 15,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo",
+      "poultry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, farmers are advised to take necessary action towards kharif crop cultivation and avoid irrigation from 7th to 13th July, 2024. Proper care should be taken to control mealybug attack and disease infestation. Deworming and vaccination of animals and poultry birds are recommended.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "Start field preparation for nursery sowing of paddy after previous rainfall.",
+            "Divide nursery area into smaller plots for efficient irrigation.",
+            "Seed treatment should be done before sowing."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Start field preparation for cotton cultivation.",
+            "Seed treatment with imidacloprid for protection against sucking pests.",
+            "Proper spacing and fertilizer application instructions."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Regular monitoring for pest attacks in vegetable crops.",
+            "Proper care during spraying operations and nursery bed preparation.",
+            "Instructions for rainy season preparation."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Ensure deworming and vaccination against infectious diseases.",
+            "Varied grass feeding for magnesium deficiency prevention."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation for poultry.",
+            "Drainage maintenance and pest control measures.",
+            "Deworming and vaccination against diseases."
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

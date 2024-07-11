@@ -1,100 +1,104 @@
 {
    "weather_details": {
-      "03-07-2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 69,
-         "rh_min": 54,
+      "10-07-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 80,
+         "rh_min": 57,
          "wind_speed": 19,
-         "wind_direction": 248,
-         "cloud_cover": 8
+         "wind_direction": 193,
+         "cloud_cover": 7
       },
-      "04-07-2024": {
-         "rainfall": 15,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 53,
-         "wind_speed": 18,
-         "wind_direction": 212,
-         "cloud_cover": 8
+      "11-07-2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 81,
+         "rh_min": 58,
+         "wind_speed": 21,
+         "wind_direction": 202,
+         "cloud_cover": 6
       },
-      "05-07-2024": {
-         "rainfall": 15,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 75,
+      "12-07-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 79,
+         "rh_min": 56,
+         "wind_speed": 19,
+         "wind_direction": 201,
+         "cloud_cover": 5
+      },
+      "13-07-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 78,
+         "rh_min": 56,
+         "wind_speed": 15,
+         "wind_direction": 167,
+         "cloud_cover": 6
+      },
+      "14-07-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 79,
          "rh_min": 55,
-         "wind_speed": 16,
-         "wind_direction": 204,
-         "cloud_cover": 8
-      },
-      "06-07-2024": {
-         "rainfall": 20,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 76,
-         "rh_min": 52,
-         "wind_speed": 17,
-         "wind_direction": 202,
-         "cloud_cover": 8
-      },
-      "07-07-2024": {
-         "rainfall": 20,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 75,
-         "rh_min": 51,
-         "wind_speed": 14,
-         "wind_direction": 202,
-         "cloud_cover": 8
+         "wind_speed": 11,
+         "wind_direction": 162,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "rice",
+      "jute",
       "sugarcane",
       "vegetables",
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "1. As per IMD Forecast, light to moderate rainfall is expected in upcoming days, farmers are advised to take proper care while conducting spraying operations and also start nursery bed preparation for kharif crops & vegetables. 2. For Kharif paddy cultivation, use good quality seeds as mentioned. 3. For Flood affected areas, use specific types of seeds. 4. Regular monitoring of insect pests in vegetable crops is advised due to prevailing weather conditions. 5. Make necessary arrangements for field preparation as monsoon has already entered the state. 6. Provide irrigation to standing crops and vegetables as needed.",
+   "general_advisory": "1. For Kharif paddy cultivation, use good quality seeds like -for Medium land -use Salandi,Kaling dhan - 1301,Pratikhya (120 -130 days) ,for shallow medium land -Swarna,Ranidhan,Mrunalini,MTU -1140,Kaling Dhan 1401 ,for Low land - Kaling Dhan 1502,Kalachampa,Kaling Dhan -1501,CR -1009 (140 -145 days) , for Flood affected area - Swarna sub 1,CR -1009 Sub 1 2. Prevailing periodically cloudy and sunny condition is favourable for insect pest attack in vegetable crops so its regular monitoring should be advised. 3. Prevailing weather condition may increase the chances of BLB & Blast in nursery stage in paddy so Tricyclazole @1g/li or Plantomycin @ 1 gm/li recommended.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Prepare well pulverised nursery bed for Kharif Rice.",
-            "Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed.",
-            "Instead of manual DSR followed by beushaning, follow mechanized DSR cultivation with appropriate package of practices.",
-            "Go for summer ploughing by utilizing the rain received in recent past days. Arrange good quality seeds as green manuring crop."
+            "Prevailing weather condition may increase the chances of BLB & Blast in nursery stage in paddy so Tricyclazole @1g/li or Plantomycin @ 1 gm/li recommended.",
+            "Prepare well pulverised nursery bed for Kharif Rice. Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed."
+         ]
+      },
+      "jute": {
+         "advisory": [
+            "Current rainy weather is favourable for attack of insect pest like semilooper, Bihari hair caterpillar and other foliage feeders. To control these insects, spray Lamba cyhalothrin 4.9CS @ 250 ml/acre."
          ]
       },
       "sugarcane": {
          "advisory": [
             "Wrapping and propping should be done when the crop becomes 4-5 months old in medium and late duration varieties.",
-            "To control early shot borer in sugarcane, foliar spray of Fipronil 5SC @400 ml/acre is advised."
+            "To control early shot borer in sugarcane foliar spray of Fipronil 5SC @400 ml/acre is advised."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Regular monitoring of insect pest attack in vegetable crops is advised.",
-            "Spraying of Thiamethoxam 0.4 g/l of water is recommended to control mealy bug in okra & brinjal.",
-            "Prepare nursery bed and treat the seed with (Carboxin+Thiram)@2g/kg of seed for timely planting of kharif vegetables like Brinjal & Chilli.",
-            "To control Fruit and shoot borer, spray recommended pesticides at initial stages."
+            "For preventing wilt, other fungal & bacterial diseases in main field spraying of Tebuconazole @1 ml/li of water along with plantomycin @1g/ li of water before 7 days of transplanting as nursery treatment recommended.",
+            "Prevailing periodically cloudy and sunny condition is favourable for sucking insect pest attack in vegetable crops so its regular monitoring should be advised.",
+            "Prevailing weather condition may increase the mealy bug in okra & brinjal to control this spraying of Thiamethoxam 0.4 g/l of water recommended.",
+            "To control Fruit and shoot borer in Brinjal, Tomato & Okra Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Stock Carp such as Rohu, Catla and Mrigal in a certain ratio to increase benefits.",
-            "Maintain a density of 5,000 fingerlings/ha as a standard stocking.",
-            "Provide specific feed to increase pond quality and facilitate growth."
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits.",
+            "Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
          ]
       },
       "livestock": {
          "advisory": [
-            "Ensure animals are vaccinated against common diseases.",
-            "Provide mineral mixture regularly and adjust diet during winter season."
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done.",
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },
-   "date": ""
+   "date": "09-07-2024"
 }

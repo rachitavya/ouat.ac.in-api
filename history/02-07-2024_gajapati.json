@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "2024-07-03": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 85,
+         "rh_min": 78,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "2024-07-04": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 56,
+         "wind_speed": 8,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "2024-07-05": {
+         "rainfall": 15,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 84,
+         "rh_min": 66,
+         "wind_speed": 6,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "2024-07-06": {
+         "rainfall": 15,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 83,
+         "rh_min": 55,
+         "wind_speed": 6,
+         "wind_direction": 259,
+         "cloud_cover": 8
+      },
+      "2024-07-07": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 61,
+         "wind_speed": 7,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "finger millet",
+      "maize",
+      "pigeon pea",
+      "brinjal"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 34.1°C and the mean minimum daily temperature was 26.1°C of the Gajapati district during the last week. The district received 75.1 mm of rainfall during the last week. Go for sowing of non-paddy crops like groundnut, arhar , sesame, cowpea etc in rainfed upland. Grow vegetables in uplands like Lady’s finger , Cowpea, Cluster bean. Sow the paddy seeds in line preferably with seed drill or three tyne cultivator -cum-seed drill or behind the country plough at 15 x 15 cm or 20 x10 cm spacing. Seed should be placed at a depth of 4-6 cm. Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/ acre for sowing by seed drill depending on the test weight of the seed. Do not keep standing water in paddy nursery. For each square metre of nursery bed apply 10 gram of DAP  and 10 grams of MOP . Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land levelling for uniform crop stand. Incorporate the dhaincha green manuring crop at the time of initial puddling of main field.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "It is time for nursery sowing of ragi. Grow high yielding varieties like Arjun, Divyasingh, AKP-2, AKP-3, AKP-7, Godavari, Neelachal, Bhairavi, Shubhra, and Chilika. Use 2 to 2.5 kg seeds /acre for transplanting. Before sowing treat the seeds with 3 g Thiram or 1g Trycychlozole per kg Seeds. Apply 10 g each of Nitrogen and Phophorous per sq. metre of nursery bed and mix it thoroughly . Sow the seeds uniformly over the beds and cover the seeds thinly with powdered soil."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed rate for maize is 6-7kg/acre.T o avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS. Keep row to row spacing at 60 cm and plant to plant at 20 cm. To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough. Apply 55 kg of DAP  and 22-kg of potash as basal fertilizer . For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1-2 DAS."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T- Arhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Apply 20 kg Urea, 52 Kg DAP  and 20 Kg MOP  as basal fertilizer . Maintain row to row spacing of 75 cm and plant to plant spacing of 60 cm."
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

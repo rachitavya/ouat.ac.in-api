@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "03/07/2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 70,
+         "wind_speed": 16,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "04/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "05/07/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 60,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      },
+      "06/07/2024": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 59,
+         "wind_speed": 12,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "07/07/2024": {
+         "rainfall": 20,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 84,
+         "rh_min": 50,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "vegetables",
+      "paddy",
+      "ragi",
+      "maize",
+      "groundnut",
+      "ginger",
+      "turmeric"
+   ],
+   "general_advisory": "Farmers are advised to avoid exposure outside during the peak heat hours of the day. Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage. Avoid harvesting at over maturity stage as the pods will be shattered."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm. Also due to weather, there may be an attack of Mites."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Prepare a well-cultivated dry bed of size 10 decimal of land required for acre of paddy transplantation."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Choose good varieties like Arjuna, Kalua, Sriprava.",
+            "After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties like Kalinga Maize, Prabal, etc.",
+            "Spacing is 60x30 cm.",
+            "Apply the basal dose of 8:16:16 kg NPK/acre after final land preparation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Choose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut.",
+            "Treat the seeds with Vitavax power.",
+            "One hour before sowing treat with Rhizobium culture.",
+            "Apply 2 t FYM, 1q gypsum along with 8:16:16 kg NPK/acre.",
+            "Spacing is 30x10 cm."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi.",
+            "Seed rate is 6-8 q/ac.",
+            "Each piece should be 20g and contain 2-3 eyes.",
+            "Treat the seeds before planting in the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Sow good varieties like Roma, Suroma, Ranga, and Rashmi.",
+            "Seed rate is 8-10 q/ac.",
+            "The seed material should contain 2-3 eyes and of 20-25g per piece."
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

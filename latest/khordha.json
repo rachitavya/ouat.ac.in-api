@@ -1,102 +1,139 @@
 {
    "weather_details": {
-      "03/07/2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "10/07/2024": {
+         "rainfall": 6,
+         "t_max": 32,
          "t_min": 26,
-         "rh_max": 71,
-         "rh_min": 61,
-         "wind_speed": 15,
-         "wind_direction": 248,
+         "rh_max": 81,
+         "rh_min": 53,
+         "wind_speed": 18,
+         "wind_direction": 198,
          "cloud_cover": 8
       },
-      "04/07/2024": {
-         "rainfall": 10,
+      "11/07/2024": {
+         "rainfall": 7,
          "t_max": 34,
          "t_min": 27,
-         "rh_max": 76,
+         "rh_max": 79,
+         "rh_min": 54,
+         "wind_speed": 20,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "12/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 78,
          "rh_min": 49,
          "wind_speed": 18,
-         "wind_direction": 207,
-         "cloud_cover": 8
+         "wind_direction": 202,
+         "cloud_cover": 6
       },
-      "05/07/2024": {
-         "rainfall": 5,
+      "13/07/2024": {
+         "rainfall": 4,
          "t_max": 35,
-         "t_min": 27,
-         "rh_max": 72,
-         "rh_min": 51,
+         "t_min": 28,
+         "rh_max": 73,
+         "rh_min": 49,
          "wind_speed": 14,
-         "wind_direction": 204,
-         "cloud_cover": 7
-      },
-      "06/07/2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 75,
-         "rh_min": 48,
-         "wind_speed": 15,
          "wind_direction": 205,
-         "cloud_cover": 7
+         "cloud_cover": 6
       },
-      "07/07/2024": {
+      "14/07/2024": {
          "rainfall": 5,
          "t_max": 34,
          "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 45,
-         "wind_speed": 13,
-         "wind_direction": 202,
-         "cloud_cover": 8
+         "rh_max": 76,
+         "rh_min": 47,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
+      "kharif paddy",
       "pulses",
+      "oilseeds",
+      "cotton",
       "maize",
-      "paddy",
+      "ragi",
+      "vegetables",
+      "spices",
       "groundnut",
-      "cucurbits",
-      "sugarcane",
-      "fishery"
+      "arhar",
+      "papaya",
+      "mango"
    ],
-   "general_advisory": "Make provisions for drainage, where kharif maize or pulses etc. have been sown. Don’t keep standing water in paddy nursery. Harvest vegetables, ripened mangoes and other fruits. Repair water harvesting structures, field bunds to store excess rainwater for utilization in case of early or mid-season droughts. For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field. Do not apply fertilizer & pesticides until clear weather.",
+   "general_advisory": "Keep rain water in the main rice field by bunding for timely puddling and transplanting. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement. In early planted maize and Jute apply nitrogen fertilizer after receding of rain. Make provisions for drainage, where kharif maize or pulses etc. have been sown. If the Sugarcane crop is 4-5 months old than wrapping and propping should be done for medium and long duration varieties to keeps the cane erects.",
    "crops_data": {
+      "kharif paddy": {
+         "advisory": [
+            "Broadcasting of Kharif paddy is under progress.",
+            "Raising of paddy nursery is going on."
+         ]
+      },
       "pulses": {
          "advisory": [
-            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 D AS. Apply herbicide when the soil is moist."
+            "Sowing of Non paddy crops like Pulses is in progress."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Sowing of Non paddy crops like Oilseeds is in progress."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing of Non paddy crops like Cotton is in progress."
          ]
       },
       "maize": {
          "advisory": [
-            "Seed rate for maize is 6-7kg/acre. To avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4 -ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS. Keep row to row spacing at 60 cm and plant to plant at 20 cm. To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough. Apply 55 kg of DAP and 22-kg of potash as basal fertilizer. For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1- 2 DAS."
+            "Sowing of Non paddy crops like Maize is in progress.",
+            "Apply nitrogen fertilizer after receding of rain to early planted maize."
          ]
       },
-      "paddy": {
+      "ragi": {
          "advisory": [
-            "Nursery Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP during last puddling in 10-decimal nursery area. Apply Chlorantraniliprole 0.4 % G(Ferterra/Enfuse) @ 400-gram or Cartap Hydrochloride 4% GR (Caldan 4G/Boregan G) @ 800-gram or Fipronil 0.3% GR (Sergent /Reagent) @ 1-kg in the 10 decimal nursery area 7-days before transplanting to manage gall midge, stem borer, caseworm, leaf folder and root knot nematode up to 3 weeks after transplanting."
+            "Sowing of Non paddy crops like Ragi is in progress."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Sowing of Non paddy crops like Vegetables is in progress.",
+            "Cover vegetable nursery with polythene to protect from heavy rain."
+         ]
+      },
+      "spices": {
+         "advisory": [
+            "Sowing of Non paddy crops like Spices is in progress."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Sowing Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 D AS. Apply herbicide when the soil is moist. Treat the seeds with the recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+            "Apply pre-emergence herbicide as advised.",
+            "Treat the seeds with recommended species of Rhizobium."
          ]
       },
-      "cucurbits": {
+      "arhar": {
          "advisory": [
-            "Vegetative To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP (Hi-dice/Kocide) @ 3-gram/litre or Fosetyl -AL 80 % WP (Aliette)@ 3-gram /litre or Carbendazim 12 % + Mancozeb 63 % WP (Saaf/Sixer) @ 2-gram/litre."
+            "Sowing season for improved varieties like PRG-235, PRG 176, VL ARHAR-1 is ongoing.",
+            "Recommended seed rate for early and late maturing varieties is 8 and 6 kg/acre."
          ]
       },
-      "sugarcane": {
+      "papaya": {
          "advisory": [
-            "Vegetative There are chances of top shoot borer infestation in sugarcane crop. To manage top shoot borer in in Sugarcane spray Fipronil 5 % SC (Reagent / Sergent/Ashirwaad) @ 600- ml/acre or Profenophos 50% EC (Profex / Prahar/Capture) @ 400-ml/acre by mixing it in 200- l itre of water."
+            "Planting of Papaya is optimum now.",
+            "Use recommended HYV varieties for planting."
          ]
       },
-      "fishery": {
+      "mango": {
          "advisory": [
-            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran are given in the same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and superphosphate should be applied to increase pond quality."
+            "July and August are optimum for mango planting.",
+            "Use healthy unbranched grafted seedlings for planting."
          ]
       }
    },
-   "date": "02-07-2024"
+   "date": "09-07-2024"
 }

@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "03-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 63,
+         "rh_min": 48,
+         "wind_speed": 22,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "04-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 44,
+         "wind_speed": 17,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 70,
+         "rh_min": 45,
+         "wind_speed": 12,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "06-07-2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 74,
+         "rh_min": 40,
+         "wind_speed": 14,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      },
+      "07-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 40,
+         "wind_speed": 12,
+         "wind_direction": 210,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "vegetables",
+      "pisciculture"
+   ],
+   "general_advisory": "As per IMD Forecast, Very Light to Light rainfall is expected in upcoming days. Farmers are advised to take proper care while conducting spraying operations and start nursery bed preparation for kharif crops & vegetables. Make necessary arrangements for field preparation as monsoon has already entered the state. Provide needful irrigation to standing crops and vegetables.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Prepare well-pulverised nursery bed for Kharif Rice.",
+            "Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed.",
+            "Mechanized DSR cultivation with appropriate package of practices is advised.",
+            "Farmers advised to go for summer ploughing utilizing recent rains.",
+            "Arrange good quality seeds of @12kg/acre as green manuring crop."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Wrapping and propping should be done when the crop becomes 4-5 months old in medium and late duration varieties.",
+            "To control early shot borer in sugarcane foliar spray of Fipronil 5SC @400 ml/acre is advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Regular monitoring for sucking insect pest attack in vegetable crops is advised.",
+            "Use Thiamethoxam 0.4 g/l of water to control mealy bugs in okra & brinjal.",
+            "Prepare nursery bed & treat seed with (Carboxin+Thiram)@2g/kg of seed for timely planting of kharif vegetables.",
+            "Spray Neem-based pesticide 1500ppm @600ml/acre at initial stages to control Fruit and shoot borer in Brinjal, Tomato & Okra."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Stock carp such as Rohu, Catla, and Mrigal in a certain ratio of 4:3:3 for increased benefits.",
+            "Maintain a density of 5,000 fingerlings/ha as a standard stocking.",
+            "Provide groundnut oil cake and rice bran in same ratio @5% of the total biomass of stocking material. Apply cow dung, urea, and super phosphate to increase pond quality."
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

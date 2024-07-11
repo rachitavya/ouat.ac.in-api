@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "03/07/2024": {
-         "rainfall": 4,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 65,
-         "rh_min": 50,
-         "wind_speed": 22,
-         "wind_direction": 249,
-         "cloud_cover": 8
-      },
-      "04/07/2024": {
-         "rainfall": 5,
+      "10/07/2024": {
+         "rainfall": 10,
          "t_max": 33,
          "t_min": 25,
-         "rh_max": 70,
-         "rh_min": 48,
-         "wind_speed": 18,
-         "wind_direction": 204,
-         "cloud_cover": 7
+         "rh_max": 79,
+         "rh_min": 56,
+         "wind_speed": 25,
+         "wind_direction": 202,
+         "cloud_cover": 8
       },
-      "05/07/2024": {
-         "rainfall": 5,
-         "t_max": 35,
+      "11/07/2024": {
+         "rainfall": 4,
+         "t_max": 34,
          "t_min": 26,
-         "rh_max": 71,
-         "rh_min": 51,
-         "wind_speed": 21,
-         "wind_direction": 204,
-         "cloud_cover": 7
-      },
-      "06/07/2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 47,
-         "wind_speed": 16,
+         "rh_max": 78,
+         "rh_min": 56,
+         "wind_speed": 23,
          "wind_direction": 202,
          "cloud_cover": 7
       },
-      "07/07/2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "12/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
          "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 49,
-         "wind_speed": 18,
-         "wind_direction": 208,
+         "rh_max": 77,
+         "rh_min": 53,
+         "wind_speed": 17,
+         "wind_direction": 202,
          "cloud_cover": 7
+      },
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 75,
+         "rh_min": 53,
+         "wind_speed": 13,
+         "wind_direction": 199,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 51,
+         "wind_speed": 11,
+         "wind_direction": 197,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
@@ -56,38 +56,47 @@
       "maize",
       "vegetables",
       "groundnut",
-      "fishery"
+      "arhar",
+      "papaya",
+      "mango"
    ],
-   "general_advisory": "Make provisions for drainage, harvest vegetables and fruit, repair water harvesting structures, use certified seeds for paddy, incorporate dhaincha green manuring crop, do not apply fertilizer & pesticides until clear weather.",
+   "general_advisory": "Keep rainwater in the main rice field by bunding for timely puddling and transplanting. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement. In early planted maize and jute apply nitrogen fertilizer after receding of rain. Make provisions for drainage where kharif maize or pulses etc. have been sown. If the sugarcane crop is 4-5 months old, then wrapping and propping should be done for medium and long duration varieties to keep the canes erect.",
    "crops_data": {
       "pulses": {
          "advisory": [
-            "Don’t keep standing water in paddy nursery."
+            "Sowing: Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 DAS. Apply herbicide when the soil is moist."
          ]
       },
       "maize": {
          "advisory": [
-            "Seed rate for maize is 6-7kg/acre.",
-            "To avoid the infestation of Fall Army Worm, treat seeds with Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS.",
-            "Keep row to row spacing at 60 cm and plant to plant at 20 cm."
+            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 DAS. Apply herbicide when the soil is moist."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Harvest vegetables."
+            "Vegetative to fruiting: Manage Mosaic disease transmitted by whitefly and other sucking pests in vegetable crops. Seed treatment should be done with Imidacloprid 75 % WG @ 4 gram/kg of seeds. Install Yellow sticky traps and apply neem-based pesticide for disease management."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC.",
-            "Treat seeds with recommended species of Rhizobium bacterial culture."
+            "Sowing: Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
          ]
       },
-      "fishery": {
+      "arhar": {
          "advisory": [
-            "Carp such as Rohu, Catla and Mrigal should be stocked in a certain ratio of 4:3:3."
+            "Sowing: Use improved varieties like PRG-235, PRG 176, VL ARHAR -1. Treat seeds with recommended fungicides."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Planting: Plant the seedlings at recommended distances using disease-resistant and tissue culture seedlings."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Planting: July and August are optimum for mango planting. Use healthy unbranched grafted seedlings and provide appropriate nutrients."
          ]
       }
    },
-   "date": ""
+   "date": "09-07-2024"
 }

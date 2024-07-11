@@ -2,53 +2,43 @@
    "weather_details": {
       "2022-01-01": {
          "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 80,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 90,
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 5
+         "cloud_cover": 7
       },
       "2022-01-02": {
          "rainfall": 2,
          "t_max": 28,
          "t_min": 18,
-         "rh_max": 75,
+         "rh_max": 85,
          "rh_min": 55,
          "wind_speed": 12,
          "wind_direction": 200,
-         "cloud_cover": 4
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "wheat",
-      "poultry"
+      "maize"
    ],
-   "general_advisory": "Sow rice and wheat crops in the recommended period. Ensure proper ventilation in poultry houses.",
+   "general_advisory": "Sow rice and maize early to take advantage of the upcoming rains. Ensure proper drainage in the fields.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Plant rice seeds in well-drained soil.",
-            "Ensure proper irrigation for optimal growth.",
-            "Watch out for pests and use appropriate pesticides."
+            "Plant rice in well-drained fields.",
+            "Provide adequate irrigation during dry spells."
          ]
       },
-      "wheat": {
+      "maize": {
          "advisory": [
-            "Prepare the soil by plowing and leveling before sowing wheat seeds.",
-            "Apply fertilizers as per soil test results.",
-            "Monitor weather conditions for disease prevention."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Maintain proper hygiene in poultry houses.",
-            "Monitor feed quality and provide balanced nutrition.",
-            "Regularly check for signs of diseases and take necessary actions."
+            "Sow maize seeds at the recommended spacing.",
+            "Monitor for pests and diseases regularly."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "09-07-2024"
 }

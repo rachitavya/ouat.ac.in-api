@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "03-07-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 77,
+         "rh_min": 60,
+         "wind_speed": 18,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      },
+      "04-07-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 56,
+         "wind_speed": 15,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 63,
+         "wind_speed": 15,
+         "wind_direction": 212,
+         "cloud_cover": 8
+      },
+      "06-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 69,
+         "wind_speed": 16,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "07-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 18,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "ragi",
+      "tomato",
+      "brinjal",
+      "ginger",
+      "turmeric"
+   ],
+   "general_advisory": "Rainfall is expected during the next five days. Farmers are advised to spray only when the sky becomes clear and use sticker to the spray solution. Proper arrangement for storing rainwater should be done in the field for irrigation during dry spell. Field preparation for non-paddy crops like pulse, oilseeds, and vegetables is recommended. Due to high humidity, take plant protection measures depending on the crop and weather conditions.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Collect hybrid or high yielding varieties of paddy with resistance to diseases and insect pests.",
+            "Sow dhanicha seeds @ 10 kg/acre prior to transplanting of paddy.",
+            "Transplant seedlings and treat with neem oil solution and metalaxyl + mancozeb.",
+            "Apply phosphatic fertilizer in dhaincha fields required for paddy cultivation."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Complete sowing of maize hybrid seed per acre with specific spacing.",
+            "Spray Atrazine to control weeds in maize field."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Optimum time for direct sowing ragi with specific seed quantity and spacing.",
+            "Apply DAP and MoP per acre at the time of sowing.",
+            "Treat seeds before sowing."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply Plantomycin and Copper Oxychloride if bacterial wilting is observed."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Spray neem-based pesticide and alternate sprays to control pests."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Perform weeding and top dressing with specific fertilizers."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Perform weeding and top dressing with specific fertilizers."
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

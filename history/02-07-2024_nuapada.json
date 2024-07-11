@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "03-07-2024": {
+         "rainfall": 7,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 68,
+         "wind_speed": 15,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "04-07-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 57,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "05-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 60,
+         "wind_speed": 12,
+         "wind_direction": 210,
+         "cloud_cover": 8
+      },
+      "06-07-2024": {
+         "rainfall": 20,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 60,
+         "wind_speed": 13,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "07-07-2024": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 57,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli"
+   ],
+   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread to widespread rain/thundershower is very likely over districts of Odisha during week -2 (5th to 11th July 2024) and overall rainfall activity likely to be slightly above normal. Also, possibility of isolated heavy to very heavy rain over the districts of Odisha during week -2 (5th to 11th July 2024). There is low probability of formation of another low-pressure area over north Bay of Bengal with northwestwards movement. Farmers are advised to initiate field preparation by utilizing rainwater soon after cessation of rainfall.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Seed rate: 20kg/ac for transplanted paddy, 30-40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill.",
+            "Recommended Varieties: Khandagiri, Sahabhagi, Jyotirmayee, Mandakini, Phalguni, Bandana, Anjali for upland condition."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing.",
+            "Seed treatment with Imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pest."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
+            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 15 cm."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
+            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 25 cm for irrigated condition and 75 cm x 25 cm for rainfed condition."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting.",
+            "Seed rate - 200-250 g/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting.",
+            "Seed rate - 200-250 g/acre."
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

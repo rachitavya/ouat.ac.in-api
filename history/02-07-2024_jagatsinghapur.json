@@ -1,0 +1,175 @@
+{
+   "weather_details": {
+      "03/07/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 70,
+         "rh_min": 56,
+         "wind_speed": 24,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "04/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 74,
+         "rh_min": 53,
+         "wind_speed": 26,
+         "wind_direction": 204,
+         "cloud_cover": 8
+      },
+      "05/07/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 28,
+         "rh_max": 73,
+         "rh_min": 56,
+         "wind_speed": 22,
+         "wind_direction": 207,
+         "cloud_cover": 7
+      },
+      "06/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 54,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "07/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 57,
+         "wind_speed": 17,
+         "wind_direction": 208,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "oilseeds",
+      "cotton",
+      "maize",
+      "ragi",
+      "vegetables",
+      "spices",
+      "kharif maize",
+      "kharif pulses",
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "cucurbits",
+      "carp",
+      "rohu",
+      "catla",
+      "mrigal"
+   ],
+   "general_advisory": "Make provisions for drainage, where kharif maize or pulses etc. have been sown. Don’t keep standing water in paddy nursery. Harvest vegetables, ripened mangoes and other fruits. Repair water harvesting structure, field bunds to store excess rainwater for utilization in case of early or mid-season droughts. For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field. Do not apply fertilizer & pesticides until clear weather.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Sowing of non-paddy crops like Pulses is under progress"
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Sowing of non-paddy crops like Oilseeds is under progress"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing of non-paddy crops like Cotton is under progress"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Make provisions for drainage where kharif maize has been sown",
+            "Apply pre-emergence herbicides for weed control",
+            "Treat seeds to avoid infestation of Fall Army Worm",
+            "Ensure proper spacing and fertilization"
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Sowing of non-paddy crops like Ragi is under progress"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Sowing of non-paddy crops like Vegetables is under progress",
+            "Harvest ripe vegetables"
+         ]
+      },
+      "spices": {
+         "advisory": [
+            "Sowing of non-paddy crops like Spices is under progress"
+         ]
+      },
+      "kharif maize": {
+         "advisory": [
+            "Make provisions for drainage where kharif maize has been sown",
+            "Apply pre-emergence herbicides for weed control",
+            "Treat seeds to avoid infestation of Fall Army Worm",
+            "Ensure proper spacing and fertilization"
+         ]
+      },
+      "kharif pulses": {
+         "advisory": [
+            "Sowing of Kharif pulses is under progress"
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Apply recommended fertilizers and pesticides in paddy nursery",
+            "Treat seeds for pest management before transplanting",
+            "Incorporate green manure at the time of puddling"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicides after sowing",
+            "Treat seeds with Rhizobium bacterial culture before sowing"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Monitor for top shoot borer infestation",
+            "Apply recommended insecticides for pest control"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Manage Downy Mildew disease with appropriate fungicides"
+         ]
+      },
+      "carp": {
+         "advisory": [
+            "Stock carp varieties in the recommended ratio",
+            "Feed with appropriate ratios of groundnut oil cake and rice bran",
+            "Apply cow dung, urea, and superphosphate for pond management"
+         ]
+      },
+      "rohu": {
+         "advisory": [
+            "Stock rohu variety in the recommended ratio"
+         ]
+      },
+      "catla": {
+         "advisory": [
+            "Stock catla variety in the recommended ratio"
+         ]
+      },
+      "mrigal": {
+         "advisory": [
+            "Stock mrigal variety in the recommended ratio"
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

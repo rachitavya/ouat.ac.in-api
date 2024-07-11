@@ -1,0 +1,135 @@
+{
+   "weather_details": {
+      "03/07/2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 64,
+         "wind_speed": 14,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "04/07/2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 54,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "05/07/2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "06/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 53,
+         "wind_speed": 10,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "07/07/2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "oilseeds",
+      "vegetables",
+      "rabi paddy",
+      "aromatic paddy",
+      "maize",
+      "groundnut",
+      "ginger",
+      "turmeric",
+      "yam"
+   ],
+   "general_advisory": "Farmers are advised to avoid exposure outside during the peak heat hours of the day. Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "After the monsoon rainfall prepare the land and start sowing different pulses in the field."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Choose the variety according to land type and resource available. The variety like Swarna Shreya of 115-125 days. It is drought tolerant and tolerant to disease and pest.",
+            "Change the certified seeds after three years."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre.",
+            "Also due to weather, there may attack of Mites, to manage this spray Dicofol @ 3 ml/liter of water.",
+            "In Cucurbits, prepare poison baits for white flies by mixing 2 ml Malathion and 20 g Jaggery in 1 liter of water. And keep the baits near the plants."
+         ]
+      },
+      "rabi paddy": {
+         "advisory": [
+            "Early sown rabi crops like Pulses, Oilseeds crop are at harvesting stage."
+         ]
+      },
+      "aromatic paddy": {
+         "advisory": [
+            "Choose the good varieties like New Kalajeera and Kalajeera, Nua Acharmati."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties are Kalinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Chose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut @ 75 kg/acre of pod.",
+            "Treat the seeds with Vitavax power @ 2g/kg of seeds.",
+            "Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds.",
+            "At final land preparation apply 2 t FYM, 1q gypsum along with 8:16:16 kg NPK/acre.",
+            "The spacing is 30 X 10 cm."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi.",
+            "Seed rate is 6-8 q/ac.",
+            "Each piece should be 20 g and contain 2-3 eyes.",
+            "Treat the seeds before planting in the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Sow good varieties like Roma, Suroma, Ranga, and Rashmi.",
+            "Seed rate is 8-10 q/ac.",
+            "The seed material should contain 2-3 eyes and of 20-25g per piece."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 q/ac.",
+            "The seed material should be of 150-200 g.",
+            "Prepare the well pulverized field and make pits of 3ft X 3ft and of 1.5ft depth.",
+            "After planting the pits should be filled with equal quantity of FYM and topsoil."
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

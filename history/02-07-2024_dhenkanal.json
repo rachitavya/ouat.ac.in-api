@@ -1,0 +1,59 @@
+{
+   "weather_details": {
+      "02.07.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 27,
+         "rh_max": 82,
+         "rh_min": 56,
+         "wind_speed": 10,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "finger millet",
+      "sesame",
+      "groundnut",
+      "papaya",
+      "brinjal"
+   ],
+   "general_advisory": "Optimum weather conditions for planting various crops. Care should be taken to manage pests and diseases.",
+   "crops_data": {
+      "finger millet": {
+         "advisory": [
+            "Time for nursery sowing of Finger millet",
+            "Use high yielding varieties like Divyasingh, AKP-2, AKP-3, etc.",
+            "Apply proper seed treatment and nutrient management"
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Optimum weather for sowing of Sesame",
+            "Use improved HYV varieties like Asrit, Smarak, etc.",
+            "Proper seed treatment and nutrient application"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicide for weed control",
+            "Correct planting technique and nutrient management"
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Optimum weather conditions for planting Papaya",
+            "Use recommended high yielding varieties",
+            "Plant seedlings at appropriate spacing with disease-resistant varieties"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Manage Shoot and Fruit Borer insect properly",
+            "Use pheromone traps and neem-based pesticides for control",
+            "Follow chemical control measures if needed"
+         ]
+      }
+   },
+   "date": "02-07-2024"
+}

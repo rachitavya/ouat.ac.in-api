@@ -53,44 +53,42 @@
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "maize",
+      "Sugarcane",
       "tomato",
       "brinjal",
       "coconut",
-      "vegetables",
+      "vegetable seedlings",
       "fingerlings",
-      "black gram",
-      "green gram",
-      "onion",
-      "mango",
-      "okra"
+      "BLACK GRAM & GREEN GRAM",
+      "ONION",
+      "MANGO"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation to bring down the heat effect.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Spread polythene in irrigation channels to save water wastage. Mulch coconut leaves around a coconut tree. Cover with paper caps on newly planted vegetable seedlings. Harvest fingerlings in shallow ponds if water temperature rises. Yellow stem borer management in paddy. Blast disease management. Tobacco caterpillar management in black gram & green gram. Early shoot borer management in sugarcane. Brinjal shoot and fruit borer management. Whitefly infestation prevention in okra. Proper harvesting and drying of onion. Mango hopper control.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit during these stages."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Cover rows with dry leaves. Top-dress with potassium. Irrigate frequently during hot months."
+            "Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Water deficit during these stages should be avoided."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperatures increase water requirement. Irrigate the crop."
+            "High temperature increases water requirement. Irrigate the crop. Do not allow water to remain stagnant."
+         ]
+      },
+      "Sugarcane": {
+         "advisory": [
+            "Cover the rows with dry leaves and top-dress with potassium. Apply sprinkler irrigation. Timely cutting of attacked shoot and apply Fipronil."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperatures may lead to wilting. Apply Streptocyclin in root zone."
+            "High temperature may lead to wilting. Apply Streptocyclin."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone trap for shoot and fruit borer management."
+            "Install pheromone traps. Spray neem-based pesticide. Go for chemical control if necessary."
          ]
       },
       "coconut": {
@@ -98,39 +96,29 @@
             "Mulch coconut leaves around the tree to reduce water loss."
          ]
       },
-      "vegetables": {
+      "vegetable seedlings": {
          "advisory": [
-            "Cover newly planted seedlings with paper caps during daytime."
+            "Cover newly planted seedlings with paper caps during the day."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "Harvest fingerlings from shallow ponds if water temperature rises. Ensure enough water depth in the pond."
+            "Harvest fingerlings if water temperature rises. Ensure enough water depth."
          ]
       },
-      "black gram": {
+      "BLACK GRAM & GREEN GRAM": {
          "advisory": [
-            "Check migration of caterpillars. Dust with Chlorpyriphos around the field."
+            "Check the migration of caterpillars. For chemical control, spray recommended insecticides."
          ]
       },
-      "green gram": {
+      "ONION": {
          "advisory": [
-            "Check migration of caterpillars. Dust with Chlorpyriphos around the field."
+            "Harvest onion properly and dry for storage."
          ]
       },
-      "onion": {
+      "MANGO": {
          "advisory": [
-            "Cut tops of onion after harvesting. Dry bulbs in well-ventilated room."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Spray Imidacloprid or Thiamethoxam for mango hopper control."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Treat okra seeds with Imidacloprid before sowing. Install yellow sticky traps."
+            "Control mango hoppers with recommended sprays."
          ]
       }
    },

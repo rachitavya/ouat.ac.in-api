@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "03/07/2024": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 27,
-         "rh_max": 70,
-         "rh_min": 56,
-         "wind_speed": 24,
-         "wind_direction": 248,
-         "cloud_cover": 8
-      },
-      "04/07/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 74,
-         "rh_min": 53,
-         "wind_speed": 26,
-         "wind_direction": 204,
-         "cloud_cover": 8
-      },
-      "05/07/2024": {
+      "10/07/2024": {
          "rainfall": 10,
-         "t_max": 34,
-         "t_min": 28,
-         "rh_max": 73,
-         "rh_min": 56,
-         "wind_speed": 22,
-         "wind_direction": 207,
-         "cloud_cover": 7
-      },
-      "06/07/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 76,
-         "rh_min": 54,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 62,
          "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "11/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 63,
+         "wind_speed": 28,
          "wind_direction": 202,
          "cloud_cover": 7
       },
-      "07/07/2024": {
-         "rainfall": 5,
+      "12/07/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 29,
+         "rh_max": 78,
+         "rh_min": 59,
+         "wind_speed": 27,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "13/07/2024": {
+         "rainfall": 4,
          "t_max": 34,
          "t_min": 27,
          "rh_max": 76,
-         "rh_min": 57,
-         "wind_speed": 17,
-         "wind_direction": 208,
-         "cloud_cover": 7
+         "rh_min": 59,
+         "wind_speed": 19,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 18,
+         "wind_direction": 200,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
@@ -59,117 +59,68 @@
       "ragi",
       "vegetables",
       "spices",
-      "kharif maize",
-      "kharif pulses",
-      "paddy",
       "groundnut",
-      "sugarcane",
-      "cucurbits",
-      "carp",
-      "rohu",
-      "catla",
-      "mrigal"
+      "arhar",
+      "papaya",
+      "mango"
    ],
-   "general_advisory": "Make provisions for drainage, where kharif maize or pulses etc. have been sown. Don’t keep standing water in paddy nursery. Harvest vegetables, ripened mangoes and other fruits. Repair water harvesting structure, field bunds to store excess rainwater for utilization in case of early or mid-season droughts. For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field. Do not apply fertilizer & pesticides until clear weather.",
+   "general_advisory": "Keep rain water in the main rice field by bunding for timely puddling and transplanting. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement. In early planted maize and jute apply nitrogen fertilizer after receding of rain. Make provisions for drainage, where kharif maize or pulses etc. have been sown. If the sugarcane crop is 4-5 months old than wrapping and propping should be done for medium and long duration varieties to keep the cane erects.",
    "crops_data": {
       "pulses": {
          "advisory": [
-            "Sowing of non-paddy crops like Pulses is under progress"
+            "Sowing of non-paddy crops like pulses is under progress"
          ]
       },
       "oilseeds": {
          "advisory": [
-            "Sowing of non-paddy crops like Oilseeds is under progress"
+            "Sowing of non-paddy crops like oilseeds is under progress"
          ]
       },
       "cotton": {
          "advisory": [
-            "Sowing of non-paddy crops like Cotton is under progress"
+            "Sowing of non-paddy crops like cotton is under progress"
          ]
       },
       "maize": {
          "advisory": [
-            "Make provisions for drainage where kharif maize has been sown",
-            "Apply pre-emergence herbicides for weed control",
-            "Treat seeds to avoid infestation of Fall Army Worm",
-            "Ensure proper spacing and fertilization"
+            "Apply nitrogen fertilizer after receding of rain in early planted maize"
          ]
       },
       "ragi": {
          "advisory": [
-            "Sowing of non-paddy crops like Ragi is under progress"
+            "Sowing of non-paddy crops like ragi is under progress"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Sowing of non-paddy crops like Vegetables is under progress",
-            "Harvest ripe vegetables"
+            "Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangements"
          ]
       },
       "spices": {
          "advisory": [
-            "Sowing of non-paddy crops like Spices is under progress"
-         ]
-      },
-      "kharif maize": {
-         "advisory": [
-            "Make provisions for drainage where kharif maize has been sown",
-            "Apply pre-emergence herbicides for weed control",
-            "Treat seeds to avoid infestation of Fall Army Worm",
-            "Ensure proper spacing and fertilization"
-         ]
-      },
-      "kharif pulses": {
-         "advisory": [
-            "Sowing of Kharif pulses is under progress"
-         ]
-      },
-      "paddy": {
-         "advisory": [
-            "Apply recommended fertilizers and pesticides in paddy nursery",
-            "Treat seeds for pest management before transplanting",
-            "Incorporate green manure at the time of puddling"
+            "Sowing of non-paddy crops like spices is under progress"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Apply pre-emergence herbicides after sowing",
-            "Treat seeds with Rhizobium bacterial culture before sowing"
+            "Apply pre-emergence herbicide for groundnut sowing"
          ]
       },
-      "sugarcane": {
+      "arhar": {
          "advisory": [
-            "Monitor for top shoot borer infestation",
-            "Apply recommended insecticides for pest control"
+            "Sowing improved varieties of Arhar"
          ]
       },
-      "cucurbits": {
+      "papaya": {
          "advisory": [
-            "Manage Downy Mildew disease with appropriate fungicides"
+            "Planting of papaya is optimum now"
          ]
       },
-      "carp": {
+      "mango": {
          "advisory": [
-            "Stock carp varieties in the recommended ratio",
-            "Feed with appropriate ratios of groundnut oil cake and rice bran",
-            "Apply cow dung, urea, and superphosphate for pond management"
-         ]
-      },
-      "rohu": {
-         "advisory": [
-            "Stock rohu variety in the recommended ratio"
-         ]
-      },
-      "catla": {
-         "advisory": [
-            "Stock catla variety in the recommended ratio"
-         ]
-      },
-      "mrigal": {
-         "advisory": [
-            "Stock mrigal variety in the recommended ratio"
+            "July and August is optimum for mango planting"
          ]
       }
    },
-   "date": "02-07-2024"
+   "date": "09-07-2024"
 }

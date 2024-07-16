@@ -76,11 +76,6 @@
             "Sowing of Non paddy crops like Pulses is in progress."
          ]
       },
-      "oilseeds": {
-         "advisory": [
-            "Sowing of Non paddy crops like Oilseeds is in progress."
-         ]
-      },
       "cotton": {
          "advisory": [
             "Sowing of Non paddy crops like Cotton is in progress."
@@ -101,11 +96,6 @@
          "advisory": [
             "Sowing of Non paddy crops like Vegetables is in progress.",
             "Cover vegetable nursery with polythene to protect from heavy rain."
-         ]
-      },
-      "spices": {
-         "advisory": [
-            "Sowing of Non paddy crops like Spices is in progress."
          ]
       },
       "groundnut": {

@@ -1,0 +1,126 @@
+{
+   "weather_details": {
+      "10/07/2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 62,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "11/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 63,
+         "wind_speed": 28,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "12/07/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 29,
+         "rh_max": 78,
+         "rh_min": 59,
+         "wind_speed": 27,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 59,
+         "wind_speed": 19,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 18,
+         "wind_direction": 200,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "oilseeds",
+      "cotton",
+      "maize",
+      "ragi",
+      "vegetables",
+      "spices",
+      "groundnut",
+      "arhar",
+      "papaya",
+      "mango"
+   ],
+   "general_advisory": "Keep rain water in the main rice field by bunding for timely puddling and transplanting. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement. In early planted maize and jute apply nitrogen fertilizer after receding of rain. Make provisions for drainage, where kharif maize or pulses etc. have been sown. If the sugarcane crop is 4-5 months old than wrapping and propping should be done for medium and long duration varieties to keep the cane erects.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Sowing of non-paddy crops like pulses is under progress"
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Sowing of non-paddy crops like oilseeds is under progress"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing of non-paddy crops like cotton is under progress"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Apply nitrogen fertilizer after receding of rain in early planted maize"
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Sowing of non-paddy crops like ragi is under progress"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangements"
+         ]
+      },
+      "spices": {
+         "advisory": [
+            "Sowing of non-paddy crops like spices is under progress"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicide for groundnut sowing"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Sowing improved varieties of Arhar"
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Planting of papaya is optimum now"
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "July and August is optimum for mango planting"
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

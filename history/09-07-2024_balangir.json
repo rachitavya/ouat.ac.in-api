@@ -1,0 +1,44 @@
+{
+   "weather_details": {
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 7
+      },
+      "2022-01-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize"
+   ],
+   "general_advisory": "Sow rice and maize early to take advantage of the upcoming rains. Ensure proper drainage in the fields.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Plant rice in well-drained fields.",
+            "Provide adequate irrigation during dry spells."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Sow maize seeds at the recommended spacing.",
+            "Monitor for pests and diseases regularly."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

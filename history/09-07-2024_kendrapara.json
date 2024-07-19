@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "10/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 56,
+         "wind_speed": 25,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "11/07/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 56,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "12/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 77,
+         "rh_min": 53,
+         "wind_speed": 17,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 75,
+         "rh_min": 53,
+         "wind_speed": 13,
+         "wind_direction": 199,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 51,
+         "wind_speed": 11,
+         "wind_direction": 197,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "maize",
+      "vegetables",
+      "groundnut",
+      "arhar",
+      "papaya",
+      "mango"
+   ],
+   "general_advisory": "Keep rainwater in the main rice field by bunding for timely puddling and transplanting. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement. In early planted maize and jute apply nitrogen fertilizer after receding of rain. Make provisions for drainage where kharif maize or pulses etc. have been sown. If the sugarcane crop is 4-5 months old, then wrapping and propping should be done for medium and long duration varieties to keep the canes erect.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Sowing: Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 DAS. Apply herbicide when the soil is moist."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 DAS. Apply herbicide when the soil is moist."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Vegetative to fruiting: Manage Mosaic disease transmitted by whitefly and other sucking pests in vegetable crops. Seed treatment should be done with Imidacloprid 75 % WG @ 4 gram/kg of seeds. Install Yellow sticky traps and apply neem-based pesticide for disease management."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Sowing: Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Sowing: Use improved varieties like PRG-235, PRG 176, VL ARHAR -1. Treat seeds with recommended fungicides."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Planting: Plant the seedlings at recommended distances using disease-resistant and tissue culture seedlings."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Planting: July and August are optimum for mango planting. Use healthy unbranched grafted seedlings and provide appropriate nutrients."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

@@ -2,43 +2,49 @@
    "weather_details": {
       "2022-01-01": {
          "rainfall": 5,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 90,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 85,
          "rh_min": 60,
-         "wind_speed": 10,
+         "wind_speed": 15,
          "wind_direction": 180,
-         "cloud_cover": 7
+         "cloud_cover": 4
       },
       "2022-01-02": {
          "rainfall": 2,
-         "t_max": 28,
+         "t_max": 26,
          "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 55,
+         "rh_max": 90,
+         "rh_min": 65,
          "wind_speed": 12,
          "wind_direction": 200,
-         "cloud_cover": 6
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "rice",
-      "maize"
+      "wheat",
+      "corn",
+      "poultry"
    ],
-   "general_advisory": "Sow rice and maize early to take advantage of the upcoming rains. Ensure proper drainage in the fields.",
+   "general_advisory": "Expect some rainfall in the upcoming days. Consider protecting crops from excess moisture.",
    "crops_data": {
-      "rice": {
+      "wheat": {
          "advisory": [
-            "Plant rice in well-drained fields.",
-            "Provide adequate irrigation during dry spells."
+            "Ensure proper irrigation for wheat crops.",
+            "Monitor for any signs of disease."
          ]
       },
-      "maize": {
+      "corn": {
          "advisory": [
-            "Sow maize seeds at the recommended spacing.",
-            "Monitor for pests and diseases regularly."
+            "Harvest corn before heavy rainfall to prevent damage."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry houses.",
+            "Check for any signs of illness in the flock."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "16-07-2024"
 }

@@ -1,0 +1,82 @@
+{
+   "weather_details": {
+      "10-07-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 13,
+         "wind_direction": 159,
+         "cloud_cover": 6
+      },
+      "11-07-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 48,
+         "wind_speed": 11,
+         "wind_direction": 171,
+         "cloud_cover": 7
+      },
+      "12-07-2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 42,
+         "wind_speed": 11,
+         "wind_direction": 171,
+         "cloud_cover": 7
+      },
+      "13-07-2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 44,
+         "wind_speed": 9,
+         "wind_direction": 216,
+         "cloud_cover": 6
+      },
+      "14-07-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 78,
+         "rh_min": 42,
+         "wind_speed": 10,
+         "wind_direction": 289,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "arhar"
+   ],
+   "general_advisory": "For better utilization of soil moisture, go for sowing of non-paddy crops like groundnut, arhar, and sesame in upland. Prevailing cloudy weather and high relative humidity condition is favorable for pest attacks in standing crops. Regular monitoring and appropriate plant protection measures should be taken.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Keep bunding water in the main rice field for timely puddling and transplanting.",
+            "Go for transplanting of paddy without any delay as fair amount rainfall is received due to active monsoon and it is likely to receive a good amount of rainfall in the next five days.",
+            "Apply Chlorantraniliprole 0.4 % G @ 400g or Cartap Hydrochloride 4% GR @ 800g or Fipronil 0.3% GR @ 1kg in the 10 decimal nursery area 7 days before transplanting to manage gall midge, stem borer, caseworm, leaf folder, and root knot nematode up to 3 weeks after transplanting."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To prevent White grub pest apply Chlorpyriphos dust @12-10 kg/acre at last ploughing or apply this dust above seeds after sowing and then cover it."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Now the weather is optimum for sowing of groundnut. Go for sowing of some improved varieties of arhar like PRG-235, PRG 176, VL ARHAR1, T-Arhar etc.",
+            "If line sowing is done in the field, the recommended seed rate for early and late maturing varieties is 8 and 6 kg/acre.",
+            "Seed treatment can be done with Carbendazim 50 % WP @ 2-gram/kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

@@ -1,117 +1,123 @@
 {
    "weather_details": {
-      "10/07/2024": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 78,
-         "rh_min": 45,
-         "wind_speed": 10,
-         "wind_direction": 158,
-         "cloud_cover": 7
-      },
-      "11/07/2024": {
-         "rainfall": 3,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 79,
-         "rh_min": 46,
-         "wind_speed": 10,
-         "wind_direction": 180,
-         "cloud_cover": 6
-      },
-      "12/07/2024": {
-         "rainfall": 4,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 82,
-         "rh_min": 47,
-         "wind_speed": 9,
-         "wind_direction": 180,
-         "cloud_cover": 6
-      },
-      "13/07/2024": {
-         "rainfall": 4,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 79,
-         "rh_min": 45,
-         "wind_speed": 8,
-         "wind_direction": 248,
-         "cloud_cover": 6
-      },
-      "14/07/2024": {
+      "20/07/2024": {
          "rainfall": 10,
-         "t_max": 35,
+         "t_max": 34,
          "t_min": 25,
-         "rh_max": 78,
+         "rh_max": 85,
          "rh_min": 45,
-         "wind_speed": 7,
-         "wind_direction": 281,
+         "wind_speed": 16,
+         "wind_direction": 68,
          "cloud_cover": 7
+      },
+      "21/07/2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 52,
+         "wind_speed": 10,
+         "wind_direction": 103,
+         "cloud_cover": 7
+      },
+      "22/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 55,
+         "wind_speed": 9,
+         "wind_direction": 117,
+         "cloud_cover": 6
+      },
+      "23/07/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24/07/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 62,
+         "wind_speed": 21,
+         "wind_direction": 248,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
-      "kharif",
       "paddy",
+      "pulses",
       "arhar",
       "ragi",
       "maize",
       "groundnut",
       "ginger",
-      "turmeric"
+      "turmeric",
+      "vegetables",
+      "yam"
    ],
    "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
    "crops_data": {
-      "kharif": {
-         "advisory": [
-            "Choose the variety according to land type and resource available.",
-            "The variety like Swarna Shreya of 115-125 days is recommended.",
-            "Aromatic paddy like New Kalajeera and Kalajeera, Nua Acharmati are suggested.",
-            "If using own seeds, test the germination test before sowing."
-         ]
-      },
       "paddy": {
          "advisory": [
-            "Prepare a well-cultivated dry bed for paddy transplantation.",
-            "Sow seeds in specified lines and cover with soil.",
-            "Apply urea following recommended guidelines."
+            "Choose the variety according to land type and resource available. The variety like Swarna Shreya of 115-125 days. It is drought tolerant and tolerant to disease and pest. MTU 1156 is of 115 to 120 days. Long duration variety are Pooja, MTU 7029, Pratikshya, MTU 1075, Kalinga dhan 1203,1204, 1205",
+            "Aromatic paddy like New Kalajeera and Kalajeera, Nua Acharmati. Change the certified seeds after three years.",
+            "If using own seeds, test the germination test before sowing.",
+            "In areas where rain is received, go for sowing the Dhaincha seeds @ 10kg/ac which should be incorporated in the field at 3 weeks stage prior to main kharif crop cultivation. It will condition the soil and add organic matter in the soil."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "10 kg seeds are required for one acre mung and blackgram cultivation. Treat the seeds with Rhizobium @ 20g/kg of seeds. Before seven days of sowing treat with Carbedazim @ 2 g/kg seeds. Good varieties are IP-02-14, OUM-11-5, Pant-19, PDM-54."
          ]
       },
       "arhar": {
          "advisory": [
-            "Choose quality seeds of Arhar for sowing."
+            "Choose quality seeds of Arhar like Upas-120, ICPl 86012, Pusa Arhar. Always go for early to medium duration Arhar."
          ]
       },
       "ragi": {
          "advisory": [
-            "Choose good varieties like Arjuna, Kalua, Sriprava for sowing after rainfall."
+            "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
          ]
       },
       "maize": {
          "advisory": [
-            "Choose good varieties like Kalinga Maize, Prabal for sowing.",
-            "Apply basal dose of NPK as per recommendations."
+            "Choose good varieties are Kalinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Choose good varieties like Dharani, Smruti, Kadri-6 for sowing.",
-            "Treat the seeds with recommended products before sowing."
+            "Chose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut @ 75 kg/acre of pod. Treat the seeds with Vitavax power @ 2g/kg of seeds. Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds. At final land preparation apply 2 t FYM, 1q zypsum along with 8:16:16 kg NPK/acre. The spacing is 30 X 10 cm."
          ]
       },
       "ginger": {
          "advisory": [
-            "Collect good quality ginger Rhizomes for planting.",
-            "Treat the seeds before planting in the field."
+            "Drain out excess water from the field."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Sow good varieties like Roma, Suroma, Ranga for planting.",
-            "Seed material should have 2-3 eyes per piece."
+            "Drain out excess water from the field."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "In case of Brinjal fruit & Shoot Borer use 8 nos. of pheromone trap or apply Neem based pesticides twice at 10-15 days interval. Go for off season vegetables like Cauliflower, plant the seedlings in the main field."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 q/ac. The seed material should be of 150-200 g. Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth. After planting the pits should be filled with equal quantity of FYM and top soil."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

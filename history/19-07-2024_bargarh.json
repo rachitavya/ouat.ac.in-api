@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "20-07-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 44,
+         "wind_speed": 13,
+         "wind_direction": 63,
+         "cloud_cover": 7
+      },
+      "21-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "22-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 54,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      },
+      "23-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 80,
+         "rh_min": 66,
+         "wind_speed": 23,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 76,
+         "rh_min": 61,
+         "wind_speed": 22,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "vegetable crops",
+      "animal husbandry"
+   ],
+   "general_advisory": "Farmers are advised to avoid irrigation and spraying operation during periods of rainfall. Provision should be made to support crops in high wind conditions. Transplant rice seedlings after the 2nd fortnight of July. Take preventive measures against pests and diseases. Proper land preparation is essential. For maize, consider early sowing dates and weed control practices. Prepare raised bed nurseries for kharif vegetable crops. Ensure proper drainage and avoid planting during heavy rainfall periods. Deworm and vaccinate animals. Provide clean drinking water and keep livestock sheltered during the rainy season.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Complete nursery sowing by end of 2nd fortnight of July.",
+            "Puddle the field twice with 7-10 days intervals for main field land preparation.",
+            "Apply recommended doses of fertilizers at appropriate times.",
+            "Transplant seedlings at recommended spacing.",
+            "Store rainwater by constructing broad and elevated bunds."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Sow maize between June 20 to end of July.",
+            "Treat seeds with fungicides and insecticides before sowing.",
+            "Implement weed control measures at critical growth stages.",
+            "Delay spraying and intercultural operations based on rainfall forecasts."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Prepare raised bed nurseries with proper drainage.",
+            "Avoid planting and operations during heavy rainfall periods.",
+            "Ensure excess water drainage from fields."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Deworm and vaccinate animals against infectious diseases.",
+            "Provide clean drinking water and shelter for animals during rainfall."
+         ]
+      }
+   },
+   "date": "19-07-2024"
+}

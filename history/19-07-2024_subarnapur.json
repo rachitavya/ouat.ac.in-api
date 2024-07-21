@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "20-07-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 46,
+         "wind_speed": 10,
+         "wind_direction": 63,
+         "cloud_cover": 7
+      },
+      "21-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 49,
+         "wind_speed": 11,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "22-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 57,
+         "wind_speed": 17,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      },
+      "23-07-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 80,
+         "rh_min": 63,
+         "wind_speed": 22,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "24-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 55,
+         "wind_speed": 23,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "vegetable crops",
+      "animal husbandry"
+   ],
+   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places in the upcoming days, farmers are advised to avoid irrigation and spraying operations during that period and should wait some days for transplanting of rice and planting of fruit and vegetable crops. Looking to the high wind speed condition, make provision to support the crops.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Nursery sowing should be completed by the end of 2nd fortnight of July.",
+            "Keep 3 pheromone traps/acre of rice nursery for monitoring the stem borer and leaf folder infestation.",
+            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land leveling for uniform crop stand."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "The ideal sowing time is June 20 to the end of July for kharif maize.",
+            "In kharif season crop, it is always desirable to go for raised bed planting to protect the crop from waterlogging.",
+            "Looking to the upcoming rainfall forecast, farmers should wait some days for conducting any types of spraying as well as intercultural operations in maize field."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Farmers should start raised bed nursery preparation for kharif vegetable crops with proper drainage system to avoid waterlogging.",
+            "Looking to the upcoming rainfall condition, farmers should avoid planting and any intercultural operations during that period and make provision to drain out excess water from the field."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Deworming and vaccination of animals against some infectious diseases should be ensured.",
+            "Animal should be kept at safe places in the shed and not allowed for grazing in open places during the warning period."
+         ]
+      }
+   },
+   "date": "19-07-2024"
+}

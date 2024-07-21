@@ -61,22 +61,33 @@
    "crops_data": {
       "finger millet": {
          "advisory": [
-            "Use quality seeds like Arjuna, Kalua, Bhairavi, Chilika and seed rate is 1.5 kg for SMI methods, 2.5 Kg for line sowing and 4 kg/ac for broadcasting. Apply 10 g N and 10 g P per sq meter of nursery. For direct sowing apply 4 t FYM/ac. The fertilizer dose is 50:25:25 kg NPK/ha. To protect from termites apply 10 kg Chlorpyriphos at final preparation of the field."
+            "Use quality seeds like Arjuna, Kalua, Bhairavi, Chilika and seed rate is 1.5 kg for SMI methods, 2.5 Kg for line sowing and 4 kg/ac for broadcasting. Apply 10 g N and 10 g P per sq meter of nursery.",
+            "For direct sowing apply 4 t FYM/ac. The fertilizer dose is 50:25:25 kg NPK/ha.",
+            "To protect from termites apply 10 kg Chlorpyriphos at final preparation of the field."
          ]
       },
       "maize": {
          "advisory": [
-            "For sowing of maize seed require is 6-7kg/acre. To avoid the infestation of Fall Army Worm, treat the seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS per kg. spacing of row to row at 60 cm and plant to plant at 20 cm. Apply 55 kg of DAP and 22-kg of potash as basal fertilizer. For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1-2 DAS."
+            "For sowing of maize seed require is 6-7kg/acre. To avoid the infestation of Fall Army Worm, treat the seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS per kg.",
+            "Spacing of row to row at 60 cm and plant to plant at 20 cm.",
+            "Apply 55 kg of DAP and 22-kg of potash as basal fertilizer.",
+            "For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1-2 DAS."
          ]
       },
       "rice": {
          "advisory": [
-            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities.",
+            "It is advisable to follow community nursery approach at village level.",
+            "Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length.",
+            "Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
          ]
       },
       "mango": {
          "advisory": [
-            "Time is the optimum for mango planting. Grow Baiganpalli, Totapuri, Bombay green, Suvarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Rummani, Sindhu, Alphanso and Keshar, etc. Plant the seedlings in 1x1x1 m pit at 05x05 m distance. Before planting apply 80:100:60 g of NPK and two baskets of compost/pit"
+            "Time is the optimum for mango planting.",
+            "Grow Baiganpalli, Totapuri, Bombay green, Suvarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Rummani, Sindhu, Alphanso and Keshar, etc.",
+            "Plant the seedlings in 1x1x1 m pit at 05x05 m distance.",
+            "Before planting apply 80:100:60 g of NPK and two baskets of compost/pit."
          ]
       }
    },

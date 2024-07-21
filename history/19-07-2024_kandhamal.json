@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "20-07-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 68,
+         "wind_speed": 6,
+         "wind_direction": 116,
+         "cloud_cover": 8
+      },
+      "21-07-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 70,
+         "wind_speed": 7,
+         "wind_direction": 244,
+         "cloud_cover": 8
+      },
+      "22-07-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 75,
+         "wind_speed": 11,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "23-07-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 70,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "tomato",
+      "brinjal",
+      "chilli",
+      "maize",
+      "cattle rearing",
+      "fishery"
+   ],
+   "general_advisory": "Looking at the rainfall event and windy weather, farmers are advised to put hold on their pesticide application. In rice field bund must be raised to preserve water subsequent rice transplanting. From Vegetable fields, drain out excess of water to protect the seedling from rotting.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Start puddling of the main field for the transplanting of the rice.",
+            "For that purpose, make bunds to conserve water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting.",
+            "Keep the field sanitized after the rain recedes."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting.",
+            "Keep the field sanitized after the rain recedes."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Keep the field sanitized after the rain recedes.",
+            "Make provision for drainage."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Weeding in Maize is very crucial after 15 -20 days of sowing otherwise crop growth will be hampered due to heavy crop weed competition.",
+            "After that earthing up can also be done with fertilizer application."
+         ]
+      },
+      "cattle rearing": {
+         "advisory": [
+            "Don’t let the cattle roam outside during lightning to avoid mishap, keep them in cowshed and keep it clean and hygienic."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Due to the rain fall, the water on the fish ponds become muddy and become diluted.",
+            "So after rain fall, apply suitable amount of Lime and solutes."
+         ]
+      }
+   },
+   "date": "19-07-2024"
+}

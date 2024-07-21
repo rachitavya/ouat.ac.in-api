@@ -1,0 +1,66 @@
+{
+   "weather_details": {
+      "2024-07-20": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 52,
+         "wind_speed": 11,
+         "wind_direction": 66,
+         "cloud_cover": 8
+      },
+      "2024-07-21": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 56,
+         "wind_speed": 8,
+         "wind_direction": 110,
+         "cloud_cover": 8
+      },
+      "2024-07-22": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 59,
+         "wind_speed": 9,
+         "wind_direction": 234,
+         "cloud_cover": 7
+      },
+      "2024-07-23": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 84,
+         "rh_min": 64,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "2024-07-24": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 58,
+         "wind_speed": 20,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice"
+   ],
+   "general_advisory": "In transplanted rice at the time of final main field preparation, apply 0.8 ton/acre of well decomposed FYM. For high yielding varieties apply 44kg of DAP+33KG OF MOP or 22kg of Urea+ 125 kg SSP+ 33 kg of MOP as basal dose at the time of last puddling, go for application of pre-emergence weedicide like Butachlor 1kg/ha.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The district has received normal rainfall in the previous month. The direct seeded rice is at 3-4 week stage, The district is going to receive light to medium rainfall in coming five day . Go for Beushaning as enough standing water (7-10cm) will be available. Go for top dressing of 36 kg of urea /acre as top dressing."
+         ]
+      }
+   },
+   "date": "19-07-2024"
+}

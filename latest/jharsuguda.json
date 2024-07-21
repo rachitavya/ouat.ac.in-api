@@ -1,15 +1,5 @@
 {
    "weather_details": {
-      "19-07-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 87,
-         "rh_min": 42,
-         "wind_speed": 24,
-         "wind_direction": 248,
-         "cloud_cover": 0
-      },
       "20-07-2024": {
          "rainfall": 10,
          "t_max": 35,
@@ -63,19 +53,35 @@
    },
    "names_of_crops": [
       "rice",
-      "maize"
+      "maize",
+      "vegetable crops",
+      "animal husbandry"
    ],
-   "general_advisory": "Farmers are advised to avoid irrigation and spraying operations during rainy days. Wait for transplanting rice and planting fruit and vegetable crops. Make provisions to support crops against high wind speeds.",
+   "general_advisory": "Farmers are advised to avoid irrigation and spraying operations during periods of rainfall. Take precautions against high wind speeds to protect crops.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Nursery sowing should be completed by end of 2nd fortnight of July. Keep monitoring for stem borer and leaf folder infestation. Apply appropriate treatments when necessary.",
-            "Main field land preparation should include puddling the field twice and land leveling. Apply well-decomposed FYM before first puddling. Incorporate dhaincha green manuring crop at the initial puddling of the main field. Apply recommended basal doses based on soil type. Transplant seedlings at recommended spacing and numbers per hill. Store rainwater for future use."
+            "Nursery sowing should be completed by end of 2nd fortnight of July.",
+            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals.",
+            "Apply recommended amount of fertilizers during puddling and at transplanting."
          ]
       },
       "maize": {
          "advisory": [
-            "Ideal sowing time is June 20 to end of July for kharif maize. Treat seeds before sowing. Consider raised bed planting in waterlogged fields. Implement proper weed control measures. Wait for conducting spraying and intercultural operations based on rainfall forecast."
+            "Ideal sowing time is June 20 to end of July for kharif maize.",
+            "Treat seeds with fungicides and insecticides before sowing."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Start raised bed nursery preparation for kharif vegetable crops.",
+            "Avoid planting and intercultural operations during heavy rainfall."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Ensure deworming and vaccination of animals during the rainy season.",
+            "Keep animals in safe places and provide clean drinking water."
          ]
       }
    },

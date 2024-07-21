@@ -52,7 +52,6 @@
       }
    },
    "names_of_crops": [
-      "kharif",
       "paddy",
       "pulses",
       "arhar",
@@ -63,56 +62,51 @@
       "turmeric",
       "vegetables"
    ],
-   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm. Choose the variety according to land type and resources available.",
+   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm. Choose the variety according to land type and available resources. Change certified seeds after three years. Test own seeds for germination before sowing. Incorporate Dhaincha seeds @ 10kg/ac for soil conditioning.",
    "crops_data": {
-      "kharif": {
-         "advisory": [
-            "Choose the variety according to land type and resource available. The variety like Swarna Shreya of 115-125 days. It is drought tolerant and tolerant to disease and pest. MTU 1156 is of 115 to 120 days. Long duration variety are Pooja, MTU 7029, Pratikshya, MTU 1075, Kalinga dhan 1203,1204. 1205"
-         ]
-      },
       "paddy": {
          "advisory": [
-            "Prepare a well-cultivated dry bed of size 10 decimal of land required for acre of paddy transplantation. Beds of 3ft width, 6 inch height and length according to land are prepared keeping 1ft gap in between beds. 40 baskets of FYM is mixed in the bed. Sow 20 kg seeds in 10 decimal in lines and cover with soil. Rice seedling is of 15 days old, apply 4 kg urea for 10 decimal area. Go for Field preparing and close all the rat holes and other holes in the field and bunds and store the rainwater for field preparation."
+            "Prepare well-cultivated dry beds for paddy transplantation. Sow seeds in beds with FYM. Apply urea for seedling growth."
          ]
       },
       "pulses": {
          "advisory": [
-            "10 kg seeds are required for one acre mung and black gram cultivation. Treat the seeds with Rhizobium @ 20g/kg of seeds. Before seven days of sowing treat with Carbedazim @ 2 g/kg seeds. Good varieties are IP-02-14, OUM-11-5, Pant-19, PDM-54."
+            "Treat seeds with Rhizobium and Carbendazim before sowing. Use good varieties like IP-02-14, OUM-11-5, Pant-19."
          ]
       },
       "arhar": {
          "advisory": [
-            "Choose quality seeds of Arhar like Upas-120, ICPl 86012, Pusa Arhar. Always go for early to medium duration Arhar."
+            "Choose quality seeds like Upas-120, ICPl 86012, Pusa Arhar. Prefer early to medium duration varieties."
          ]
       },
       "ragi": {
          "advisory": [
-            "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+            "Choose good varieties like Arjuna, Kalua, Sriprava for sowing after good rainfall."
          ]
       },
       "maize": {
          "advisory": [
-            "Choose good varieties are Kalinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
+            "Choose varieties like Kalinga Maize, Prabal for sowing. Apply nitrogenous fertilizers after land preparation."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Chose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut @ 75 kg/acre of pod. Treat the seeds with Vitavax power @ 2g/kg of seeds. Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds. At final land preparation apply 2 t FYM, 1q zypsum along with 8:16:16 kg NPK/acre. The spacing is 30 X 10 cm."
+            "Select varieties like Dharani, Smruti, Kadri-6 for sowing. Treat seeds with Vitavax power and Rhizobium."
          ]
       },
       "ginger": {
          "advisory": [
-            "Drain out excess water from the field."
+            "Ensure proper drainage of excess water for planting ginger."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Drain out excess water from the field."
+            "Ensure proper drainage of excess water for planting turmeric."
          ]
       },
       "vegetables": {
          "advisory": [
-            "In case of Brinjal fruit & Shoot Borer use 8 nos. of pheromone trap or apply Neem-based pesticides twice at 10-15 days interval. Go for off-season vegetables like Cauliflower, plant the seedlings in the main field."
+            "Use pheromone traps or neem-based pesticides for insect control in vegetables."
          ]
       }
    },

@@ -1,0 +1,83 @@
+{
+   "weather_details": {
+      "19-07-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 42,
+         "wind_speed": 24,
+         "wind_direction": 248,
+         "cloud_cover": 0
+      },
+      "20-07-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 80,
+         "rh_min": 42,
+         "wind_speed": 16,
+         "wind_direction": 63,
+         "cloud_cover": 7
+      },
+      "21-07-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 47,
+         "wind_speed": 10,
+         "wind_direction": 101,
+         "cloud_cover": 8
+      },
+      "22-07-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 53,
+         "wind_speed": 12,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "23-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 64,
+         "wind_speed": 22,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 60,
+         "wind_speed": 24,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize"
+   ],
+   "general_advisory": "Farmers are advised to avoid irrigation and spraying operations during rainy days. Wait for transplanting rice and planting fruit and vegetable crops. Make provisions to support crops against high wind speeds.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Nursery sowing should be completed by end of 2nd fortnight of July. Keep monitoring for stem borer and leaf folder infestation. Apply appropriate treatments when necessary.",
+            "Main field land preparation should include puddling the field twice and land leveling. Apply well-decomposed FYM before first puddling. Incorporate dhaincha green manuring crop at the initial puddling of the main field. Apply recommended basal doses based on soil type. Transplant seedlings at recommended spacing and numbers per hill. Store rainwater for future use."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Ideal sowing time is June 20 to end of July for kharif maize. Treat seeds before sowing. Consider raised bed planting in waterlogged fields. Implement proper weed control measures. Wait for conducting spraying and intercultural operations based on rainfall forecast."
+         ]
+      }
+   },
+   "date": "19-07-2024"
+}

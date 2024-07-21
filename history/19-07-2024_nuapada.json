@@ -1,0 +1,133 @@
+{
+   "weather_details": {
+      "20-07-2024": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 56,
+         "wind_speed": 9,
+         "wind_direction": 68,
+         "cloud_cover": 8
+      },
+      "21-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 62,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "22-07-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 71,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "23-07-2024": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 66,
+         "wind_speed": 23,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 61,
+         "wind_speed": 23,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal & chilli",
+      "okra",
+      "onion",
+      "mango",
+      "papaya",
+      "poultry",
+      "goat & sheep"
+   ],
+   "general_advisory": "In view of weather forecast by IMD, farmers are advised to withhold sowing operation for the time being and to resume the sowing soon after receding of rain by utilizing available soil moisture. In view of above forecast farmers advised to avoid the application of fertilizers and pesticides in standing crops until receding of rainfall. Make arrangements for draining out excess water from the field of Maize, Arhar, Groundnut and vegetables. Harvest the matured vegetable before the impending rain. Protect the vegetable seedlings in nursery from heavy rain by covering with plastic or polythene sheet over the nursery bed.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Weed Management: If pre-emergence herbicide has not been applied then apply Bispyribac sodium 10% SC (Nominee gold) @ 120ml/acre by mixing with 200 liters of water at 15-20 DAS or apply Fenoxaprop -p-ethyl 10% EC (Whipsuper) @240-260 ml/acre by mixing with 200 liters of water at 20-25 DAS in upland condition.",
+            "Nutrient Management: Apply 26 kg urea/acre after weeding in upland condition and 36 kg urea/acre after beushening in medium and low land condition as top dressing."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Land Preparation: Puddling should be done twice in 7-10 days interval in main field followed by land leveling for uniform crop stand. Incorporate dhaincha green manuring crop during initial puddling of the main field."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Make drainage channel for draining out excess rainwater. Undertake hoeing, weeding and 1st top dressing followed by earthing up at three-week stage of cotton."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Create drainage channel to drain away excess rainwater. Hoeing, weeding followed by earthing up should be done at three-week stage."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Develop drainage system to avoid waterlogging condition due to excess rainfall. At three-week stage go for hoeing, weeding, and 1st top dressing followed by earthing up."
+         ]
+      },
+      "brinjal & chilli": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting. Seed rate - 200-250 g/acre."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Sowing should be completed by the end of July to get a higher yield. Apply well decomposed FYM @ 2t/acre at the time of land preparation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Raised nursery beds should be prepared under an overhead-protected structure for Kharif onion. Seed treatment, sowing, and followed by application of paddy straw mulching is advised to obtain good seedling."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Select suitable variety like Banganpalli, Totapuri, Bombay green, Subarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Ramkella, Rummani, Sindhu, Alphanso, and Keshar etc. Use healthy unbranched grafted seedlings."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "HYV for papaya are Honeydew, Coorg honey dew, CO-1, CO-2, Pusa delicious, Pusa majesty, and Pusa giant. Plant the seedling at 2.5m x 2.5m distance and 0.5m x 0.5m x 0.5m pit."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Repair the poultry house to stop rainwater from getting inside. Don’t allow the litter material to get wet. Prevent the feed ingredients from getting wet, which might lead to fungal growth in the feed."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites."
+         ]
+      }
+   },
+   "date": "19-07-2024"
+}

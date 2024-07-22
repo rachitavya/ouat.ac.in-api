@@ -53,7 +53,7 @@
    },
    "names_of_crops": [
       "paddy",
-      "pulses",
+      "kharif pulses",
       "arhar",
       "ragi",
       "maize",
@@ -67,55 +67,64 @@
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Choose the variety according to land type and resource available. The variety like Swarna Shreya of 115-125 days. It is drought tolerant and tolerant to disease and pest. MTU 1156 is of 115 to 120 days. Long duration variety are Pooja, MTU 7029, Pratikshya, MTU 1075, Kalinga dhan 1203,1204, 1205",
-            "Aromatic paddy like New Kalajeera and Kalajeera, Nua Acharmati. Change the certified seeds after three years.",
-            "If using own seeds, test the germination test before sowing.",
-            "In areas where rain is received, go for sowing the Dhaincha seeds @ 10kg/ac which should be incorporated in the field at 3 weeks stage prior to main kharif crop cultivation. It will condition the soil and add organic matter in the soil."
+            "Prepare well cultivated dry bed for nursery",
+            "Sow seeds in lines and cover with soil",
+            "Apply urea for 10 decimal area",
+            "Field preparation and fill rat holes"
          ]
       },
-      "pulses": {
+      "kharif pulses": {
          "advisory": [
-            "10 kg seeds are required for one acre mung and blackgram cultivation. Treat the seeds with Rhizobium @ 20g/kg of seeds. Before seven days of sowing treat with Carbedazim @ 2 g/kg seeds. Good varieties are IP-02-14, OUM-11-5, Pant-19, PDM-54."
+            "Treat seeds with Rhizobium",
+            "Treat with Carbedazim before sowing",
+            "Choose good varieties like IP -02-14, OUM -11-5, Pant -19, PDM -54"
          ]
       },
       "arhar": {
          "advisory": [
-            "Choose quality seeds of Arhar like Upas-120, ICPl 86012, Pusa Arhar. Always go for early to medium duration Arhar."
+            "Choose quality seeds like Upas -120, ICPl 86012, Pusa Arhar",
+            "Go for early to medium duration Arhar"
          ]
       },
       "ragi": {
          "advisory": [
-            "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+            "Choose good varieties like Arjuna, Kalua, Sriprava",
+            "Prepare the land and sow seeds after good rainfall"
          ]
       },
       "maize": {
          "advisory": [
-            "Choose good varieties are Kalinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
+            "Choose good varieties like Kalinga Maize, Prabal",
+            "Apply basal dose of NPK after land preparation"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Chose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut @ 75 kg/acre of pod. Treat the seeds with Vitavax power @ 2g/kg of seeds. Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds. At final land preparation apply 2 t FYM, 1q zypsum along with 8:16:16 kg NPK/acre. The spacing is 30 X 10 cm."
+            "Choose good varieties like Dharani, Smruti, Kadri -6, Kalinga groundnut",
+            "Treat seeds with Vitavax power and Rhizobium culture",
+            "Apply FYM, gypsum, and NPK during final land preparation"
          ]
       },
       "ginger": {
          "advisory": [
-            "Drain out excess water from the field."
+            "Drain excess water from the field"
          ]
       },
       "turmeric": {
          "advisory": [
-            "Drain out excess water from the field."
+            "Drain excess water from the field"
          ]
       },
       "vegetables": {
          "advisory": [
-            "In case of Brinjal fruit & Shoot Borer use 8 nos. of pheromone trap or apply Neem based pesticides twice at 10-15 days interval. Go for off season vegetables like Cauliflower, plant the seedlings in the main field."
+            "Use pheromone traps or Neem based pesticides for Brinjal fruit & Shoot Borer",
+            "Go for off-season vegetables like Cauliflower"
          ]
       },
       "yam": {
          "advisory": [
-            "Seed rate is 8-10 q/ac. The seed material should be of 150-200 g. Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth. After planting the pits should be filled with equal quantity of FYM and top soil."
+            "Seed rate is 8-10 q/ac",
+            "Prepare well pulverized field for planting"
          ]
       }
    },

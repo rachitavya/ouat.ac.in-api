@@ -67,64 +67,57 @@
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare well cultivated dry bed for nursery",
-            "Sow seeds in lines and cover with soil",
-            "Apply urea for 10 decimal area",
-            "Field preparation and fill rat holes"
+            "Choose the variety according to land type and resource available."
          ]
       },
       "kharif pulses": {
          "advisory": [
-            "Treat seeds with Rhizobium",
-            "Treat with Carbedazim before sowing",
-            "Choose good varieties like IP -02-14, OUM -11-5, Pant -19, PDM -54"
+            "Choose quality seeds of mung and blackgram cultivation.",
+            "Treat the seeds with Rhizobium and Carbedazim before sowing."
          ]
       },
       "arhar": {
          "advisory": [
-            "Choose quality seeds like Upas -120, ICPl 86012, Pusa Arhar",
-            "Go for early to medium duration Arhar"
+            "Choose quality seeds of Arhar like Upas -120, ICPl 86012, Pusa Arhar."
          ]
       },
       "ragi": {
          "advisory": [
-            "Choose good varieties like Arjuna, Kalua, Sriprava",
-            "Prepare the land and sow seeds after good rainfall"
+            "Choose the good varieties like Arjuna, Kalua, Sriprava."
          ]
       },
       "maize": {
          "advisory": [
-            "Choose good varieties like Kalinga Maize, Prabal",
-            "Apply basal dose of NPK after land preparation"
+            "Choose good varieties like Kalinga Maize, Prabal, etc.",
+            "Apply the basal dose of NPK after final land preparation."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Choose good varieties like Dharani, Smruti, Kadri -6, Kalinga groundnut",
-            "Treat seeds with Vitavax power and Rhizobium culture",
-            "Apply FYM, gypsum, and NPK during final land preparation"
+            "Choose good varieties like Dharani, Smruti, Kadri -6, Kalinga groundnut.",
+            "Treat the seeds with Vitavax power and Rhizobium culture before sowing."
          ]
       },
       "ginger": {
          "advisory": [
-            "Drain excess water from the field"
+            "Drain out excess water from the field."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Drain excess water from the field"
+            "Drain out excess water from the field."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Use pheromone traps or Neem based pesticides for Brinjal fruit & Shoot Borer",
-            "Go for off-season vegetables like Cauliflower"
+            "In case of Brinjal fruit & Shoot Borer use pheromone traps or Neem based pesticides.",
+            "Go for off season vegetables like Cauliflower."
          ]
       },
       "yam": {
          "advisory": [
-            "Seed rate is 8-10 q/ac",
-            "Prepare well pulverized field for planting"
+            "Seed rate is 8 -10 q/ac.",
+            "Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth."
          ]
       }
    },

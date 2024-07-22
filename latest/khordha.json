@@ -52,63 +52,33 @@
       }
    },
    "names_of_crops": [
+      "pulses",
       "maize",
       "vegetables",
-      "sugarcane",
-      "paddy",
-      "black gram",
-      "green gram",
-      "brinjal",
-      "papaya",
-      "coconut"
+      "sugarcane"
    ],
-   "general_advisory": "In low land, go for transplanting of 21 days rice seedlings in the main field. Keep rain water in the main rice field by bunding for timely puddling and transplanting...",
+   "general_advisory": "In low land, go for transplanting of 21 days rice seedlings in the main field. Keep rainwater in the main rice field by bunding for timely puddling and transplanting. Now beushaning can be performed where rainfall was adequate. In heavy rainfall areas, stop the sowing of seeds and top dressing of fertilisers or herbicides for the time being. Nursery sowing should be completed by the end of the 2nd fortnight of July. If infestation of thrips is noticed in the rice nursery, spray NSKE (Azadirachtin) @ 800 ml/acre or Lambda-Cyhyalothrin 5% EC @ 100 ml/acre or Thiamethoxam 25% WG @ 40g/acre. In case of seedling blight disease appearance, apply Propiconazole @ 1 ml/litre of water. Make provisions for drainage where maize or pulses etc. have been sown. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangements.",
    "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Keep seed rate for black gram and green gram at 10 kg per acre.",
+            "Go for seed treatment before sowing."
+         ]
+      },
       "maize": {
          "advisory": [
-            "Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement.",
-            "Make provisions for drainage, where maize etc. have been sown."
+            "Make provisions for drainage where maize has been sown."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement."
+            "Cover the vegetable nursery with polythene to protect it from heavy rain."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "To manage mealy Bug in sugarcane crop spray Imidacloprid 17.8 % SL @ 60- ml/acre or Thiamethoxam 25 % WG @ 40-gram/acre or Profenophos 50 % EC @ 400-ml/acre by mixing it in 200 litre of water."
-         ]
-      },
-      "paddy": {
-         "advisory": [
-            "Transplanting Apply 35 kg DAP, 27 kg Potash and 8 kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP, 15 kg Potash and 8 kg Urea per acre during last puddling. Transplanting of 20-25 days old seedlings should be done at a spacing of 20x15 cm, plant 2-3 seedlings per hill for high yielding varieties..."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Keep seed rate for black gram and green gram is 10 kg per acre. Go for seed treatment before Sowing. Treat the seeds with Carbendazim 50% WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing..."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Keep seed rate for black gram and green gram is 10 kg per acre. Go for seed treatment before Sowing. Treat the seeds with Carbendazim 50% WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing..."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Those farmers who have already transplanted brinjal in main field should apply 30-kg of Urea and 20-kg  of MOP per acre after hoeing and weeding at 30 DAT. Rest 30 -kg of urea should be applied as last top-dressing fertilizer at 45 DAT."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Now the weather is optimum for planting of Papaya. HYV for papaya are Honeydew, Coorg honey dew, CO-1, CO-2, Pusa delicious, Pusa majesty and Pusa giant. Plant the seedling at 2.5 x 2.5 meter distance and 0.5 x 0.5 x 0.5 meter pit. Disease resistance and Tissue culture seedling should be use."
-         ]
-      },
-      "coconut": {
-         "advisory": [
-            "For controlling rugose spiralling whitefly, Spray starch solution @100-gram/10-litre of water to remove the heavy sooty mould deposition on the leaves of infested plants. Use yellow sticky traps...",
-            "For chemical control spray Spinosad 45 % SC @ 4-ml/ 10-litre of water or Emamectin Benzoate 5% SG @ 4-gram/ 10-litre of water."
+            "To manage mealy Bug in sugarcane crop, spray Imidacloprid 17.8% SL @ 60-ml/acre or Thiamethoxam 25% WG @ 40-gram/acre or Profenophos 50% EC @ 400-ml/acre by mixing it in 200 litres of water.",
+            "Transplanting of 20-25 days old seedlings should be done at a spacing of 20x15 cm, plant 2-3 seedlings per hill for high-yielding varieties."
          ]
       }
    },

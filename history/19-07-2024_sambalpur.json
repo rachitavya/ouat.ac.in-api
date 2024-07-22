@@ -57,35 +57,27 @@
       "vegetable crops",
       "animal husbandry"
    ],
-   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places in upcoming days, farmers are advised to avoid irrigation and spraying operations during that period and should wait some days for transplanting of rice and planting of fruit and vegetable crops. Provision should be made to support the crops in high wind speed conditions.",
+   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places in upcoming days, farmers are advised to avoid irrigation as well as spraying operations during that period and should wait some days for transplanting of rice and planting of fruit and vegetable crops. Looking to the high wind speed condition make provision to support the crops.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Nursery sowing should be completed by end of 2nd fortnight of July. Keep 3 pheromone traps/acre of rice nursery for monitoring the stem borer and leaf folder infestation. Whenever the number of male moths/trap reaches 4 or 5 apply Azadirachtin 0.15% EC @ 800 ml/acre or Chlorantraniliprole 0.4% GR @ 4 kg/acre mixing with sand at 1:1 ratio or spray Chlorantraniliprole 18.5% SC @ 60 ml/acre in 200 litres of water or Cartap hydrochloride 4G @10kg/acre.",
-            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land leveling for uniform crop stand. About 0.8t/acre of well decomposed FYM may be applied before first puddling. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field.",
-            "For high yielding varieties apply 35 kg of DAP + 27 kg of MOP or 18 kg of urea + 100kg of SSP + 27kg MOP per acre as basal dose at the time last puddling. In sandy soil apply 35 kg of DAP and 13.5 kg of MOP or 18 kg of urea + 100 kg of SSP + 13.5 kg of MOP per acre as basal dose. For hybrids, apply 53 kg of DAP + 27 kg of MOP or 26kg of urea + 150kg of SSP + 27kg MOP as basal dose at the time of final puddling.",
-            "Transplanting of 25-30 days old seedlings should be done at a spacing of 20x15 cm at shallow depth, use only 2-3 seedlings per hill for high yielding varieties. For hybrids use 1-2 seedlings per hill.",
-            "Farmers are advised to store the rainwater by making broad and elevated bunds for future use during any dry spells."
+            "Nursery sowing should be completed by end of 2nd fortnight of July. Keep 3 pheromone traps/acre of rice nursery for monitoring the stem borer and leaf folder infestation.",
+            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land leveling for uniform crop stand."
          ]
       },
       "maize": {
          "advisory": [
-            "The ideal sowing time is June 20 to the end of July for kharif maize. About 8 kg of seed per acre should be used. Before sowing, seeds should be treated with fungicides and insecticides to protect them from seed and soil-borne diseases and some insect-pests. In the kharif season crop, it is always desirable to go for raised bed planting to protect the crop from waterlogging.",
-            "15-45 days period after sowing is critical for weed growth so two manual hoeing at 15 and 30 DAS and pre-emergence application of atrazine 50% WP @ 400 g ai/acre (0-2DAS) followed by one hand weeding at 35-40 days should be advised for good weed control.",
-            "Looking to the upcoming rainfall forecast, farmers should wait some days for conducting any types of spraying as well as intercultural operations in the maize field."
+            "The ideal sowing time is June 20 to end of July for kharif maize."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Farmers should start raised bed nursery preparation for kharif vegetable crops with a proper drainage system to avoid waterlogging. Kharif vine vegetables should be prepared in the bags.",
-            "Looking to the upcoming rainfall condition, farmers should avoid planting and any intercultural operations during that period and make provision to drain out excess water from the field."
+            "Farmers should start raised bed nursery preparation for kharif vegetable crops with proper drainage system to avoid water logging."
          ]
       },
       "animal husbandry": {
          "advisory": [
-            "Deworming and vaccination of animals against some infectious diseases should be ensured because with the decrease in temperature and an increase in humidity during the rainy season, there is an increase in the number of mosquitoes, flies, and various microorganisms, and many types of infectious diseases which spread rapidly among animals during this season.",
-            "Animals should be kept in safe places in sheds and not allowed for grazing in open places during the warning period. Avoid mixing of flowing rainwater into a source of drinking water and provide pure and clean drinking water to animals.",
-            "Avoid the direct entry of rainwater into the shed."
+            "Deworming and vaccination of animals against some infectious diseases should be ensured."
          ]
       }
    },

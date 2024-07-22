@@ -57,33 +57,36 @@
       "vegetable crops",
       "animal husbandry"
    ],
-   "general_advisory": "Farmers are advised to avoid irrigation and spraying operations during periods of expected rainfall. Take precautions to support crops during high wind conditions.",
+   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall, farmers are advised to avoid irrigation and spraying operations. Make provision to support crops in high wind conditions.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Complete nursery sowing by end of 2nd fortnight of July.",
-            "Use pheromone traps for monitoring stem borer and leaf folder infestation.",
-            "Recommendations for main field land preparation and fertilization.",
-            "Transplanting guidelines for high yielding varieties and hybrids."
+            "Nursery sowing should be completed by end of 2nd fortnight of July.",
+            "Main field land preparation should be done by puddling the field twice at intervals and land leveling for uniform crop stand.",
+            "Apply recommended fertilizers as basal dose based on soil type and variety of rice.",
+            "Transplanting of seedlings should be done at a specific spacing for different varieties."
          ]
       },
       "maize": {
          "advisory": [
-            "Ideal sowing time and seed treatment recommendations.",
-            "Weed control measures and precautions for spraying operations during rainfall forecasts."
+            "Ideal sowing time is June 20 to end of July for kharif maize.",
+            "Treat seeds before sowing to protect from diseases and pests.",
+            "Implement weed control measures at specific intervals after sowing.",
+            "Avoid conducting spraying and intercultural operations during heavy rainfall period."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Preparing raised bed nursery for kharif vegetable crops.",
-            "Avoid planting and intercultural operations during periods of expected rainfall."
+            "Start raised bed nursery preparation for kharif vegetable crops with proper drainage system.",
+            "Avoid planting and intercultural operations during heavy rainfall period."
          ]
       },
       "animal husbandry": {
          "advisory": [
-            "Ensure deworming and vaccination of animals during rainy season.",
-            "Take precautions against infectious diseases due to increase in mosquitoes and flies.",
-            "Provide clean drinking water and safe shelter for animals."
+            "Ensure deworming and vaccination of animals against infectious diseases during the rainy season.",
+            "Keep animals in safe shed areas during adverse weather conditions.",
+            "Provide clean and pure drinking water to animals and avoid contamination.",
+            "Prevent entry of rainwater into animal sheds."
          ]
       }
    },

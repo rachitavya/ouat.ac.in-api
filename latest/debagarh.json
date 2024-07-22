@@ -62,16 +62,16 @@
       "turmeric",
       "vegetables"
    ],
-   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm. Choose the variety according to land type and available resources. Change certified seeds after three years. Test own seeds for germination before sowing. Incorporate Dhaincha seeds @ 10kg/ac for soil conditioning.",
+   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm. Choose the variety according to land type and resources available. Test germination before sowing if using own seeds.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare well-cultivated dry beds for paddy transplantation. Sow seeds in beds with FYM. Apply urea for seedling growth."
+            "Prepare a well-cultivated dry bed for paddy transplantation. Sow seeds and cover with soil. Apply urea for seedlings. Prepare the field and store rainwater for field preparation."
          ]
       },
       "pulses": {
          "advisory": [
-            "Treat seeds with Rhizobium and Carbendazim before sowing. Use good varieties like IP-02-14, OUM-11-5, Pant-19."
+            "Treat seeds with Rhizobium and Carbedazim before sowing. Use good varieties like IP-02-14, OUM-11-5, Pant-19, PDM-54."
          ]
       },
       "arhar": {
@@ -81,32 +81,32 @@
       },
       "ragi": {
          "advisory": [
-            "Choose good varieties like Arjuna, Kalua, Sriprava for sowing after good rainfall."
+            "Choose good varieties like Arjuna, Kalua, Sriprava. Prepare land and sow seeds after good rainfall."
          ]
       },
       "maize": {
          "advisory": [
-            "Choose varieties like Kalinga Maize, Prabal for sowing. Apply nitrogenous fertilizers after land preparation."
+            "Choose good varieties like Kalinga Maize, Prabal. Apply basal dose after land preparation."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Select varieties like Dharani, Smruti, Kadri-6 for sowing. Treat seeds with Vitavax power and Rhizobium."
+            "Choose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut. Treat seeds with Vitavax power and Rhizobium culture."
          ]
       },
       "ginger": {
          "advisory": [
-            "Ensure proper drainage of excess water for planting ginger."
+            "Drain excess water from the field before planting."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Ensure proper drainage of excess water for planting turmeric."
+            "Drain excess water from the field before planting."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Use pheromone traps or neem-based pesticides for insect control in vegetables."
+            "For B rinjal fruit & Shoot Borer, use pheromone traps or neem-based pesticides. Consider off-season vegetables like cauliflower."
          ]
       }
    },

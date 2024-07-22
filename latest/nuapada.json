@@ -65,78 +65,78 @@
       "poultry",
       "goat & sheep"
    ],
-   "general_advisory": "In view of weather forecast by IMD, farmers are advised to withhold sowing operation for the time being and to resume the sowing soon after receding of rain by utilizing available soil moisture. In view of the above forecast, farmers advised to avoid the application of fertilizers and pesticides in standing crops until receding of rainfall. Make arrangements for draining out excess water from the field of Maize, Arhar, Groundnut, and vegetables. Harvest the matured vegetables before the impending rain. Protect the vegetable seedlings in the nursery from heavy rain by covering with plastic or polythene sheet over the nursery bed.",
+   "general_advisory": "In view of weather forecast by IMD, farmers are advised to withhold sowing operation for the time being and to resume the sowing soon after receding of rain by utilizing available soil moisture. In view of above forecast farmers advised to avoid the application of fertilizers and pesticides in standing crops until receding of rainfall. Make arrangements for draining out excess water from the field of Maize, Arhar, Groundnut, and vegetables. Harvest the matured vegetable before the impending rain. SMS Advisory: Protect the vegetable seedlings in nursery from heavy rain by covering with plastic or polythene sheet over the nursery bed.",
    "crops_data": {
       "direct seeded paddy": {
          "advisory": [
             "Weed Management: Apply herbicide as per schedule.",
-            "Nutrient Management: Apply recommended urea after weeding."
+            "Nutrient Management: Apply urea as per schedule."
          ]
       },
       "transplanted paddy": {
          "advisory": [
-            "Land Preparation: Follow the recommended steps for land preparation.",
-            "Fertilizer Application: Apply the specified doses of DAP, MOP, and ZnSO4 per acre."
+            "Land Preparation: Follow the recommended practices for puddling and level land.",
+            "Fertilizer Application: Apply the recommended dose of fertilizer."
          ]
       },
       "cotton": {
          "advisory": [
-            "Drainage: Create drainage channels for excess water.",
-            "Cultural Practices: Undertake hoeing, weeding, and top dressing."
+            "Make drainage channel for excess rainwater.",
+            "Undertake hoeing, weeding, and top dressing."
          ]
       },
       "arhar": {
          "advisory": [
-            "Drainage: Establish drainage channels.",
-            "Cultural Practices: Hoeing, weeding, and earthing up at the specified stage."
+            "Create drainage channel to drain away excess rainwater.",
+            "Hoeing, weeding, and earthing up should be done as advised."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Drainage: Develop a drainage system.",
-            "Cultural Practices: Perform scheduled activities at the three-week stage."
+            "Develop drainage system to avoid waterlogging.",
+            "Follow the advised practices for hoeing, weeding, and top dressing."
          ]
       },
       "brinjal & chilli": {
          "advisory": [
-            "Nursery Preparation: Prepare raised bed nursery for timely planting.",
-            "Seed Treatment: Treat seeds to prevent diseases."
+            "Prepare raised bed nursery for timely planting.",
+            "Treat the seed and tran splant seedlings as recommended."
          ]
       },
       "okra": {
          "advisory": [
-            "Sowing Time: Ensure timely completion of sowing.",
-            "Fertilizer Application: Apply recommended FYM at land preparation."
+            "Sow by the end of July for higher yield.",
+            "Apply FYM at the time of land preparation."
          ]
       },
       "onion": {
          "advisory": [
-            "Variety Selection: Choose suitable varieties for planting.",
-            "Seedling Care: Follow the recommended steps for raising nursery seedlings."
+            "Select suitable varieties and prepare raised nursery beds.",
+            "Follow the recommended practices for seed treatment and mulching."
          ]
       },
       "mango": {
          "advisory": [
-            "Planting Time: Optimal time for planting mango.",
-            "Variety Selection: Select appropriate mango varieties."
+            "Plant at the ideal time using healthy seedlings.",
+            "Follow the recommended spacing and pit preparation."
          ]
       },
       "papaya": {
          "advisory": [
-            "Planting Season: Suitable time for planting papaya.",
-            "Seedling Planting: Follow recommended spacing and pit preparation."
+            "Plant at the suitable time with recommended varieties.",
+            "Follow the spacing and pit preparation guidelines."
          ]
       },
       "poultry": {
          "advisory": [
-            "House Maintenance: Repair poultry house to prevent rainwater entry.",
-            "Feed Management: Ensure feed ingredients remain dry to avoid fungal growth."
+            "Repair the poultry house to prevent rainwater ingress.",
+            "Prevent feed ingredients from getting wet."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Health Management: Deworm animals to reduce internal parasites.",
-            "Hygiene Practices: Keep animals indoors during rainy hours."
+            "Deworm them to reduce internal parasites.",
+            "Provide necessary care and sanitation during rainy hours."
          ]
       }
    },

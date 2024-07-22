@@ -62,21 +62,33 @@
       "guava",
       "papaya"
    ],
-   "general_advisory": "Farmers are advised to continue their transplanting activities as good rainfall is expected. Make bunds to store rainwater. Prepare the field for paddy transplantation. Postpone the spraying of fertilisers and pesticides for the next 4-5 days. Spraying of insecticides and pesticides should be done in early morning or during evening hours.",
+   "general_advisory": "Farmers are advised to continue their transplanting activities as good rainfall is expected. Make bunds to store rain water. Prepare the field for paddy transplantation. Postpone the spraying of fertilisers and pesticides for the next 4-5 days. Spraying of insecticides and pesticides should be done at early morning or during evening hours.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "It is advised to take short duration varieties like- Sahabhagi dhan, Mandakini, Bina-11, Jogesh, Sidhhanta etc.",
+            "Do not use excess fertilisers.",
+            "Use recommended dose of fertilisers as per the soil test report.",
+            "Make arrangements for the drainage channel to remove excess water.",
+            "It is advised to take short duration varieties like- Sahabhagi dhan, Mandakini, Bina -11, Jogesh, Sidhhanta etc.",
             "Make sure the soil is well puddled before transplanting of paddy.",
             "Make proper drainage to remove excess water from the field.",
             "Monitor the field for any diseases and pests.",
-            "Make bunds to store rainwater in the field."
+            "Make bunds to store rain water in the field.",
+            "Blast diseases (spindle shaped spots with grey centre and brown margin along with burnt appearance) may appear in the areas with frequent rainfall and high humidity.",
+            "To manage the disease, spray Hexaconazole 5% EC @ 30 ml per 15 litres of water.",
+            "Stem rot: For managing stem rot in rice, spray Carbendazim 50% WP @ 2 g/lt.",
+            "Rice stem borer: Favourable condition for stem borer attack - High nitrogenous fertiliser, late planting.",
+            "Thrips causes terminal rolling, discolouration and drying of leaves.",
+            "To manage the thrips infestation, spray Azadiractin 0.15% @ 600-1000 ml/acre or thiomethoxam 25 WG @ 40 g/acre."
          ]
       },
       "maize": {
          "advisory": [
             "Application of 25% Nitrogen (in form of Urea) should be done at knee height stage or 25 days after sowing.",
-            "After removing weeds, apply urea as above dose and cover the root zone with soil (Ridge and furrow)."
+            "After removing weeds, apply urea as above dose and cover the root zone with soil (Ridge and furrow).",
+            "Turcicum Leaf Blight: To reduce the leaf blight in maize, spray Propiconazole 25% EC @ 1 ml/lt or Mancozeb @ 2-4 g/lt.",
+            "Fall army worm: Symptoms - Scrapping of leaves by young larvae. Larvae feed upon central whorl causing excessive defoliation. To manage the attack of fall army worm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water.",
+            "Aphids: In case of aphid infestations, spray Imidachloprid @ 2 ml/lt of water."
          ]
       },
       "lady finger": {
@@ -96,7 +108,7 @@
       "brinjal": {
          "advisory": [
             "Avoid water logging as it will lead to rotting.",
-            "Sudden collapsing of the seedling is a symptom for damping off in nursery raising. To manage it, seed treatment with Agrosan or ceresin @ 2 g/kg of seeds is necessary.",
+            "Seed treatment with Agrosan or ceresin @ 2 g/kg of seeds is necessary for managing damping off in nursery raising.",
             "For the management of Fruit and shoot borer in brinjal, remove the affected terminal shoots showing boreholes.",
             "In severe cases, spray Emamectin benzoate @ 4 g/10lt of water."
          ]

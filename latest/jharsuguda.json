@@ -57,31 +57,32 @@
       "vegetable crops",
       "animal husbandry"
    ],
-   "general_advisory": "Farmers are advised to avoid irrigation and spraying operations during periods of rainfall. Take precautions against high wind speeds to protect crops.",
+   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall, farmers are advised to avoid irrigation and spraying operations. High wind speed conditions require support for crops.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Nursery sowing should be completed by end of 2nd fortnight of July.",
-            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals.",
-            "Apply recommended amount of fertilizers during puddling and at transplanting."
+            "Main field land preparation should be done by puddling twice at 7-10 days intervals.",
+            "Apply appropriate basal doses of fertilizers based on soil type and variety."
          ]
       },
       "maize": {
          "advisory": [
-            "Ideal sowing time is June 20 to end of July for kharif maize.",
-            "Treat seeds with fungicides and insecticides before sowing."
+            "Ideal sowing time is from June 20 to end of July.",
+            "For kharif season crop, raised bed planting is advised to avoid waterlogging.",
+            "Ensure proper weed control measures at critical growth stages."
          ]
       },
       "vegetable crops": {
          "advisory": [
             "Start raised bed nursery preparation for kharif vegetable crops.",
-            "Avoid planting and intercultural operations during heavy rainfall."
+            "Avoid planting and intercultural operations during heavy rainfall periods."
          ]
       },
       "animal husbandry": {
          "advisory": [
-            "Ensure deworming and vaccination of animals during the rainy season.",
-            "Keep animals in safe places and provide clean drinking water."
+            "Deworming and vaccination of animals against infectious diseases is crucial.",
+            "Ensure safe shelter for animals during rainy season to prevent diseases spread."
          ]
       }
    },

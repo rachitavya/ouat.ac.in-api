@@ -53,6 +53,7 @@
    },
    "names_of_crops": [
       "rice",
+      "finger millet",
       "tomato",
       "brinjal",
       "chilli",
@@ -64,43 +65,42 @@
    "crops_data": {
       "rice": {
          "advisory": [
-            "Start puddling of the main field for the transplanting of the rice.",
-            "For that purpose, make bunds to conserve water."
+            "Start puddling of the main field for the transplanting of the rice. For that purpose, make bunds to conserve water."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "Start puddling of the main field for the transplanting of the rice. For that purpose, make bunds to conserve water."
          ]
       },
       "tomato": {
          "advisory": [
-            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting.",
-            "Keep the field sanitized after the rain recedes."
+            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting. Keep the field sanitized after the rain recedes."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting.",
-            "Keep the field sanitized after the rain recedes."
+            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting. Keep the field sanitized after the rain recedes."
          ]
       },
       "chilli": {
          "advisory": [
-            "Keep the field sanitized after the rain recedes.",
-            "Make provision for drainage."
+            "Keep the field sanitized after the rain recedes. Make provision for drainage."
          ]
       },
       "maize": {
          "advisory": [
-            "Weeding in Maize is very crucial after 15 -20 days of sowing otherwise crop growth will be hampered due to heavy crop weed competition.",
-            "After that earthing up can also be done with fertilizer application."
+            "Weeding in Maize is very crucial after 15-20 days of sowing otherwise crop growth will be hampered due to heavy crop weed competition. After that earthing up can also be done with fertilizer application."
          ]
       },
       "cattle rearing": {
          "advisory": [
-            "Don’t let the cattle roam outside during lightning to avoid mishap, keep them in cowshed and keep it clean and hygienic."
+            "Don't let the cattle roam outside during lightning to avoid mishap, keep them in cowshed and keep it clean and hygienic."
          ]
       },
       "fishery": {
          "advisory": [
-            "Due to the rain fall, the water on the fish ponds become muddy and become diluted.",
-            "So after rain fall, apply suitable amount of Lime and solutes."
+            "Due to the rain fall, the water on the fish ponds become muddy and become diluted. So after rain fall, apply suitable amount of Lime and solutes."
          ]
       }
    },

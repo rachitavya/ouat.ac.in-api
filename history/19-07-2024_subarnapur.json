@@ -57,37 +57,28 @@
       "vegetable crops",
       "animal husbandry"
    ],
-   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places in upcoming days so, farmers are advised to avoid irrigation as well as spraying operation during that period and should wait some days for transplanting of rice and planting of fruit and vegetable crops. Looking to the high wind speed condition make provisions to support the crops.",
+   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places in upcoming days, farmers are advised to avoid irrigation as well as spraying operation during that period and should wait some days for transplanting of rice and planting of fruit and vegetable crops. Looking to the high wind speed condition make provision to support the crops.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Nursery sowing should be completed by end of 2nd fortnight of July.",
-            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land leveling for uniform crop stand.",
-            "For high yielding varieties apply appropriate basal dose of fertilizers.",
-            "Transplanting of seedlings should be done at recommended spacing.",
-            "Store rainwater to be utilized during dry spells."
+            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land leveling for uniform crop stand."
          ]
       },
       "maize": {
          "advisory": [
-            "Ideal sowing time for kharif maize is from June 20 to end of July.",
-            "Pre-sow seed treatment with fungicides and insecticides is recommended.",
-            "Keep a check on weed growth with manual hoeing and herbicide application.",
-            "Delay any spraying operations due to upcoming rainfall forecast."
+            "The ideal sowing time is June 20 to end of July for kharif maize.",
+            "About 8 kg of seed per acre should be used. Before sowing seeds should be treated with fungicides and insecticides before sowing to protect it from seed and soil borne diseases and some insect-pests."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Start raised bed nursery preparation with proper drainage system for kharif vegetable crops.",
-            "Avoid planting and intercultural operations during heavy rainfall periods.",
-            "Ensure proper drainage to avoid waterlogging."
+            "Farmers should start raised bed nursery preparation for kharif vegetable crops with proper drainage system to avoid water logging."
          ]
       },
       "animal husbandry": {
          "advisory": [
-            "Deworming and vaccination of animals against infectious diseases is crucial during the rainy season.",
-            "Provide clean drinking water to animals and avoid exposure to flowing rainwater.",
-            "Ensure animals are kept in safe places during adverse weather conditions."
+            "Deworming and vaccination of animals against some infectious diseases should be ensured because with decrease in temperature and increase in humidity during the rainy season, there is an increase in the number of mosquitoes, flies, and various microorganisms."
          ]
       }
    },

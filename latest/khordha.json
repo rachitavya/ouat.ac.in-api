@@ -1,0 +1,115 @@
+{
+   "weather_details": {
+      "14/08/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 82,
+         "rh_min": 57,
+         "wind_speed": 16,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "15/08/2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 13,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      },
+      "16/08/2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 29,
+         "rh_max": 86,
+         "rh_min": 67,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "17/08/2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 29,
+         "rh_max": 85,
+         "rh_min": 61,
+         "wind_speed": 12,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "18/08/2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 83,
+         "rh_min": 54,
+         "wind_speed": 13,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "maize",
+      "rice",
+      "arhar",
+      "groundnut",
+      "chilli",
+      "cucurbits",
+      "tomato",
+      "marigold"
+   ],
+   "general_advisory": "Complete transplanting of rice by first fortnight of August. Regular monitoring of the crop for incidence of pests and diseases should be done and appropriate plant protection measures should be taken. Make arrangements for draining out excess water from the fields of Pulses, Maize, Groundnut, and vegetables. Farmers are advised to make bunds for conserving rainwater in the fields. Install yellow sticky traps to control and monitor sucking pests in standing crops like maize, groundnut, and pulses.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Sowing of Non-Paddy crops like Pulses is ongoing."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Active sowing of maize is underway."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Agricultural operations like Beushening & transplanting of rice are ongoing."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Hoeing, weeding, and earthing up should be completed by the end of this week for Arhar crop."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Hoeing should be done at 20-25 DAS in the groundnut crop."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Keep the field clean and monitor crops for disease and pests in Chilli production."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "To manage Fruit fly in cucurbits, prepare a poison bait.",
+            "Chemical control may involve spraying Spinosad."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "August and September are the optimum time for Tomato planting."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "African marigold can be grown from August till January using specific varieties."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

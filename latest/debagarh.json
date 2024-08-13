@@ -1,0 +1,138 @@
+{
+   "weather_details": {
+      "14/08/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 61,
+         "wind_speed": 7,
+         "wind_direction": 165,
+         "cloud_cover": 6
+      },
+      "15/08/2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 79,
+         "wind_speed": 6,
+         "wind_direction": 199,
+         "cloud_cover": 6
+      },
+      "16/08/2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 95,
+         "rh_min": 87,
+         "wind_speed": 5,
+         "wind_direction": 206,
+         "cloud_cover": 7
+      },
+      "17/08/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 93,
+         "rh_min": 70,
+         "wind_speed": 5,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "18/08/2024": {
+         "rainfall": 12,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 71,
+         "wind_speed": 5,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "maize",
+      "arhar",
+      "ragi",
+      "sesamum",
+      "ginger",
+      "groundnut",
+      "turmeric",
+      "yam",
+      "vegetables",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Due to rain and high humid conditions, wilting is likely to appear in vegetable plants. Drain out excess water from the field and follow specific crop advisories for best results.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "In transplanted paddy top dress the paddy at the rate of 12 kg Nitrogen per acre at 2-3 weeks after transplanting. Keep 0.5 inches water from transplanting to tillering stage of paddy."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Go for intercultivation and clean the weeds."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Drain out excess water from the Maize field."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Choose quality seeds of Arhar like Upas-120, ICPl 86012, Pusa Arhar. Always go for early to medium duration Arhar."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Top dress with 12 kg Nitrogen per acre for tillering."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "If not sown the crop earlier, complete sowing as soon as possible with good varieties like Amrit, Prachi @ 203 kg per acre at a spacing of 30 X 10 cm."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Drain out excess water from the field."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Do not disturb the soil after flowering as it hampers the peg formation."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Drain out excess water from the field."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 q/ac. The seed material should be of 150-200 g. Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth. After planting the pits should be filled with equal quantity of FYM and topsoil."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to rain and high humid condition during last week, wilting is likely to appear in vegetable plants. Drain out water from the field. Spray Streptocycline@20g with Carboxin+Thiram @400g or Metalaxyl 8%+Mancozeb 64% WP @400g per acre in 200 liters of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Release 3000-5000 fingerlings per 1-hectare area. 30-40% should be surface feeder Silver carp and Bhakur and rest equal of mid-feeder and bottom-feeder."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Keep clean around the animal shed and make smoke by burning of neem leaves to avoid diseases. Do not let the rainwater to enter into the poultry house. Go for vaccination in consultation with department officials."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

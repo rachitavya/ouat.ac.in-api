@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "2024-08-14": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 87,
+         "rh_min": 62,
+         "wind_speed": 11,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "2024-08-15": {
+         "rainfall": 12,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 87,
+         "rh_min": 72,
+         "wind_speed": 11,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      },
+      "2024-08-16": {
+         "rainfall": 15,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 89,
+         "rh_min": 72,
+         "wind_speed": 13,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "2024-08-17": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 87,
+         "rh_min": 74,
+         "wind_speed": 11,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "2024-08-18": {
+         "rainfall": 16,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 58,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "chilli",
+      "brinjal",
+      "goat"
+   ],
+   "general_advisory": "According to the forecast received from the IMD, farmers can now resume intercultural operations, fertilization and spraying of plant protection chemical with sticker as required. Considering the realized and anticipated rainfall, farmers are advised to complete the transplanting of paddy by 15th of August. Farmers are advised not to apply fertilizer and herbicides in rice field when there is no sufficient soil moisture. Make arrangements for draining out excess water from the field of Pulses, Maize, Groundnut and vegetables. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended. Install light trap in crop fields to monitor insect population so that timely control measure can be taken.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The crop is at active tillering stage. After receding of rain water, the low temperature below 28°C and relative humidity more than 70% favours infestation of Swarming caterpillar and Yellow stem borer in rice. To manage Swarming caterpillar, first remove the weeds from the field and bunds. If crop is in Beushaning stage then complete Beushaning immediately. When the ETL reaches '1' damaged tiller/hill or '2' larvae/M2, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400-ml/acre or Quinalphos 20% E.C. + Cypermethrin 3% E.C. @ 400-ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours. To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4% G @ 8-kg/acre or Chlorantraniliprole 0.4 % GR @ 4-kg/acre or Imidacloprid 0.3% "
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200-liter of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5% S.G @ 80-gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-liter of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Chilli crop is at seedling stage. High soil moisture & moderate soil temperature (<28°C), high RH, high rainfall and poor drainage during this rainy season may cause damping of disease. Drench the soil with Mancozeb @ 3g/ltr or foliar spray with Metalaxyl @ 2g/ltr or Metalaxyl+Mancozeb @ 3g/ltr."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is a chance of increasing in day & night temperature and morning relative humidity more than 70% favours Shoot and fruit borer in Brinjal. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre. Use chemical control if there is 4% withering of terminal shoot or 14% fruits infested with borers. For chemical control spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5% SC @80-ml/acre or Spinetoram 117 % SC @ 200-ml /acre. There should be a gap of 7-10 days between pesticide application and harvest. Use any of the above insecticides alternately at 15-days interval."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The specialty of this shed is the floor is made of bricks and cement and sand from the river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

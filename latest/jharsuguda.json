@@ -1,0 +1,106 @@
+{
+   "weather_details": {
+      "13-08-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 9,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "14-08-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 90,
+         "rh_min": 59,
+         "wind_speed": 9,
+         "wind_direction": 242,
+         "cloud_cover": 7
+      },
+      "15-08-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "16-08-2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 93,
+         "rh_min": 84,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "17-08-2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 87,
+         "rh_min": 73,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "18-08-2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 90,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "vegetable crops",
+      "banana",
+      "cow/buffalo"
+   ],
+   "general_advisory": "There is a chance of decrease in the amount of rainfall and increase in temperature in upcoming days compared to previous week, so farmers are advised to apply need based irrigation in crop field. Spraying of insecticide and herbicide should be done under no rainfall condition when sky is clear with normal wind speed. Prevailing weather condition is favorable for various diseases and insects attack in different crops so its regular monitoring should be advised. Farmers are advised to store the rainwater by making broad and elevated bunds for future use during any dry spells.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanting of 25-30 days old seedlings should be done in already prepared field at a spacing of 20x15 cm at shallow depth. Use only 2-3 seedlings per hill for high yielding varieties. For hybrids use 1-2 seedlings per hill. Maintain 5 cm of water in paddy field for better plant growth.",
+            "Application of first top dressing of urea fertilizer should be advised 20-25 days after transplanting.",
+            "To control weeds, application of granular herbicide Bensulfuron methyl 0.6% + Pretilachlor 6% GR @ 4 kg/acre mixed with 4 kg of sand within 5-10 days after transplanting or Bispyribac sodium 10% SC @ 120 ml/acre in 8 tanks of 16 litre capacity sprayer at 8-10 days after emergence of weeds (or when the weeds are at 2-3 leaf stage) should be advised.",
+            "In case of brown spot, spraying of Propiconazole 25EC (Tilt/Zerox/Dhan/Bumper) @ 1ml or Mancozeb 75 WP or Carbendazim 64% + Mancozeb 8% 75WP (Saaf/Safe/Sarafa) @ 1.5 g per liter of water should be advised.",
+            "Keep 3 pheromone traps per acre of rice field for monitoring the stem borer and leaf folder infestations. Whenever the number of male moths/trap reaches 4 or 5, apply Azadirachtin 0.15% EC @ 800 ml/acre or, Chlorantraniliprole 0.4% GR @ 4 kg/acre mixing with sand at 1:1 ratio or, spray Chlorantraniliprole 18.5% SC @ 60 ml/acre in 200 liters of water or, Cartap hydrochloride 4G @ 10 kg/acre or, Flubendiamide 20 WG 50 g/acre in 200 liters of water when the sky is clear."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To control stem borer attack in Maize crop, spraying of Emamectin Benzoate @ 0.4g or Chlorantraniliprole 18.5% SC @ 0.3 ml per liter of water should be advised under clear weather conditions."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Prevailing weather condition is favorable for various diseases and sucking insect attack in vegetable crops so its regular monitoring should be advised.",
+            "If sucking insect pest attack is noticed, then spraying of thiamethoxam @ 0.2 g or imidacloprid @ 0.33 ml per liter of water should be advised.",
+            "For controlling some diseases like wilt, root rot, etc., farmers should use Carbendazim @ 2g or copper oxychloride @ 3ml per liter of water under no rainfall condition."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Past weather conditions (high moisture/humidity and high wind speed) are favorable for spreading various infectious diseases in standing Banana crop like sigatoka or black leaf streak, root rot, leaf spot, etc., so its regular monitoring should be advised."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Deworming and vaccination of animals against FMD, HS, BQ, Enteroxaemia, etc. should be ensured. Mastitis disease is also observed in some animals at present condition due to which milk production and quality may be hampered, so some preventive as well as control measures like pre and post dipping with antiseptic liquids, proper sanitation, preventing wet floor surfaces, feeding during and just after milking to avoid sitting of animals before closure of teat sphincters, lime application on the resting floor, provide a mixture of 2 lemons and 200g sugar in 1 liter of water at morning and evening hours, etc. should be taken to control this disease. Freshwater availability should be ensured on the farm."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

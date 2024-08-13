@@ -1,0 +1,95 @@
+{
+   "weather_details": {
+      "14-08-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 88,
+         "rh_min": 58,
+         "wind_speed": 8,
+         "wind_direction": 206,
+         "cloud_cover": 6
+      },
+      "15-08-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 90,
+         "rh_min": 70,
+         "wind_speed": 8,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "16-08-2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 91,
+         "rh_min": 73,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "17-08-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 86,
+         "rh_min": 60,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "18-08-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 87,
+         "rh_min": 56,
+         "wind_speed": 5,
+         "wind_direction": 281,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "vegetable crops",
+      "banana",
+      "cow/buffalo"
+   ],
+   "general_advisory": "There is a chance of decrease in the amount of rainfall and increase in temperature in upcoming days as compared to previous week, so farmers are advised to apply need-based irrigation in crop fields. Spraying of insecticide and herbicide should be done under no rainfall condition when the sky is clear with normal wind speed. Prevailing weather conditions are favorable for various diseases and insect attacks in different crops, so regular monitoring is advised. Farmers are advised to store rainwater by making broad and elevated bunds for future use during any dry spells.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanting of 25-30 days old seedlings should be done in already prepared field at a spacing of 20x15 cm at shallow depth, use only 2-3 seedlings per hill for high yielding varieties. For hybrids use 1-2 seedlings per hill. Maintain 5cm of water in paddy field for better plant growth.",
+            "Fertilizer Management: Application of first top dressing of urea fertilizer should be advised 20-25 days after transplanting.",
+            "Weed management: To control weeds, application of granular herbicide Bensulfuron methyl 0.6% + Pretilachlor 6% GR @ 4 kg/acre mixed with 4 kg of sand within 5-10 days after transplanting or Bispyribac sodium 10% SC @ 120 ml/acre in 8 tanks of 16-liter capacity sprayer at 8-10 days after emergence of weeds (or when the weeds are at 2-3 leaf stage) should be advised."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To control stem borer attack in Maize crop, spraying of Emamectin Benzoate @ 0.4g or Chlorantraniliprole 18.5% SC @ 0.3 ml per liter of water should be advised under clear weather condition."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Prevailing weather condition is favorable for various diseases and sucking insect attack in vegetable crops so its regular monitoring should be advised.",
+            "If sucking insect pest attack noticed, then spraying of thiamethoxam @ 0.2 g or imidacloprid @ 0.33 ml per liter of water should be advised.",
+            "For controlling some diseases like wilt, root rot, etc., farmers should use Carbendazim @ 2g or copper oxychloride @ 3ml per liter water under no rainfall condition."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Past weather conditions are favorable for spreading various infectious diseases in standing Banana crop like sigatoka or black leaf streak, root rot, leaf spot, etc., so regular monitoring is advised."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Deworming and vaccination of animals against FMD, HS, BQ, Enteroxaemia, etc. should be ensured.",
+            "Mastitis disease is also observed in some animals at present conditions due to which milk production and quality may hamper, so some preventive as well as control measures like pre and post-dipping with antiseptic liquids, proper sanitation, preventing wet floor surface, feeding during and just after milking to avoid sitting of animals before closure of teat sphincters, lime application on the resting floor, providing a mixture of 2 lemon and 200g sugar in 1 liter of water at morning and evening hours, etc. should be taken to control this disease. Freshwater availability should be ensured on the farm."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

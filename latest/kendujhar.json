@@ -1,0 +1,128 @@
+{
+   "weather_details": {
+      "14-08-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 63,
+         "wind_speed": 9,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      },
+      "15-08-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 80,
+         "wind_speed": 8,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      },
+      "16-08-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 93,
+         "rh_min": 73,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "17-08-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 91,
+         "rh_min": 78,
+         "wind_speed": 9,
+         "wind_direction": 251,
+         "cloud_cover": 7
+      },
+      "18-08-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 63,
+         "wind_speed": 9,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "greengram",
+      "blackgram",
+      "brinjal",
+      "chilli",
+      "lady finger",
+      "papaya",
+      "banana",
+      "cow"
+   ],
+   "general_advisory": "Due to the formation of a low-pressure system, rainfall activity is likely to occur. Make bunds to store rainwater and complete paddy transplanting process. Spray insecticides and pesticides in the early morning or evening hours.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Keep a standing water level of 2-3 cm during transplanting and make bunds for storing rainwater.",
+            "Transplant 2-3 seedlings together with proper spacing.",
+            "Take measures to manage Blast diseases and stem rot."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Watch for fall army worm infestation and apply pesticides correctly.",
+            "Remove weeds, maintain drainage, and be vigilant against aphid and thrips infestations."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Watch for sucking pests, grasshoppers, and bugs. Apply Imidachloprid to manage aphids.",
+            "Control Yellow vein mosaic virus with proper spraying techniques."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Apply profenophos + cypermethrin for controlling caterpillars.",
+            "Spray Imidachloprid for thrips infestations."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Make drainage channels to remove excess water and manage wilting with appropriate sprays.",
+            "Keep the field weed-free for healthy growth."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Monitor for diseases and pests, apply suitable pesticides to control thrips and leaf blight."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "Apply Mancozeb or Thiram to manage Fusarium wilt and spray Copper oxychloride for cercospora leaf spot."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Prevent water stagnation and fungal diseases with proper care and sprays.",
+            "Control Papaya mosaic virus transmission through effective pest management."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Create rings around plants for water storage and eliminate extra suckers for better growth."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide clean drinking water and maintain cleanliness in the cattle shed.",
+            "Prepare Jeevamrut for natural fertilization in the field."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

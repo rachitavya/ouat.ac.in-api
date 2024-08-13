@@ -1,0 +1,150 @@
+{
+   "weather_details": {
+      "09-08-2024": {
+         "rainfall": 9,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "10-08-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "11-08-2024": {
+         "rainfall": 7,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "12-08-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "14-08-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 6,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "15-08-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 90,
+         "rh_min": 67,
+         "wind_speed": 5,
+         "wind_direction": 214,
+         "cloud_cover": 6
+      },
+      "16-08-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 90,
+         "rh_min": 62,
+         "wind_speed": 5,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "17-08-2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 62,
+         "wind_speed": 4,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "18-08-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 58,
+         "wind_speed": 4,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "brinjal",
+      "okra",
+      "maize",
+      "mango",
+      "papaya"
+   ],
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Chances of seedling blight and blast infestation in rice nursery. To control seedling blight spray Propiconazole 25% EC @ 1 ml/litre of water and to control blast spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water in clear weather.",
+            "In direct sown rice field, spray Bispyribac sodium 10% SC @ 15 ml/tanks of 16 litres capacity at 8 -10 days after sowing or when the weeds are at 2 -3 leaf stage in moist soil as an alternative to manual weeding.",
+            "For transplanted high yielding varieties, apply 35 kg DAP, 4 kg urea, and 27 kg MoP per acre at the time of last puddling. In zinc deficient areas apply Zinc Sulphate @ 10 kg/acre.",
+            "To control weeds apply Bensulfuron methyl 0.6% + Pretilachlor 6% GR @ 4 kg/acre with 4 kg sand within 3‐7 days after transplanting.",
+            "Install Pheromone traps @ 8nos./acre and light trap @1no./acre to monitor and control the population of stem borer, leaf folder, and rice ear eating caterpillar at 30 DAS and replace the lure after three weeks."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Wilting in brinjal can be managed by spraying Tabuconazole @ 1 g/lt."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Drain out excess water from the field.",
+            "Apply Mancozeb or Thiram @ 3g/Kg of seed to manage Fusarium wilt.",
+            "To manage cercospora leaf spot in okra spray Copper oxychloride @ 3 ml/lt."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop a better drainage system to avoid waterlogging conditions due to excess rainfall.",
+            "Keep watch on fall armyworm infestation.",
+            "Spray pesticide to control fall armyworm. Spraying should be done in early mornings or at evening hours.",
+            "To manage the attack of fall armyworm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water",
+            "Stem borer and banded leaf and sheath blight may appear at this stage. Monitor the field regularly and remove infected plant parts."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Ideal time for planting mango is July to August.",
+            "Select suitable variety like, Banganpalli, Totapuri, Bombay green, Subarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Ramkella, Rummani, Sindhu, Alphanso, and Keshar etc. Use healthy unbranched grafted seedlings.",
+            "Plant the saplings in 1m x 1m x 1m pit at 10 m x 10 m distance. Apply 5kg FYM/pit before planting."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "This is a suitable time for planting papaya.",
+            "HYV for papaya are Honeydew, Coorg honeydew, CO -1, CO -2, Pusa delicious, Pusa majesty, and Pusa giant.",
+            "Plant the seedling at 2.5 m x 2.5 m distance and 0.5 m x 0.5 m x 0.5 m pit. Disease resistance and Tissue culture seedling should be used. Apply a mixture of topsoil and well-rotten FYM in the pit before planting."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

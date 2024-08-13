@@ -1,0 +1,73 @@
+{
+   "weather_details": {
+      "13.08.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sesame",
+      "brinjal",
+      "vegetables",
+      "cucurbits",
+      "cattles",
+      "goat"
+   ],
+   "general_advisory": "Ensure proper crop management practices based on the weather conditions mentioned. Be vigilant for disease outbreaks and take necessary precautions.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Spray Validamycin 3% L @ 400-ml/acre for Stem rot disease control.",
+            "Spray Chlorothalonil 75% WP @ 400g/acre for Tikka disease management."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Thinning and hand weeding for 15-day-old crop.",
+            "Spray Profenophos 50% EC @ 400ml/acre for Leaf Weber control."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Use varieties like Utkal tarini, Utkal Madhuri, Utkal kesari, etc.",
+            "Apply decomposed FYM in the soil before sowing.",
+            "Seed treatment with Carbendazim 50% WP @ 2g/kg of seeds."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Select bacterial wilt resistant varieties.",
+            "Practice crop rotation with pulses, oilseeds, marigold, etc.",
+            "Seed treatment with Plantomycin or Streptocycline."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Prepare poison bait for Fruit fly management.",
+            "Use poison baits or Spinosad for control.",
+            "Maintain hygiene to prevent diseases."
+         ]
+      },
+      "cattles": {
+         "advisory": [
+            "Regular disinfection of animal farms.",
+            "Prevent Ticks and Flies infestation."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Prevent contagious caprine pleuropneumonia disease.",
+            "Keep goat sheds clean and dry.",
+            "Consult veterinary doctor for vaccination."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

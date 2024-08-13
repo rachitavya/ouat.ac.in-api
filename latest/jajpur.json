@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "14-08-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 84,
+         "rh_min": 51,
+         "wind_speed": 13,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "15-08-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 87,
+         "rh_min": 71,
+         "wind_speed": 10,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "16-08-2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 88,
+         "rh_min": 62,
+         "wind_speed": 10,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "17-08-2024": {
+         "rainfall": 7,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 48,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "18-08-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 49,
+         "wind_speed": 11,
+         "wind_direction": 236,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "jute",
+      "sugarcane",
+      "vegetables",
+      "mango",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Farmers are advised to maintain optimum water level & monitor the incidence of Yellow Stem Borer, Leaf folder & Mealy bug in rice crop. In rain deficit condition make necessary arrangement for irrigation to Rice & vegetable crops.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Provide needful irrigation to rice crops.",
+            "Prevailing dry spell may lead to an increase in the infestation of rice mealy bug, so foliar spray of Lambda cyahalothrin 4.9CS @250ml/acre is advised.",
+            "Due to low rainfall & high temperature in the last 3 days, if the damage of stem borer is observed above ETL i.e. 5% dead heart & 10% leaf damage respectively, soil application of Rynaxypyr 0.4 G@4 kg/acre or Flubendiamide 0.7 G 5kg/acre is advised.",
+            "Top dressing of fertilizer is advised 16kg nitrogen per acre within 21 days after transplanting.",
+            "For effective weed management, spray Bis-pyribic Na @80ml/acre recommended within 15-25 days after transplanting.",
+            "Current weather conditions favor blast and bacterial blight disease in rice nurseries & main field. If blast is noticed, apply 120gm Tricyclazole 75% W.P. and for Bacterial Blight apply 500g Copper Oxichloride 50% W. P. with 200g Plantomycin in 200 liters of water per acre."
+         ]
+      },
+      "jute": {
+         "advisory": [
+            "Cut the branches during inter-crop to enhance growth.",
+            "Current rainy weather is favorable for the attack of insect pests like semilooper, Bihari hair caterpillar and other foliage feeders. To control these insects, spray Lambda cyhalothrin 4.9CS @ 250 ml/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Remove the borer-affected tillers and late-formed tillers, tie the cane shoots with two or three together with partially dried lower leaves.",
+            "To control Top shot borer in sugarcane foliar spray of Fipronil 5SC @400 ml/acre is advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "In recent rain deficit conditions make necessary irrigation to Brinjal, Chilli, Ridge gourd, Cucumber, and Snake gourd.",
+            "For the management of wilting and partial wilting in vegetable plants, apply Neem or Karanjaa cake along with MO P & foliar spray of Tebuconazole @ 1ml/liter can be recommended."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "July and August are the ideal time for mango planting.",
+            "Suitable varieties are Amrapalli, Dusseheri, Chousa, Baganpalli, Totapuri, Bombay green, Suvarnarekha, Himsagar, etc.",
+            "Seedlings should be planted in pits at a distance of 10m X 10m. The pit size is 1m X 1m X 1m. One-year-old healthy grafted plant should be preferred. At the time of planting, two basket compost, 80g N, 100g P 2O5, and 60g K 2O fertilizer should be applied."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Collect 3000 fingerlings per acre pond from a reliable establishment producing fish.",
+            "If someone wants to produce three types of fish, release 900 vakur, 1200 rohi, and 900 mirikali twins."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Give sufficient drinking water to animals.",
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia, etc., these must be done."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

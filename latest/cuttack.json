@@ -1,0 +1,138 @@
+{
+   "weather_details": {
+      "03/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 57,
+         "rh_min": 13,
+         "wind_speed": 12,
+         "wind_direction": 205,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 15,
+         "wind_speed": 11,
+         "wind_direction": 180,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 70,
+         "rh_min": 23,
+         "wind_speed": 15,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 67,
+         "rh_min": 15,
+         "wind_speed": 13,
+         "wind_direction": 210,
+         "cloud_cover": 0
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 55,
+         "rh_min": 10,
+         "wind_speed": 12,
+         "wind_direction": 242,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "maize",
+      "tomato",
+      "brinjal",
+      "coconut",
+      "vegetable",
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "okra",
+      "onion",
+      "mango"
+   ],
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation for heat effects. Ensure proper irrigation for maize crop. Spread polythene in irrigation channels. Apply Streptocyclin for wilting in tomato and brinjal. Mulch coconut leaves for water loss reduction. Cover newly planted vegetable seedlings. Harvest fingerlings in shallow ponds if water temperature rises. Take precautions in different crops as advised.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Avoid water deficit during these stages."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Top-dress with potassium to protect from water scarcity. Apply sprinkler irrigation to reduce heat effects."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "High temperature increases water requirement. Irrigate crop timely and avoid stagnant water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply Streptocyclin for wilting due to high day temperatures."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Install pheromone traps for borer management. Use neem-based pesticide for pest control."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves for water conservation."
+         ]
+      },
+      "vegetable": {
+         "advisory": [
+            "Cover newly planted seedlings with paper caps during the daytime."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings in shallow ponds if water temperature rises."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Check migration of caterpillars. Use recommended insecticides for control."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Check migration of caterpillars. Use recommended insecticides for control."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds with Imidacloprid to prevent whitefly infestation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "After harvesting, dry and store onions properly for longer preservation."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control mango hoppers with recommended sprays. Application of smoke can help reduce pest population."
+         ]
+      }
+   },
+   "date": "02-04-2024"
+}

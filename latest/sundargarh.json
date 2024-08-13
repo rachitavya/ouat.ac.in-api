@@ -1,0 +1,138 @@
+{
+   "weather_details": {
+      "14/08/2024": {
+         "rainfall": 16,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 63,
+         "wind_speed": 9,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "15/08/2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 71,
+         "wind_speed": 10,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "16/08/2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 93,
+         "rh_min": 81,
+         "wind_speed": 11,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "17/08/2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 92,
+         "rh_min": 75,
+         "wind_speed": 9,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "18/08/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 73,
+         "wind_speed": 8,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "arhar",
+      "direct sown paddy",
+      "ragi",
+      "sesamum",
+      "maize",
+      "groundnut",
+      "turmeric",
+      "vegetables",
+      "tomato",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Kharif 2024 crop: Due to forecast of low to moderate rainfall in the coming five days, complete the transplanting work. Due to rain received last week, store the rainwater in the field by strengthening the bund. Drain out excess water from vegetables and maize crop. Resowing of seeds like rice, maize, millets can be done if proper germination is not observed. If not transplanted earlier, old seedlings can also be transplanted with 33% more population and 10% more fertilizer than normal.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "For effective weed control apply Bispyribac sodium @ 80ml per acre in 200 liters of water at 8 -10 days after transplanting."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Survey for any insects and pest and take necessary measures. For preventive measures against sucking pests spray Azadirachtin @ 5 ml per liter of water."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Go for intercultivation"
+         ]
+      },
+      "direct sown paddy": {
+         "advisory": [
+            "Go for gap filling by clonal method where there is uneven population."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Apply 50% of the total nitrogen at growth stage. Apply 2,4-D Sodium salt @ 3-4 ml per liter of water for effective weed control."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "If not sown the crop earlier, complete sowing as soon as possible with good varieties like Amrit, Prachi @ 203 kg per acre at a spacing of 30 X 10 cm."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Due to weather effect there may be chances of Fall Army Worm, to manage the attack of fall army worm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Survey for any insect and pest and take necessary step."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Go for intercultural operation and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to rain and high humid condition during last week, wilting is likely to appear in vegetable plants. Drain out water from the field. Spray Streoptocyline@20g with Carboxin+Thiram @400g or Metalaxyl 8%+Mancozeb 64% WP @400g per acre in 200 liters of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "August and September is the optimum time for Tomato planting. Grow Tomato varieties like Utkal Pragyan and Swarna Sampad. For one acre planting 150 to 200 grams of seeds are required."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Release 3000 - 5000 fingerlings per 1-hectare area. 30-40% should be surface feeder Silver carp and Bhakur and rest equal of mid feeder and bottom feeder."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Moist and humid environment may spread the disease inside the shed so clean it regularly. Go for vaccination in consultation with department officials."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

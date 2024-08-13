@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "14/08/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 29,
+         "rh_max": 82,
+         "rh_min": 68,
+         "wind_speed": 26,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "15/08/2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 29,
+         "rh_max": 84,
+         "rh_min": 74,
+         "wind_speed": 23,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "16/08/2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 30,
+         "rh_max": 84,
+         "rh_min": 75,
+         "wind_speed": 18,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "17/08/2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 30,
+         "rh_max": 83,
+         "rh_min": 70,
+         "wind_speed": 20,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "18/08/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 29,
+         "rh_max": 83,
+         "rh_min": 64,
+         "wind_speed": 22,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "groundnut",
+      "chilli",
+      "cucurbits",
+      "tomato",
+      "marigold"
+   ],
+   "general_advisory": "Complete transplanting of rice by the first fortnight of August. Regular monitoring of the crop for incidence of pests and diseases should be done. Make arrangements for draining out excess water from the fields of pulses, maize, groundnut, and vegetables. Farmers are advised to make bunds for conserving rainwater in the fields.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Active tillering stage - Monitor for leaf blast and manage with appropriate sprays. Manage sheath rot and sheath blight with recommended fungicides. Manage bacterial leaf blight with appropriate sprays."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Vegetative stage - Complete hoeing, weeding, and earthing up. Monitor for pest infestation and consider neem-based pesticide for prevention."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage - Hoeing at 20-25 DAS. Manage Tikka disease with recommended fungicides."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Vegetative stage - Keep the field clean and monitor for pests. Control thrips with appropriate sprays. Control leaf blight with carbendazim or Mancozeb fungicides."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Flowering and fruiting stage - Manage fruit fly with poison bait traps or Spinosad spray."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Planting stage - Optimum planting time in August and September. Recommended varieties are listed."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "African marigold planting advice provided."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

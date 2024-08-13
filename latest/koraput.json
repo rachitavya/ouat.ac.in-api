@@ -1,0 +1,122 @@
+{
+   "weather_details": {
+      "09-08-2024": {
+         "rainfall": 6,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 89,
+         "rh_min": 57,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "10-08-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 87,
+         "rh_min": 63,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "11-08-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 89,
+         "rh_min": 59,
+         "wind_speed": 7,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      },
+      "12-08-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 87,
+         "rh_min": 56,
+         "wind_speed": 5,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "ragi",
+      "niger",
+      "brinjal",
+      "okra",
+      "mango",
+      "ginger",
+      "turmeric",
+      "cow"
+   ],
+   "general_advisory": "Farmers are advised to do proper arrangement for storing rain water at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition. Chances of generally cloudy sky and light rainfall during next five days. Maximum temperature is expected to be 30-32°C and minimum temperature is expected to be 21-22°C. Maximum and minimum relative humidity is expected to be 87-89%, and 56-63%, respectively.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Chances of seedling blight and blast infestation in rice nursery. To control seedling blight spray Propiconazole 25% EC @ 1 ml/litre of water and to control blast spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water in clear weather.",
+            "In direct sown rice field, spray Bispyribac sodium 10% SC @ 15 ml/tanks of 16 litre capacity at 8 -10 days after sowing or when the weeds are at 2 -3 leaf stage in moist soil as an alternative to manual weeding.",
+            "For transplanted high yielding varieties apply 35 kg DAP, 4 kg urea and 27 kg MoP per acre at the time of last puddling. In zinc deficient areas apply Zinc Sulphate @ 10 kg/acre.",
+            "To control weeds apply Bensulfuron methyl 0.6% + Pretilachlor 6% GR @ 4 kg/acre"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop better drainage system to avoid water logging condition due to excess rainfall.",
+            "Keep watch on fall army worm infestation.",
+            "Spray pesticide to control fall army worm. Spraying should be done in early mornings or at evening hours.",
+            "To manage the attack of fall army worm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water",
+            "Stem borer and banded leaf and sheath blight may appear at this stage. Monitor the field regularly and remove infected plant parts."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "In direct sown crop, go for weeding and top dressing of urea @ 26 kg/acre at 21 days after sowing.",
+            "Go for transplanting of 25 days old seedlings with 2 seedlings/hill at a spacing of 22.5 x 10 cm. Apply 26 kg DAP, 16 kg urea and 20 kg MoP per acre at the time of last ploughing."
+         ]
+      },
+      "niger": {
+         "advisory": [
+            "Sow the Utkal Niger -150 Niger seed @ 4Kg per acre in line or behind the plough."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Wilting in brinjal can be managed by spraying Tabuconazole @ 1 g/lt."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Drain out excess water from the field.",
+            "Apply Mancozeb or Thiram @ 3g/Kg of seed to manage Fusarium wilt.",
+            "To manage cercospora leaf spot in okra spray Copper oxychloride @ 3 ml/lt."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Ideal time for planting mango is July to August.",
+            "Select suitable varity like, Banganpalli, Totapuri, Bombay green, Subarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Ramkella, Rummani, Sindhu, Alphanso and Keshar etc. Use healthy unbranched grafted seedlings.",
+            "Plant the saplings in 1m x 1m x 1m pit at 10 m x 10 m distance. Apply 5kg FYM/pit before planting."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "2nd weeding and 2nd top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 20Kg neem coated Urea, 20Kg MOP per acre."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Go for weeding and gap filling and apply 26 kg urea per acre at 45 days afterplanting and apply mulching @ 2 t/acre."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Cowshed that are kept leak-free and well aired will assist prevent moisture buildup and the growth of harmful fungus. Vaccinate cows and buffalo against FMD, HS, and BQ. In order to control internal parasites in wet environments, develop a deworming program."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

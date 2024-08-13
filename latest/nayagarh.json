@@ -1,0 +1,138 @@
+{
+   "weather_details": {
+      "03/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 46,
+         "rh_min": 11,
+         "wind_speed": 8,
+         "wind_direction": 288,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 63,
+         "rh_min": 10,
+         "wind_speed": 7,
+         "wind_direction": 198,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 53,
+         "rh_min": 16,
+         "wind_speed": 9,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 51,
+         "rh_min": 12,
+         "wind_speed": 9,
+         "wind_direction": 165,
+         "cloud_cover": 1
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 35,
+         "rh_min": 8,
+         "wind_speed": 10,
+         "wind_direction": 202,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "maize",
+      "tomato",
+      "brinjal",
+      "coconut",
+      "vegetables",
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "okra",
+      "onion",
+      "mango"
+   ],
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect, conserve water by irrigating alternate rows.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Yellow stem borer management - Use recommended pesticides."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Early Shoot Borer management - Frequent irrigation is recommended during hot months."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "High temperature increases water requirement, irrigate the crop adequately."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply Streptocyclin in root zone to prevent wilting."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Install pheromone traps and use neem-based pesticides to manage shoot and fruit borer."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves around trees to reduce water loss."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover newly planted seedlings with paper caps during day time."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings from shallow ponds if water temperature rises."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Check for tobacco caterpillar migration and apply recommended insecticides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Check for tobacco caterpillar migration and apply recommended insecticides."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds with Imidacloprid to prevent whitefly infestation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Trim tops after harvesting and dry bulbs properly."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control mango hoppers with recommended pesticides."
+         ]
+      }
+   },
+   "date": "02-04-2024"
+}

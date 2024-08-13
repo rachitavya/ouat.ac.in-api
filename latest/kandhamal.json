@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "14-08-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 61,
+         "wind_speed": 6,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      },
+      "15-08-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 73,
+         "wind_speed": 6,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      },
+      "16-08-2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 216,
+         "cloud_cover": 6
+      },
+      "17-08-2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 63,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "18-08-2024": {
+         "rainfall": 7,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 57,
+         "wind_speed": 5,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "chilli",
+      "niger",
+      "okra",
+      "cattle rearing"
+   ],
+   "general_advisory": "Seeing the wind speed being low and upcoming light rainfall days, farmers are advised to resume their spraying events. Spray chemicals in rice and maize crop if blast or FAW occurs respectively due to alternate wetting and drying period. Allied sectors like birding, cattle rearing and fish cultivation are needed to be taken care of in the swampy and rainy conditions. Drain out excess water from pulse and oilseed crops to prevent rotting.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Stage - Transplanting",
+            "Blast disease may occur due to alternate drying and wetting condition",
+            "Spray Tricyclazole@0.7gram/liter and NSKE (neem seed kernel extract) at 15 days interval regularly."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Stage - early vegetative / flowering",
+            "Disease - bacterial leaf spot",
+            "Control - Spray mancozeb @ 2 g/l or copper oxychloride @ 2.5 g/l. Seedlings may be sprayed with Bordeaux mixture 1. Per cent or copper oxychloride 0.25%."
+         ]
+      },
+      "niger": {
+         "advisory": [
+            "Stage - sowing /broadcasting",
+            "Niger seeds can be sown in the monsoon period. For seed production purpose, apply 40:40:20 kg of NPK/ha as basal application."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Stage - fruiting",
+            "To control YMV disease in Okra, control the vector by spraying 5% neem seed kernel extract or ginger, garlic and chili extract. Spray azadirachtin 0.03 WSP @ 5 g/1 or methyl demeton 25 EC @ 1.6 ml/l or thiamethoxam 25 WG @ 2 g/lit to kill the insect vector, whitefly."
+         ]
+      },
+      "cattle rearing": {
+         "advisory": [
+            "Suitable dry bedding materials should be provided during the rainy season.",
+            "Dry fodder, dry paddy straw and thick jute gunny bags need to be provided as bedding material for livestock.",
+            "Vaccinate the cattle for common diseases like Fatua, Bajbajia. Cattle are required to be vaccinated against haemorrhagic septicemia, foot and mouth disease during the early monsoon period."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

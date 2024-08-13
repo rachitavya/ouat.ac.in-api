@@ -1,0 +1,76 @@
+{
+   "weather_details": {
+      "14-08-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 58,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "15-08-2024": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 11,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "16-08-2024": {
+         "rainfall": 7,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 63,
+         "wind_speed": 9,
+         "wind_direction": 210,
+         "cloud_cover": 7
+      },
+      "17-08-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 57,
+         "wind_speed": 9,
+         "wind_direction": 236,
+         "cloud_cover": 7
+      },
+      "18-08-2024": {
+         "rainfall": 12,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize"
+   ],
+   "general_advisory": "Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity, possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Chances of seedling blight and blast infestation in rice nursery. To control seedling blight spray Propiconazole 25% EC @ 1 ml/litre of water and to control blast spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water in clear weather.",
+            "In direct sown rice field, spray Bispyribac sodium 10% SC @ 15 ml/tanks of 16 litre capacity at 8-10 days after sowing or when the weeds are at 2 -3 leaf stage in moist soil as an alternative to manual weeding.",
+            "For transplanted high yielding varieties apply 35 kg DAP, 4 kg urea and 27 kg MoP per acre at the time of last puddling. In zinc deficient areas apply Zinc Sulphate @ 10 kg/acre."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop better drainage system to avoid water logging conditions due to excess rainfall.",
+            "Keep watch on fall army worm infestation.",
+            "Spray pesticide to control fall army worm. Spraying should be done in early mornings or at evening hours."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

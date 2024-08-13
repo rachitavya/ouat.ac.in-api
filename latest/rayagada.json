@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "2024-08-14": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 59,
+         "wind_speed": 6,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "2024-08-15": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 67,
+         "wind_speed": 6,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "2024-08-16": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 90,
+         "rh_min": 66,
+         "wind_speed": 5,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      },
+      "2024-08-17": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 5,
+         "wind_direction": 207,
+         "cloud_cover": 7
+      },
+      "2024-08-18": {
+         "rainfall": 7,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 56,
+         "wind_speed": 5,
+         "wind_direction": 207,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "pumpkin",
+      "goat"
+   ],
+   "general_advisory": "As per extended range forecast issued by IMD, overall rainfall activity likely to be below normal over the districts of Odisha during week-1 (9th to 15th August 2024) with isolated heavy to very heavy falls likely over some districts of Odisha during the week-1. During 2-week (16th to 22nd August 2024) overall rainfall activity likely to be above normal with possibility of isolated heavy rain over the districts of Odisha during week-2. Considering the realized and anticipated rainfall, farmers are advised to complete the transplanting of paddy, where field has been ready. Make arrangements for draining out excess water from the field of Pulses, Maize, Groundnut and vegetables. Prepare bund for conserving rainwater inside the field, specifically in upland condition. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Use pre-emergence herbicide Pretilachlor 37 % EW @ 600-ml/acre or Oxadiargyl 80%W.P @ 50-gm/acre or Pyrazosulfuron Ethyl 10% W.P @ 80 gm/acre at 1-3 DAT. Spray the herbicide by mixing it with 200 litres of water per acre or mix the herbicide with 20 kg of sand and broadcast it uniformly. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Make drainage channel for draining out excess rainwater. Undertake hoeing, weeding and 1st top dressing followed by earthing up at three-week stage of cotton. Apply 26 kg urea with 20 kg MOP in hybrids and 20 kg urea with 15 kg MOP in high yielding varieties as 1st top dressing. Application of plant hormone Planofix @ 3.5 ml mixing with 15 liters of water is advisable at 30-45 days of crop stage to control flower drop and better bulb development. Application of Neem-based pesticide like Neem oil @ 600-800 ml + 200 g detergent powder per acre by mixing with 200 liters of water is advisable at 30-45 days of crop stage to control sucking pests complex like Aphid, Jassids, Thrips & Whitefly. Install yellow sticky trap @ 8nos./acre to control & monitor sucking pests complex like Aphid, Jassids, Thrips & Whitefly."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "After heavy rainfall, Semilooper pest incidence is common in Cucurbits like Ridge gourd and snake Guard. Go for spraying of neem-based pesticide (Neem Oil 15000 PPM) Azadirachtin @ 600 ml/acre or Bacillus Thuringiensis @ 400 gm/acre by mixing it in 200-litre of water. To manage the pest chemically, spray AlphaCyhalothrin @ 50-ml/acre or Thiachloprid @ 120 ml/acre during afternoon hours by mixing it with 200 liters of water."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites. Keep animals indoor during rainy hours and provide clean and wholesome water and keep dry fodder and straw ready at home for sheep and goat in rainy season. Please ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
+         ]
+      }
+   },
+   "date": "13-08-2024"
+}

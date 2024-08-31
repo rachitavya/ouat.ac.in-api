@@ -53,11 +53,6 @@
    },
    "names_of_crops": [
       "paddy",
-      "mustard",
-      "groundnut",
-      "mung",
-      "biri",
-      "kulthi",
       "sugarcane",
       "maize",
       "tomato",
@@ -67,101 +62,75 @@
       "fingerlings",
       "black gram",
       "green gram",
+      "okra",
       "onion",
-      "mango",
-      "okra"
+      "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages...",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect, conserve water by irrigating alternate rows.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Water deficit during these stages should be avoided."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Harvesting is completed. Overall crop condition is normal."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Harvesting is completed. Overall crop condition is normal."
-         ]
-      },
-      "mung": {
-         "advisory": [
-            "Harvesting is completed. Overall crop condition is normal."
-         ]
-      },
-      "biri": {
-         "advisory": [
-            "Harvesting is completed. Overall crop condition is normal."
-         ]
-      },
-      "kulthi": {
-         "advisory": [
-            "Harvesting is completed. Overall crop condition is normal."
+            "Yellow stem borer management - Use recommended pesticides."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves. Top-dress with potassium to protect from water scarcity.",
-            "To manage early shoot borer, irrigate frequently during hot months."
+            "Early Shoot Borer management - Frequent irrigation is recommended during hot months."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement. Irrigate the crop accordingly."
+            "High temperature increases water requirement, irrigate the crop adequately."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature may lead to wilting. Apply Streptocyclin in root zone."
+            "Apply Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps. Spray neem-based pesticide during pest infestation."
+            "Install pheromone traps and use neem-based pesticides to manage shoot and fruit borer."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves around the tree to reduce water loss."
+            "Mulch coconut leaves around trees to reduce water loss."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover newly planted vegetable seedlings with paper caps during day time."
+            "Cover newly planted seedlings with paper caps during day time."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "Harvest fingerlings if water temperature rises."
+            "Harvest fingerlings from shallow ponds if water temperature rises."
          ]
       },
       "black gram": {
          "advisory": [
-            "Manage tobacco caterpillar migration."
+            "Check for tobacco caterpillar migration and apply recommended insecticides."
          ]
       },
       "green gram": {
          "advisory": [
-            "Manage tobacco caterpillar migration."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "After harvesting, cut the tops and dry the bulbs."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "To control mango hoppers, spray recommended insecticides."
+            "Check for tobacco caterpillar migration and apply recommended insecticides."
          ]
       },
       "okra": {
          "advisory": [
-            "Treat okra seeds to prevent whitefly infestation."
+            "Treat okra seeds with Imidacloprid to prevent whitefly infestation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Trim tops after harvesting and dry bulbs properly."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control mango hoppers with recommended pesticides."
          ]
       }
    },

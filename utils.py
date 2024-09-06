@@ -29,7 +29,7 @@ async def download_pdf(url, temp_dir):
         return None
 
 def scraper():
-    url = 'https://ouat.ac.in/quick-links/agro-advisory-services/'
+    url = 'https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/quick-links/agro-advisory-services/'
     rename_districts = {
         'angul': 'anugul',
         'balasore': 'baleshwar',

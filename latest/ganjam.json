@@ -1,0 +1,29 @@
+{
+   "date": "03-09-2024",
+   "error": "Error in getting the document.",
+   "weather_details": {
+      "01-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 5
+      },
+      "02-09-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 22,
+         "rh_max": 80,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [],
+   "general_advisory": "No specific advisory available.",
+   "crops_data": {}
+}

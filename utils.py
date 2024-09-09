@@ -59,8 +59,8 @@ def scraper():
             columns = rows.find_all('td')
             date = columns[1].text.strip()
             data_dict['date'] = date
-            english_link = columns[2].find('a')['href']
-            odia_link = columns[3].find('a')['href']
+            english_link = columns[2].find('a')['href'].replace("https://ouat.ac.in","https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat")
+            odia_link = columns[3].find('a')['href'].replace("https://ouat.ac.in","https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat")
             link_dict = {'english': english_link, 'odia': odia_link}
             data_dict['link'] = link_dict
             data.append(data_dict)

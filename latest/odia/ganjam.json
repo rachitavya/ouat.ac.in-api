@@ -2,28 +2,18 @@
    "date": "03-09-2024",
    "error": "ଡକ୍ୟୁମେଣ୍ଟ ପାଇବାରେ ତ୍ରୁଟି।",
    "weather_details": {
-      "01-09-2024": {
-         "rainfall": 5,
-         "t_max": 30,
+      "03-09-2024": {
+         "rainfall": 0,
+         "t_max": 28,
          "t_min": 20,
-         "rh_max": 85,
+         "rh_max": 80,
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 5
-      },
-      "02-09-2024": {
-         "rainfall": 2,
-         "t_max": 28,
-         "t_min": 22,
-         "rh_max": 80,
-         "rh_min": 55,
-         "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 3
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [],
-   "general_advisory": "କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ପରାମର୍ଶ ଉପଲବ୍ଧ ନାହିଁ।",
+   "general_advisory": "",
    "crops_data": {}
 }

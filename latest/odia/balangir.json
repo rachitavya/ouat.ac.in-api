@@ -3,7 +3,7 @@
    "error": "ଡକ୍ୟୁମେଣ୍ଟ ପାଇବାରେ ତ୍ରୁଟି।",
    "weather_details": {
       "01-09-2024": {
-         "rainfall": 5,
+         "rainfall": 10,
          "t_max": 30,
          "t_min": 20,
          "rh_max": 80,
@@ -13,17 +13,37 @@
          "cloud_cover": 4
       },
       "02-09-2024": {
-         "rainfall": 10,
+         "rainfall": 5,
          "t_max": 28,
          "t_min": 18,
-         "rh_max": 75,
-         "rh_min": 55,
-         "wind_speed": 10,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 12,
          "wind_direction": 200,
-         "cloud_cover": 6
+         "cloud_cover": 5
       }
    },
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "names_of_crops": [
+      "ଗହମ",
+      "ମକା",
+      "ଚାଉଳ"
+   ],
+   "general_advisory": "ଭଲ ଭାବେ ଜଳ ନିଷ୍କାସନ ହେଉଥିବା ମାଟିରେ ଗହମ ମଞ୍ଜି ବୁଣନ୍ତୁ। ଧାନ କ୍ଷେତକୁ ପର୍ଯ୍ୟାପ୍ତ ପରିମାଣରେ ଜଳସେଚନ କରନ୍ତୁ।",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "ବୁଣିବା ସମୟରେ ନାଇଟ୍ରୋଜେନ୍ ଯୁକ୍ତ ସାର ପ୍ରୟୋଗ କରନ୍ତୁ।"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "ମକା ଗଛକୁ କୀଟପତଙ୍ଗ ଏବଂ ରୋଗରୁ ରକ୍ଷା କରନ୍ତୁ।"
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "ଅଭିବୃଦ୍ଧି ଅବଧିରେ ନିରନ୍ତର ଜଳ ଯୋଗାଣ ସୁନିଶ୍ଚିତ କରନ୍ତୁ।"
+         ]
+      }
+   }
 }

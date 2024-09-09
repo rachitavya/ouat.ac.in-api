@@ -54,7 +54,7 @@
    "names_of_crops": [
       "rice",
       "maize",
-      "kharif groundnut",
+      "groundnut",
       "ragi",
       "brinjal",
       "cucumber",
@@ -65,82 +65,83 @@
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "Rainfall is expected during the next five days. Spray only when the sky becomes clear and use a sticker in the spray solution. Properly store rainwater for irrigation. Take plant protection measures due to high humidity. Ensure proper drainage in non-paddy crop fields.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition. Make proper drainage system in non-paddy crop field for removing excess water.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Keep the rice plots weed free.",
             "Apply low quantity of Nitrogen fertilizer to reduce the blast disease.",
             "Spray chlorantraniliprole @ 6 ml /15 liter of water to control the stem borer.",
-            "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
-            "Complete the transplanting. Use 4 - 5 seedlings / hill in age-old seedlings with closed spacing."
+            "Spray Imidacloprid @ 0.6 ml / liter of water to control the BPH.",
+            "Complete the transplanting. Use 4 -5 seedlings / hill in age old seedlings with closed spacing."
          ]
       },
       "maize": {
          "advisory": [
-            "Develop a better drainage system to avoid waterlogging conditions.",
-            "Control root and stalk rot by spraying Validamycin 3% L @ 2 ml/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water.",
-            "Control fall armyworm by spraying Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water."
+            "Develop better drainage system to avoid waterlogging condition due to excess rainfall.",
+            "Root and stalk rot may observed in maize field, to control it spray Validamycin 3% L @ 2 ml/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water.",
+            "Fall army worm may observed in field, to control it spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water."
          ]
       },
-      "kharif groundnut": {
+      "groundnut": {
          "advisory": [
-            "Prepare the field and raise Kharif groundnut of high-yielding varieties. Treat the seeds with Trichoderma viridae (10 gm.), Pseudomonas fluorescence (10 gm.) and Rhizobium culture (20 gm.) per kg of seed before sowing."
+            "Prepare the field and raise Kharif groundnut of high yielding varieties. Treat the seeds with Trichoderma viridae, Pseudomonas fluorescence, and Rhizobium culture per kg of seed before sowing."
          ]
       },
       "ragi": {
          "advisory": [
-            "Spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when the sky becomes clear."
+            "Condition is favorable for blast incidence in ragi, if observed spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when sky becomes clear."
          ]
       },
       "brinjal": {
          "advisory": [
             "Transplant 25-35 days old seedlings in the main field.",
-            "Make necessary drainage channels to prevent waterlogging conditions.",
+            "Make necessary drainage channels to prevent waterlogging condition.",
             "Identify and fill gaps in the main field to maintain plant population.",
-            "Manage wilting in brinjal by spraying Tabuconazole @ 1 g/lt."
+            "Wilting in brinjal can be managed by spraying Tabuconazole @ 1 g/lt."
          ]
       },
       "cucumber": {
          "advisory": [
-            "Be cautious of downy mildew attack in cucumber. If observed, spray Metalaxyl 8% + Mancozeb 64% @ 2 g/litre of water on sunny days."
+            "There is a chance of downy mildew attack in cucumber. If observed spray Metalaxyl 8% + Mancozeb 64% @ 2 g/litre of water in sunny days."
          ]
       },
       "ginger": {
          "advisory": [
-            "Ensure weeding and apply 54 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre.",
-            "Manage soft rot disease of ginger by applying Tagmycin @ 1.5 packets or Neem oil @ 75ml per 15ltr barrel tank sprayer.",
-            "Address bacterial wilt by drenching all beds with Bordeaux mixture 1% or copper oxychloride 0.2%."
+            "Go for weeding and apply 54 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre.",
+            "To manage soft rot disease of ginger apply Tagmycin or Neem oil per 15ltr barrel tank sprayer.",
+            "Bacterial wilt once noticed in the field all beds should be drenched with Bordeaux mixture 1% or copper oxychloride 0.2%."
          ]
       },
       "black pepper": {
          "advisory": [
-            "Control Leaf gall and thrips by spraying Monocrotophos 36 WSC 1.5 ml/lit or Dimethoate 30 EC @ 2 ml/lit or Chlorpyriphos 2 ml/lit or neem oil 3% (30ml/lit) three rounds at monthly intervals.",
-            "Treat coffee for Stem borer management."
+            "If Leaf gall and thrips occurs Spray Monocrotophos 36 WSC 1.5 ml/lit or Dimethoate 30 EC @ 2 ml/lit or Chlorpyriphos 2 ml/lit or neem oil 3%",
+            "three rounds at monthly intervals starting from new flush formation."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Manage Rhizome rot disease of turmeric by applying Tagmycin @ 1.5 packets or Neem oil @ 75ml per 15ltr barrel tank sprayer."
+            "Go for weeding and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre.",
+            "To manage Rhizome rot disease of turmeric apply Tagmycin or Neem oil per 15ltr barrel tank sprayer."
          ]
       },
       "coffee": {
          "advisory": [
-            "Maintain/creating optimum shade.",
-            "Thoroughly trace and uproot borer infested plants.",
-            "Install pheromone traps @ 25 /ha if the incidence is high.",
+            "Stem borer management",
+            "Maintain/creating optimum shade",
+            "Borer infested plants should be thoroughly traced, uprooted burnt to avoid economic loss during the subsequent years.",
+            "Installation of pheromone traps @ 25 /ha, if the incidence is high.",
             "Pad with chlorpyriphos 25% EC @ 5 ml by making a window in the stem at 5 cm x 5 cm and fill it with absorbent cotton dipped in insecticide solution and close it."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Keep dry fodder and straw ready for sheep and goats in the rainy season.",
-            "Flush to give balanced concentrate to sheep and goats one month prior to kidding and lambing."
+            "Keep dry fodder and straw ready at home for sheep and goat in the rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
          ]
       },
       "poultry": {
          "advisory": [
-            "Ensure filling of holes and crevices in the poultry house to prevent the entry of snakes and reptiles."
+            "Please ensure filling of holes and crevices of poultry house in rainy days otherwise that will facilitate the entry of snakes and reptiles, which may kill the birds."
          ]
       }
    },

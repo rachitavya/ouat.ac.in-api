@@ -53,18 +53,18 @@
    },
    "names_of_crops": [
       "rice",
-      "brinjal"
+      "horticulture"
    ],
    "general_advisory": "District is likely to experience light to moderate rainfall so don't go for application any plant protection chemical, you may go for application in other days only in addition to sticker with plant protection chemical.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "The transplanted paddy is at one to five week stage in main field. The direct seeded crop is at seven to nine week stage. The minimum temperature and relative humidity is favorable for out break of blast disease. To Manage Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-ml/acre or Azoxystrobin + Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre. After receding of rain water there is chance of infestation Swarming Caterpillar in paddy . To manage this spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre. As the pest is nocturnal in behavior spraying of pesticide should be done in the evening hours for better result. (go for application when weather is clear)"
+            "The transplanted paddy is at one to five week stage in main field. The direct seeded crop is at seven to nine week stage. The minimum temperature and relative humidity is favorable for outbreak of blast disease. To Manage Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-ml/acre or Azoxystrobin + Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre. After receding of rain water there is a chance of infestation Swarming Caterpillar in paddy. To manage this spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre. As the pest is nocturnal in behavior spraying of pesticide should be done in the evening hours for better result. (go for application when the weather is clear)"
          ]
       },
-      "brinjal": {
+      "horticulture": {
          "advisory": [
-            "Wilting in Brinjal might be triggered in rainy season due to high soil moisture and high humidity . Destroy the infested plant as well as residue by burning , disinfect the tool before going to another field. Provide good drainage to the field. For chemical treatment use Streptocyclin 6g + Bavistin 15 g for soil drenching in 15 litre of water . (go for application when weather is clear)"
+            "Wilting in Brinjal might be triggered in the rainy season due to high soil moisture and high humidity. Destroy the infested plant as well as residue by burning, disinfect the tool before going to another field. Provide good drainage to the field. For chemical treatment use Streptocyclin 6g + Bavistin 15 g for soil drenching in 15 litres of water. (go for application when the weather is clear)"
          ]
       }
    },

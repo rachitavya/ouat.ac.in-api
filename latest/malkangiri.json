@@ -4,8 +4,8 @@
          "rainfall": 4,
          "t_max": 33,
          "t_min": 25,
-         "rh_max": 98,
-         "rh_min": 77,
+         "rh_max": 0,
+         "rh_min": 98,
          "wind_speed": 0,
          "wind_direction": 0,
          "cloud_cover": 0
@@ -15,7 +15,7 @@
          "t_max": 32,
          "t_min": 26,
          "rh_max": 0,
-         "rh_min": 0,
+         "rh_min": 97,
          "wind_speed": 0,
          "wind_direction": 0,
          "cloud_cover": 0
@@ -25,7 +25,7 @@
          "t_max": 31,
          "t_min": 26,
          "rh_max": 0,
-         "rh_min": 0,
+         "rh_min": 98,
          "wind_speed": 0,
          "wind_direction": 0,
          "cloud_cover": 0
@@ -40,7 +40,7 @@
          "wind_direction": 0,
          "cloud_cover": 0
       },
-      "07-09-2024": {
+      "07.09.2024": {
          "rainfall": 25,
          "t_max": 28,
          "t_min": 24,
@@ -50,7 +50,7 @@
          "wind_direction": 249,
          "cloud_cover": 8
       },
-      "08-09-2024": {
+      "08.09.2024": {
          "rainfall": 40,
          "t_max": 28,
          "t_min": 23,
@@ -60,7 +60,7 @@
          "wind_direction": 249,
          "cloud_cover": 8
       },
-      "09-09-2024": {
+      "09.09.2024": {
          "rainfall": 45,
          "t_max": 28,
          "t_min": 22,
@@ -70,7 +70,7 @@
          "wind_direction": 246,
          "cloud_cover": 8
       },
-      "10-09-2024": {
+      "10.09.2024": {
          "rainfall": 35,
          "t_max": 27,
          "t_min": 22,
@@ -80,7 +80,7 @@
          "wind_direction": 243,
          "cloud_cover": 8
       },
-      "11-09-2024": {
+      "11.09.2024": {
          "rainfall": 15,
          "t_max": 29,
          "t_min": 23,
@@ -103,7 +103,7 @@
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity, possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition. Make proper drainage system in non-paddy crop field for removing of excess water.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition. Make proper drainage system in non-paddy crop field for removing excess water.",
    "crops_data": {
       "rice": {
          "advisory": [
@@ -116,7 +116,7 @@
       },
       "maize": {
          "advisory": [
-            "Develop better drainage system to avoid water logging condition due to excess rainfall."
+            "Develop better drainage system to avoid waterlogging condition due to excess rainfall."
          ]
       },
       "kharif groundnut": {
@@ -126,31 +126,31 @@
       },
       "ragi": {
          "advisory": [
-            "In case of line sown and broadcasted crop apply 13 kg urea/acre at 35 -40 days after sowing. In case of transplanted crop apply 26 kg urea/acre at 20 days after transplanting.",
-            "If blast incidence observed in ragi spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water  when the sky becomes clear."
+            "In case of line sown and broadcasted crop apply 13 kg urea/acre at 35-40 days after sowing. In case of transplanted crop apply 26 kg urea/acre at 20 days after transplanting.",
+            "If blast incidence observed in ragi spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when the sky becomes clear."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Transplant 25 -35 days old seedlings in the main field.",
-            "Make necessary drainage channels to prevent water logging condition.",
+            "Transplant 25-35 days old seedlings in the main field.",
+            "Make necessary drainage channels to prevent waterlogging condition.",
             "Identify and fill gaps in the main field to maintain plant population.",
             "Wilting in brinjal can be managed by spraying Tabuconazole @ 1 g/lt."
          ]
       },
       "cucumber": {
          "advisory": [
-            "There is a chance of downy mildew attack in cucumber. If observed spray Metalaxyl 8% + Mancozeb 64% @ 2 g/litre of water on sunny days."
+            "There is a chance of downy mildew attack in cucumber. If observed, spray Metalaxyl 8% + Mancozeb 64% @ 2 g/litre of water in sunny days."
          ]
       },
       "tomato": {
          "advisory": [
-            "In upland well-drained soil complete the nursery sowing for tomato. Use high yielding varieties @ 150 -200 g seed/acre. Use a low-cost polythene cover above the nursery to avoid the seedlings from excess rainfall."
+            "In upland well-drained soil, complete the nursery sowing for tomato. Use high-yielding varieties @ 150-200 g seed/acre. Use low-cost polythene cover above the nursery to avoid the seedlings from excess rainfall."
          ]
       },
       "cattles": {
          "advisory": [
-            "Ticks and Flies multiplied rapidly during the rainy season. Ticks suck blood from cattle and induce anaemic and death. Ticks harbor, multiply, and spread of haemoprotozoan diseases. Fly is also induces nuisance, irritation, humpsore and cases reduce production and reproduction performances. Animal farms should be disinfected regularly with the use of a suitable disinfectant."
+            "Ticks and Flies multiplied rapidly during the rainy season. Ensure to disinfect animal farms regularly with the use of suitable disinfectant."
          ]
       },
       "goat & sheep": {
@@ -160,7 +160,7 @@
       },
       "poultry": {
          "advisory": [
-            "Please ensure filling of holes and crevices of the poultry house in rainy days otherwise that will facilitate the entry of snakes and reptiles, which may kill the birds."
+            "Please ensure filling of holes and crevices of poultry house in rainy days to prevent the entry of snakes and reptiles."
          ]
       }
    },

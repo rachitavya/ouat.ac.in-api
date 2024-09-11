@@ -68,7 +68,7 @@
       },
       "maize": {
          "advisory": [
-            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 1 1.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water"
+            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 1 1.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
          ]
       },
       "cotton": {
@@ -83,12 +83,13 @@
       },
       "cow": {
          "advisory": [
-            "Keep barns well-ventilated and leak-free to prevent moisture buildup and harmful fungi growth. Vaccinate cows & buffalo against FMD, HS & BQ and establish a deworming plan to control internal parasites in moist environments."
+            "Keep barns well-ventilated and leak-free to prevent moisture buildup and harmful fungi growth.",
+            "Vaccinate cows & buffalo against FMD, HS & BQ and establish a deworming plan to control internal parasites in moist environments"
          ]
       },
       "chicken": {
          "advisory": [
-            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, droppings of birds. Sometimes it can spread from affected birds to human beings. During this time please clean poultry houses every day and change the feed and water of poultry birds frequently. Don’t throw the dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitise the place with bleaching powder. Don’t bring poultry birds or eggs to home from the affected area."
+            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, droppings of birds. Sometimes it can spread from affected birds to human beings. During this time please clean poultry houses every day and change the feed and water of poultry birds frequently. Don't throw the dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitize the place with bleaching powder. Don't bring poultry birds or eggs to home from the affected area."
          ]
       }
    },

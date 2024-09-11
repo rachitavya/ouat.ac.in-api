@@ -52,8 +52,8 @@
       }
    },
    "names_of_crops": [
-      "kharif paddy",
-      "kharif pulses",
+      "paddy",
+      "pulses",
       "arhar",
       "turmeric",
       "ragi",
@@ -65,17 +65,17 @@
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "Due to forecast of light to moderate rainfall, farmers are advised not to apply fertilizer & chemicals. Strengthen the bunds of paddy field and check for any rat holes or leakage. After rain, trim the bund and keep clean to avoid insect multiplication.",
+   "general_advisory": "Kharif crop 2024: 1. Due to Forecast of Light to Moderate rainfall from 7th Sept. Farmers are advised to do not apply of fertilizer & chemical induring this period. 2. Strengthen the bunds of paddy field and check any rat holes or leakage from the bund. 3. After rain trim the bund and keep clean to avoid any insect multiplication.",
    "crops_data": {
-      "kharif paddy": {
+      "paddy": {
          "advisory": [
-            "Regular monitoring of the crop for incidence of pests and diseases should be done.",
-            "After rain, there is a chance of infestation of leaf folder and yellow stem borer, apply Cartap hydrochloride 50SP @ 400g/acre or Fipronil 5 SC @ 400ml/acre."
+            "Regular monitoring of the crop for incidence of pest and diseases should be done.",
+            "After the rain, there is chances of infestation of leaf folder and Yellow Stem Borer will increase so apply Cartap hydrochloride 50SP@ 400g/acre or Fipronil 5 SC @ 400ml/acre."
          ]
       },
-      "kharif pulses": {
+      "pulses": {
          "advisory": [
-            "After rain, there is a chance of insect pest attack, survey regularly and take action by consulting department personnel."
+            "After rain there is chances of insect pest attack, survey regularly and take action by taking advice from department personnel."
          ]
       },
       "arhar": {
@@ -95,29 +95,29 @@
       },
       "maize": {
          "advisory": [
-            "Due to weather conditions, there is a chance of aphids in maize, to manage apply Dimethoate @ 2 ml/liter of water."
+            "Due to weather there is chances of Aphids in Maize, to manage this, apply Dimethoate @ 2 ml/liter of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Due to weather, tikka disease is seen, to manage spray Carbendazim @ 2 g/liter of water."
+            "Due to weather tikka disease is seen, to manage this spray Carbendazim @ 2 g/liter of water."
          ]
       },
       "papaya": {
          "advisory": [
-            "Do not allow stagnation of water as papaya plant is sensitive to waterlogging.",
-            "Drench Carbendazim or Mancozeb @ 2 g/lt of water near the root zone to avoid fungal diseases."
+            "Do not allow stagnation of water as papaya plant is very sensitive to water logging.",
+            "Drench Carbendazim or Mancozeb @ 2 g/lt of water near the root zone to avoid any type of fungal diseases."
          ]
       },
       "mango": {
          "advisory": [
-            "Do not allow rainwater to remain stagnant near the base of the plant.",
-            "Provide stakings to newly planted saplings to avoid wind damage."
+            "Do not allow the rainwater to remain stagnant near the base of the plant.",
+            "Provide stakings to the newly planted saplings to avoid wind damage."
          ]
       },
       "vegetables": {
          "advisory": [
-            "To manage Thrips population in chili, spray Imidachloprid or Dimethoate @ 2ml/lt of water."
+            "To manage Thrips population in chilli, spray Imidachloprid or Dimethoate @ 2ml/lt of water."
          ]
       },
       "pisciculture": {
@@ -127,8 +127,7 @@
       },
       "livestock": {
          "advisory": [
-            "Provide clean drinking water to poultry.",
-            "Take preventive action for any disease in consultation with department personnel."
+            "Provide clean drinking water to poultry. Take preventive action for any disease in consultation of department personnel."
          ]
       }
    },

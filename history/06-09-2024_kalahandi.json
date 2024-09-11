@@ -64,71 +64,79 @@
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread rain/thundershower is very likely over districts of Odisha during the week -1 (6th - 12th September, 2024) with isolated heavy rainfall very likely in the districts of South Odisha on 6th Sept; isolated heavy to very heavy rainfall very likely in the districts of South Odisha on 7th Sept; isolated heavy to very heavy rainfall very likely in the districts of Central Odisha on 8th Sept, heavy rainfall very likely over the districts of north Odisha on 9th and 10th Sept. Scattered to fairly widespread rain/thundershower very likely in the district of Odisha state during week 2 (13th - 19th September, 2024). In view of five days weather forecast received from IMD, farmers are advised to withhold application of fertilizers and plant protection chemicals for the time being. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. To prevent this, ensure proper rotation between insecticides and use mixtures. Use light trap to monitor insect population so that timely control measure can be taken. SMS Advisory - Apply Urea @ 25kg/ac if crop is at tasseling stage (9 week) in Maize.",
+   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread rain/thundershower is very likely over districts of Odisha during the week-1 (6th-12th September, 2024) with isolated heavy rainfall very likely in the districts of South Odisha on 6th Sept; isolated heavy to very heavy rainfall very likely in the districts of South Odisha on 7th Sept; isolated heavy to very heavy rainfall very likely in the districts of Central Odisha on 8th Sept, heavy rainfall very likely over the districts of north Odisha on 9th and 10th Sept.",
    "crops_data": {
       "direct seeded paddy": {
          "advisory": [
-            "Farmers are advised to spray of leaf extracts of Bael, Tulsi, or Neem per litre of water for reducing the incidence of insects & diseases.",
-            "Spray Tebuconazole + Trifloxystrobin or Isoprothiolane for blast infestation."
+            "Farmers are advised to spray of leaf extracts of Bael (25 g fresh leaves) or Tulsi (25 g fresh leaves) or Neem (200g fresh leaves) per litre of water for reducing the incidence of insects & diseases.",
+            "Current weather is favorable for blast infestation. If leaf blast is observed in rice field, spray Tebuconazole 50% + Trifloxystrobin 25% WG (Nativo) @ 80 g/acre or Isoprothiolane 40 EC (Sultan/Fujita/Fujione) @ 300 ml/acre by mixing with 200 liters of water. Repeat the spray at 7-10 days interval.",
+            "There is a chance of infestation of sheath rot and sheath blight in paddy in prevailing weather condition. To manage this disease spray Tebuconazole 50% + Trifloxystrobin 25 % WG (Nativo) @ 80 gram/acre or Propiconazole 25% EC."
          ]
       },
       "transplanted paddy": {
          "advisory": [
-            "Install Pheromone traps and light trap to monitor and control the population of pests.",
-            "Release egg parasitoid Trichogramma japonicum in stem borer endemic areas."
+            "Install Pheromone traps @ 8nos./acre and light trap @1no./acre to monitor and control the population of stem borer, leaf folder, and rice ear eating caterpillar and replace the lure after three weeks.",
+            "In stem borer endemic areas, release egg parasitoid Trichogramma japonicum (Tricho card) @ 60000 eggs (3 card) /acre is required.",
+            "Infestation of rice case worm has been noticed. Apply Fipronil 5% SC or Phenthoate 50% EC or Profenophos 50% EC @ 2ml/liter of water to control the infestation."
          ]
       },
       "cotton": {
          "advisory": [
-            "Application of plant hormone Planofix for improving seed cotton yield.",
-            "Apply total killer herbicide glyphosate or Glufosinate Ammonium for weed control."
+            "Application of plant hormone Planofix @ 7 ml mixing with 15 liters of water is advisable at 60-65 DAS for improving the seed cotton yield.",
+            "Weed Management: Apply total killer herbicide glyphosate or Glufosinate Ammonium 13.5% @ 50ml/10-liter water as directed spray using hoods to control all types of weeds.",
+            "Nutrient Management: Apply 20 kg urea/acre in hybrids and 15 kg urea/acre in high yielding varieties as second top dressing at 60 DAS."
          ]
       },
       "arhar": {
          "advisory": [
-            "Spray Profenophos or Chlorpyriphos for leaf webber infestation.",
-            "Monitor field regularly for pest infestation and spray neem-based pesticide for sucking pests."
+            "To control leaf webber infestation spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC @ 2 ml/lit @ 2ml/lit of water.",
+            "Monitor your field regularly for signs of pest infestation. Sucking pest infestation may be seen in prevailing weather conditions. To prevent sucking pests like aphids, jassids, and thrips, neem-based pesticide (1500 ppm) may be sprayed @ 3ml/ lit of water at the initial stage of infestation.",
+            "Wilting may be observed after receding of rain. Apply Metiram 75% WG @ 1.5g/liter at the root zone of the plant as a control measure."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Apply Urea if crop is at tasseling stage and monitor field for pests.",
-            "For effective control of stem borer, spray Fipronil or Profenophos."
+            "Nutrient Management: Apply Urea @ 25kg/ac if crop is at tasseling stage and irrigate if water is not sufficient.",
+            "Pest Management: For effective control of stem borer spray Fipronil 5% SC or Profenophos 50% EC @ 400ml/acre by mixing with 200 liters of water.",
+            "Apply Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation.",
+            "BLSB - Soaked, discolored concentric bands and rings on leaves and sheaths. For control, spray Validamycin 3.0% SL or Hexaconazole 5% EC @ 2ml/lit of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install yellow sticky trap to monitor sucking pests.",
-            "Spray Tebuconazole at the root zone for wilting."
+            "Install yellow sticky trap @ 8nos./acre to monitor sucking pests.",
+            "Wilting: Spray Tebuconazole 25.9% EC @ 200-ml/acre + Streptocycline @ 30g/acre at the root zone by mixing with 200 liters of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Install Blue sticky trap to monitor thrips infestation.",
-            "Spray neem-based pesticide for thrips control."
+            "Install Blue sticky trap @ 8nos./acre to monitor thrips infestation.",
+            "Prevailing weather condition is favorable for thrips attack. Plants are affected by thrips if leaves curl upward. If symptoms are seen spray neem bases pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at the initial stage of infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Now is suitable time for raising tomato seedlings.",
-            "Apply recommended seed rate and plant varieties."
+            "Now, it is a suitable time for raising tomato seedlings.",
+            "Suitable Varieties: Utkal Kumari (BT-10), Utkal Deepti (BT-2), Utkal Raja, Utkal Pragyan, and Swarna Sampad.",
+            "Seed rate: 150 to 200 gram/acre"
          ]
       },
       "cow & buffalo": {
          "advisory": [
-            "Provide concentrate for adequate dry matter intake during rainy days."
+            "As grasses are high in moisture content during rainy days, cattle do not get adequate dry matter from those. So, give 1 kg of concentrate for every 2 kg of milk to dairy animals."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Keep dry fodder and straw ready for sheep and goat in rainy season.",
-            "Ensure balanced concentrate one month prior to kidding or lambing."
+            "Keep dry fodder and straw ready at home for sheep and goats in the rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goats one month prior to kidding and lambing."
          ]
       },
       "poultry": {
          "advisory": [
-            "Clean poultry houses daily and change feed and water frequently.",
-            "Dispose of dead poultry birds properly to prevent disease spread."
+            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, droppings of birds. Sometimes it can spread from affected birds to human beings.",
+            "During this time, please clean poultry houses every day and change the feed and water of poultry birds frequently.",
+            "Do not throw dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitize the place with bleaching powder.",
+            "Do not bring poultry birds or eggs home from the affected area."
          ]
       }
    },

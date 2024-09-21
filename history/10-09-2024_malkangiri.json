@@ -1,0 +1,135 @@
+{
+   "weather_details": {
+      "11-09-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 74,
+         "rh_min": 96,
+         "wind_speed": 8,
+         "wind_direction": 228,
+         "cloud_cover": 6
+      },
+      "12-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 67,
+         "rh_min": 89,
+         "wind_speed": 8,
+         "wind_direction": 223,
+         "cloud_cover": 6
+      },
+      "13-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 64,
+         "rh_min": 90,
+         "wind_speed": 8,
+         "wind_direction": 231,
+         "cloud_cover": 6
+      },
+      "14-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 66,
+         "rh_min": 89,
+         "wind_speed": 8,
+         "wind_direction": 242,
+         "cloud_cover": 8
+      },
+      "15-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 59,
+         "rh_min": 92,
+         "wind_speed": 9,
+         "wind_direction": 244,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "kharif groundnut",
+      "black gram",
+      "ragi",
+      "brinjal",
+      "cucumber",
+      "chilli",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Watch for rain before applying pesticides. In fallow uplands, utilize recent rainfall for short duration low water requiring crops. Regular surveillance for insect pests. Possibilities of pest and disease build up due to high humidity.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Keep the rice plots weed free.",
+            "Apply low quantity of Nitrogen fertilizers to reduce blast disease.",
+            "Complete transplanting and use specified seedlings per hill."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop a better drainage system to avoid waterlogging.",
+            "Manage fall army worm attack with specified spray.",
+            "Control root and stalk rot with specified sprays.",
+            "Management of aphids incidence due to high humidity."
+         ]
+      },
+      "kharif groundnut": {
+         "advisory": [
+            "Prepare field and raise high yielding varieties.",
+            "Treat seeds with specified agents before sowing."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Sow pre-rabi black gram and green gram with specified treatments.",
+            "Apply specific fertilizers during land preparation.",
+            "Maintain specified plant spacing."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Apply specified urea amounts based on sowing method.",
+            "Manage blast incidence with specified sprays."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Transplant seedlings in specified age.",
+            "Ensure proper drainage and plant population maintenance.",
+            "Manage wilting with specified spray."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Beware of downy mildew attack and spray specified mixture.",
+            "Ensure nursery sowing in well-drained soil with protective covering."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Manage leaf curl and mosaic diseases with specified sprays.",
+            "livestock",
+            "Control ticks and flies to prevent diseases spreading."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Provide dry fodder and balanced concentrate.",
+            "Ensure practice of flushing for better health."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Fill holes and crevices in poultry house for security."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

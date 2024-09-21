@@ -53,57 +53,36 @@
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
-      "maize",
-      "tomato",
       "brinjal",
-      "coconut",
-      "vegetables",
-      "fingerlings"
+      "okra",
+      "onion",
+      "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels to save water wastage. High temperature in day hours may lead to wilting in tomato and brinjal. Mulch coconut leaves around a coconut tree to reduce water loss. Cover vegetable seedlings during day time. Harvest fingerlings if water temperature rises to 30°C.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Spread polythene in irrigation channels. Mulch coconut leaves. Cover with paper caps on the newly planted vegetable seedlings. Harvest fingerlings in shallow ponds. Manage yellow stem borer in paddy. Manage blast disease. Manage tobacco caterpillar. Manage early shoot borer in Sugarcane. Manage brinjal shoot and fruit borer. Prevent whitefly infestation in okra. Properly store harvested onions. Control mango hopper.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. Water deficit should be avoided during these stages.",
-            "Yellow stem borer management - Spray recommended insecticides for effective management."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Cover the rows with dry leaves in Sugarcane.",
-            "Top-dress with potassium to protect from water scarcity during summer.",
-            "Apply sprinkler irrigation frequently during hot months."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "High temperature increases the water requirement of maize crop. Irrigate the crop effectively."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "High temperature may lead to wilting in tomato. Apply Streptocyclin for management."
+            "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Water deficit during these stages should be avoided."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage Brinjal shoot and fruit borer, install pheromone traps."
+            "To manage brinjal shoot and fruit borer, install pheromone traps and use neem-based pesticides. Go for chemical control with specific insecticides."
          ]
       },
-      "coconut": {
+      "okra": {
          "advisory": [
-            "Mulch coconut leaves around the tree to reduce water loss."
+            "To prevent whitefly infestation in okra, treat seeds before sowing and use yellow sticky traps during crop growth."
          ]
       },
-      "vegetables": {
+      "onion": {
          "advisory": [
-            "Cover newly planted vegetable seedlings with paper caps during the day."
+            "After harvesting onions, cut tops and dry bulbs properly for storage."
          ]
       },
-      "fingerlings": {
+      "mango": {
          "advisory": [
-            "Harvest fingerlings if water temperature rises to 30°C."
+            "To control mango hoppers, spray specific insecticides or apply smoke below the plants."
          ]
       }
    },

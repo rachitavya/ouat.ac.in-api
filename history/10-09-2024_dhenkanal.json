@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "10.09.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "arhar",
+      "sesame",
+      "ground nut",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "cucurbits",
+      "cowpea",
+      "papaya",
+      "banana",
+      "fishery"
+   ],
+   "general_advisory": "Heavy rainfall observed, ensure proper drainage in fields. Control pest infestations and diseases in crops as per guidelines provided.",
+   "crops_data": {
+      "arhar": {
+         "advisory": [
+            "Blister beetles feed on flowers, manually collect and dispose of the insects."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Manage Gull fly infestation by removing infested capsules and using neem-based pesticides."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Stem rot may occur after heavy rainfall, spray fungicide to manage.",
+            "Recommended fungicides: Validamycin 3% L or Captan 70% + Hexaconazole 5%."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Watch for wilting and root rot after heavy rainfall.",
+            "Use Streptocycline and Metalaxyl 8% + Mancozeb solution to manage diseases."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Monitor for wilting and root rot issues.",
+            "Utilize Streptocycline and Metalaxyl 8% + Mancozeb solution for disease management."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Check for wilting and root rot post heavy rainfall.",
+            "Apply Streptocycline and Metalaxyl 8% + Mancozeb solution to address diseases."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Be cautious of Downy Mildew infestation in cucurbits after heavy rainfall.",
+            "Control with Copper Hydroxide 77% WP, Fosetyl-AL 80% WP, or Carbendazim 12% + Mancozeb 63% WP."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Control Gram pod borer with Emamactin benzoate spray."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Ensure drainage and stake plants.",
+            "Manage Papaya Crown rot with Copper Oxychloride, Carbendazim, or Thiophanate Methyl sprays."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Drain excess water from fields and earth up newly planted bananas.",
+            "For Sigatoka disease control, spray Mancozeb 75% WP, Zineb 75% WP, or Carbendazim 12% + Mancozeb 63% WP."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Decreased salinity post heavy rainfall, use alky-dimethyl-benzyl ammonium chloride as disinfectant."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

@@ -1,0 +1,142 @@
+{
+   "weather_details": {
+      "11-09-2024": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 74,
+         "rh_min": 92,
+         "wind_speed": 18,
+         "wind_direction": 242,
+         "cloud_cover": 8
+      },
+      "12-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 63,
+         "rh_min": 90,
+         "wind_speed": 17,
+         "wind_direction": 245,
+         "cloud_cover": 6
+      },
+      "13-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 65,
+         "rh_min": 93,
+         "wind_speed": 17,
+         "wind_direction": 249,
+         "cloud_cover": 6
+      },
+      "14-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 70,
+         "rh_min": 94,
+         "wind_speed": 19,
+         "wind_direction": 253,
+         "cloud_cover": 6
+      },
+      "15-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 63,
+         "rh_min": 91,
+         "wind_speed": 19,
+         "wind_direction": 251,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "kharif groundnut",
+      "ragi",
+      "brinjal",
+      "potato",
+      "ginger",
+      "black pepper",
+      "turmeric",
+      "coffee",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Rainfall expected in the next five days. Proper water storage arrangements advised. Pest and disease protection measures recommended.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply urea at specified rates based on variety",
+            "Control blast disease with specific sprays",
+            "Look out for stem borers and leaf folders",
+            "Use recommended sprays for bacterial leaf blight"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop drainage system to avoid waterlogging",
+            "Watch for aphids and apply appropriate sprays",
+            "Control root and stalk rot with recommended sprays",
+            "Be prepared for fall army worm infestation"
+         ]
+      },
+      "kharif groundnut": {
+         "advisory": [
+            "Prepare field and treat seeds before sowing"
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Be alert for blast incidence and apply necessary sprays"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Transplant seedlings and maintain proper drainage",
+            "Identify gaps in the field for plant population",
+            "Manage wilting with specified spray"
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Apply foliar application for late blight disease"
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Weed, apply urea, and mulching for disease management"
+         ]
+      },
+      "black pepper": {
+         "advisory": [
+            "Control leaf gall and thrips with specific sprays"
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Weed, apply urea, and mulching for disease management"
+         ]
+      },
+      "coffee": {
+         "advisory": [
+            "Maintain shade for stem borer management",
+            "Use traps and sprays as needed"
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Provide dry fodder and balanced concentrate",
+            "Ensure shelter in rainy season"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Fill holes and crevices in poultry house to prevent entry of snakes"
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

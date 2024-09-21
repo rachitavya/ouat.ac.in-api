@@ -1,93 +1,56 @@
 {
    "weather_details": {
-      "10.09.2024": {
+      "20.09.2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 65,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 70,
          "wind_speed": 10,
          "wind_direction": 120,
-         "cloud_cover": 3
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "arhar",
-      "sesame",
-      "ground nut",
-      "brinjal",
-      "tomato",
-      "chilli",
+      "vegetables",
+      "okra",
       "cucurbits",
-      "cowpea",
-      "papaya",
-      "banana",
-      "fishery"
+      "cole crops",
+      "livestock"
    ],
-   "general_advisory": "Heavy rainfall observed, ensure proper drainage in fields. Control pest infestations and diseases in crops as per guidelines provided.",
+   "general_advisory": "During the rainy season, conduct regular health checks on livestock. Ensure a clean and adequate water supply. Regularly check water sources for contamination and maintain proper hygiene.",
    "crops_data": {
       "arhar": {
          "advisory": [
-            "Blister beetles feed on flowers, manually collect and dispose of the insects."
+            "Blister beetles feed on the flowers and reduce the number of pods setting, affect the yield. Manual collection and disposal recommended."
          ]
       },
-      "sesame": {
+      "vegetables": {
          "advisory": [
-            "Manage Gull fly infestation by removing infested capsules and using neem-based pesticides."
+            "Possible presence of sucking pests like Aphids, Jassids, Thrips, and Whiteflies due to current weather conditions. Early stage infestation management with neem-based pesticide recommended."
          ]
       },
-      "ground nut": {
+      "okra": {
          "advisory": [
-            "Stem rot may occur after heavy rainfall, spray fungicide to manage.",
-            "Recommended fungicides: Validamycin 3% L or Captan 70% + Hexaconazole 5%."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Watch for wilting and root rot after heavy rainfall.",
-            "Use Streptocycline and Metalaxyl 8% + Mancozeb solution to manage diseases."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Monitor for wilting and root rot issues.",
-            "Utilize Streptocycline and Metalaxyl 8% + Mancozeb solution for disease management."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Check for wilting and root rot post heavy rainfall.",
-            "Apply Streptocycline and Metalaxyl 8% + Mancozeb solution to address diseases."
+            "Apply Emamectin benzoate or spinosad to control Fruit and Shoot borer."
          ]
       },
       "cucurbits": {
          "advisory": [
-            "Be cautious of Downy Mildew infestation in cucurbits after heavy rainfall.",
-            "Control with Copper Hydroxide 77% WP, Fosetyl-AL 80% WP, or Carbendazim 12% + Mancozeb 63% WP."
+            "To control Red Pumpkin Beetle, spray Cyantraniliprole, Imidacloprid, or Chlorpyriphos."
          ]
       },
-      "cowpea": {
+      "cole crops": {
          "advisory": [
-            "Control Gram pod borer with Emamactin benzoate spray."
+            "For Cauliflower, cabbage, and Broccoli nursery management, follow specific seed rates and nursery bed preparation instructions."
          ]
       },
-      "papaya": {
+      "livestock": {
          "advisory": [
-            "Ensure drainage and stake plants.",
-            "Manage Papaya Crown rot with Copper Oxychloride, Carbendazim, or Thiophanate Methyl sprays."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Drain excess water from fields and earth up newly planted bananas.",
-            "For Sigatoka disease control, spray Mancozeb 75% WP, Zineb 75% WP, or Carbendazim 12% + Mancozeb 63% WP."
-         ]
-      },
-      "fishery": {
-         "advisory": [
-            "Decreased salinity post heavy rainfall, use alky-dimethyl-benzyl ammonium chloride as disinfectant."
+            "During rainy season, conduct regular health checks on livestock to identify signs of stress or illness early."
          ]
       }
    },
-   "date": "10-09-2024"
+   "date": "20-09-2024"
 }

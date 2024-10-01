@@ -1,126 +1,132 @@
 {
    "weather_details": {
-      "21/09/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 87,
-         "rh_min": 52,
-         "wind_speed": 4,
-         "wind_direction": 79,
-         "cloud_cover": 4
-      },
-      "22/09/2024": {
-         "rainfall": 4,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 86,
-         "rh_min": 54,
-         "wind_speed": 5,
-         "wind_direction": 112,
-         "cloud_cover": 4
-      },
-      "23/09/2024": {
-         "rainfall": 6,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 56,
-         "wind_speed": 5,
-         "wind_direction": 135,
-         "cloud_cover": 6
-      },
-      "24/09/2024": {
+      "28/09/2024": {
          "rainfall": 10,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 92,
-         "rh_min": 58,
-         "wind_speed": 5,
-         "wind_direction": 116,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 98,
+         "rh_min": 72,
+         "wind_speed": 9,
+         "wind_direction": 148,
+         "cloud_cover": 8
+      },
+      "29/09/2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 6,
+         "wind_direction": 169,
          "cloud_cover": 7
       },
-      "25/09/2024": {
-         "rainfall": 10,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 95,
-         "rh_min": 57,
+      "30/09/2024": {
+         "rainfall": 3,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 63,
+         "wind_speed": 6,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "01/10/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 61,
          "wind_speed": 8,
-         "wind_direction": 108,
-         "cloud_cover": 8
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "02/10/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 234,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "paddy",
+      "direct sown paddy",
       "kharif pulses",
+      "kharif transplanted paddy",
       "ragi",
       "sesamum",
       "maize",
       "groundnut",
       "ginger",
       "vegetables",
-      "cucurbits",
-      "flowers",
-      "pisciculture"
+      "papaya",
+      "pisciculture",
+      "livestock"
    ],
-   "general_advisory": "Due to forecast of very light to light rainfall, farmers are advised to postpone application of fertilizer & chemical. Maintain water in the field and survey for any insect pest in kharif crops.",
+   "general_advisory": "Kharif crop 2024: 1. Due to Forecast of Very light to Light rainfall from 28th Sept. farmers are advised to postpone application of fertilizer & chemical during this period. 2. Due to high humidity, survey for any insect pest in kharif crops.",
    "crops_data": {
-      "paddy": {
+      "direct sown paddy": {
          "advisory": [
-            "Due to weather, there is a chance of sheath rot and sheath blight. Manage with Tebuconazole 50%+Trifloxystrobin 25% WG or Propiconazole 25% EC."
+            "Due to weather, there is a chance of sheath blight in paddy. To manage this disease, spray Validamycin @ 2 ml/liter of water."
          ]
       },
       "kharif pulses": {
          "advisory": [
-            "Manage Pod borer with Emamectin Benzoate 5% SG, Chlorantraniliprole 18.5% SC, or Profenophos 50% EC."
+            "To manage Pod borer in green gram and black gram crop, spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5% SC @ 80-ml/acre or Profenophos 50% EC @ 400-ml/acre."
+         ]
+      },
+      "kharif transplanted paddy": {
+         "advisory": [
+            "Due to the weather condition, there is a chance of Bacterial Leaf Blight. To manage this, spray 1 g Streptomycin and 30 g copper oxychloride per 10 liters of water. Apply 20 kg urea and + 13 kg MOP in Medium and low land condition."
          ]
       },
       "ragi": {
          "advisory": [
-            "Condition is favorable for blast incidence. Manage with Tricyclazole 75% WP."
+            "Due to weather effect, there is a chance of stem borer attack. To manage this, spray Fipronil @ 2 g/liter of water."
          ]
       },
       "sesamum": {
          "advisory": [
-            "Go for thinning operation and maintain optimum plant population."
+            "Due to weather effect, there is Leaf webber seen. To manage this, spray Carbaryl @ 4 g/liter of water and to be sprayed on the leaf surface."
          ]
       },
       "maize": {
          "advisory": [
-            "Chances of Aphids in Maize, manage with Dimethoate."
+            "Due to weather effect, there is a chance of Aphids infestation. To manage this, spray Imidachloprid @ 0.4 ml/liter of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Root rot disease seen, manage with Carbendazim."
+            "The early sown crop is at maturity stage. Go for harvesting and dry it under the sun for 2-3 days."
          ]
       },
       "ginger": {
          "advisory": [
-            "Rhizome rot may be seen, apply Tagmycin and Neem oil as curative measures."
+            "Go for intercultivation and apply 55 kg Urea and 33 kg MOP per acre."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Nursery raising and planting of winter vegetables, care & maintenance of Kharif vegetables, and post-harvest technology."
+            "Go for tomato sowing. Collect good varieties like Arka Rakshak. The spacing between lines should be 60 cm."
          ]
       },
-      "cucurbits": {
+      "papaya": {
          "advisory": [
-            "Chances of Downy Mildew disease, manage with Copper Hydroxide 77% WP."
-         ]
-      },
-      "flowers": {
-         "advisory": [
-            "Nursery raising of seasonal and winter flowers, planting of seedlings, grafts & sowing of seeds."
+            "Due to rainfall, do not allow water to remain stagnant near the base of the crop."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Apply lime to reduce the effect of acidity caused by rainwater."
+            "Provide mineral mixture @ 3% of the body mass."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide sufficient fodder to the milch animals."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

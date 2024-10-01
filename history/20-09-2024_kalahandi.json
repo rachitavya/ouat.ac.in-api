@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 64,
+         "wind_speed": 5,
+         "wind_direction": 197,
+         "cloud_cover": 5
+      },
+      "22-09-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 75,
+         "cloud_cover": 5
+      },
+      "23-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 59,
+         "wind_speed": 5,
+         "wind_direction": 68,
+         "cloud_cover": 7
+      },
+      "24-09-2024": {
+         "rainfall": 12,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 5,
+         "wind_direction": 158,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 12,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 148,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "vegetables"
+   ],
+   "general_advisory": "Prevailing weather condition is favorable for infestation of sucking pests like aphid, jassids, whitefly, mealy bug and thrips. Apply neem bases pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at initial stage to manage sucking pest infestation.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Pest Management: Blast: Current weather is favorable for blast infestation."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Nutrient Management: Apply 16kg Urea + 10kg MOP per acre in upland condition and 20 kg urea + 13kg MOP per acre in medium and low land condition at panicle initiation stage as second top dressing."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Nutrient Management: Spraying may be done with 100 g Magnesium sulphate mixed with 100 g urea in 10 liter of water in waterlogged areas to reduce leaf reddening.",
+            "Pest Management: Sucking Pests (Aphid, Jassids, Thrips, Whitefly): Application of Neem based pesticide like Neem oil@ 600 -800 ml + 200 g detergent powder per acre by mixing with 200 liters of water is advisable."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Pest Management: Leaf webber: Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Nutrient Management: Apply Urea  @ 25kg/ac if crop is at tasseling stage and irrigate if water is not sufficient.",
+            "Pest Management: Stem borer, FAW and banded leaf and sheath blight may appear due to present weather condition."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Brinjal: To control wilt, spray Tebuconazole 25 .9% EC @  200-ml/acre + Streptocycline @ 30g/acre at the root zone mixed with 200 liters of water."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

@@ -1,99 +1,98 @@
 {
    "weather_details": {
-      "21/09/2024": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 28,
-         "rh_max": 81,
-         "rh_min": 61,
-         "wind_speed": 10,
-         "wind_direction": 169,
-         "cloud_cover": 5
+      "28/09/2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 26,
+         "rh_max": 84,
+         "rh_min": 76,
+         "wind_speed": 25,
+         "wind_direction": 202,
+         "cloud_cover": 8
       },
-      "22/09/2024": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 29,
-         "rh_max": 81,
-         "rh_min": 62,
-         "wind_speed": 10,
-         "wind_direction": 169,
-         "cloud_cover": 5
+      "29/09/2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 26,
+         "rh_max": 84,
+         "rh_min": 73,
+         "wind_speed": 23,
+         "wind_direction": 212,
+         "cloud_cover": 8
       },
-      "23/09/2024": {
-         "rainfall": 3,
-         "t_max": 34,
-         "t_min": 29,
-         "rh_max": 79,
-         "rh_min": 60,
-         "wind_speed": 9,
-         "wind_direction": 180,
-         "cloud_cover": 6
-      },
-      "24/09/2024": {
-         "rainfall": 12,
-         "t_max": 33,
-         "t_min": 28,
-         "rh_max": 81,
-         "rh_min": 63,
-         "wind_speed": 8,
-         "wind_direction": 158,
-         "cloud_cover": 7
-      },
-      "25/09/2024": {
-         "rainfall": 10,
-         "t_max": 33,
+      "30/09/2024": {
+         "rainfall": 2,
+         "t_max": 32,
          "t_min": 27,
-         "rh_max": 83,
-         "rh_min": 67,
-         "wind_speed": 12,
-         "wind_direction": 193,
-         "cloud_cover": 7
+         "rh_max": 85,
+         "rh_min": 72,
+         "wind_speed": 20,
+         "wind_direction": 238,
+         "cloud_cover": 4
+      },
+      "01/10/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 27,
+         "rh_max": 85,
+         "rh_min": 71,
+         "wind_speed": 17,
+         "wind_direction": 243,
+         "cloud_cover": 4
+      },
+      "02/10/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 28,
+         "rh_max": 82,
+         "rh_min": 69,
+         "wind_speed": 20,
+         "wind_direction": 225,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
-      "groundnut",
-      "arhar",
-      "cucurbits",
-      "papaya",
-      "pisciculture"
+      "maize",
+      "pulses",
+      "oilseeds",
+      "vegetables",
+      "sugarcane"
    ],
-   "general_advisory": "Keep the poultry farm neat & clean, select disease-free chicks for farming & provide adequate poultry feed & clean water to avoid poultry bird diseases. September is the optimum time for nursery raising of tomato. For monitoring sucking pests, fruit fly and borer insect in vegetables, farmers are advised to use pheromone traps. Ensure proper oxygen levels in the pond for pisciculture.",
+   "general_advisory": "The district of Puri may likely to receive very light to light rainfall for the next five days. Do proper field surveillance for pests and diseases regularly and take appropriate plant protection measures accordingly. Prevailing weather condition is favorable for infestation of sucking pests like aphid, jassids, whitefly, mealy bug and thrips. Apply neem-based pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at initial stage to manage sucking pest infestation. Keep your crop field free from weed to minimize the incidence of diseases and pests. In uplands prepare seedlings for tomato and early variety cauliflower. For control Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Brown plant hopper - There is a chance of BPH infestation in paddy. If >10-15 hoppers/hill noticed, spray Pymetrozine, Dinotefuran, Flonicamid, or Triflumezopyrim at the base of the plant.",
-            "Bacterial Leaf Blight - There is a chance of Bacterial Leaf Blight disease infestation in paddy. If noticed, spray Copper Hydroxide or Plantomycin with Copper Oxy Chloride."
+            "Rice stem borer: To manage yellow stem borer in paddy spray Fipronil 5% SC @ 400-ml/acre or Flubendiamide 20% SG @ 50-gram/acre or Chlorantraniliprole 18.5% SC @ 60-ml / acre or Chromafenozide 80%WP @ 50-gram /acre.",
+            "BPH and WBPH Management: The high humid weather condition is favourable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy. To manage BPH and WBPH in paddy avoid excess use of nitrogenous fertilizer. Do not keep standing water in the field for a longer period. Alter the micro-climate of the rice field by alternate wetting and drying technique. Make alleys at 6 feet spacing for sunlight entry and proper aeration below the crop zone."
          ]
       },
-      "groundnut": {
+      "maize": {
          "advisory": [
-            "Stem Rot disease - Seed treatment should be done with Carbendazim or Carboxin + Thiram. To manage Stem Rot disease, spray Validamycin or Captan + Hexaconazole."
+            "Maize crop harvesting is in progress."
          ]
       },
-      "arhar": {
+      "pulses": {
          "advisory": [
-            "Leaf webber - Spray Profenophos or Chlorpyriphos + Cypermethrin for leaf webber control.",
-            "Sucking Pests - Neem-based pesticide may be sprayed for sucking pests.",
-            "Wilt - Apply Metiram at the root zone of the plant for control."
+            "Sowing of non-paddy crops like pulses is under progress."
          ]
       },
-      "cucurbits": {
+      "oilseeds": {
          "advisory": [
-            "Epilachna Beetle - To manage Epilachna Beetle, spray neem-based pesticide or Chlorpyriphos."
+            "Sowing of non-paddy crops like oilseeds is under progress."
          ]
       },
-      "papaya": {
+      "vegetables": {
          "advisory": [
-            "Mealy bug - To manage mealy bug, spray neem-based pesticide or insecticidal soap."
+            "Sowing of non-paddy crops like vegetables is under progress.",
+            "For nursery management of cauliflower, cabbage, and broccoli, the seed rate and preparation details."
          ]
       },
-      "pisciculture": {
+      "sugarcane": {
          "advisory": [
-            "Maintain ideal dissolved oxygen levels using aerators or water circulation methods."
+            "Sugarcane is at grand growth stage. Overall crop condition is Normal."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

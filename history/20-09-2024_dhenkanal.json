@@ -1,0 +1,56 @@
+{
+   "weather_details": {
+      "20.09.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 70,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "arhar",
+      "vegetables",
+      "okra",
+      "cucurbits",
+      "cole crops",
+      "livestock"
+   ],
+   "general_advisory": "During the rainy season, conduct regular health checks on livestock. Ensure a clean and adequate water supply. Regularly check water sources for contamination and maintain proper hygiene.",
+   "crops_data": {
+      "arhar": {
+         "advisory": [
+            "Blister beetles feed on the flowers and reduce the number of pods setting, affect the yield. Manual collection and disposal recommended."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Possible presence of sucking pests like Aphids, Jassids, Thrips, and Whiteflies due to current weather conditions. Early stage infestation management with neem-based pesticide recommended."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Apply Emamectin benzoate or spinosad to control Fruit and Shoot borer."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "To control Red Pumpkin Beetle, spray Cyantraniliprole, Imidacloprid, or Chlorpyriphos."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "For Cauliflower, cabbage, and Broccoli nursery management, follow specific seed rates and nursery bed preparation instructions."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "During rainy season, conduct regular health checks on livestock to identify signs of stress or illness early."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

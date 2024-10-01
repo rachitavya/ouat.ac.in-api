@@ -1,0 +1,127 @@
+{
+   "weather_details": {
+      "21/09/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 84,
+         "rh_min": 51,
+         "wind_speed": 9,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "22/09/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 82,
+         "rh_min": 51,
+         "wind_speed": 8,
+         "wind_direction": 120,
+         "cloud_cover": 6
+      },
+      "23/09/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 8,
+         "wind_direction": 75,
+         "cloud_cover": 7
+      },
+      "24/09/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 65,
+         "wind_speed": 8,
+         "wind_direction": 68,
+         "cloud_cover": 8
+      },
+      "25/09/2024": {
+         "rainfall": 12,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 63,
+         "wind_speed": 5,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "ragi",
+      "green gram",
+      "black gram",
+      "cotton",
+      "groundnut",
+      "arhar",
+      "cucurbits",
+      "papaya",
+      "pisciculture"
+   ],
+   "general_advisory": "For better agricultural benefits, use OUAT KALINGA products. IMD Weather forecast and Agro-meteorological advisory of Odisha location are available on Meghdoot mobile app. Contact the Met. Centre for further information.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Panicle Initiation to flowering initiation - Brown plant hopper infestation: Spray Pymetrozine 50% WG at appropriate dosage. Bacterial Leaf Blight infestation: Spray Copper Hydroxide or Plantomycin along with Copper Oxy Chloride.",
+            "Apply appropriate fertilizers based on the type of rice cultivar."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Harvesting has started."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Grain filling stage."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Flowering to pod formation stages."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Flowering to pod formation stages."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Square initiation to boll formation stage."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Reproductive stage - Stem Rot disease management: Seed treatment or fungicide spray."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Vegetative stage - Leaf webber, sucking pests, and wilt management: Spray appropriate pesticides at recommended dosages."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Vegetative to Fruiting - Epilachna Beetle management: Neem-based pesticide or chemical sprays as needed."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Vegetative to Fruiting - Mealy bug management: Neem-based pesticide or insecticidal soap."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain ideal dissolved oxygen levels in the pond. Use aerator or circulate pond water if necessary."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

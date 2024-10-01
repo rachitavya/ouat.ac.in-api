@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "21/09/2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 84,
+         "rh_min": 56,
+         "wind_speed": 9,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "22/09/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 57,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 6
+      },
+      "23/09/2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 135,
+         "cloud_cover": 7
+      },
+      "24/09/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 72,
+         "cloud_cover": 8
+      },
+      "25/09/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 195,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "arhar",
+      "cucurbits",
+      "papaya",
+      "pisciculture"
+   ],
+   "general_advisory": "September is the optimum time for nursery raising of tomato. Keep poultry farms clean to avoid bird diseases. Monitor and manage pests in crops accordingly.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply appropriate insecticides for Brown Plant Hopper and Bacterial Leaf Blight as per infestation levels."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Treat seeds to prevent Stem Rot disease and spray Validamycin or Captan + Hexaconazole fungicides as necessary."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Control Leaf webber and Sucking Pests using recommended pesticides. Apply Metiram for Wilt management.",
+            "Apply Neem-based pesticide for early stage pest control."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spray neem-based pesticide or Chlorpyriphos for Epilachna Beetle management."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Use neem-based pesticide or insecticidal soap for Mealy bug control."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain oxygen levels in the pond to avoid fish gulping. Consider aerators for aeration.",
+            "Circulate pond water using a pump to help with aeration."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

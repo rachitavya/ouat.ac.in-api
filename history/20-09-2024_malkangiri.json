@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 3,
+         "wind_direction": 112,
+         "cloud_cover": 7
+      },
+      "22-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 62,
+         "wind_speed": 4,
+         "wind_direction": 72,
+         "cloud_cover": 7
+      },
+      "23-09-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 60,
+         "wind_speed": 4,
+         "wind_direction": 153,
+         "cloud_cover": 8
+      },
+      "24-09-2024": {
+         "rainfall": 20,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 68,
+         "wind_speed": 3,
+         "wind_direction": 160,
+         "cloud_cover": 8
+      },
+      "25-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 65,
+         "wind_speed": 4,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "kharif groundnut",
+      "black gram",
+      "sesame",
+      "cucumber",
+      "tomato",
+      "chilli"
+   ],
+   "general_advisory": "Watch for rain before applying pesticides. In fallow uplands, utilize recent rainfall for short-duration low water requiring crops. Regular surveillance for insect pests is recommended. High humidity may lead to pest and disease build-up in crops which calls for plant protection measures.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Current weather may favour blast disease in rice. Control it with recommended fungicides. Watch out for stem borer and leaf folder infestations."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop drainage system to avoid waterlogging. Watch out for aphids and army worm infestations."
+         ]
+      },
+      "kharif groundnut": {
+         "advisory": [
+            "Prepare field and sow high-yielding groundnut varieties. Treat seeds before sowing."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Sow pre-rabi black gram and green gram using recommended practices."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Sow pre-rabi sesame with proper spacing and nutrient application."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Watch out for downy mildew and spray recommended fungicides if observed."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Complete nursery sowing for tomatoes. Manage diseases with organic treatments."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Manage leaf curl and mosaic diseases with recommended insecticides. Destroy infected plants immediately."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

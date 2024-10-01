@@ -1,106 +1,155 @@
 {
    "weather_details": {
-      "21-09-2024": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 91,
-         "rh_min": 69,
-         "wind_speed": 5,
-         "wind_direction": 208,
-         "cloud_cover": 7
-      },
-      "22-09-2024": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 93,
-         "rh_min": 59,
-         "wind_speed": 5,
-         "wind_direction": 195,
-         "cloud_cover": 7
-      },
       "23-09-2024": {
-         "rainfall": 20,
-         "t_max": 30,
+         "rainfall": 6,
+         "t_max": 31,
          "t_min": 20,
-         "rh_max": 92,
-         "rh_min": 56,
-         "wind_speed": 6,
-         "wind_direction": 75,
-         "cloud_cover": 8
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
       "24-09-2024": {
-         "rainfall": 20,
+         "rainfall": 6,
          "t_max": 30,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25-09-2024": {
+         "rainfall": 3,
+         "t_max": 31,
          "t_min": 19,
-         "rh_max": 91,
-         "rh_min": 65,
-         "wind_speed": 4,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26-09-2024": {
+         "rainfall": 11,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "28-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 95,
+         "rh_min": 76,
+         "wind_speed": 8,
          "wind_direction": 198,
          "cloud_cover": 8
       },
-      "25-09-2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 93,
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 94,
+         "rh_min": 70,
+         "wind_speed": 7,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "30-09-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 95,
+         "rh_min": 66,
+         "wind_speed": 7,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 92,
          "rh_min": 67,
-         "wind_speed": 5,
-         "wind_direction": 193,
-         "cloud_cover": 8
+         "wind_speed": 8,
+         "wind_direction": 246,
+         "cloud_cover": 4
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 70,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
+      "arhar",
       "maize",
-      "ragi",
       "black gram",
       "sesame",
-      "ginger",
-      "turmeric"
+      "brinjal",
+      "chilli",
+      "papaya"
    ],
-   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater in one portion of the field. This water can be used for irrigation in the crops during dry spells. Due to high humidity, possibilities of pest and disease buildup in already sown crops. Take plant protection measures depending on the crop and weather condition.",
+   "general_advisory": "Rainfall is expected during the next five days, proper water storage and plant protection measures are advised.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Current weather may favour blast disease in rice. To control it spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water or Tricyclazole 45% + Hexaconazole 10% WG @ 1 g/litre of water.",
-            "There is a chance of stem borer and leaf folder infestation. If found in the field then spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Flubendiamide 20% WG @ 0.25 g/litre of water.",
-            "To control bacterial leaf blight spray Copper oxychloride 50% WP @ 3 g and Streptomycin + Tetracycline (90+10) @ 0.15 g/litre of water when the sky becomes clear."
+            "Apply urea and MOP per acre at panicle initiation stage.",
+            "Install traps to monitor and control pests.",
+            "Release egg parasitoid in stem borer endemic areas."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Spray to control leaf webber.",
+            "Apply Metiram at root zone for wilt."
          ]
       },
       "maize": {
          "advisory": [
-            "Develop a better drainage system to avoid waterlogging conditions due to excess rainfall.",
-            "There may be aphids incidence in maize due to high humidity and cloudy conditions, if observed spray Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC @ 0.25 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water in sunny days.",
-            "Fall army worm may be observed in the field, to control it spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water."
-         ]
-      },
-      "ragi": {
-         "advisory": [
-            "If blast incidence is observed in ragi spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when the sky becomes clear."
+            "Develop better drainage system.",
+            "Apply Urea at tasseling stage.",
+            "Monitor and remove infected plant parts."
          ]
       },
       "black gram": {
          "advisory": [
-            "This is the time for sowing of pre-rabi Black gram (Biri) and Green gram (Mung). Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Apply 4 kg urea, 35 kg DAP and 13 kg MOP per acre during final land preparation. Sow the seeds in a line of 30 cm apart with 10 -15 cm plant-to-plant distance."
+            "Sow pre-rabi black gram and green gram with treated seeds.",
+            "Apply urea, DAP, and MOP during land preparation."
          ]
       },
       "sesame": {
          "advisory": [
-            "This is the optimum time for sowing of pre-rabi sesame. Sow the seeds in lines of 30 cm apart and 10 cm between plants using 3 kg seed/acre. Apply 6.5 kg urea, 17 kg DAP and 13 kg MOP per acre during final land preparation."
+            "Sow pre-rabi sesame with treated seeds.",
+            "Apply urea, DAP, and MOP during land preparation."
          ]
       },
-      "ginger": {
+      "brinjal": {
          "advisory": [
-            "Go for weeding and apply 54 kg urea and 33 kg MOP per acre at 90 days after planting and apply mulching @ 2 t/acre."
+            "Spray to control wilt."
          ]
       },
-      "turmeric": {
+      "chilli": {
          "advisory": [
-            "Go for weeding and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre."
+            "Spray to manage fruit borer."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install trap and spray to control leaf curl virus."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

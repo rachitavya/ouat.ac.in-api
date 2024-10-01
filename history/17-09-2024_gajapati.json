@@ -1,0 +1,110 @@
+{
+   "weather_details": {
+      "2024-09-18": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 68,
+         "wind_speed": 5,
+         "wind_direction": 279,
+         "cloud_cover": 8
+      },
+      "2024-09-19": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 66,
+         "wind_speed": 3,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "2024-09-20": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 74,
+         "wind_speed": 3,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      },
+      "2024-09-21": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 96,
+         "rh_min": 67,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 8
+      },
+      "2024-09-22": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 97,
+         "rh_min": 63,
+         "wind_speed": 5,
+         "wind_direction": 112,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cotton",
+      "brinjal",
+      "banana",
+      "plant protection"
+   ],
+   "general_advisory": "The district is likely to receive light to moderate rain with generally cloudy sky. The wind speed will remain within 3.0 to 5.0 kmph for the next five days. Maximum and minimum temperatures may range from 34.0°C to 35.0°C and 25.0°C to 26.0°C, respectively. Relative humidity will range between 92 to 97 percent in the morning and 63 to 74 percent in the afternoon.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Due to wet and humid conditions, manage pests like Yellow stem borer and leaf folder with appropriate sprays.",
+            "Apply herbicides as per recommended doses for effective weed control.",
+            "In shallow lowland/medium land transplanted rice, apply appropriate amounts of urea at tillering stage.",
+            "For Zinc deficient soil, apply Zn-EDTA or ZnSO4 solutions at recommended intervals.",
+            "Regular monitoring of crops for pest and disease incidence is recommended."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Manage fall army worm pest by using biopesticides or chemical sprays.",
+            "Use bird perches and dust mixture to control caterpillars.",
+            "Spray Emamectin Benzoate, Spinetoram, or Chlorantraniliprole for pest management."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Monitor cotton crop for sucking pests like Aphids and Jassids.",
+            "Use neem-based pesticides or chemical sprays for pest control.",
+            "Apply Flonicamid, Thiamethoxam, or Dinotefuran for effective pest management."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Remove affected terminal shoots and fruits to manage Shoot and fruit borer.",
+            "Install pheromone traps and use chemical controls as needed.",
+            "Maintain interval between pesticide applications and harvest."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Install pheromone traps to manage stem weevil.",
+            "Pre-planting treatments with neem-based products are recommended.",
+            "Maintain cleanliness in the banana garden for better plant health."
+         ]
+      },
+      "plant protection": {
+         "advisory": [
+            "Install yellow sticky traps to manage vectors of yellow vein mosaic disease.",
+            "Use Thiamethoxam or Acetamiprid for severe infestations.",
+            "Address seedling rot in vegetables with appropriate drenching solutions."
+         ]
+      }
+   },
+   "date": "17-09-2024"
+}

@@ -1,0 +1,155 @@
+{
+   "weather_details": {
+      "23-09-2024": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "24-09-2024": {
+         "rainfall": 6,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25-09-2024": {
+         "rainfall": 3,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26-09-2024": {
+         "rainfall": 11,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "28-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 95,
+         "rh_min": 76,
+         "wind_speed": 8,
+         "wind_direction": 198,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 94,
+         "rh_min": 70,
+         "wind_speed": 7,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "30-09-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 95,
+         "rh_min": 66,
+         "wind_speed": 7,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 67,
+         "wind_speed": 8,
+         "wind_direction": 246,
+         "cloud_cover": 4
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 70,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "maize",
+      "black gram",
+      "sesame",
+      "brinjal",
+      "chilli",
+      "papaya"
+   ],
+   "general_advisory": "Rainfall is expected during the next five days, proper water storage and plant protection measures are advised.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply urea and MOP per acre at panicle initiation stage.",
+            "Install traps to monitor and control pests.",
+            "Release egg parasitoid in stem borer endemic areas."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Spray to control leaf webber.",
+            "Apply Metiram at root zone for wilt."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop better drainage system.",
+            "Apply Urea at tasseling stage.",
+            "Monitor and remove infected plant parts."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Sow pre-rabi black gram and green gram with treated seeds.",
+            "Apply urea, DAP, and MOP during land preparation."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Sow pre-rabi sesame with treated seeds.",
+            "Apply urea, DAP, and MOP during land preparation."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Spray to control wilt."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray to manage fruit borer."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install trap and spray to control leaf curl virus."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

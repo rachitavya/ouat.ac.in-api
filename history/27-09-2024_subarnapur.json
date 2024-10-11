@@ -1,0 +1,113 @@
+{
+   "weather_details": {
+      "27-09-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "28-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 67,
+         "rh_min": 93,
+         "wind_speed": 8,
+         "wind_direction": 162,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 63,
+         "rh_min": 89,
+         "wind_speed": 9,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 60,
+         "rh_min": 85,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 62,
+         "rh_min": 92,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 65,
+         "rh_min": 88,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "vegetable crops",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations due to the chance of light to moderate rainfall in the upcoming days. Proper drainage systems should be made in fruit orchards and fields. Monitoring against pests and diseases is recommended. Avoid excess use of nitrogenous fertilizers.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Maintain 5 cm water level in rice field for proper growth.",
+            "In case of bacterial leaf blight disease, stop top dressing of nitrogenous fertilizers and apply potassic fertilizer and antibiotics.",
+            "Control case worm attack with specific chemical sprays.",
+            "Prevent gall midge attack with appropriate insecticides."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Control sucking insect pests with Neem-based pesticide.",
+            "Avoid chemical insecticides at initial flowering stage."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dress urea fertilizer and control fall army worm attack with specific spray."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Control Fruit and shoot borer with Neem-based pesticide.",
+            "Control diseases with appropriate fungicides.",
+            "Ensure proper drainage to avoid waterlogged conditions."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Prune and clean mango orchard.",
+            "Control leaf webber infestation with specific insecticides."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Follow preventive measures for Mastitis disease in cows and buffaloes."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

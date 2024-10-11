@@ -1,113 +1,92 @@
 {
    "weather_details": {
-      "27-09-2024": {
+      "05-10-2024": {
          "rainfall": 0,
          "t_max": 35,
-         "t_min": 27,
-         "rh_max": 93,
-         "rh_min": 67,
-         "wind_speed": 11,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "28-09-2024": {
-         "rainfall": 10,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 67,
-         "rh_min": 93,
-         "wind_speed": 8,
-         "wind_direction": 162,
-         "cloud_cover": 8
-      },
-      "29-09-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 63,
-         "rh_min": 89,
-         "wind_speed": 9,
-         "wind_direction": 225,
-         "cloud_cover": 7
-      },
-      "30-09-2024": {
-         "rainfall": 2,
-         "t_max": 33,
          "t_min": 26,
-         "rh_max": 60,
-         "rh_min": 85,
-         "wind_speed": 8,
-         "wind_direction": 225,
-         "cloud_cover": 8
+         "rh_max": 45,
+         "rh_min": 72,
+         "wind_speed": 7,
+         "wind_direction": 259,
+         "cloud_cover": 3
       },
-      "01-10-2024": {
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 44,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 270,
+         "cloud_cover": 4
+      },
+      "07-10-2024": {
          "rainfall": 2,
          "t_max": 34,
-         "t_min": 26,
-         "rh_max": 62,
-         "rh_min": 92,
-         "wind_speed": 10,
-         "wind_direction": 225,
+         "t_min": 25,
+         "rh_max": 49,
+         "rh_min": 75,
+         "wind_speed": 5,
+         "wind_direction": 160,
          "cloud_cover": 6
       },
-      "02-10-2024": {
+      "08-10-2024": {
          "rainfall": 2,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 65,
-         "rh_min": 88,
-         "wind_speed": 11,
-         "wind_direction": 238,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 45,
+         "rh_min": 87,
+         "wind_speed": 6,
+         "wind_direction": 156,
+         "cloud_cover": 6
+      },
+      "09-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 46,
+         "rh_min": 91,
+         "wind_speed": 6,
+         "wind_direction": 155,
          "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "cotton",
-      "maize",
-      "vegetable crops",
+      "ground nut",
+      "okra",
       "mango",
       "cow/buffalo"
    ],
-   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations due to the chance of light to moderate rainfall in the upcoming days. Proper drainage systems should be made in fruit orchards and fields. Monitoring against pests and diseases is recommended. Avoid excess use of nitrogenous fertilizers.",
+   "general_advisory": "As there are very less chance of occurrence of rainfall is expected in upcoming days, farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) with proper care. Sowing of green fodder should be advised in moist soil to avail proper diet to animals. Regular monitoring against the incidence of some insects i.e. YSB, Leaf folder, Case worm, Gall Midge, Leaf eating caterpillar etc. and diseases like BLB, Blast etc. in Rice crop should be advised.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Maintain 5 cm water level in rice field for proper growth.",
-            "In case of bacterial leaf blight disease, stop top dressing of nitrogenous fertilizers and apply potassic fertilizer and antibiotics.",
-            "Control case worm attack with specific chemical sprays.",
-            "Prevent gall midge attack with appropriate insecticides."
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "In case of appearance of bacterial leaf blight disease, farmers should stop top dressing of nitrogenous fertilizers (Urea/DAP). If there is facility of draining, drain out stagnant water and apply 5 kg potassic fertilizer (MOP) per acre."
          ]
       },
-      "cotton": {
+      "ground nut": {
          "advisory": [
-            "Control sucking insect pests with Neem-based pesticide.",
-            "Avoid chemical insecticides at initial flowering stage."
+            "To control Tikka disease in Ground nut, spraying of Chlorothalonil @ 400 g or Hexaconazole 5 % EC @ 400 ml per 200 liters of water per acre should be advised under clear weather condition."
          ]
       },
-      "maize": {
+      "okra": {
          "advisory": [
-            "Top dress urea fertilizer and control fall army worm attack with specific spray."
-         ]
-      },
-      "vegetable crops": {
-         "advisory": [
-            "Control Fruit and shoot borer with Neem-based pesticide.",
-            "Control diseases with appropriate fungicides.",
-            "Ensure proper drainage to avoid waterlogged conditions."
+            "If yellow vein mosaic symptoms are shown in the okra crop, then to control it, first remove the severely affected plants and bury them under the soil at a distance.",
+            "To control Fruit and shoot borer in Okra, spraying of Neem based pesticide 1500 ppm @600ml per acre should be advised at initial stages."
          ]
       },
       "mango": {
          "advisory": [
-            "Prune and clean mango orchard.",
-            "Control leaf webber infestation with specific insecticides."
+            "In the old Mango orchard, training, pruning and cleaning of weed, diseased and infected branches and leaves should be advised."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Follow preventive measures for Mastitis disease in cows and buffaloes."
+            "FMD is a highly contagious viral disease in Cow and Buffalo, characterized by fever and blister-like sores. Preventive measures include primary vaccination at 4-5 months old, washing affected areas with potassium permanganate, and isolating affected animals."
          ]
       }
    },
-   "date": "27-09-2024"
+   "date": "04-10-2024"
 }

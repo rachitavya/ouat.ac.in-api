@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "28-09-2024": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 97,
+         "wind_speed": 9,
+         "wind_direction": 162,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 68,
+         "rh_min": 92,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 64,
+         "rh_min": 89,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 65,
+         "rh_min": 95,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 71,
+         "rh_min": 93,
+         "wind_speed": 8,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "vegetable crops",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations due to potential light to moderate rainfall. Provision for good drainage system should be made in fruit orchards and vegetable fields. Regular monitoring for pests and diseases in rice crops is recommended. Avoid excess use of nitrogenous fertilizer to prevent excessive vegetative growth and attract pests and diseases.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Maintain 5 cm water level in rice field for proper growth.",
+            "In case of bacterial leaf blight disease, stop top dressing of nitrogenous fertilizers and follow specified treatments.",
+            "Control case worm attack with recommended insecticides.",
+            "Spray specified pesticides to control gall midge and other pests in rice fields."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Apply Neem based pesticide to control sucking insect pests in cotton crop.",
+            "Avoid chemical insecticides during initial flowering stage."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Apply urea fertilizer during tasseling/silking stage.",
+            "Control fall army worm attack with specified insecticides."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Use specified pesticides to control fruit and shoot borer, sucking insect pests, and diseases.",
+            "Ensure proper drainage and avoid waterlogged conditions."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Implement training, pruning, and cleaning practices in old mango orchards.",
+            "Use specified pesticides to control leaf webber and leaf cutting weevil in mango orchards."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Follow preventive measures for Mastitis disease in cows and buffaloes.",
+            "Ensure proper sanitation, feeding practices, and consult a veterinarian in severe cases."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

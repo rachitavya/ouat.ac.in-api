@@ -59,48 +59,78 @@
       "brinjal",
       "coconut",
       "vegetables",
-      "fingerlings"
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "okra",
+      "onion",
+      "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover rows with dry leaves in Sugarcane. Apply sprinkler irrigation for heat effect reduction. Irrigate maize crop adequately. Spread polythene in irrigation channels for water conservation. Take precautions for high temperatures in tomato and brinjal.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Cover sugarcane rows with dry leaves. Apply sprinkler irrigation to reduce heat effect. Irrigate maize crop adequately. Install pheromone trap for brinjal. Treat okra seeds to prevent whitefly infestation. Proper harvesting and storage techniques for onion and mango hopper control.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management"
+            "Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Avoid water deficit during these stages."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Early Shoot Borer management"
+            "Top-dress with 4% potassium to protect from water scarcity."
          ]
       },
       "maize": {
          "advisory": [
-            "Irrigate the crop adequately"
+            "High temperature increases water requirement. Irrigate adequately."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply 1g Streptocyclin in 10 liter water in root zone for wilting prevention"
+            "Apply 1g Streptocyclin in 10 liter water in root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal shoot and fruit borer management"
+            "Install pheromone traps for management. Apply appropriate insecticides as necessary."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves 1.8m around a coconut tree for water loss reduction"
+            "Mulch coconut leaves 1.8m around a coconut tree for water conservation."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover with paper caps on newly planted vegetable seedlings during day time"
+            "Cover newly planted vegetable seedlings with paper caps during the day."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "Harvest fingerlings in shallow ponds if water temperature rises to 30°C"
+            "Harvest fingerlings from shallow ponds if water temperature rises to 30°C."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Manage tobacco caterpillar by dusting around the field and spraying insecticides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Manage tobacco caterpillar by dusting around the field and spraying insecticides."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds with Imidacloprid before sowing. Install yellow sticky traps."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Cut tops after harvesting and dry bulbs in well-ventilated room for storage."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control mango hoppers by spraying appropriate insecticides."
          ]
       }
    },

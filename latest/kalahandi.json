@@ -1,108 +1,141 @@
 {
    "weather_details": {
-      "28-09-2024": {
-         "rainfall": 10,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 73,
-         "wind_speed": 9,
-         "wind_direction": 159,
-         "cloud_cover": 8
-      },
-      "29-09-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 68,
-         "wind_speed": 8,
-         "wind_direction": 201,
-         "cloud_cover": 6
-      },
-      "30-09-2024": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 64,
-         "wind_speed": 7,
-         "wind_direction": 225,
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 49,
+         "wind_speed": 6,
+         "wind_direction": 210,
          "cloud_cover": 4
       },
-      "01-10-2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
          "t_min": 25,
-         "rh_max": 94,
-         "rh_min": 65,
-         "wind_speed": 8,
-         "wind_direction": 212,
+         "rh_max": 72,
+         "rh_min": 47,
+         "wind_speed": 5,
+         "wind_direction": 216,
          "cloud_cover": 4
       },
-      "02-10-2024": {
-         "rainfall": 2,
-         "t_max": 33,
+      "07-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 82,
+         "rh_min": 51,
+         "wind_speed": 5,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "08-10-2024": {
+         "rainfall": 5,
+         "t_max": 34,
          "t_min": 24,
          "rh_max": 92,
-         "rh_min": 69,
-         "wind_speed": 8,
-         "wind_direction": 225,
-         "cloud_cover": 4
+         "rh_min": 54,
+         "wind_speed": 6,
+         "wind_direction": 153,
+         "cloud_cover": 6
+      },
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 56,
+         "wind_speed": 6,
+         "wind_direction": 156,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "direct seeded paddy",
-      "transplanted paddy",
       "cotton",
       "arhar",
       "hybrid maize",
-      "vegetables",
-      "fruits",
-      "livestock"
+      "brinjal",
+      "tomato",
+      "cole crops",
+      "banana",
+      "papaya",
+      "cattle",
+      "goat & sheep",
+      "poultry"
    ],
-   "general_advisory": "Based on five days weather forecast received from IMD, farmers can resume agronomic practices, application pesticides and fertilizers. Apply balanced and appropriate fertilizers according to crop’s growth stage. Always consider an integrated approach of preventive measures together with biological treatment to protect the crop from pests.",
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue agronomic practices, irrigation, application of pesticides and fertilizers during next four days as needed. Keep fields weed-free and plug the holes in the bunds to arrest the seepage loss. Regular monitoring of crops for incidence of pests and diseases should be done.",
    "crops_data": {
       "direct seeded paddy": {
          "advisory": [
-            "Pest Management: Gundhi bug infestation and management. BPH infestation and management."
-         ]
-      },
-      "transplanted paddy": {
-         "advisory": [
-            "Nutrient Management: Application of Urea and MOP at panicle initiation stage. Pest Management: Thrips infestation and management."
+            "Gundhi bug infestation commonly observed during milking stage of rice.",
+            "If population of Brown Planthopper exceeds ETL, undertake alternate wetting and drying technique.",
+            "Avoid using nitrogenous fertilizers during infestation of BPH."
          ]
       },
       "cotton": {
          "advisory": [
-            "Pest Management: Pink bollworm and American bollworm control. Aphids and Jassids control. Shoot weevil control. Leaf spot disease management. Root rot & Wilt control."
+            "Topping should be done at 90 DAS or when the crop attains 100 cm height.",
+            "Install pheromone traps for monitoring pink bollworm and American bollworm."
          ]
       },
       "arhar": {
          "advisory": [
-            "Pest Management: Leaf webber / Leaf folder / Defoliators control. Wilt management."
+            "Spray Profenophos or Chlorpyriphos to control pests.",
+            "Apply Metiram 75% WG at root zone to control wilt."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Pest Management: Stem borer, FAW, and banded leaf and sheath blight control. BLSB control."
+            "Monitor field regularly for stem borer, FAW, and banded leaf and sheath blight.",
+            "For effective control of stem borer, spray Fipronil 5% SC or Profenophos 50% EC."
          ]
       },
-      "vegetables": {
+      "brinjal": {
          "advisory": [
-            "Brinjal: Phomopsis blight disease management. Okra: Fruit and shoot borer infestation control. Chilli: Fruit borer management."
+            "Spray Copper Oxychloride 50% WP to manage bacterial wilt."
          ]
       },
-      "fruits": {
+      "tomato": {
          "advisory": [
-            "Banana: Sigatoka leaf spot and Cigar end rot or Tip rot control. Papaya: Papaya leaf curl virus control."
+            "Treat nursery bed with Trichoderma viride 1.5% WP as a precautionary measure before sowing."
          ]
       },
-      "livestock": {
+      "cole crops": {
          "advisory": [
-            "Livestock management tips for World Rabies Day. Nutrition advice for dairy animals. Fodder and straw management for sheep and goat in rainy season."
+            "Prepare nursery beds with well-decomposed FYM and chlorpyriphos dust before sowing."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Spray Mancozeb 75% WP to manage Sigatoka leaf spot and Cigar end rot."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install yellow sticky traps to monitor and control YVM.",
+            "Spray neem oil and Difenthiuron 50% WP for chemical control."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Ensure proper ventilation in animal sheds.",
+            "Cultivate drought-resistant fodder varieties like Hybrid Napier grass."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections.",
+            "Deworm animals as needed and vaccinate them against common diseases."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Raised platforms and deep litter systems help in maintaining cleanliness and temperature control.",
+            "Regularly clean and disinfect the house to prevent the buildup of pathogens."
          ]
       }
    },
-   "date": "27-09-2024"
+   "date": "04-10-2024"
 }

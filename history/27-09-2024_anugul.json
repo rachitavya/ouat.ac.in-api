@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "2024-09-27": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 97,
+         "rh_min": 76,
+         "wind_speed": 9,
+         "wind_direction": 156,
+         "cloud_cover": 8
+      },
+      "2024-09-28": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 67,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "2024-09-29": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 270,
+         "cloud_cover": 6
+      },
+      "2024-09-30": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 6,
+         "wind_direction": 244,
+         "cloud_cover": 6
+      },
+      "2024-10-01": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 7,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "bottle gourd",
+      "chicken"
+   ],
+   "general_advisory": "Avoid application of fertilizers and spraying of chemicals. Due to waterlogged conditions or continuous saturated condition of soils, crops tend to show micronutrient deficiencies. Hence, take up foliar spray of micronutrients immediately after cessation of rainfall.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanted rice is at maximum tillering to PI stage, The district is likely to receive moderate rainfall for four days in coming five days. So make provision for drainage of excess water and stop the application fertilizer and pesticides for time being. The present condition (cloudy sky , high humidity , intermittent rainfall with high day temperature but low night temperature) is highly favorable for incidence of many diseases like Bacterial Blight, Blast etc. So, keep vigil on your field. Apply 200g Plantomycin + 200g Copper Oxychloride in 200 litres of water per acre for bacterial diseases. In case of Blast incidence, spraying of Tebuconazole 50% + Trifloxystobin 25% @ 80g/acre or Carbendazim 50 WP @ 400g/acre may be done for controlling the disease after cessation of rain."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "After the event is over , drain out excess water from the standing crop fields and carry out propping of sugarcane, banana plants (to keep themCrop (Stage) Crop Specific Advisory erect),mechanical support to vegetables and fruit plants and thus, to minimize the damage."
+         ]
+      },
+      "bottle gourd": {
+         "advisory": [
+            "After rainfall vegetable might be infested with fungal infection, go for application of carbendazim + mancozeb 2g/litre of water ."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Prevent the feed ingredients from getting wet, and the amount of feed should not be too much. The compound feed in the house should be placed on the platform above the ground to prevent the feed from regaining moisture. Regular checking of feeders to avoid fungus contamination. Provide your birds with warm water periodically during this rainy season to encourage consumption and help them keep warm without using up ener gy reserved in the process."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

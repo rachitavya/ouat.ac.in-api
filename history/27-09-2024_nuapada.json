@@ -1,0 +1,150 @@
+{
+   "weather_details": {
+      "28-09-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 75,
+         "wind_speed": 11,
+         "wind_direction": 193,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 62,
+         "wind_speed": 8,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 252,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "vegetables",
+      "brinjal",
+      "okra",
+      "chilli",
+      "fruits",
+      "banana",
+      "papaya",
+      "livestock",
+      "cow & buffalo",
+      "goat & sheep"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can resume agronomic practices, application pesticides and fertilizers from Thursday. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. To prevent this, ensure proper rotation between insecticides and use mixtures.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Gundhi bug infestation is commonly observed during milking stage of rice. When the population of Gundhi bug exceeds the economic threshold Level (ETL), spray Etofenprox 10 EC or Chloropyriphos 20% EC. BPH infestation may be observed as well. If population exceeds ETL, undertake alternate wetting and drying technique. Spray recommended insecticides based on infestation levels."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Apply appropriate nutrients at panicle initiation stage. Thrips infestation can occur, spray Thiamethoxam 25% WG if needed. Leaf blast may be observed, spray appropriate fungicides for control. Monitor regularly for pests and diseases."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Implement pest management strategies for pink bollworm, American bollworm, aphids, jassids, shoot weevil, leaf spot, root rot, and wilt. Install traps for monitoring. Use recommended insecticides for control."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Manage pests like leaf webber, leaf folder, defoliators, and wilting. Apply recommended insecticides for control. Monitor plant health and take necessary measures."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Monitor for stem borer, fall armyworm, banded leaf, and sheath blight. Remove infected plant parts. Use appropriate insecticides for effective control. Stay vigilant for any signs of pests."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Implement specific management practices for individual crops like brinjal, okra, chilli, banana, and papaya. Use recommended fungicides and insecticides as per the crop stage. Regularly monitor for pests and diseases."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Specific advisory information for brinjal."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Specific advisory information for okra."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Specific advisory information for chilli."
+         ]
+      },
+      "fruits": {
+         "advisory": [
+            "Specific advisory information for fruits."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Specific advisory information for banana."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Specific advisory information for papaya."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide adequate feed during rainy days for cattle. Follow balanced feeding practices for goats and sheep. Be aware of rabies and take immediate action if animals show symptoms. Maintain hygiene and seek veterinary help if needed."
+         ]
+      },
+      "cow & buffalo": {
+         "advisory": [
+            "Specific advisory information for cow & buffalo."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Specific advisory information for goat & sheep."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

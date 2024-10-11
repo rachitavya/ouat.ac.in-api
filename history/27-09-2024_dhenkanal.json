@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "28-09-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 75,
+         "wind_speed": 10,
+         "wind_direction": 167,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "30-09-2024": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 61,
+         "wind_speed": 9,
+         "wind_direction": 243,
+         "cloud_cover": 5
+      },
+      "01-10-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 66,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "sugarcan"
+   ],
+   "general_advisory": "Drain out excess water from standing crops by keeping drain ends open. Continue application of fertilizer and plant protection. Do proper field surveillance for pests and diseases.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "If Blast disease incidence seen then drain out excess water from the paddy field. Remove the weeds and keep the field clean. Foliar spray of Trichodermaviridae should be done @ 4 g/lit. of water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Rainfall after a dry spell may aggravate infestation of worm in maize. For control the pest spray Beauveria bassiana @ 1200-gram/acre by mixing in 200 water."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "After receding of rainfall to manage Internode borer biological use Trichogramma chilonis card @ 1/acre at weekly interval for 6 times by splitting each card into 12 pieces at the given perforations."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

@@ -56,21 +56,21 @@
       "chilli",
       "brinjal"
    ],
-   "general_advisory": "Bolangir district is likely to receive very light rain for upcoming 5 days with generally cloudy sky. Maximum temperature will be between 29-33°C and minimum temperature between 19-25°C. Maximum and minimum relative humidity will be 88-93% and 63-71% respectively. Wind speed will remain within 14 to 16 kmph for upcoming 5 days. Drain out excess water from certain crops, provide staking to vegetable plants, and spray insecticides or pesticides in crops as per requirement.",
+   "general_advisory": "Bolangir district is likely to receive very light rain for the upcoming 5 days with generally cloudy sky. Maximum temperature will range from 29-33°C and minimum temperature will be 19-25°C. Maximum and minimum relative humidity will be 88-93% and 63-71% respectively. The wind speed will remain within 14 to 16 kmph for the upcoming 5 days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "The crop is at active tillering stage. Favorable conditions for infestation by Yellow stem borer. Apply Cartap Hydrochloride or Chlorantraniliprole or Imidacloprid to manage stem borer."
+            "The crop is at the active tillering stage. After the receding of rainwater, low temperature below 28°C and relative humidity more than 70% favor infestation of Yellow stem borer in rice. To manage stem borer in paddy at the early stage of the crop, apply Cartap Hydrochloride 4% G @ 8 kg/acre or Chlorantraniliprole 0.4% GR @ 4 kg/acre or Imidacloprid 0.3% GR @ 6 kg/acre by mixing it with sand at 1:1 ratio."
          ]
       },
       "chilli": {
          "advisory": [
-            "Chilli crop is at seedling stage. Drench the soil with Mancozeb or foliar spray with Metalaxyl or Metalaxyl+Mancozeb to prevent damping off disease."
+            "Chilli crop is at the seedling stage. High soil moisture & moderate soil temperature (<28°C), high RH, high rainfall and poor drainage during this rainy season may cause damping off disease. Drench the soil with Mancozeb @ 3g/ltr or foliar spray with Metalaxyl @ 2g/ltr or Metalaxyl+Mancozeb @ 3g/ltr."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal is at flowering to fruiting stage. Favorable conditions for Shoot and fruit borer. Install pheromone traps and use chemical control like Emamectin Benzoate or Chlorantraniliprole to manage the pest."
+            "Brinjal is at the flowering to fruiting stage. After the receding of rainfall and there is a chance of an increase in day & night temperature and morning relative humidity more than 70% favor Shoot and fruit borer in Brinjal. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre."
          ]
       }
    },

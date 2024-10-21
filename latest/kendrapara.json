@@ -1,118 +1,130 @@
 {
    "weather_details": {
-      "09/10/2024": {
-         "rainfall": 3,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 64,
-         "wind_speed": 13,
-         "wind_direction": 202,
-         "cloud_cover": 7
-      },
-      "10/10/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 62,
-         "wind_speed": 13,
-         "wind_direction": 212,
-         "cloud_cover": 6
-      },
-      "11/10/2024": {
-         "rainfall": 2,
-         "t_max": 33,
+      "19/10/2024": {
+         "rainfall": 5,
+         "t_max": 35,
          "t_min": 25,
          "rh_max": 92,
-         "rh_min": 59,
-         "wind_speed": 12,
-         "wind_direction": 207,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 326,
+         "cloud_cover": 4
+      },
+      "20/10/2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 62,
+         "wind_speed": 9,
+         "wind_direction": 325,
          "cloud_cover": 5
       },
-      "12/10/2024": {
-         "rainfall": 1,
+      "21/10/2024": {
+         "rainfall": 0,
          "t_max": 34,
          "t_min": 24,
-         "rh_max": 88,
+         "rh_max": 86,
          "rh_min": 61,
-         "wind_speed": 9,
-         "wind_direction": 207,
+         "wind_speed": 11,
+         "wind_direction": 355,
          "cloud_cover": 6
+      },
+      "22/10/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 1,
+         "cloud_cover": 6
+      },
+      "23/10/2024": {
+         "rainfall": 8,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 52,
+         "wind_speed": 6,
+         "wind_direction": 8,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
-      "rabi vegetables",
+      "sugarcane",
+      "cotton",
       "black gram",
       "green gram",
-      "sugarcane",
+      "onion",
+      "bitter gourd",
       "brinjal",
-      "tomato",
-      "chilli",
-      "papaya",
+      "sheep",
       "goats"
    ],
-   "general_advisory": "Farmers are advised to conduct agricultural operations with proper care. Sowing of green fodder should be advised in moist soil. Keep crop fields free from weeds. Regularly monitor crops for pests and diseases. Take preventive measures for termites, sucking pests, and other diseases.",
+   "general_advisory": "Farmers are advised to take necessary precautions and follow the recommended practices for optimal crop growth and livestock management",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Powdery mildew disease management",
-            "Gundi Bug Management"
+            "False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Copper oxychloride in water per acre.",
+            "Neck Blast diseases can be controlled by draining excess water from the paddy field and spraying suitable fungicides."
          ]
       },
       "maize": {
          "advisory": [
-            "Leaf hopper - pyrilla and Mealy Bug",
-            "Powdery mildew disease management"
-         ]
-      },
-      "rabi vegetables": {
-         "advisory": [
-            "Fusarium wilt - Drain excess water from fields"
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Powdery mildew disease management"
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Powdery mildew disease management"
+            "Top dressing of fertilizer for maize crop has started."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Leaf hopper - pyrilla and Mealy Bug"
+            "Sugarcane is at grand growth stage."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Cotton crop is in boll formation stage."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Pod borer infestation may occur in black gram. Use recommended insecticides for management."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pod borer infestation may occur in green gram. Use recommended insecticides for management."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Seed treatment should be done before sowing seeds."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "To manage the infestation of Fruit flies, use appropriate insecticides.",
+            "To control Powdery mildew disease, spray recommended fungicides."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Fusarium wilt - Drain excess water from fields"
+            "Reduce Phomopsis blight disease by spraying recommended fungicides."
          ]
       },
-      "tomato": {
+      "sheep": {
          "advisory": [
-            "Fusarium wilt - Drain excess water from fields"
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Fusarium wilt - Drain excess water from fields"
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Present weather may increase infestation of Mealy bug"
+            "Liver fluke infestation in sheep requires treatment with specific drugs.",
+            "Hide-bound oedema in aged animals may indicate liver worm infestation."
          ]
       },
       "goats": {
          "advisory": [
-            "Manage infestation in Goats"
+            "Liver fluke infestation in goats requires treatment with specific drugs.",
+            "Inspection of faecal samples is recommended for diagnosis."
          ]
       }
    },
-   "date": ""
+   "date": "18-10-2024"
 }

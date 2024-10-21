@@ -1,0 +1,111 @@
+{
+   "weather_details": {
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 43,
+         "wind_speed": 6,
+         "wind_direction": 248,
+         "cloud_cover": 3
+      },
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 49,
+         "wind_speed": 6,
+         "wind_direction": 112,
+         "cloud_cover": 4
+      },
+      "07-10-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 76,
+         "rh_min": 49,
+         "wind_speed": 5,
+         "wind_direction": 198,
+         "cloud_cover": 4
+      },
+      "08-10-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 51,
+         "wind_speed": 6,
+         "wind_direction": 199,
+         "cloud_cover": 6
+      },
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 135,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "maize",
+      "brinjal",
+      "okra",
+      "papaya",
+      "banana"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can resume agronomic practices, application pesticides and fertilizers from Thursday. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply 16kg Urea + 10kg MOP per acre in  upland condition and 20kg urea + 13kg MOP per acre in medium and low land condition at panicle initiation stage as second top dressing.",
+            "Install Pheromone traps and light trap to monitor and control the population of stem borer, leaf folder and rice ear eating caterpillar.",
+            "Release egg parasitoid Trichogramma japonicum (Tricho card) in stem borer endemic areas.",
+            "To control blast disease in rice, spray Tebuconazole 50% + Trifloxystrobin 25% WG or Tricyclazole 45% + Hexaconazole 10% WG.",
+            "To control stem borer and leaf folder infestation, spray Chlorantraniliprole 18.5% SC or Flubendiamide 20% WG."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "To control leaf webber, spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC.",
+            "In case of wilt, apply Metiram 75% WG."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Monitor for stem borer, FAW, and banded leaf and sheath blight.",
+            "To control Fall army worm, spray Emamectin benzoate 5% SG or Chlorantraniliprole 18.5% SC.",
+            "For stem borer control, spray Fipronil 5% SC or Profenophos 50 % EC.",
+            "To control BLSB, spray Validamycin 3.0% SL or Hexaconazole 5% EC."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control wilt, spray Tebuconazole 25.9% EC + Streptocycline at the root zone.",
+            "To manage Phomopsis blight disease, spray Metalaxyl 8%+ Mancozeb 64 % WP or Propineb 70 % WP."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control fruit and shoot borer infestation, spray Emamectin benzoate 5% SG or Flubendiamide 39.35 SC."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "To control papaya leaf curl virus, install yellow sticky trap and spray neem oil (1500 ppm)."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To manage Sigatoka leaf spot and Cigar end rot or Tip rot, spray Mancozeb 75% WP."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

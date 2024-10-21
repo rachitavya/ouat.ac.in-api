@@ -1,141 +1,143 @@
 {
    "weather_details": {
-      "05-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 49,
-         "wind_speed": 6,
-         "wind_direction": 210,
-         "cloud_cover": 4
-      },
-      "06-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 72,
-         "rh_min": 47,
-         "wind_speed": 5,
-         "wind_direction": 216,
-         "cloud_cover": 4
-      },
-      "07-10-2024": {
-         "rainfall": 0,
+      "19-10-2024": {
+         "rainfall": 2,
          "t_max": 34,
-         "t_min": 25,
-         "rh_max": 82,
-         "rh_min": 51,
-         "wind_speed": 5,
-         "wind_direction": 180,
-         "cloud_cover": 4
-      },
-      "08-10-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 92,
-         "rh_min": 54,
-         "wind_speed": 6,
-         "wind_direction": 153,
-         "cloud_cover": 6
-      },
-      "09-10-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 24,
+         "t_min": 23,
          "rh_max": 93,
-         "rh_min": 56,
-         "wind_speed": 6,
-         "wind_direction": 156,
+         "rh_min": 54,
+         "wind_speed": 3,
+         "wind_direction": 150,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 3,
+         "wind_direction": 146,
          "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 58,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 6
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 5
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 45,
+         "wind_speed": 2,
+         "wind_direction": 31,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "direct seeded paddy",
+      "paddy",
       "cotton",
       "arhar",
       "hybrid maize",
-      "brinjal",
       "tomato",
       "cole crops",
-      "banana",
-      "papaya",
-      "cattle",
+      "onion",
+      "marigold",
+      "rose",
+      "cattle & buffalo",
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue agronomic practices, irrigation, application of pesticides and fertilizers during next four days as needed. Keep fields weed-free and plug the holes in the bunds to arrest the seepage loss. Regular monitoring of crops for incidence of pests and diseases should be done.",
+   "general_advisory": "Light to moderate rain/thundershower is likely to occur in Odisha in the upcoming week. Maximum temperatures expected to range from 30-34°C in different parts. Farmers advised to continue intercultural operations, harvesting, and pesticide applications as needed.",
    "crops_data": {
-      "direct seeded paddy": {
+      "paddy": {
          "advisory": [
-            "Gundhi bug infestation commonly observed during milking stage of rice.",
-            "If population of Brown Planthopper exceeds ETL, undertake alternate wetting and drying technique.",
-            "Avoid using nitrogenous fertilizers during infestation of BPH."
+            "Prevailing weather conditions favor diseases like Bacterial Blight, Bacterial Leaf Streak, and Leaf Blast.",
+            "Control Gundhi Bug infestation with Malathion or Imidacloprid spray.",
+            "For Ear cutting caterpillar control, spray Quinalphos or Chlorpyriphos."
          ]
       },
       "cotton": {
          "advisory": [
-            "Topping should be done at 90 DAS or when the crop attains 100 cm height.",
-            "Install pheromone traps for monitoring pink bollworm and American bollworm."
+            "Apply Emamectin benzoate or Profenophos for American bollworm control.",
+            "Use Streptocycline + Copper Oxychloride to control Bacterial leaf blight."
          ]
       },
       "arhar": {
          "advisory": [
-            "Spray Profenophos or Chlorpyriphos to control pests.",
-            "Apply Metiram 75% WG at root zone to control wilt."
+            "Control Leaf webber/Leaf folder/Defoliators with Profenophos or Chlorpyriphos spray.",
+            "For Pod borer control, use neem-based pesticides like Azadiractin."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Monitor field regularly for stem borer, FAW, and banded leaf and sheath blight.",
-            "For effective control of stem borer, spray Fipronil 5% SC or Profenophos 50% EC."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Spray Copper Oxychloride 50% WP to manage bacterial wilt."
+            "Apply Flubendiamide for American Cob Borer control.",
+            "Spray Validamycin or Hexaconazole for BLSB control."
          ]
       },
       "tomato": {
          "advisory": [
-            "Treat nursery bed with Trichoderma viride 1.5% WP as a precautionary measure before sowing."
+            "Seedling wilt prevention measures with well-prepared nursery beds and chlorpyriphos dust application.",
+            "Recommended varieties include Utkala Prgayan, Utkala Raja, and others."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Prepare nursery beds with well-decomposed FYM and chlorpyriphos dust before sowing."
+            "Prepare nursery beds for Cauliflower, Cabbage, and Broccoli with specific seed requirements.",
+            "Recommended varieties listed for Cauliflower and Cabbage."
          ]
       },
-      "banana": {
+      "onion": {
          "advisory": [
-            "Spray Mancozeb 75% WP to manage Sigatoka leaf spot and Cigar end rot."
+            "Nursery bed preparation guidelines and suitable varieties recommendations for Onions."
          ]
       },
-      "papaya": {
+      "marigold": {
          "advisory": [
-            "Install yellow sticky traps to monitor and control YVM.",
-            "Spray neem oil and Difenthiuron 50% WP for chemical control."
+            "Control mealy bug infestation with Profenophos or Buprofezin spray."
          ]
       },
-      "cattle": {
+      "rose": {
          "advisory": [
-            "Ensure proper ventilation in animal sheds.",
-            "Cultivate drought-resistant fodder varieties like Hybrid Napier grass."
+            "Training, pruning, and intercultural operations advice for Rose cultivation.",
+            "Control Black spot with Copper Oxychloride spray."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Deworm and vaccinate cattle and buffalo regularly.",
+            "Consult with veterinary doctors for specific issues."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections.",
-            "Deworm animals as needed and vaccinate them against common diseases."
+            "Check animals for dehydration, heat stress, and parasitic infections.",
+            "Deworm and vaccinate animals as needed."
          ]
       },
       "poultry": {
          "advisory": [
-            "Raised platforms and deep litter systems help in maintaining cleanliness and temperature control.",
-            "Regularly clean and disinfect the house to prevent the buildup of pathogens."
+            "Maintain cleanliness in poultry houses with raised platforms and deep litter systems.",
+            "Regularly clean and disinfect to prevent pathogen buildup."
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }

@@ -1,98 +1,110 @@
 {
    "weather_details": {
-      "09/10/2024": {
-         "rainfall": 3,
+      "19/10/2024": {
+         "rainfall": 5,
          "t_max": 35,
          "t_min": 27,
-         "rh_max": 84,
+         "rh_max": 92,
          "rh_min": 68,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "20/10/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 91,
+         "rh_min": 64,
+         "wind_speed": 6,
+         "wind_direction": 323,
+         "cloud_cover": 4
+      },
+      "21/10/2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 62,
+         "wind_speed": 6,
+         "wind_direction": 353,
+         "cloud_cover": 6
+      },
+      "22/10/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 55,
          "wind_speed": 11,
-         "wind_direction": 180,
+         "wind_direction": 4,
          "cloud_cover": 7
       },
-      "10/10/2024": {
-         "rainfall": 0,
+      "23/10/2024": {
+         "rainfall": 5,
          "t_max": 34,
-         "t_min": 27,
-         "rh_max": 86,
-         "rh_min": 65,
-         "wind_speed": 14,
-         "wind_direction": 212,
-         "cloud_cover": 6
-      },
-      "11/10/2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 87,
-         "rh_min": 64,
-         "wind_speed": 14,
-         "wind_direction": 207,
-         "cloud_cover": 6
-      },
-      "12/10/2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 86,
-         "rh_min": 66,
-         "wind_speed": 14,
-         "wind_direction": 207,
-         "cloud_cover": 6
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 53,
+         "wind_speed": 12,
+         "wind_direction": 7,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
+      "black gram",
+      "green gram",
+      "onion",
+      "bitter gourd",
       "brinjal",
-      "tomato",
-      "chilli",
-      "papaya",
-      "banana",
+      "sheep",
       "goats"
    ],
-   "general_advisory": "Based on five days weather forecast from IMD, farmers are advised to conduct agricultural operation like irrigation, spraying, intercultural operation etc. Keep crop fields weed-free to minimize diseases. Regularly monitor for pests and diseases. Use neem-based pesticide for control.",
+   "general_advisory": "The current weather conditions are optimal for various farming activities such as land preparation, nursery sowing, and vegetable transplantation. It is recommended to control pests and diseases in crops and livestock.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation/flowering - Gundi Bug Management"
+            "False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre.",
+            "Neck Blast diseases can be controlled by draining excess water from the paddy field and spraying appropriate fungicides."
          ]
       },
-      "sugarcane": {
+      "black gram": {
          "advisory": [
-            "Grand growth stage - Leaf hopper-pyrilla and Mealy Bug"
+            "Pod borer infestation may occur in black gram crop. To manage this, spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 50% EC @ 400 ml/acre."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pod borer infestation may occur in green gram crop. To manage this, spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 18.5% SC @ 80 ml/acre."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Before sowing of seeds, seed treatment should be done with Carbendazim 50% WP @ 2 g/kg of seeds."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "To manage the infestation of Fruit flies, spray Malathion @ 1 ml/lt.",
+            "To control Powdery mildew disease, spray appropriate fungicides."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Planting - Fusarium wilt prevention"
+            "To reduce Phomopsis blight disease, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water."
          ]
       },
-      "tomato": {
+      "sheep": {
          "advisory": [
-            "Planting - Fusarium wilt prevention"
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Planting - Fusarium wilt prevention"
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Vegetative/Fruiting - Mealy bug infestation"
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Vegetative/Fruiting - Sigatoka leaf spot management"
+            "Liver fluke infestation in sheep is a critical issue. Worm control methods should be implemented."
          ]
       },
       "goats": {
          "advisory": [
-            "Manage infestation in Goats - Scabs management"
+            "Liver fluke infestation in goats is a serious concern. Proper treatment and control measures are necessary."
          ]
       }
    },
-   "date": "08-10-2024"
+   "date": "18-10-2024"
 }

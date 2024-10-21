@@ -1,0 +1,63 @@
+{
+   "weather_details": {
+      "04.10.2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 95,
+         "rh_min": 65,
+         "wind_speed": 15,
+         "wind_direction": 120,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "sugarcane",
+      "maize",
+      "sesame",
+      "chilli",
+      "brinjal",
+      "cole crops",
+      "papaya"
+   ],
+   "general_advisory": "Dry weather conditions with some chances of rain. Important to monitor crop health and pest infestation.",
+   "crops_data": {
+      "sugarcane": {
+         "advisory": [
+            "Dry weather may favor Pyrilla and Mealy Bug infestation. Use Imidacloprid or Thiamethoxam or Profenophos for control."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Harvest when cob-sheath turns brownish and grains are hard with less than 30% moisture."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "To control Hawk moth or Dead head moth, manually collect caterpillars and spray Profenophos."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Optimum weather for Chilli nursery preparation. Use recommended seed varieties."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Deficit rainfall may cause Epilachna beetle infestation. Use neem-based or chemical pesticides for management."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Prevent Damping off disease in nursery by treating seeds with Carbendazim.",
+            "Drench bed soil with Carbendazim mixed in water after sowing."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Dry weather may increase Mealy bug infestation. Use neem-based or chemical pesticides for management."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

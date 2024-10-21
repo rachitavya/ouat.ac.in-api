@@ -1,0 +1,67 @@
+{
+   "weather_details": {
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 68,
+         "rh_min": 47,
+         "wind_speed": 7,
+         "wind_direction": 253,
+         "cloud_cover": 4
+      },
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 27,
+         "rh_max": 72,
+         "rh_min": 46,
+         "wind_speed": 5,
+         "wind_direction": 248,
+         "cloud_cover": 3
+      },
+      "07-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 27,
+         "rh_max": 75,
+         "rh_min": 53,
+         "wind_speed": 4,
+         "wind_direction": 243,
+         "cloud_cover": 5
+      },
+      "08-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 51,
+         "wind_speed": 4,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 57,
+         "wind_speed": 6,
+         "wind_direction": 115,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue agronomic practices, irrigation, application pesticides and fertilizers during next four days as needed. Keep the fields weed free and plug the holes in the bunds to arrest the seepage loss. Regular monitoring of the crop for incidence of pest and diseases should be done and use light trap to monitor insect population so that timely control measure can be taken. Termites may damage crops and vegetables in the present weather condition. Farmers are advised to spray Chlorpyriphos 20 EC @ 4 ml/litre of water. SMS Advisory - Avoid using nitrogenous fertilizers during infestation of BPH in Paddy.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Pest Management: Gundhi bug infestation is commonly observed during milking stage of rice. When the population of Gundhi bug exceeds the economic threshold Level (ETL) i.e., 2 adults/hill or 5 adults/m2, spray Etofenprox 10 EC @ 200 ml/acre or Chloropyriphos 20% EC @ 1000 ml/acre mixed with 200 litres of water.",
+            "Pest Management: Infestation of BPH may be observed at this stage of paddy. If population of Brown Planthopper (BPH) exceeds ETL (5 -10 hoppers/hill), farmers are advised to undertake alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidacloprid 17.8% SL @ 50 ml/acre or Buprofezin 20% + Acephate 50% WP @ 400 g/acre or Flonicamid 50% WG @ 60g /acre mixed with 200 liters of water. Avoid using nitrogenous fertilizers during infestation of BPH."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

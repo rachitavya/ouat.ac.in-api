@@ -1,111 +1,144 @@
 {
    "weather_details": {
-      "05/10/2024": {
-         "rainfall": 0,
+      "19/10/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 29,
+         "rh_max": 89,
+         "rh_min": 67,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 5
+      },
+      "20/10/2024": {
+         "rainfall": 10,
          "t_max": 35,
          "t_min": 28,
-         "rh_max": 80,
-         "rh_min": 57,
-         "wind_speed": 13,
-         "wind_direction": 238,
-         "cloud_cover": 3
+         "rh_max": 89,
+         "rh_min": 67,
+         "wind_speed": 3,
+         "wind_direction": 320,
+         "cloud_cover": 6
       },
-      "06/10/2024": {
-         "rainfall": 0,
-         "t_max": 34,
+      "21/10/2024": {
+         "rainfall": 5,
+         "t_max": 35,
          "t_min": 27,
-         "rh_max": 78,
-         "rh_min": 57,
-         "wind_speed": 13,
-         "wind_direction": 238,
-         "cloud_cover": 3
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 6,
+         "wind_direction": 358,
+         "cloud_cover": 6
       },
-      "07/10/2024": {
-         "rainfall": 3,
-         "t_max": 34,
+      "22/10/2024": {
+         "rainfall": 10,
+         "t_max": 35,
          "t_min": 27,
-         "rh_max": 77,
-         "rh_min": 59,
-         "wind_speed": 13,
-         "wind_direction": 204,
-         "cloud_cover": 3
+         "rh_max": 84,
+         "rh_min": 52,
+         "wind_speed": 7,
+         "wind_direction": 10,
+         "cloud_cover": 7
       },
-      "08/10/2024": {
+      "23/10/2024": {
          "rainfall": 2,
          "t_max": 34,
          "t_min": 27,
-         "rh_max": 78,
-         "rh_min": 64,
-         "wind_speed": 14,
-         "wind_direction": 201,
-         "cloud_cover": 2
-      },
-      "09/10/2024": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 81,
-         "rh_min": 66,
-         "wind_speed": 14,
-         "wind_direction": 167,
-         "cloud_cover": 5
+         "rh_max": 83,
+         "rh_min": 51,
+         "wind_speed": 12,
+         "wind_direction": 14,
+         "cloud_cover": 10
       }
    },
    "names_of_crops": [
-      "autumn paddy",
+      "paddy",
       "maize",
       "sugarcane",
+      "cotton",
+      "vegetables",
+      "pulses",
+      "brinjal",
+      "onion",
+      "bitter gourd",
       "black gram",
       "green gram",
-      "cucurbits",
-      "okra",
-      "cattle"
+      "sheep",
+      "goats"
    ],
-   "general_advisory": "Based on five days weather forecast received from IMD, farmers are advised to conduct agricultural operations like irrigation, spraying, intercultural operation, etc. with proper care. Sowing of green fodder should be advised in moist soil to avail proper diet to animals. Maintain about 5-10cm standing water during panicle initiation stage in paddy. Keep your crop field free from weed to minimize the incidence of diseases and pests. Farmers should avoid excess use of nitrogenous fertilizer at crops because it may extend the vegetative growth period and attract various insect pests. If the poultry bird is 3-4 weeks old, then go for vaccination against Ranikhet disease.",
+   "general_advisory": "The weather conditions suggest the need for specific actions such as controlling foot rot disease in paddy, harvest of matured crops, deworming and vaccination in animals, and specific treatments for various crops.",
    "crops_data": {
-      "autumn paddy": {
+      "paddy": {
          "advisory": [
-            "Autumn paddy is at maturity to harvesting stage."
+            "False smut disease management through specific sprays",
+            "Neck Blast disease control through draining excess water and spraying specific chemicals"
          ]
       },
       "maize": {
          "advisory": [
-            "Maize crop harvesting has started."
+            "Harvesting has started",
+            "Top dressing of fertilizer ongoing"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Sugar cane is at grand growth stage."
+            "At grand growth stage"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Crop condition is normal"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Seedlings transplantation in afternoon hours",
+            "Optimum conditions for land preparation and nursery sowing"
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Harvest of matured crops and storage safety"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Wilting symptoms management",
+            "Phomopsis blight control through specific sprays"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Pre-sowing seed treatment with specific chemicals"
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Fruiting and harvesting guidance"
          ]
       },
       "black gram": {
          "advisory": [
-            "Reproductive stage",
-            "Powdery mildew disease management"
+            "Pod Borer management through specific sprays"
          ]
       },
       "green gram": {
          "advisory": [
-            "Reproductive stage"
+            "Pod Borer management through specific sprays"
          ]
       },
-      "cucurbits": {
+      "sheep": {
          "advisory": [
-            "Fruiting",
-            "Fruit fly management"
+            "Liver fluke infestation treatment",
+            "Hide bound oedema symptoms and treatments"
          ]
       },
-      "okra": {
+      "goats": {
          "advisory": [
-            "Fruiting",
-            "Yellow vain mosaic disease management"
-         ]
-      },
-      "cattle": {
-         "advisory": [
-            "Treatment of parasitic diseases of cattle"
+            "Liver fluke infestation treatment",
+            "Hide bound oedema symptoms and treatments"
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }

@@ -1,0 +1,143 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 5
+      },
+      "20-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 62,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 60,
+         "wind_speed": 2,
+         "wind_direction": 39,
+         "cloud_cover": 7
+      },
+      "22-10-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 30,
+         "cloud_cover": 6
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "tomato",
+      "cole crops",
+      "onion",
+      "merigold",
+      "rose",
+      "cattle & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "As per extended range forecast received from IMD, light to moderate rain/thundershower is likely to occur...",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prevailing weather conditions are favorable for incidence of diseases like Bacterial Blight, Bacterial Leaf Streak, Leaf Blast, etc.",
+            "Control Gundhi Bug infestation if noticed during milking stage.",
+            "To control Ear cutting caterpillar, spray recommended pesticides at root zone.",
+            "For managing BPH infestation, undertake alternate wetting and drying technique."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Apply recommended chemicals to control American bollworm in Non-Bt cotton areas.",
+            "Use specified pesticides to control Bacterial leaf blight."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Spray recommended pesticides to control Leaf webber, Leaf folder, Defoliators.",
+            "Apply neem-based pesticides to control Pod borer at initial stage of infestation."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply specified pesticide to control American Cob Borer infestation.",
+            "For BLSB control, spray Validamycin 3.0% SL or Hexaconazole 5% EC."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prepare nursery beds with specified measurements and apply recommended substances.",
+            "Use suitable varieties like Utkala Prgayan, Utkala Raja, Utkala Kumari, etc."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Prepare nursery beds with recommended substances prior to sowing.",
+            "Use suitable varieties for Cauliflower, Cabbage, and Broccoli."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Prepare nursery beds as specified and apply necessary substances.",
+            "Use suitable varieties like Agrifound light Red, Agrifound dark Red, Bhima Super, etc."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "To control mealy bug infestation, spray specified chemicals."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Perform training, pruning, and intercultural operations for rose care.",
+            "To control Black spot, apply Copper Oxychloride 50% WP."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Deworm the cattle and buffalo regularly, and consult with veterinary doctors if needed."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Regularly check animals for dehydration, heat stress, and parasitic infections."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Use raised platforms and deep litter systems for cleanliness and temperature control in poultry houses.",
+            "Maintain appropriate stocking density to reduce stress and prevent overheating."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

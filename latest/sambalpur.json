@@ -1,53 +1,53 @@
 {
    "weather_details": {
-      "19-10-2024": {
+      "30-10-2024": {
          "rainfall": 2,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 59,
-         "rh_min": 94,
-         "wind_speed": 4,
-         "wind_direction": 84,
-         "cloud_cover": 4
-      },
-      "20-10-2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 53,
-         "rh_min": 92,
-         "wind_speed": 4,
-         "wind_direction": 68,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 64.4,
+         "rh_min": 97.4,
+         "wind_speed": 3,
+         "wind_direction": 0,
          "cloud_cover": 6
       },
-      "21-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 47,
-         "rh_min": 89,
-         "wind_speed": 4,
-         "wind_direction": 70,
-         "cloud_cover": 6
+      "31-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 64.6,
+         "rh_min": 96,
+         "wind_speed": 3,
+         "wind_direction": 100,
+         "cloud_cover": 5
       },
-      "22-10-2024": {
+      "01-11-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 56.7,
+         "rh_min": 94.5,
+         "wind_speed": 2,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 41,
-         "rh_min": 85,
-         "wind_speed": 4,
-         "wind_direction": 36,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 43.5,
+         "rh_min": 88.3,
+         "wind_speed": 3,
+         "wind_direction": 101,
          "cloud_cover": 4
       },
-      "23-10-2024": {
+      "03-11-2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 42,
-         "rh_min": 79,
-         "wind_speed": 5,
-         "wind_direction": 17,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 40.4,
+         "rh_min": 82.8,
+         "wind_speed": 3,
+         "wind_direction": 56,
          "cloud_cover": 4
       }
    },
@@ -55,46 +55,46 @@
       "rice",
       "cotton",
       "okra",
-      "cole crop",
-      "mango",
-      "cow/buffalo"
+      "fruit crop",
+      "livestock"
    ],
-   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) during that period. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start nursery sowing and planting of Cole crops and other winter season vegetable. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
+   "general_advisory": "According to the District level weather warnings, farmers are advised to postpone harvesting and spraying operations for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
-            "To control gall midge attack in rice field, farmers should spray Lambda-cyhalothrin 05 % EC, thiamethoxam 25% WG, Fipronil 5% SC, or Chloropyriphos 20 EC in clear and calm weather conditions.",
-            "To control leaf folder, spraying of Chlorantraniliprole 18.5% SC, Tetraniliprole 200 SC, or Flubendiamide 20 WG in clear weather should be advised."
+            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
+            "Keep the harvested produce in safe places.",
+            "Regular monitoring against different pests and disease should be advised."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG or Profenophos 50% EC in clear weather."
+            "Postpone all type of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Farmers can harvest matured crop."
          ]
       },
       "okra": {
          "advisory": [
-            "To control Fruit and shoot borer in Okra, spraying of Neem based pesticide 1500 ppm should be advised at initial stages."
+            "Irrigation as well as chemical application is recommended in okra.",
+            "Farmers should make provision for proper drainage system."
          ]
       },
-      "cole crop": {
+      "fruit crop": {
          "advisory": [
-            "Nursery bed should be prepared with specific dimensions and application of well decomposed FYM and chlorpyriphos dust should be advised.",
-            "Where irrigation facilities are available, planting of crop is advised in already prepared field."
+            "Planting of new plants is recommended.",
+            "Chemical application should be done before occurrence of rainfall."
          ]
       },
-      "mango": {
+      "livestock": {
          "advisory": [
-            "In the old Mango orchard, training, pruning, cleaning of weed, diseased and infected branches and leaves should be advised.",
-            "In newly planted mango orchard, specific sprays should be advised for insect control."
-         ]
-      },
-      "cow/buffalo": {
-         "advisory": [
-            "Preventive and control measures for Foot and Mouth Disease in Cow and Buffalo should be followed as mentioned."
+            "Animal should be kept at safe places in shed.",
+            "Avoid mixing of flowing rainwater into source of drinking water and provide pure and clean drinking water to animals.",
+            "Animal should stay away from any electrical instruments."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

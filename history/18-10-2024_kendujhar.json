@@ -1,0 +1,126 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 96,
+         "rh_min": 64,
+         "wind_speed": 1,
+         "wind_direction": 334,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 51,
+         "wind_speed": 4,
+         "wind_direction": 354,
+         "cloud_cover": 5
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 84,
+         "rh_min": 47,
+         "wind_speed": 5,
+         "wind_direction": 356,
+         "cloud_cover": 4
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 80,
+         "rh_min": 49,
+         "wind_speed": 7,
+         "wind_direction": 3,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "greengram",
+      "pumpkin",
+      "bitter gourd",
+      "okra",
+      "ivy gourd",
+      "guava",
+      "banana"
+   ],
+   "general_advisory": "Harvest the matured crops. After harvesting, land preparation can be done for rabi crop production. Plough the land to make the soil friable for good establishment of the crops. During storage of the produce, make sure to use Celphos tablets (Fumigants) to keep away storage insects. Irrigation to the crops should be on time to avoid drying or wilting of plants.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Remove the weeds from the field.",
+            "Keep a regular watch on the pests and diseases.",
+            "Milking stage in paddy is an important phase for irrigation. Keep optimum water level in the field.",
+            "False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Hexaconazole.",
+            "Spray Copper oxychloride to manage false smut disease."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Pulse crop can be taken into consideration for rabi season.",
+            "Remove grasses and other unnecessary plants from the respective crop field.",
+            "After land preparation, sowing of greengram can be taken in Keonjhar district.",
+            "Treat the seeds with fungicides like Thiram, Captan before sowing.",
+            "Compulsory irrigation is necessary after sowing."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Spray insecticides in early morning hours to minimize pest attacks.",
+            "Manage leaf blights by spraying Carbendazim or Mancozeb.",
+            "Spray Malathion to control the Red pumpkin beetle infestation."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Spray Dinocap or Carbendazim to control Powdery mildew disease.",
+            "Take measures to reduce the damage caused by the disease and pests."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Irrigate the crop regularly.",
+            "Harvest and store the fruits at safe places.",
+            "Sell the fruits in the market at good prices."
+         ]
+      },
+      "ivy gourd": {
+         "advisory": [
+            "Harvest the fruits and store them at safe places for further use.",
+            "Manage sucking pests by spraying Malathion 50 EC or Dimethoate 30 EC."
+         ]
+      },
+      "guava": {
+         "advisory": [
+            "Bend branches in guava for more branching.",
+            "Treat Powdery mildew with Sulphur powder.",
+            "Provide irrigation according to soil moisture levels."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Provide support to plants and bunches.",
+            "Trim excess suckers from the mother plant.",
+            "Keep only one to two suckers for further growth."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

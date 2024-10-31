@@ -1,0 +1,138 @@
+{
+   "weather_details": {
+      "2024-10-19": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 95,
+         "rh_min": 66,
+         "wind_speed": 2,
+         "wind_direction": 0,
+         "cloud_cover": 5
+      },
+      "2024-10-20": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 63,
+         "wind_speed": 3,
+         "wind_direction": 342,
+         "cloud_cover": 6
+      },
+      "2024-10-21": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 54,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 4
+      },
+      "2024-10-22": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 50,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 4
+      },
+      "2024-10-23": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 51,
+         "wind_speed": 5,
+         "wind_direction": 352,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "finger millet",
+      "cabbage",
+      "cauliflower",
+      "cucumber",
+      "tomato",
+      "onion",
+      "papaya",
+      "cow",
+      "common fish",
+      "chicken"
+   ],
+   "general_advisory": "Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame in upland/medium lands. It is optimum time for sowing of Vegetables like cole crops (Cabbage, late Cauliflower and Broccoli), Solanaceous vegetables (Brinjal, Tomato, Chilli and Capsicum)...",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The transplanted paddy is at Panicle Initiation to flowering stage in main field...",
+            "The present high humid weather condition and rainfall followed by clear sky is favourable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy ..."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "The crop is cob development stage...",
+            "Infestation of Fall Army Worm in early sown maize crop has been reported in places..."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "To prevent Leaf spot and Leaf blight disease spray Mancozeb 63%WP+Carbendazim 12% @600 gm/acre..."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "The cabbage seedlings in nursery are germination stage...",
+            "Start nursery preparation and sowing cabbage seeds..."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "The cauliflower seedlings in nursery are germination stage...",
+            "Start nursery preparation for sowing cauliflower and complete sowing seed in nursery..."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400- gram Jaggery and 8-ml Malathion or DDVP in 4-litre of water..."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "The tomato seedlings in nursery are germination to one week stage...",
+            "Start nursery preparation and complete sowing tomato seeds in nursery..."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "The onion seedlings in nursery are germination to one week stage...",
+            "Complete nursery preparation for sowing onion and sowing seeds in nursery..."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "To manage mealy bug at early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water..."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "If your domestic Animal is becoming of f feed, weak, lackluster , diarrhoea, Milk production is low , dryness in eyes and appearance of bottleneck condition..."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "After stocking of Fingerling, groundnut oil cake and rice bran at 1:1 ratio as feed given @ 5% of their body weight twice a day..."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease..."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

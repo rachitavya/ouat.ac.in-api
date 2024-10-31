@@ -1,110 +1,68 @@
 {
    "weather_details": {
-      "19/10/2024": {
-         "rainfall": 5,
-         "t_max": 35,
+      "30/10/2024": {
+         "rainfall": 8,
+         "t_max": 34,
          "t_min": 27,
-         "rh_max": 92,
+         "rh_max": 92.9,
          "rh_min": 68,
-         "wind_speed": 2,
-         "wind_direction": 90,
-         "cloud_cover": 5
+         "wind_speed": 4,
+         "wind_direction": 11,
+         "cloud_cover": 8
       },
-      "20/10/2024": {
-         "rainfall": 4,
+      "31/10/2024": {
+         "rainfall": 0,
          "t_max": 34,
-         "t_min": 27,
+         "t_min": 24,
          "rh_max": 91,
-         "rh_min": 64,
-         "wind_speed": 6,
-         "wind_direction": 323,
-         "cloud_cover": 4
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 256,
+         "cloud_cover": 0
       },
-      "21/10/2024": {
-         "rainfall": 6,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 88,
-         "rh_min": 62,
-         "wind_speed": 6,
-         "wind_direction": 353,
-         "cloud_cover": 6
-      },
-      "22/10/2024": {
-         "rainfall": 5,
-         "t_max": 34,
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
          "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 55,
-         "wind_speed": 11,
-         "wind_direction": 4,
-         "cloud_cover": 7
-      },
-      "23/10/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 53,
-         "wind_speed": 12,
-         "wind_direction": 7,
-         "cloud_cover": 7
+         "rh_max": 90.5,
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 320,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "paddy",
-      "black gram",
       "green gram",
-      "onion",
-      "bitter gourd",
-      "brinjal",
-      "sheep",
-      "goats"
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
    ],
-   "general_advisory": "The current weather conditions are optimal for various farming activities such as land preparation, nursery sowing, and vegetable transplantation. It is recommended to control pests and diseases in crops and livestock.",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre.",
-            "Neck Blast diseases can be controlled by draining excess water from the paddy field and spraying appropriate fungicides."
+            "To manage Ear Head Caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre in the evening hours for better results.",
+            "To control Gundhi Bug, spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50% EC @ 400 ml/acre uniformly in the morning hours.",
+            "For Groundnut storage, use polythene lined gunny bags with desiccant like fused Calcium Chloride.",
+            "For Sugarcane internode borer management, use Trichogramma chilonis card @ 1/acre weekly or spray Fipronil @ 600 ml/acre as chemical control.",
+            "For Cucurbits fruit fly management, prepare a poison bait with Jaggery and DDVP in water to attract and kill the flies."
          ]
       },
-      "black gram": {
+      "cole crop": {
          "advisory": [
-            "Pod borer infestation may occur in black gram crop. To manage this, spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 50% EC @ 400 ml/acre."
+            "For Fertilizer Management, apply 33 kg of Urea and 23 kg MOP per acre after hoeing and hand weeding, 20 DAT and 33 kg of urea and 23 kg of MOP per acre as last top-dressing fertilizer."
          ]
       },
-      "green gram": {
+      "marigold & rose": {
          "advisory": [
-            "Pod borer infestation may occur in green gram crop. To manage this, spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 18.5% SC @ 80 ml/acre."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Before sowing of seeds, seed treatment should be done with Carbendazim 50% WP @ 2 g/kg of seeds."
-         ]
-      },
-      "bitter gourd": {
-         "advisory": [
-            "To manage the infestation of Fruit flies, spray Malathion @ 1 ml/lt.",
-            "To control Powdery mildew disease, spray appropriate fungicides."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "To reduce Phomopsis blight disease, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water."
-         ]
-      },
-      "sheep": {
-         "advisory": [
-            "Liver fluke infestation in sheep is a critical issue. Worm control methods should be implemented."
-         ]
-      },
-      "goats": {
-         "advisory": [
-            "Liver fluke infestation in goats is a serious concern. Proper treatment and control measures are necessary."
+            "To manage Red Spider Mites, spray wettable sulphur 80% WP @ 2 gram/litre of water or Propargite 57% EC @ 2 ml/litre of water."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

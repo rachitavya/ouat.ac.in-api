@@ -1,0 +1,75 @@
+{
+   "weather_details": {
+      "18.10.2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 89,
+         "rh_min": 60,
+         "wind_speed": 7,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sugarcane",
+      "potato",
+      "onion",
+      "tomato",
+      "chilli",
+      "cabbage",
+      "cauliflower"
+   ],
+   "general_advisory": "Ensure proper storage of groundnut in polythene lined gunny bags with desiccant for maintaining high germination rate. Prevent infestation in sugarcane with appropriate insecticides. Select suitable potato, onion, tomato, chilli, cabbage, and cauliflower varieties for cultivation.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Store groundnut in polythene lined gunny bags with desiccant like fused Calcium Chloride for effective storage."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Prevent Scale insect infestation by pre-soaking setts in Imidacloprid solution.",
+            "Use Trichogramma chilonis card for pest control.",
+            "Apply Thiamethoxam, Imidacloprid, or Acetamiprid for chemical control."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Select disease-free and well-sprouted tuber seeds of recommended varieties for planting.",
+            "Calculate required quantity of tuber seeds based on seed size and acreage."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Choose suitable onion varieties for winter cultivation.",
+            "Determine seed quantity based on acreage for nursery raising."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply recommended basal fertilizers for Tomato cultivation.",
+            "Maintain proper spacing for optimal plant growth."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Apply specific basal fertilizers before transplanting Chilli seedlings.",
+            "Maintain recommended row and plant spacing during transplanting."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Maintain proper row and plant spacing for different varieties of Cabbage.",
+            "Transplant seedlings in the afternoon for better establishment."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Adjust row and plant spacing according to the variety of Cauliflower for successful transplantation."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

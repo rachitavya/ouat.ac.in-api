@@ -1,138 +1,123 @@
 {
    "weather_details": {
-      "2024-10-19": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 95,
-         "rh_min": 66,
+      "2024-10-26": {
+         "rainfall": 90,
+         "t_max": 26,
+         "t_min": 23,
+         "rh_max": 89,
+         "rh_min": 96,
+         "wind_speed": 18,
+         "wind_direction": 39,
+         "cloud_cover": 8
+      },
+      "2024-10-27": {
+         "rainfall": 20,
+         "t_max": 25,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 97,
+         "wind_speed": 4,
+         "wind_direction": 68,
+         "cloud_cover": 8
+      },
+      "2024-10-28": {
+         "rainfall": 4,
+         "t_max": 26,
+         "t_min": 24,
+         "rh_max": 72,
+         "rh_min": 97,
          "wind_speed": 2,
-         "wind_direction": 0,
+         "wind_direction": 68,
+         "cloud_cover": 7
+      },
+      "2024-10-29": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 96,
+         "wind_speed": 0,
+         "wind_direction": 90,
          "cloud_cover": 5
       },
-      "2024-10-20": {
-         "rainfall": 2,
-         "t_max": 35,
+      "2024-10-30": {
+         "rainfall": 1,
+         "t_max": 30,
          "t_min": 25,
-         "rh_max": 92,
-         "rh_min": 63,
+         "rh_max": 59,
+         "rh_min": 94,
          "wind_speed": 3,
-         "wind_direction": 342,
-         "cloud_cover": 6
-      },
-      "2024-10-21": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 88,
-         "rh_min": 54,
-         "wind_speed": 4,
-         "wind_direction": 349,
+         "wind_direction": 220,
          "cloud_cover": 4
-      },
-      "2024-10-22": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 50,
-         "wind_speed": 4,
-         "wind_direction": 350,
-         "cloud_cover": 4
-      },
-      "2024-10-23": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 51,
-         "wind_speed": 5,
-         "wind_direction": 352,
-         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "rice",
-      "maize",
-      "finger millet",
-      "cabbage",
-      "cauliflower",
-      "cucumber",
-      "tomato",
-      "onion",
+      "green gram",
+      "horticulture",
+      "french bean",
+      "banana",
       "papaya",
-      "cow",
-      "common fish",
-      "chicken"
+      "coconut"
    ],
-   "general_advisory": "Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame in upland/medium lands. It is optimum time for sowing of Vegetables like cole crops (Cabbage, late Cauliflower and Broccoli), Solanaceous vegetables (Brinjal, Tomato, Chilli and Capsicum)...",
+   "general_advisory": "Keep the harvested paddy and non-paddy crops in safer and waterproof place to avoid rainfall and high wind speed. Go for plucking of flowers to avoid deterioration of flower quality. Make strong wooden support for papaya and banana plants to avoid lodging. Harvest the mature vegetables. Make strong support for trailing type vegetables. Avoid spraying of pesticides during this period. Don't let the domestic animals outside during this period. Make provision of fodder and clean drinking water for 2-3 days. Don't tie cattle under trees or near any big trees.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "The transplanted paddy is at Panicle Initiation to flowering stage in main field...",
-            "The present high humid weather condition and rainfall followed by clear sky is favourable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy ..."
+            "Make a path at an interval of 10 feet for better drainage of rainwater.",
+            "Spray 2% salt solution (20 gm salt in 1 litre water) in place where the harvesting of matured rice grain is not possible. It is used to prevent the germination of rice grain.",
+            "When there is 80-85% ripening in rice grain in the panicle, harvest the crops and store in a safe place.",
+            "Safely place the harvested grain from the rice field.",
+            "Harvested straw should be kept in a proper way.",
+            "Take necessary action to protect the rice grain in godown (mandi) from rain."
          ]
       },
-      "maize": {
+      "green gram": {
          "advisory": [
-            "The crop is cob development stage...",
-            "Infestation of Fall Army Worm in early sown maize crop has been reported in places..."
+            "Aftercare in pulses (Pigeon pea, green gram, black gram). Make provision for drainage.",
+            "Spray 1.5% chloropyriphos or 0.4% Fenovalarate in the ridges to check the spreading of black-headed caterpillar pest to other fields in the pulses crop.",
+            "In green gram/black gram, there is a chance of infestation of leaf-eating caterpillar and black-headed caterpillar. To control from this spray mixture of 2 ml profenophos 50%EC or 2 ml quinalphos 25%EC or 1 ml dichlorovos 76%EC per litre of water @200 litres per acre during afternoon.",
+            "Spray 2 ml dimethoate 30%EC or 0.3 ml imidachloprid 17.8%SL per litre of water @ 200 litre mixture per acre in case of aphid pest infestation in black gram/green gram.",
+            "In green gram/black gram, there is a chance of infestation of wilting due to footrot. To control from this spray the fungicide 2 gm Carbendazim 12% + Mancozeb 63%WP or 2 gm Metalaxyl 8% + Mancozeb 64%WP per litre of water @200 litre mixture per acre on the base of the plants.",
+            "Spray the mixture of fungicides 1 ml Phenoxol 10%EC or 1 ml Propiconazole 25%EC or 1 ml Tebuconazole 25.9%EC or 4 gm Sulphur 80%WP per litre of water @200 litres per acre to control from powdery mildew.",
+            "When there is an infestation of Yellow mosaic virus, spray the mixture of 2 ml Dimethoate 30%EC or 0.3 gm Acetamiprid 20%SP per litre of water @200 litres per acre to check its vector i.e white fly."
          ]
       },
-      "finger millet": {
+      "horticulture": {
          "advisory": [
-            "To prevent Leaf spot and Leaf blight disease spray Mancozeb 63%WP+Carbendazim 12% @600 gm/acre..."
+            "Make provision for drainage.",
+            "If seedlings of brinjal or tomato set topple by means of rain straight them by staking and earthing up.",
+            "Spray 1.5 gm Streptocycline + 3 gm Copper oxychloride per litre water to the root zone for wilting in brinjal and tomato, 200 litres mixture required for one acre.",
+            "Spray 2 gm Carbendazim 12% + Mancozeb 63%WP per litre water for fruit rot in brinjal, 200 litres mixture required for one acre."
          ]
       },
-      "cabbage": {
+      "french bean": {
          "advisory": [
-            "The cabbage seedlings in nursery are germination stage...",
-            "Start nursery preparation and sowing cabbage seeds..."
+            "Make provision for drainage.",
+            "Spray 0.4 ml Flubendiamide 39.35%SC/litre, there is a requirement of 200 litres insecticide for the attack of hairy caterpillar.",
+            "If cercospora leaf spot is seen then spray 1 ml Difenoconazole 25%EC or 2 gm Carbendazim 12% + Mancozeb 63%WP (2 gm)/1 litre water. 200 litres mixture is required to spray 1 acre.",
+            "To control from top rot and black spot disease spray 3 gm Copper oxychloride 50% WP per litre of water.",
+            "Spray the mixtures of 1 ml Penconazol 10%EC or 1 ml propiconazol 25%EC or 1 gm Tebuconazol 25.9%EC or 4 gm Sulphur 80%WP @ 200 litres water for control from powdery mildew."
          ]
       },
-      "cauliflower": {
+      "banana": {
          "advisory": [
-            "The cauliflower seedlings in nursery are germination stage...",
-            "Start nursery preparation for sowing cauliflower and complete sowing seed in nursery..."
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400- gram Jaggery and 8-ml Malathion or DDVP in 4-litre of water..."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "The tomato seedlings in nursery are germination to one week stage...",
-            "Start nursery preparation and complete sowing tomato seeds in nursery..."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "The onion seedlings in nursery are germination to one week stage...",
-            "Complete nursery preparation for sowing onion and sowing seeds in nursery..."
+            "Make provision for drainage.",
+            "To control from sigatoka leaf spot spray 2 gm Carbendazim 12% + Mancozeb 63%WP or Chlorothalonil 75%WP per litre of water."
          ]
       },
       "papaya": {
          "advisory": [
-            "To manage mealy bug at early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water..."
+            "Make provision for drainage.",
+            "Spray 0.3 ml Imidachloprid 17.8%SL or 0.3 gm Thiomethoxam 25%WG per litre of water to prevent from mealybug and aphid."
          ]
       },
-      "cow": {
+      "coconut": {
          "advisory": [
-            "If your domestic Animal is becoming of f feed, weak, lackluster , diarrhoea, Milk production is low , dryness in eyes and appearance of bottleneck condition..."
-         ]
-      },
-      "common fish": {
-         "advisory": [
-            "After stocking of Fingerling, groundnut oil cake and rice bran at 1:1 ratio as feed given @ 5% of their body weight twice a day..."
-         ]
-      },
-      "chicken": {
-         "advisory": [
-            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease..."
+            "To control from the infestation of red palm weevil apply Carbendazim 3%G + Sand 1:1 ratio in the hole of the stem and plug the hole.",
+            "To control from Rhinocerous beetle clean the nearby compost yard of the coconut garden and disinfect it by applying 1.5% Chloropyriphos dust."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "25-10-2024"
 }

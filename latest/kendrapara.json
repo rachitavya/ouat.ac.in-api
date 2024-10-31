@@ -1,130 +1,83 @@
 {
    "weather_details": {
-      "19/10/2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 92,
-         "rh_min": 65,
-         "wind_speed": 6,
-         "wind_direction": 326,
-         "cloud_cover": 4
-      },
-      "20/10/2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 92,
-         "rh_min": 62,
-         "wind_speed": 9,
-         "wind_direction": 325,
-         "cloud_cover": 5
-      },
-      "21/10/2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 86,
-         "rh_min": 61,
-         "wind_speed": 11,
-         "wind_direction": 355,
-         "cloud_cover": 6
-      },
-      "22/10/2024": {
-         "rainfall": 10,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 55,
-         "wind_speed": 12,
-         "wind_direction": 1,
-         "cloud_cover": 6
-      },
-      "23/10/2024": {
+      "30/10/2024": {
          "rainfall": 8,
-         "t_max": 34,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 93.9,
+         "rh_min": 69.2,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "31/10/2024": {
+         "rainfall": 0.1,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 91.7,
+         "rh_min": 67.7,
+         "wind_speed": 5,
+         "wind_direction": 260,
+         "cloud_cover": 6
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
          "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 52,
+         "rh_max": 91.1,
+         "rh_min": 61.3,
          "wind_speed": 6,
-         "wind_direction": 8,
-         "cloud_cover": 5
+         "wind_direction": 261,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
-      "maize",
-      "sugarcane",
-      "cotton",
-      "black gram",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
       "green gram",
-      "onion",
-      "bitter gourd",
-      "brinjal",
-      "sheep",
-      "goats"
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
    ],
-   "general_advisory": "Farmers are advised to take necessary precautions and follow the recommended practices for optimal crop growth and livestock management",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Copper oxychloride in water per acre.",
-            "Neck Blast diseases can be controlled by draining excess water from the paddy field and spraying suitable fungicides."
+            "Flowering to physiological maturity stage - Ear Head Caterpillar: 400 ml/acre or Profenophos 50 % EC @ 400 ml/acre. As the pest is nocturnal in behavior, spraying of pesticide should be done in the evening hours for better results. Gundhi Bug Management: 50 % EC @ 400 ml/acre by mixing in 200-liter of water."
          ]
       },
-      "maize": {
+      "groundnut": {
          "advisory": [
-            "Top dressing of fertilizer for maize crop has started."
+            "Physiological maturity stage/Harvesting stage - Storage: Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250-gram/30 box."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Sugarcane is at grand growth stage."
+            "Ripening stage - Internode borer management: Weekly interval for 6 times by splitting each card into 12 pieces. To manage the pest chemically, spray Fipronil @ 600-ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 liters."
          ]
       },
-      "cotton": {
+      "cucurbits": {
          "advisory": [
-            "Cotton crop is in boll formation stage."
+            "Vegetative to fruiting - Fruit fly: Malathion flies will be attracted to this and eventually get killed by falling into the poison baits."
          ]
       },
-      "black gram": {
+      "cole crop": {
          "advisory": [
-            "Pod borer infestation may occur in black gram. Use recommended insecticides for management."
+            "Vegetative stage - Fertilizer Management: 20 DAT and 33 kg of urea and 23 kg of MOP per acre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
          ]
       },
-      "green gram": {
+      "marigold & rose": {
          "advisory": [
-            "Pod borer infestation may occur in green gram. Use recommended insecticides for management."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Seed treatment should be done before sowing seeds."
-         ]
-      },
-      "bitter gourd": {
-         "advisory": [
-            "To manage the infestation of Fruit flies, use appropriate insecticides.",
-            "To control Powdery mildew disease, spray recommended fungicides."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Reduce Phomopsis blight disease by spraying recommended fungicides."
-         ]
-      },
-      "sheep": {
-         "advisory": [
-            "Liver fluke infestation in sheep requires treatment with specific drugs.",
-            "Hide-bound oedema in aged animals may indicate liver worm infestation."
-         ]
-      },
-      "goats": {
-         "advisory": [
-            "Liver fluke infestation in goats requires treatment with specific drugs.",
-            "Inspection of faecal samples is recommended for diagnosis."
+            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP @ 2 ml/litre of water or Fenpyroximate 5 % EC @ 2 ml/litre of water."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

@@ -17,153 +17,104 @@
          "rh_max": 88.8,
          "rh_min": 60.4,
          "wind_speed": 4,
-         "wind_direction": 240,
+         "wind_direction": 241,
          "cloud_cover": 6
       },
       "01/11/2024": {
          "rainfall": 0,
          "t_max": 33,
          "t_min": 25,
-         "rh_max": 87.6,
-         "rh_min": 53.6,
-         "wind_speed": 5,
+         "rh_max": 87.8,
+         "rh_min": 66.7,
+         "wind_speed": 4,
          "wind_direction": 243,
-         "cloud_cover": 5
+         "cloud_cover": 6
       },
       "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 86.2,
+         "rh_min": 64.5,
+         "wind_speed": 5,
+         "wind_direction": 255,
+         "cloud_cover": 5
+      },
+      "03/11/2024": {
          "rainfall": 0,
          "t_max": 33,
          "t_min": 25,
          "rh_max": 88.8,
          "rh_min": 60.4,
          "wind_speed": 6,
-         "wind_direction": 255,
+         "wind_direction": 328,
          "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "rabi pulses",
-      "oilseeds",
-      "vegetables",
-      "green gram",
-      "black gram",
-      "cowpea",
-      "field pea",
-      "lentil",
       "groundnut",
-      "toria",
-      "sunflower",
-      "paddy",
       "brinjal",
       "tomato",
-      "groundnut",
+      "paddy",
+      "cucumber",
       "sugarcane",
       "cucurbits",
       "cole crop",
       "marigold",
       "rose"
    ],
-   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Toria and Sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
    "crops_data": {
-      "rabi pulses": {
-         "advisory": [
-            "Sowing of Rabi Pulses is going on."
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Overall crop condition is normal."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Sowing of vegetables is going on."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Grow in medium/shallow lowlands."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Grow in medium/shallow lowlands."
-         ]
-      },
-      "cowpea": {
-         "advisory": [
-            "Grow in medium/shallow lowlands."
-         ]
-      },
-      "field pea": {
-         "advisory": [
-            "Grow in medium/shallow lowlands."
-         ]
-      },
-      "lentil": {
-         "advisory": [
-            "Grow in medium/shallow lowlands."
-         ]
-      },
       "groundnut": {
          "advisory": [
-            "Use groundnut varieties suitable to Odisha conditions like Devi (ICGV CO-7, Dharani, etc.)",
-            "For one acre, 40-50 kg groundnut seed kernel is required.",
-            "To manage wilt and rot disease, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "No specific advisory provided."
-         ]
-      },
-      "sunflower": {
-         "advisory": [
-            "No specific advisory provided."
-         ]
-      },
-      "paddy": {
-         "advisory": [
-            "Physiological maturity stage of medium duration paddy.",
-            "Milking stage of long duration paddy."
+            "To manage wilt and rot disease in groundnut, use Mancozeb 64% WP or 10 ml Tebuconazole mixed in 10 litres of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage wilt and rot disease, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water."
+            "To manage wilt and rot disease in Brinjal, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water."
          ]
       },
       "tomato": {
          "advisory": [
-            "To manage wilt and rot disease, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water."
+            "To manage wilt and rot disease in Tomato, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "For ear head caterpillar management in Paddy, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre.",
+            "For Gundhi Bug Management in Paddy, spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50% EC @ 400 ml/acre by mixing in 200 litres of water."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 gram Jaggery and 8 ml DDVP in 4 litre of water."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Internode borer management - Use Trichogramma chilonis card @ 1/acre at weekly intervals.",
-            "To manage the pest chemically, spray Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre.",
-            "Also apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+            "For internode borer management in Sugarcane, use Trichogramma chilonis card @ 1/acre weekly."
          ]
       },
       "cucurbits": {
          "advisory": [
-            "To manage fruit fly in cucurbits, prepare a poison bait."
+            "To manage fruit fly in Cucurbits, prepare a poison bait by mixing 400 gram DDVP in 4 litre of water."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Fertilizer Management - Apply urea and MOP per acre.",
-            "Spraying of Boron micronutrient should be done after transplanting and before curd formation."
+            "For fertilizer management in Cole Crop, apply 33 kg of Urea and 23 kg of MOP per acre after hoeing.",
+            "Spray micronutrient Boron after transplanting and before curd formation."
          ]
       },
       "marigold": {
          "advisory": [
-            "To manage Red Spider Mites, spray wettable sulphur or Fenpyroximate."
+            "To manage Red Spider Mites in Marigold, spray wettable sulphur 80% WP @ 2 gram/litre of water."
          ]
       },
       "rose": {
          "advisory": [
-            "To manage Red Spider Mites, spray wettable sulphur or Fenpyroximate."
+            "To manage Red Spider Mites in Rose, spray wettable sulphur 80% WP @ 2 gram/litre of water."
          ]
       }
    },

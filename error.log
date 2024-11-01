@@ -245,3 +245,7 @@ ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai
 ERROR:root:Error downloading PDF for baleshwar
 ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/10/Angul_IAAS_English_29.10.2024_44_87.pdf: 504
 ERROR:root:Error downloading PDF for anugul
+ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/10/Jagatsinghpur_IAAS_English_29.10.2024_44_87.pdf: 504
+ERROR:root:Error downloading PDF for jagatsinghapur
+ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/10/Bargarh_IAAS_English_29.10.2024-_44_87.pdf: 504
+ERROR:root:Error downloading PDF for bargarh

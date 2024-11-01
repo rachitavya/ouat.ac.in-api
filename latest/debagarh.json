@@ -56,13 +56,15 @@
       "rabi crops",
       "wheat",
       "mustard",
-      "vegetable crop"
+      "vegetable crop",
+      "animals",
+      "pisciculture"
    ],
    "general_advisory": "Due to forecast of Very light to Light rainfall, the harvesting of crops be postponed for few days. Go for sowing of rabi crops.",
    "crops_data": {
       "kharif paddy": {
          "advisory": [
-            "In rice at milking stage when the population of Gundhi bug exceeds the Economic Threshold Level (ETL) i.e., 2 adults/hill or 5 adults/m2, do dusting of Malathion 5% @ 10kg/acre or spray Etofenprox 10 EC @ 200ml/acre or Chloropyriphos 20% EC @1000ml/acre."
+            "In rice at milking stage when the population of Gundhi bug exceeds the Economic Threshold Level (ETL) i.e., 2 adults/hill or 5 adults/m2, do dusting of Malathion 5% @ 10kg/acre or spray Etofenprox 10 EC @ Gramin Krishi Mausam Sewa India Meteorological Department Orissa University of Agriculture and Technology, Regional Research & Technology Transfer Sub Station, Kirei, Sundergarh -770073 200ml/acre or Chloropyriphos 20% EC @1000ml/acre."
          ]
       },
       "rabi crops": {
@@ -83,6 +85,16 @@
       "vegetable crop": {
          "advisory": [
             "Prepare nursery for vegetable crops which provide high profit in rabi season like cauliflower, broccoli, beetroot, late cucumber, late bitter gourd crops in pro-tray or directly sow the seeds after preparation of the field."
+         ]
+      },
+      "animals": {
+         "advisory": [
+            "Give clean drinking water to animals and livestock and hygiene should be maintained."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Give mineral feed @ 3 % of the body mass."
          ]
       }
    },

@@ -1,0 +1,135 @@
+{
+   "weather_details": {
+      "30-10-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 95,
+         "rh_min": 62,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "31-10-2024": {
+         "rainfall": 3,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 61,
+         "wind_speed": 3,
+         "wind_direction": 168,
+         "cloud_cover": 6
+      },
+      "01-11-2024": {
+         "rainfall": 1,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 54,
+         "wind_speed": 3,
+         "wind_direction": 173,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 49,
+         "wind_speed": 3,
+         "wind_direction": 164,
+         "cloud_cover": 5
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 41,
+         "wind_speed": 2,
+         "wind_direction": 154,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "mustard & toria",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli",
+      "cattle & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Based on the above five days weather forecast received from IMD, farmers are advised to withhold irrigation and spraying of chemicals for the next 2 to 3 days. Protect the vegetable nursery from rain, harvest matured vegetables & pulses, start field preparation for rabi crops, sow mustard, sarson, sunflower, field pea, carrot, radish, broadcast pulses in standing matured crop, and transplant mature seedlings of cauliflower, cabbage, broccoli, tomato in raised bed during clear weather.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Harvest the crop when 80-85% of the grains are matured",
+            "Provide supplemental irrigation",
+            "Apply foliar spray of KNO3 or water soluble fertilizers for stress resistance",
+            "Control BPH infestation",
+            "Avoid using nitrogenous fertilizers during infestation of BPH"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Chemical control methods for American bollworm & bacterial leaf blight",
+            "Control grey mildew infestation"
+         ]
+      },
+      "mustard & toria": {
+         "advisory": [
+            "Treat seeds before sowing",
+            "Use suitable varieties",
+            "Apply recommended seed rate"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Control leaf webber/leaf folder/defoliators",
+            "Control pod borer"
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Control American Cob Borer infestation"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Monitor borer insect",
+            "Chemical control methods"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control thrips infestation",
+            "Install blue sticky traps",
+            "Chemical control methods"
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Deworm and vaccinate regularly",
+            "Consult veterinary doctors for reproductive issues"
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Check for dehydration, heat stress, and parasitic infections",
+            "Deworm and vaccinate as needed"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Maintain cleanliness and temperature control in housing",
+            "Clean and disinfect regularly",
+            "Maintain appropriate stocking density"
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

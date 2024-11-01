@@ -1,5 +1,55 @@
 {
    "weather_details": {
+      "25-10-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26-10-2024": {
+         "rainfall": 0.5,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "27-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "28-10-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "29-10-2024": {
+         "rainfall": 0,
+         "t_max": 0,
+         "t_min": 0,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
       "30-10-2024": {
          "rainfall": 7,
          "t_max": 31,
@@ -66,7 +116,7 @@
    "crops_data": {
       "rice": {
          "advisory": [
-            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120 g/ac).",
+            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120g/ac).",
             "To control steam borer & leaf folder spray chlorpyriofos/profenofos @ 2 ml/ l of water.",
             "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
             "Ear cutting caterpillar: To control, spray Quinalphos 25 EC @ 400ml/acre or Chlorpyriphos 20 EC @ 500ml/ acre at root zone in morning hours."
@@ -108,14 +158,16 @@
       "ginger": {
          "advisory": [
             "3rd weeding and 3rd top dressing may be completed.",
-            "Soil drenching with 1.25 g Metalaxyl -Mancozeb + 2 ml Quinalphos + 1g Plantomycin per liter of water to control rhizome rot in Zinger."
+            "Soil drenching with 1.25 g Metalaxyl-Mancozeb + 2 ml Quinalphos + 1g Plantomycin per liter of water to control rhizome rot in Zinger.",
+            "Remove infected plants from field & burn."
          ]
       },
       "cow and buffalo": {
          "advisory": [
-            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot - and-mouth disease, PPR ."
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
          ]
       }
    },
-   "date": "29-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

@@ -38,7 +38,7 @@
          "rh_min": 49,
          "wind_speed": 3,
          "wind_direction": 164,
-         "cloud_cover": 5
+         "cloud_cover": 4
       },
       "03-11-2024": {
          "rainfall": 0,
@@ -54,7 +54,8 @@
    "names_of_crops": [
       "paddy",
       "cotton",
-      "mustard & toria",
+      "mustard",
+      "toria",
       "arhar",
       "hybrid maize",
       "brinjal",
@@ -63,71 +64,70 @@
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "Based on the above five days weather forecast received from IMD, farmers are advised to withhold irrigation and spraying of chemicals for the next 2 to 3 days. Protect the vegetable nursery from rain, harvest matured vegetables & pulses, start field preparation for rabi crops, sow mustard, sarson, sunflower, field pea, carrot, radish, broadcast pulses in standing matured crop, and transplant mature seedlings of cauliflower, cabbage, broccoli, tomato in raised bed during clear weather.",
+   "general_advisory": "Based on the above five days weather forecast received from IMD, farmers are advised to withhold irrigation and spraying of chemicals for the next 2 to 3 days. Protect the vegetable nursery of Chilli, tomato, onion, cole crops and brinjal etc. from rain by covering with plastic or polythene sheet. Harvest the matured vegetables & pulses and store in a safe place. Field preparation should be started for rabi crops. Bunds, channels, uncultivated fields and field roads should be cleaned, by removing weeds. Now is the suitable time for sowing mustard, sarson, sunflower, field pea, carrot, radish etc. So, farmers are advised to act accordingly. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas. Farmers are advised to transplant mature seedlings (35 -40 days old) of cauliflower, cabbage, broccoli, tomato etc. in raised bed during clear weather.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Harvest the crop when 80-85% of the grains are matured",
-            "Provide supplemental irrigation",
-            "Apply foliar spray of KNO3 or water soluble fertilizers for stress resistance",
-            "Control BPH infestation",
-            "Avoid using nitrogenous fertilizers during infestation of BPH"
+            "In early maturing varieties, harvest the crop when 80 -85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life.",
+            "South West monsoon has already withdrawn from Odisha. As the crop is at reproductive stage in most of the areas, try to provide supplemental irrigation. If feasible, apply foliar spray of KNO3 @ 5g/litre of water or water soluble fertilizers like 13:0:45 at 5g/litre of water or 19:19:19 at 5g/litre of water to improve plants resistance to abiotic stress."
          ]
       },
       "cotton": {
          "advisory": [
-            "Chemical control methods for American bollworm & bacterial leaf blight",
-            "Control grey mildew infestation"
+            "For chemical control, apply Emamectin benzoate 5 % SG @ 4g or Profenophos 50 % EC @ 30 ml mixed with 10 litres of water to control American bollworm in Non-Bt cotton areas.",
+            "Bacterial leaf blight: Apply Streptocycline 1.5 g + Copper Oxychloride 50% WP @ 25 g per 10 litre of water as control measure.",
+            "To control grey mildew infestation spray Copper Oxychloride 25g + Plantomycin 10 g mixed with 10 litres of water."
          ]
       },
-      "mustard & toria": {
+      "mustard": {
          "advisory": [
-            "Treat seeds before sowing",
-            "Use suitable varieties",
-            "Apply recommended seed rate"
+            "Suitable time for sowing is from Mid-October to Mid-November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing.",
+            "Seed rate for Mustard 2.5 – 3 kg/acre and 1.5 -2.0 kg/acre is for Toria.",
+            "Suitable variety: Mustard -Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Suitable time for sowing is from Mid-October to Mid-November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing.",
+            "Seed rate for Mustard 2.5 – 3 kg/acre and 1.5 -2.0 kg/acre is for Toria.",
+            "Suitable variety: Mustard -Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati."
          ]
       },
       "arhar": {
          "advisory": [
-            "Control leaf webber/leaf folder/defoliators",
-            "Control pod borer"
+            "Leaf webber/Leaf folder/Defoliators: These insects may be observed at this stage. Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water to control.",
+            "Pod borer: To control, apply neem-based pesticides Azadiractin 0.03% (300 ppm) @ 5ml/liter of water at initial stage of infestation."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Control American Cob Borer infestation"
+            "American Cob Borer: Apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water to control infestation of American cob borer."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Monitor borer insect",
-            "Chemical control methods"
+            "For monitoring of borer insect, farmers are advised to use pheromone trap @ 8/acre. To control chemically, spray Spinosad 45% SC @ 1.5 ml/4 litre of water or Emamectin benzoate 5% SG @ 4g/10 ltr of water or Thiodicarb 75% WP @ 2ml/ltr of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Control thrips infestation",
-            "Install blue sticky traps",
-            "Chemical control methods"
+            "Infestation of thrips has been noticed. Plants are affected by thrips if leaves curl upward.",
+            "To manage thrips infestation install Blue sticky trap @ 8 nos./acre. For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water."
          ]
       },
       "cattle & buffalo": {
          "advisory": [
-            "Deworm and vaccinate regularly",
-            "Consult veterinary doctors for reproductive issues"
+            "Deworm the cattle and buffalo in regular interval and vaccinate them also. If the animal is not coming to heat even after 4 years consult with the veterinary doctors and follow the doctor's advice for onset of puberty."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Check for dehydration, heat stress, and parasitic infections",
-            "Deworm and vaccinate as needed"
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
          ]
       },
       "poultry": {
          "advisory": [
-            "Maintain cleanliness and temperature control in housing",
-            "Clean and disinfect regularly",
-            "Maintain appropriate stocking density"
+            "Raised platforms and deep litter systems in poultry houses help in maintaining cleanliness and temperature control. Regularly clean and disinfect the house to prevent the buildup of pathogens in the high-humidity conditions after rain. Maintain appropriate stocking density to reduce stress and prevent overheating."
          ]
       }
    },

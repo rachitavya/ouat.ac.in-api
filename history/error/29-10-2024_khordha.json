@@ -1,0 +1,89 @@
+{
+   "weather_details": {
+      "30/10/2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 94.3,
+         "rh_min": 66,
+         "wind_speed": 3,
+         "wind_direction": 15,
+         "cloud_cover": 8
+      },
+      "31/10/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 93.4,
+         "rh_min": 65,
+         "wind_speed": 2,
+         "wind_direction": 239,
+         "cloud_cover": 7
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 92.1,
+         "rh_min": 59,
+         "wind_speed": 3,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 92.7,
+         "rh_min": 55,
+         "wind_speed": 4,
+         "wind_direction": 318,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
+   ],
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use the groundnut varieties suitable to Odisha condition like Devi (ICGV CO-7, Dharani etc. For one acre 40-50 kg groundnut seed kernel is required.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage wilt and rot disease in Brinjal and Tomato use Mancozeb 64 % WP) or 10 ml Tebuconazole mixed in 10 litres of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Storage - Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250-gram/30 box. The sealed bags should be kept vertically inside a well-ventilated room at room temperature."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Internode borer management - To manage the pest weekly interval for 6 times by splitting each card into 12 pieces at the given perforations. To manage the pest chemically, spray Fipronil @ 600-ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 also apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Fruit fly - To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 or DDVP in 4-litre of water. Keep this mixture in Plastic cups or clay pots @80 flies will be attracted to this and eventually get killed by falling into the poison baits."
+         ]
+      },
+      "cole crop (cauliflower and cabbage)": {
+         "advisory": [
+            "Fertilizer Management 20 DAT and 33 kg of urea and 23 not applied during transplanting of seedling gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "marigold & rose": {
+         "advisory": [
+            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2 ml/litre of water or Fenpyroximate 5 % EC (Seagate/Mitigat"
+         ]
+      }
+   },
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
+}

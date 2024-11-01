@@ -1,7 +1,7 @@
 {
    "weather_details": {
       "30-10-2024": {
-         "rainfall": 2.9,
+         "rainfall": 2,
          "t_max": 32,
          "t_min": 21,
          "rh_max": 96.4,
@@ -11,13 +11,13 @@
          "cloud_cover": 6
       },
       "31-10-2024": {
-         "rainfall": 2,
+         "rainfall": 0,
          "t_max": 33,
          "t_min": 22,
          "rh_max": 95.3,
-         "rh_min": 60.4,
+         "rh_min": 60,
          "wind_speed": 2,
-         "wind_direction": 162,
+         "wind_direction": 161,
          "cloud_cover": 5
       },
       "01-11-2024": {
@@ -37,7 +37,7 @@
          "rh_max": 90.2,
          "rh_min": 44.9,
          "wind_speed": 2,
-         "wind_direction": 169,
+         "wind_direction": 168,
          "cloud_cover": 4
       },
       "03-11-2024": {
@@ -47,7 +47,7 @@
          "rh_max": 86.8,
          "rh_min": 38.6,
          "wind_speed": 2,
-         "wind_direction": 171,
+         "wind_direction": 170,
          "cloud_cover": 4
       }
    },
@@ -55,9 +55,10 @@
       "rice",
       "cotton",
       "okra",
-      "cole crop"
+      "cole crop",
+      "fruit crop"
    ],
-   "general_advisory": "According to the District level weather warnings issued by MC Bhubaneswar, there may be very light rainfall in some places. Farmers are advised to postpone harvesting and spraying operations for some days.",
+   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 29-10-2024, there is no heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
@@ -84,6 +85,12 @@
          "advisory": [
             "Farmers should go for sowing and planting of Cole crop.",
             "Make proper drainage channels in field to drain out excess water."
+         ]
+      },
+      "fruit crop": {
+         "advisory": [
+            "Planting of new plants is recommended.",
+            "Chemical application should be done before the occurrence of rainfall."
          ]
       }
    },

@@ -1,0 +1,68 @@
+{
+   "weather_details": {
+      "30/10/2024": {
+         "rainfall": 8,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 92.9,
+         "rh_min": 68,
+         "wind_speed": 4,
+         "wind_direction": 11,
+         "cloud_cover": 8
+      },
+      "31/10/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 256,
+         "cloud_cover": 0
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 90.5,
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 320,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
+   ],
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage Ear Head Caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre in the evening hours for better results.",
+            "To control Gundhi Bug, spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50% EC @ 400 ml/acre uniformly in the morning hours.",
+            "For Groundnut storage, use polythene lined gunny bags with desiccant like fused Calcium Chloride.",
+            "For Sugarcane internode borer management, use Trichogramma chilonis card @ 1/acre weekly or spray Fipronil @ 600 ml/acre as chemical control.",
+            "For Cucurbits fruit fly management, prepare a poison bait with Jaggery and DDVP in water to attract and kill the flies."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "For Fertilizer Management, apply 33 kg of Urea and 23 kg MOP per acre after hoeing and hand weeding, 20 DAT and 33 kg of urea and 23 kg of MOP per acre as last top-dressing fertilizer."
+         ]
+      },
+      "marigold & rose": {
+         "advisory": [
+            "To manage Red Spider Mites, spray wettable sulphur 80% WP @ 2 gram/litre of water or Propargite 57% EC @ 2 ml/litre of water."
+         ]
+      }
+   },
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
+}

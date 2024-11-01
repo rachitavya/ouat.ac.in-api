@@ -57,8 +57,11 @@
       "mustard",
       "maize",
       "brinjal",
-      "animals",
-      "pisciculture"
+      "horsegram",
+      "moong",
+      "urd",
+      "toria",
+      "sunflower"
    ],
    "general_advisory": "Due to forecast of very light rainfall, the harvesting of crops be postponed for few days. Go for sowing of rabi crops. In case of moisture stress in pockets, foliar application of 1% KCL solution at reproductive stages will reduce the impact of moisture condition without much loss in yield.",
    "crops_data": {
@@ -87,14 +90,29 @@
             "There is chances of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG @ 80 g in 200 l of water/acre or carbaryl 50% WP @ 800 g in 200 l of water/acre."
          ]
       },
-      "animals": {
+      "horsegram": {
          "advisory": [
-            "Cattle sheds should be well protected from flies and mosquitoes to maintain milk production and prevention from disease"
+            "Advice for horsegram crop."
          ]
       },
-      "pisciculture": {
+      "moong": {
          "advisory": [
-            "Give mineral feed @ 3% of the body mass."
+            "Advice for moong crop."
+         ]
+      },
+      "urd": {
+         "advisory": [
+            "Advice for urd crop."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Advice for toria crop."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Advice for sunflower crop."
          ]
       }
    },

@@ -1,78 +1,78 @@
 {
    "weather_details": {
-      "2024-09-04": {
-         "rainfall": 10,
+      "2024-11-02": {
+         "rainfall": 5,
          "t_max": 32,
-         "t_min": 26,
+         "t_min": 25,
          "rh_max": 92,
-         "rh_min": 70,
-         "wind_speed": 8,
-         "wind_direction": 158,
+         "rh_min": 50,
+         "wind_speed": 3,
+         "wind_direction": 304,
+         "cloud_cover": 7
+      },
+      "2024-11-03": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 44,
+         "wind_speed": 4,
+         "wind_direction": 311,
          "cloud_cover": 6
       },
-      "2024-09-05": {
-         "rainfall": 20,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 92,
-         "rh_min": 65,
-         "wind_speed": 7,
-         "wind_direction": 158,
-         "cloud_cover": 8
-      },
-      "2024-09-06": {
-         "rainfall": 20,
+      "2024-11-04": {
+         "rainfall": 0,
          "t_max": 32,
-         "t_min": 25,
-         "rh_max": 93,
-         "rh_min": 67,
-         "wind_speed": 8,
-         "wind_direction": 108,
-         "cloud_cover": 8
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 44,
+         "wind_speed": 4,
+         "wind_direction": 307,
+         "cloud_cover": 5
       },
-      "2024-09-07": {
-         "rainfall": 10,
-         "t_max": 32,
-         "t_min": 25,
+      "2024-11-05": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
          "rh_max": 89,
-         "rh_min": 65,
-         "wind_speed": 7,
-         "wind_direction": 202,
-         "cloud_cover": 8
+         "rh_min": 47,
+         "wind_speed": 4,
+         "wind_direction": 311,
+         "cloud_cover": 4
       },
-      "2024-09-08": {
-         "rainfall": 20,
-         "t_max": 32,
-         "t_min": 26,
-         "rh_max": 88,
-         "rh_min": 66,
-         "wind_speed": 7,
-         "wind_direction": 338,
-         "cloud_cover": 7
+      "2024-11-06": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 51,
+         "wind_speed": 4,
+         "wind_direction": 326,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
-      "sugarcane",
-      "brinjal"
+      "groundnut",
+      "chick"
    ],
-   "general_advisory": "Vaccination should be given with tablet for worms. Provide calcium, magnesium and salts along with fodder crops to the animals in these days.",
+   "general_advisory": "Under clear sky conditions, adequate moisture in the soil for sowing of Rabi crops such as Groundnut, Green gram, Black gram, Cowpea, Sweet potato, Sesame, coriander and cole crops like cabbage, and cauliflower. Before winter vaccination should be done for PPR and FMP in dairy animals.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "For high yielding paddy varieties, apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage. For hybrids apply 42 kg of Urea per acre at 3 weeks after transplanting at active tillering stage. Keeping in view of present weather, farmers are advised to monitor crop regularly for blast, leaf folder, or stem borer in paddy crop."
+            "Leaf Folder and Caseworm pest infestation observed in some places. To control Leaf Folder and Caseworm pest biologically apply 2 no. of Trichogramma chilonis card per acre. In field move a string over the paddy crop by stretching at both the ends of the field. By this method the larva of insects falls to the water and gets killed. To manage Leaf Folder and Case Worm pests in paddy, spray Fipronil 5% SC @ 400-ml/acre or Profenophos 50% EC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml/acre."
          ]
       },
-      "sugarcane": {
+      "groundnut": {
          "advisory": [
-            "For Red rot and wilt disease, spray the crop with Mancozeb 0.3% or carbendazim 0.1% or Azoxystrobin 18.2%SC/Difenoconazole 11.45SC @ 1ml per liter water in dry days."
+            "After the rain to control root rot, spray Thiophanate Methyl 1gm in 1 lt of water."
          ]
       },
-      "brinjal": {
+      "chick": {
          "advisory": [
-            "In vegetables (brinjal, tomato, etc.), for monitoring of borer insect, farmers are advised to use pheromone trap @ 3-4/acre."
+            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease."
          ]
       }
    },
-   "date": "03-09-2024"
+   "date": "01-11-2024"
 }

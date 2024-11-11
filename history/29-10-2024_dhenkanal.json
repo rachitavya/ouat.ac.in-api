@@ -3,12 +3,12 @@
       "29.10.2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 23,
-         "rh_max": 89,
-         "rh_min": 70,
-         "wind_speed": 5,
+         "t_min": 22,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
          "wind_direction": 120,
-         "cloud_cover": 3
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
@@ -21,22 +21,22 @@
       "animal husbandry",
       "fishery"
    ],
-   "general_advisory": "Farmers are advised to follow the pre-sowing and ripening stage instructions for various crops mentioned in the bulletin. Vaccination and deworming should be done in farm animals. Disinfect water ponds in fishery after heavy rainfall.",
+   "general_advisory": "Farmers are advised to take necessary precautions as per the specific advisories provided for each crop and activity. Vaccination and deworming should be done in farm animals. Heavy rainfall may affect the salinity of water in fish ponds.",
    "crops_data": {
       "groundnut": {
          "advisory": [
-            "Treat the seeds with Carbendazim 50% WP @ 2- gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3- gram/kg of seeds. After 7days of this, treat the seeds with Rhizobium culture @20g per kg of seeds."
+            "Treat the seeds with Carbendazim 50% WP @ 2- gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3- gram/ kg of seeds. After 7days of this, treat the seeds with Rhizobium culture @20g per kg of seeds."
          ]
       },
       "mustard": {
          "advisory": [
-            "Go for sowing of shorter duration mustard varieties like Anuradha, Parbati, Sushri, Uttara which mature within 85 days in un-irrigated condition in the month of October by observing soil moisture condition.",
+            "Go for sowing of shorter duration mustard varieties like Anuradha, Parbati, Sushri, Uttara which mature within 85 days in un-irrigated conditions in the month of October by observing soil moisture condition.",
             "If there is assured irrigation, then go for sowing of longer duration varieties like Pusa Mustard-25 & 26 and RG N-236 etc. which mature within 125 days."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Spray Carbendazim 12% + Mancozeb 63 % WP @ 400-gram/acre or Metalaxyl 8 % + Mancozeb 64 % @ 400-gram/acre by mixing it in 200-litre of water."
+            "Spray Carbendazim 12%+ Mancozeb 63 % WP @ 400-gram/acre or Metalaxyl 8 % + Mancozeb 64 % @ 400-gram/acre by mixing it in 200-litre of water."
          ]
       },
       "brinjal": {

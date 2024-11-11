@@ -1,8 +1,100 @@
 {
-   "date": "29-10-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "06/11/2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 57,
+         "wind_speed": 9,
+         "wind_direction": 7,
+         "cloud_cover": 6
+      },
+      "07/11/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 59,
+         "wind_speed": 10,
+         "wind_direction": 11,
+         "cloud_cover": 5
+      },
+      "08/11/2024": {
+         "rainfall": 1,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 59,
+         "wind_speed": 10,
+         "wind_direction": 14,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram",
+      "black gram",
+      "groundnut",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "marigold",
+      "rose",
+      "fisheries"
+   ],
+   "general_advisory": "Farmers are advised to harvest rice crops which have reached 85% maturity...",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "PADDY - Flowering to Physiological maturity stage - BPH: Alter microclimate by alternate wetting and drying technique..."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "BLACK GRAM AND GREENGRAM - Pre sowing stage - Grow high yielding varieties like T 9, PU 11, PU 19 for black gram. Use Rhizobium culture."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "BLACK GRAM AND GREENGRAM - Pre sowing stage - Grow high yielding varieties like K 851, PDM 11, OUM 115 for green gram. Use Rhizobium culture."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "GROUNDNUT - Pre sowing stage - Use suitable varieties like Devi, TAG 37A. Treat seeds with Rhizobium culture."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "BRINJAL AND TOMATO - Seedling stage - Manage wilt and rot disease with Plantomycin solution."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "BRINJAL AND TOMATO - Seedling stage - Manage wilt and rot disease with Plantomycin solution."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "CHILLI - Vegetative to Fruiting stage - Manage thrips infestation with blue sticky traps and chemical sprays."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "MARIGOLD & ROSE - Vegetative to flowering stage - Manage Red Spider Mites with wettable sulphur or other sprays."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "MARIGOLD & ROSE - Vegetative to flowering stage - Manage Red Spider Mites with wettable sulphur or other sprays."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "FISHERIES - Various diseases may appear in fish during winters. Treat pond with CIFAX or limestone for protection."
+         ]
+      }
+   },
+   "date": "05-11-2024"
 }

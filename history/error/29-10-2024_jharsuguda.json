@@ -1,17 +1,17 @@
 {
    "weather_details": {
       "30-10-2024": {
-         "rainfall": 22,
+         "rainfall": 2,
          "t_max": 31,
          "t_min": 22,
          "rh_max": 94.2,
          "rh_min": 62.7,
          "wind_speed": 5,
-         "wind_direction": 85,
+         "wind_direction": 85.6,
          "cloud_cover": 6
       },
       "31-10-2024": {
-         "rainfall": 22,
+         "rainfall": 2,
          "t_max": 31,
          "t_min": 23,
          "rh_max": 92.2,
@@ -47,7 +47,7 @@
          "rh_max": 73.9,
          "rh_min": 40.4,
          "wind_speed": 4,
-         "wind_direction": 48,
+         "wind_direction": 48.8,
          "cloud_cover": 4
       }
    },
@@ -55,9 +55,10 @@
       "rice",
       "cotton",
       "okra",
-      "cole crop"
+      "cole crop",
+      "fruit crop"
    ],
-   "general_advisory": "According to the weather forecast, very light rainfall may occur. Farmers are advised to postpone harvesting and spraying operations for some days.",
+   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 2 9-10-2024, there is no any heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
@@ -84,6 +85,12 @@
          "advisory": [
             "Farmers should go for sowing and planting of Cole crop.",
             "Make proper drainage channels in field to drain out excess water."
+         ]
+      },
+      "fruit crop": {
+         "advisory": [
+            "Planting of new plants is recommended.",
+            "Chemical application should be done before the occurrence of rainfall."
          ]
       }
    },

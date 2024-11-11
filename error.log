@@ -249,3 +249,4 @@ ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai
 ERROR:root:Error downloading PDF for jagatsinghapur
 ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/10/Bargarh_IAAS_English_29.10.2024-_44_87.pdf: 504
 ERROR:root:Error downloading PDF for bargarh
+ERROR:root:Attempt 1: An error occurred: 'str' object has no attribute 'get'

@@ -1,0 +1,142 @@
+{
+   "weather_details": {
+      "06/11/2024": {
+         "rainfall": 3,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 11,
+         "wind_direction": 9,
+         "cloud_cover": 5
+      },
+      "07/11/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 57,
+         "wind_speed": 12,
+         "wind_direction": 10,
+         "cloud_cover": 4
+      },
+      "08/11/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 58,
+         "wind_speed": 13,
+         "wind_direction": 17,
+         "cloud_cover": 4
+      },
+      "09/11/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 59,
+         "wind_speed": 14,
+         "wind_direction": 12,
+         "cloud_cover": 3
+      },
+      "10/11/2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 53,
+         "wind_speed": 17,
+         "wind_direction": 14,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "groundnut",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "marigold",
+      "rose",
+      "fisheries"
+   ],
+   "general_advisory": "Harvest rice crops at maturity stage, practice proper pest and disease surveillance, apply micronutrient spray for crops showing deficiency. Use appropriate pesticides for pest control, and manage diseases in fishponds during winters. Utilize OUAT KALINGA products for better agricultural benefits.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post-harvest drying of paddy grains is essential for consumption and seed purposes.",
+            "Grow short duration Rabi crops like green gram, black gram, cowpea, etc., in lowlands utilizing soil moisture."
+         ]
+      },
+      "gram": {
+         "advisory": [
+            "Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30 for black gram.",
+            "Use 10 kg seeds/acre and treat seeds with Rhizobium culture before sowing."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Select suitable groundnut varieties for Odisha like Kalinga groundnut 101, Devi, etc.",
+            "Adequate quantity of seed kernels is essential for planting."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "No specific advisory available."
+         ]
+      },
+      "field pea": {
+         "advisory": [
+            "No specific advisory available."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Drench root zone with a solution to manage wilt and rot diseases.",
+            "Choose groundnut varieties suitable for Odisha conditions."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Drench root zone to manage wilt and rot diseases.",
+            "No specific advisory available."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Drench root zone to manage wilt and rot diseases.",
+            "No specific advisory available."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Install Blue sticky trap for thrips control.",
+            "Use appropriate chemical sprays for thrips infestation."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Spray wettable sulfur or propargite for Red Spider Mites control.",
+            "No specific advisory available."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Spray wettable sulfur or propargite for Red Spider Mites control.",
+            "No specific advisory available."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Treat ponds for fungal, bacterial, and parasitic diseases during winters.",
+            "Utilize CIFAX or limestone for disease prevention in fishponds."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

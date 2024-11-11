@@ -1,123 +1,283 @@
 {
    "weather_details": {
-      "30/10/2024": {
+      "06/11/2024": {
          "rainfall": 3,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 90.4,
-         "rh_min": 67.6,
-         "wind_speed": 3,
-         "wind_direction": 346,
-         "cloud_cover": 6
-      },
-      "31/10/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 88.8,
-         "rh_min": 60.4,
-         "wind_speed": 4,
-         "wind_direction": 241,
-         "cloud_cover": 6
-      },
-      "01/11/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 87.8,
-         "rh_min": 66.7,
-         "wind_speed": 4,
-         "wind_direction": 243,
-         "cloud_cover": 6
-      },
-      "02/11/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 86.2,
-         "rh_min": 64.5,
-         "wind_speed": 5,
-         "wind_direction": 255,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 11,
+         "wind_direction": 9,
          "cloud_cover": 5
       },
-      "03/11/2024": {
+      "07/11/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 57,
+         "wind_speed": 12,
+         "wind_direction": 10,
+         "cloud_cover": 4
+      },
+      "08/11/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 58,
+         "wind_speed": 13,
+         "wind_direction": 17,
+         "cloud_cover": 4
+      },
+      "09/11/2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 59,
+         "wind_speed": 14,
+         "wind_direction": 12,
+         "cloud_cover": 3
+      },
+      "10/11/2024": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 25,
-         "rh_max": 88.8,
-         "rh_min": 60.4,
-         "wind_speed": 6,
-         "wind_direction": 328,
-         "cloud_cover": 5
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 53,
+         "wind_speed": 14,
+         "wind_direction": 12,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
+      "rice",
+      "medium duration paddy",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
+      "sugarcane",
+      "green gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
       "groundnut",
+      "tori",
+      "paddy",
+      "bph",
+      "gundhi bug",
+      "high yielding varieties",
       "brinjal",
       "tomato",
-      "paddy",
-      "cucumber",
-      "sugarcane",
-      "cucurbits",
-      "cole crop",
+      "wilt",
+      "rot disease",
+      "chilli",
+      "thrips infestation",
+      "blue sticky trap",
+      "red spider mites",
       "marigold",
-      "rose"
+      "rose",
+      "fisheries",
+      "winters",
+      "fungal diseases",
+      "bacterial diseases",
+      "parasitic diseases",
+      "pond",
+      "cifax",
+      "limestone",
+      "potassium permanganate",
+      "salt"
    ],
-   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Toria and Sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
+   "general_advisory": "Farmers are advised to harvest rice crops at maturity, grow short duration Rabi crops, conduct proper field surveillance for pests and diseases, and manage micronutrient deficiencies. Various specific advisories for different crops and activities have been provided.",
    "crops_data": {
-      "groundnut": {
+      "rice": {
          "advisory": [
-            "To manage wilt and rot disease in groundnut, use Mancozeb 64% WP or 10 ml Tebuconazole mixed in 10 litres of water."
+            "Harvest rice crops which have reached 85% maturity",
+            "Dry grains to appropriate moisture levels"
          ]
       },
-      "brinjal": {
+      "medium duration paddy": {
          "advisory": [
-            "To manage wilt and rot disease in Brinjal, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water."
+            "In physiological maturity stage"
          ]
       },
-      "tomato": {
+      "rabi pulses": {
          "advisory": [
-            "To manage wilt and rot disease in Tomato, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water."
+            "Grow short duration Rabi pulses"
          ]
       },
-      "paddy": {
+      "oilseeds": {
          "advisory": [
-            "For ear head caterpillar management in Paddy, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre.",
-            "For Gundhi Bug Management in Paddy, spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50% EC @ 400 ml/acre by mixing in 200 litres of water."
+            "Sowing in progress"
          ]
       },
-      "cucumber": {
+      "vegetables": {
          "advisory": [
-            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 gram Jaggery and 8 ml DDVP in 4 litre of water."
+            "Rabi vegetables cultivation ongoing"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "For internode borer management in Sugarcane, use Trichogramma chilonis card @ 1/acre weekly."
+            "At grand growth stage to ripening stage"
          ]
       },
-      "cucurbits": {
+      "green gram": {
          "advisory": [
-            "To manage fruit fly in Cucurbits, prepare a poison bait by mixing 400 gram DDVP in 4 litre of water."
+            "Pre sowing stage"
          ]
       },
-      "cole crop": {
+      "black gram": {
          "advisory": [
-            "For fertilizer management in Cole Crop, apply 33 kg of Urea and 23 kg of MOP per acre after hoeing.",
-            "Spray micronutrient Boron after transplanting and before curd formation."
+            "Pre sowing stage"
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Pre sowing stage"
+         ]
+      },
+      "field pea": {
+         "advisory": [
+            "Pre sowing stage"
+         ]
+      },
+      "lentil": {
+         "advisory": [
+            "Pre sowing stage"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Pre sowing stage"
+         ]
+      },
+      "tori": {
+         "advisory": [
+            "Pre sowing stage"
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Flowering to Physiological maturity stage"
+         ]
+      },
+      "bph": {
+         "advisory": [
+            "Management of Brown Plant Hopper"
+         ]
+      },
+      "gundhi bug": {
+         "advisory": [
+            "Gundhi Bug Management"
+         ]
+      },
+      "high yielding varieties": {
+         "advisory": [
+            "Grow high yielding varieties"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Seedling stage"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Seedling stage"
+         ]
+      },
+      "wilt": {
+         "advisory": [
+            "To manage wilt and rot disease"
+         ]
+      },
+      "rot disease": {
+         "advisory": [
+            "To manage wilt and rot disease"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Vegetative to Fruiting stage"
+         ]
+      },
+      "thrips infestation": {
+         "advisory": [
+            "To manage thrips infestation"
+         ]
+      },
+      "blue sticky trap": {
+         "advisory": [
+            "Install Blue sticky trap"
+         ]
+      },
+      "red spider mites": {
+         "advisory": [
+            "To manage Red Spider Mites"
          ]
       },
       "marigold": {
          "advisory": [
-            "To manage Red Spider Mites in Marigold, spray wettable sulphur 80% WP @ 2 gram/litre of water."
+            "Vegetative to flowering"
          ]
       },
       "rose": {
          "advisory": [
-            "To manage Red Spider Mites in Rose, spray wettable sulphur 80% WP @ 2 gram/litre of water."
+            "Vegetative to flowering"
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, treat pond against diseases"
+         ]
+      },
+      "winters": {
+         "advisory": [
+            "Various diseases may appear in fish during winters"
+         ]
+      },
+      "fungal diseases": {
+         "advisory": [
+            "Treat the pond against fungal diseases"
+         ]
+      },
+      "bacterial diseases": {
+         "advisory": [
+            "Treat the pond against bacterial diseases"
+         ]
+      },
+      "parasitic diseases": {
+         "advisory": [
+            "Treat the pond against parasitic diseases"
+         ]
+      },
+      "pond": {
+         "advisory": [
+            "Use CIFAX or limestone for pond treatment"
+         ]
+      },
+      "cifax": {
+         "advisory": [
+            "Use CIFAX for pond treatment"
+         ]
+      },
+      "limestone": {
+         "advisory": [
+            "Use limestone for pond treatment"
+         ]
+      },
+      "potassium permanganate": {
+         "advisory": [
+            "Use potassium permanganate for pond treatment"
+         ]
+      },
+      "salt": {
+         "advisory": [
+            "Use salt for protecting fish against diseases in winters"
          ]
       }
    },
-   "date": "29-10-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "05-11-2024"
 }

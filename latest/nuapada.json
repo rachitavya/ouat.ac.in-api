@@ -1,108 +1,147 @@
 {
    "weather_details": {
-      "30-10-2024": {
-         "rainfall": 7,
-         "t_max": 30,
-         "t_min": 23,
-         "rh_max": 95,
-         "rh_min": 62,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "31-10-2024": {
-         "rainfall": 2,
-         "t_max": 30,
-         "t_min": 22,
-         "rh_max": 92,
-         "rh_min": 61,
-         "wind_speed": 1,
-         "wind_direction": 225,
-         "cloud_cover": 5
-      },
-      "01-11-2024": {
-         "rainfall": 1,
-         "t_max": 30,
-         "t_min": 22,
-         "rh_max": 91,
-         "rh_min": 54,
-         "wind_speed": 1,
-         "wind_direction": 214,
-         "cloud_cover": 5
-      },
       "02-11-2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 88,
-         "rh_min": 44,
+         "rainfall": 0.4,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85.3,
+         "rh_min": 39.9,
          "wind_speed": 2,
-         "wind_direction": 284,
+         "wind_direction": 296,
          "cloud_cover": 4
       },
       "03-11-2024": {
-         "rainfall": 0,
+         "rainfall": 0.1,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 73.6,
+         "rh_min": 36.3,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 4
+      },
+      "04-11-2024": {
+         "rainfall": 0.1,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 73.8,
+         "rh_min": 35.3,
+         "wind_speed": 2,
+         "wind_direction": 258,
+         "cloud_cover": 3
+      },
+      "05-11-2024": {
+         "rainfall": 0.2,
          "t_max": 31,
          "t_min": 23,
-         "rh_max": 79,
-         "rh_min": 38,
+         "rh_max": 73.9,
+         "rh_min": 36.5,
+         "wind_speed": 2,
+         "wind_direction": 225,
+         "cloud_cover": 3
+      },
+      "06-11-2024": {
+         "rainfall": 0.2,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 79.8,
+         "rh_min": 41.4,
          "wind_speed": 1,
-         "wind_direction": 315,
-         "cloud_cover": 4
+         "wind_direction": 236,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
+      "cotton",
       "mustard",
       "toria",
       "arhar",
-      "hybrid maize",
       "brinjal",
       "chilli",
-      "cotton"
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep",
+      "poultry"
    ],
-   "general_advisory": "Based on the above five days weather forecast received from IMD, farmers are advised to withhold irrigation and spraying of chemicals for the next 2 to 3 days. Protect the vegetable nursery of Chilli, tomato, onion, cole crops and brinjal etc. from rain by covering with plastic or polythene sheet. Harvest the matured vegetables & pulses and store in a safe place. Field preparation should be started for rabi crops. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas. Farmers are advised to transplant mature seedlings (35 -40 days old) of cauliflower, cabbage, broccoli, tomato etc. in raised bed during clear weather.",
+   "general_advisory": "Harvest the matured vegetables & pulses and store in a safe place. Protect the vegetable nursery from rain. Start field preparation for rabi crops. Sow mustard, sarson, sunflower, field pea, carrot, radish. Broadcast pulses in matured rice crop. Deworm and vaccinate livestock. Maintain cleanliness in poultry houses.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Harvest the crop when 80-85% of the grains are matured either manually or using a combine harvester or reaper. Sun-dry grains to 14% moisture content for consumption and 12% for seed purposes. Provide supplemental irrigation if feasible."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Treat seed with Thiram or Bavistin before sowing. Use suitable varieties like Pusa bold, Pusa Jaikisan, JD-6."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "Sowing time is from Mid-October to Mid-November. Treat seed with Thiram or Bavistin before sowing. Use suitable varieties like M29, Anuradha, Parbati."
-         ]
-      },
-      "arhar": {
-         "advisory": [
-            "Control leaf webber/leaf folder/defoliators with chemical sprays. Control pod borer with neem-based pesticides."
-         ]
-      },
-      "hybrid maize": {
-         "advisory": [
-            "Control American Cob Borer by applying Flubendiamide. Monitoring borer insect in Brinjal and control with chemical sprays."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Use pheromone trap for monitoring borer insect. Control with chemical sprays like Spinosad, Emamectin benzoate, or Thiodicarb."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Install Blue sticky traps for managing thrips infestation. Use chemical sprays like Emamectin Benzoate, Fipronil, or Imidacloprid to control thrips."
+            "Harvest paddy when 80-85% of grains are matured.",
+            "Dry paddy grains to 14% moisture for consumption and 12% for seed purposes.",
+            "Control BPH infestation by alternate wetting and drying techniques or specific pesticides."
          ]
       },
       "cotton": {
          "advisory": [
-            "Control American bollworm, bacterial leaf blight, and grey mildew with specific chemical sprays."
+            "Apply Emamectin benzoate or Profenophos for American bollworm control.",
+            "Control bacterial leaf blight with specific treatments.",
+            "Address grey mildew infestation with appropriate sprays."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Sow mustard from Mid-October to Mid-November.",
+            "Treat seeds with Thiram or Bavistin before sowing.",
+            "Use recommended varieties for best results."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Follow similar sowing instructions as for mustard.",
+            "Use appropriate seed rates for optimal growth."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Control leaf webber, leaf folder, and defoliators with specific pesticides.",
+            "Manage pod borer infestation with neem-based pesticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Use pheromone traps for borer insect monitoring.",
+            "Control insects chemically with recommended sprays."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Install traps for thrips monitoring.",
+            "Control thrips infestation with specific chemicals."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Regularly deworm and vaccinate cattle and buffalo.",
+            "Consult with veterinary doctors for reproductive issues."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Similar care as for cattle."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Check animals for dehydration, heat stress, and parasitic infections.",
+            "Deworm and vaccinate animals appropriately."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Similar care as for goats."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Use raised platforms and deep litter systems in poultry houses.",
+            "Maintain cleanliness and disinfect regularly.",
+            "Control stocking density to prevent stress and overheating."
          ]
       }
    },
-   "date": "29-10-2024"
+   "date": "01-11-2024",
+   "ERROR": "Not getting consistent data."
 }

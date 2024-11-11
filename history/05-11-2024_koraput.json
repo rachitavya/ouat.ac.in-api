@@ -1,0 +1,124 @@
+{
+   "weather_details": {
+      "06-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 88,
+         "rh_min": 45,
+         "wind_speed": 1,
+         "wind_direction": 56,
+         "cloud_cover": 4
+      },
+      "07-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 92,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 53,
+         "cloud_cover": 4
+      },
+      "08-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 48,
+         "wind_speed": 4,
+         "wind_direction": 59,
+         "cloud_cover": 3
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 49,
+         "wind_speed": 4,
+         "wind_direction": 63,
+         "cloud_cover": 3
+      },
+      "10-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 90,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 66,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "pulses",
+      "mustard",
+      "turmeric",
+      "cauliflower",
+      "cabbage",
+      "ginger",
+      "cow and buffalo"
+   ],
+   "general_advisory": "Based on five days weather forecast, farmers can continue intercultural operations, harvesting of matured produces, and application of pesticides mixed with sticker as needed. Field preparation for rabi crops should be started. Regular surveillance work for insect pests control is recommended.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120 g/ac).",
+            "To control steam borer & leaf folder spray chlorpyriofos/ profenofos @ 2 ml/ l of water.",
+            "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
+            "To control ear cutting caterpillar, spray Quinalphos 25 EC @ 400ml/acre or Chlorpyriphos 20 EC @ 500ml/ acre at root zone in morning hours."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Harvest the cobs which are at the stage of maturity and keep them in a safe place."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram. Hence, farmers are advised to sow the seeds depending upon the moisture status of the soil. Before sowing, treat the seeds with fungicide followed by Rhizobium culture @ 20g/kg seed to enhance nodulation."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Taking the advantage of available soil moisture, start land preparation and sowing of the crop to get optimum yield.",
+            "Use suitable varieties like Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at the seedling stage."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Go for weeding and apply 26 kg urea and 30 kg MoP per acre at 90 days after planting. Apply mulching @ 2 t/acre.",
+            "Apply irrigation as there is not sufficient rainfall during the past days as turmeric requires water to grow better."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Prepare nursery beds with proper measurements and required materials for cauliflower cultivation.",
+            "Use specific varieties like Pusa Early Synthetic, Early Kuanri, Kartika, Pusa Dipali, Arka kranti, Arka Surathi, Hybrid: Sweta, Puspagiri, Tusar Goodman etc."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Prepare nursery beds with specific measurements and required materials for cabbage cultivation.",
+            "Use specific varieties like Golden Acre, Pride of India, Pusa Sambandh, Hybrid: Green ball, Priya, Genith gold star, Pragati etc."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Complete 3rd weeding and top dressing for ginger cultivation.",
+            "Apply soil drenching with specific chemicals to control rhizome rot in Zinger.",
+            "Remove infected plants from the field and burn them."
+         ]
+      },
+      "cow and buffalo": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

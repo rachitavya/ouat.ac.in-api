@@ -1,99 +1,90 @@
 {
    "weather_details": {
-      "30-10-2024": {
-         "rainfall": 6,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 97.8,
-         "rh_min": 72,
+      "06-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 91,
+         "rh_min": 50,
+         "wind_speed": 1,
+         "wind_direction": 124,
+         "cloud_cover": 4
+      },
+      "07-11-2024": {
+         "rainfall": 3,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 50,
          "wind_speed": 2,
-         "wind_direction": 194,
-         "cloud_cover": 7
-      },
-      "31-10-2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 97.6,
-         "rh_min": 69,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 6
-      },
-      "01-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 96,
-         "rh_min": 59,
-         "wind_speed": 1,
-         "wind_direction": 198,
+         "wind_direction": 79,
          "cloud_cover": 5
       },
-      "02-11-2024": {
+      "08-11-2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 93.2,
-         "rh_min": 57,
-         "wind_speed": 1,
-         "wind_direction": 153.5,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 95,
+         "rh_min": 53,
+         "wind_speed": 3,
+         "wind_direction": 83,
+         "cloud_cover": 4
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 94,
+         "rh_min": 53,
+         "wind_speed": 3,
+         "wind_direction": 0,
          "cloud_cover": 5
       },
-      "03-11-2024": {
+      "10-11-2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 18,
-         "rh_max": 90.7,
-         "rh_min": 47,
-         "wind_speed": 1,
-         "wind_direction": 146.3,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 93,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 0,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "rice",
-      "raikia beans",
-      "pointed gourd",
+      "mustard",
+      "marigold",
       "maize",
-      "mustard"
+      "rice",
+      "arhar"
    ],
-   "general_advisory": "Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Harvesting the matured crops and dispose it immediately. Farmers are advised to check their WhatsApp and messages to get crop weather related information.",
+   "general_advisory": "Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Farmers are advised to check their WhatsApp and messages to get crop weather related information.",
    "crops_data": {
-      "rice": {
+      "mustard": {
          "advisory": [
-            "Booting stage",
-            "Apply final dose of fertilizer (potash and urea) by irrigating the field during flowering stage."
+            "Sowing: It can be broadcasted in the fine tilth soil. Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha. Zn application of ZnSO4 @37.5 kg/ha will increase the yield."
          ]
       },
-      "raikia beans": {
+      "marigold": {
          "advisory": [
-            "Maturity - Harvesting",
-            "Harvest the mature beans and sell it in near market."
-         ]
-      },
-      "pointed gourd": {
-         "advisory": [
-            "Harvest the matured crops from field.",
-            "Remove the damaged crop if infected due to any standing water in the field",
-            "Sanitize the field."
+            "Make the soil fine tilth by pulverizing it 2-3 times. During last ploughing, incorporate 25t/ha of FYM. Apply 45:90:75 kg NPK/ha as basal."
          ]
       },
       "maize": {
          "advisory": [
-            "Maturity - Harvesting",
-            "Harvest the mature crops."
+            "Maturity - Harvesting: Harvest the mature crops. In case of fall army worm attack, apply Emamectin Benzoate @0.9gram liter of water."
          ]
       },
-      "mustard": {
+      "rice": {
          "advisory": [
-            "Sowing",
-            "It can be broadcasted in the fine tilth soil.",
-            "Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha.",
-            "Zn application of ZnSO4 @37.5 kg/ha will increase the yield."
+            "Booting stage: Apply final dose of fertilizer (potash and urea) by irrigating the field during flowering stage."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Pod borer: In the primary stage, apply Azadirachtin 0.03% (300ppm) in every liter of water @5mg."
          ]
       }
    },
-   "date": "29-10-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "05-11-2024"
 }

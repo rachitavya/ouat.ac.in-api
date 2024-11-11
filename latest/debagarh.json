@@ -1,102 +1,96 @@
 {
    "weather_details": {
-      "30/10/2024": {
-         "rainfall": 8,
+      "06/11/2024": {
+         "rainfall": 0,
          "t_max": 30,
          "t_min": 22,
-         "rh_max": 98,
-         "rh_min": 30,
+         "rh_max": 87,
+         "rh_min": 43,
          "wind_speed": 2,
-         "wind_direction": 0,
-         "cloud_cover": 7
-      },
-      "31/10/2024": {
-         "rainfall": 11,
-         "t_max": 30,
-         "t_min": 23,
-         "rh_max": 98,
-         "rh_min": 31,
-         "wind_speed": 2,
-         "wind_direction": 100,
-         "cloud_cover": 6
-      },
-      "01/11/2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 96,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 79,
+         "wind_direction": 27,
          "cloud_cover": 5
       },
-      "02/11/2024": {
+      "07/11/2024": {
          "rainfall": 0,
-         "t_max": 32,
+         "t_max": 30,
          "t_min": 23,
          "rh_max": 89,
-         "rh_min": 31,
-         "wind_speed": 1,
-         "wind_direction": 34,
-         "cloud_cover": 5
+         "rh_min": 44,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 4
       },
-      "03/11/2024": {
+      "08/11/2024": {
          "rainfall": 0,
-         "t_max": 31,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "09/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
          "t_min": 22,
-         "rh_max": 86,
-         "rh_min": 31,
-         "wind_speed": 2,
-         "wind_direction": 22,
+         "rh_max": 90,
+         "rh_min": 45,
+         "wind_speed": 3,
+         "wind_direction": 7,
+         "cloud_cover": 3
+      },
+      "10/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 41,
+         "wind_speed": 3,
+         "wind_direction": 21,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "kharif paddy",
-      "rabi crops",
+      "mung",
       "wheat",
+      "potato",
       "mustard",
-      "vegetable crop",
-      "animals",
-      "pisciculture"
+      "brinjal"
    ],
-   "general_advisory": "Due to forecast of Very light to Light rainfall, the harvesting of crops be postponed for few days. Go for sowing of rabi crops.",
+   "general_advisory": "For rabi crops, farmers can start their field operations in fallow fields in November month. Tractor drawn rotavator or cultivator can be used and shallow ploughing should be done.",
    "crops_data": {
       "kharif paddy": {
          "advisory": [
-            "In rice at milking stage when the population of Gundhi bug exceeds the Economic Threshold Level (ETL) i.e., 2 adults/hill or 5 adults/m2, do dusting of Malathion 5% @ 10kg/acre or spray Etofenprox 10 EC @ Gramin Krishi Mausam Sewa India Meteorological Department Orissa University of Agriculture and Technology, Regional Research & Technology Transfer Sub Station, Kirei, Sundergarh -770073 200ml/acre or Chloropyriphos 20% EC @1000ml/acre."
+            "The timely sown crop when more than 85% panicle turns yellow than go for harvesting the crop and dry it under sun for 2 -3 days."
          ]
       },
-      "rabi crops": {
+      "mung": {
          "advisory": [
-            "For rabi crops, farmers can start their field operations in fallow fields in October month. Tractor drawn rotorator or cultivator can be used and shallow ploughing should be done. In October month, horsegram, moong, urd, toria, maize, sunflower and Forage crops can be taken."
+            "In November month, Mung variety like Tram -1, OUM 11 -5, Gramin Krishi Mausam Sewa India Meteorological Department. Treat the seeds with Carbendazim @ 2 g/kg of seeds. After seven days before sowing in the previous night go for Rhizobium treatment @ 20 g per kg of seeds. Also treat with Ammonium Molbdate @ 3 g per 10 kg of seeds for proper nodulation."
          ]
       },
       "wheat": {
          "advisory": [
-            "Collect good quality seeds like UP 262. Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+            "Collect good quality seeds like UP 262, Kalyansona. Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry undr shed. The fertilizer dose at the final land preparation is 5 t FYM, 24 - 24 - 48 kg NPK per acre."
          ]
       },
       "mustard": {
          "advisory": [
-            "Farmers who wish to cultivate mustard crop, may start sowing after preparation of the field and Select the improved seed, recommended for this region like Varuna, Pusa Bold, M 27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm. (Plant to plant)."
+            "In the residual soil moisture condition the toria seeds like Sushree, M 27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm. (Plant to plant)."
          ]
       },
-      "vegetable crop": {
+      "brinjal": {
          "advisory": [
-            "Prepare nursery for vegetable crops which provide high profit in rabi season like cauliflower, broccoli, beetroot, late cucumber, late bitter gourd crops in pro-tray or directly sow the seeds after preparation of the field."
-         ]
-      },
-      "animals": {
-         "advisory": [
-            "Give clean drinking water to animals and livestock and hygiene should be maintained."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "Give mineral feed @ 3 % of the body mass."
+            "There is chances of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG @ 80 g in 200 l of water/acre or carbaryl 50% WP @ 800 g in 200 l of water/acre."
          ]
       }
    },
-   "date": "29-10-2024"
+   "date": "05-11-2024"
 }

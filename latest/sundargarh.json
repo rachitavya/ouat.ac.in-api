@@ -1,88 +1,91 @@
 {
    "weather_details": {
-      "30/10/2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 95,
-         "rh_min": 31,
-         "wind_speed": 2,
-         "wind_direction": 79,
-         "cloud_cover": 6
-      },
-      "31/10/2024": {
-         "rainfall": 1,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 94,
-         "rh_min": 31,
-         "wind_speed": 2,
-         "wind_direction": 79,
-         "cloud_cover": 5
-      },
-      "01/11/2024": {
+      "06/11/2024": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 92,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 53,
-         "cloud_cover": 5
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 82,
+         "rh_min": 42,
+         "wind_speed": 3,
+         "wind_direction": 40,
+         "cloud_cover": 4
       },
-      "02/11/2024": {
+      "07/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 83,
+         "rh_min": 43,
+         "wind_speed": 4,
+         "wind_direction": 34,
+         "cloud_cover": 3
+      },
+      "08/11/2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 23,
+         "t_min": 19,
          "rh_max": 86,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 39,
-         "cloud_cover": 4
-      },
-      "03/11/2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 78,
-         "rh_min": 32,
-         "wind_speed": 2,
+         "rh_min": 44,
+         "wind_speed": 4,
          "wind_direction": 31,
-         "cloud_cover": 4
+         "cloud_cover": 3
+      },
+      "09/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 86,
+         "rh_min": 43,
+         "wind_speed": 4,
+         "wind_direction": 31,
+         "cloud_cover": 2
+      },
+      "10/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 83,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 49,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
+      "mung",
       "wheat",
+      "potato",
       "mustard",
-      "maize",
       "brinjal",
-      "horsegram",
-      "moong",
-      "urd",
-      "toria",
-      "sunflower"
+      "animals",
+      "pisciculture"
    ],
-   "general_advisory": "Due to forecast of very light rainfall, the harvesting of crops be postponed for few days. Go for sowing of rabi crops. In case of moisture stress in pockets, foliar application of 1% KCL solution at reproductive stages will reduce the impact of moisture condition without much loss in yield.",
+   "general_advisory": "In case of moisture stress in pockets, foliar application of 1% KCL solution at reproductive stages will reduce the impact of moisture condition without much loss in yield. For rabi crops, farmers can start their field operations in fallow fields in November month. Tractor drawn rotavator or cultivator can be used and shallow ploughing should be done.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In case of Neck Blast incidence spraying of Carbendazim 50 WP @ 2 g/liter or Tricyclazole 75 WP @ 0.6 g/lit of water may be done for controlling the disease. Farmers are advised to broadcast Utera Crop on standing paddy crop 15-20 days before harvesting."
+            "The timely sown crop when more than 85% panicle turns yellow than go for harvesting the crop and dry it under sun for 2 -3 days."
+         ]
+      },
+      "mung": {
+         "advisory": [
+            "In November month, Mung variety like Tram -1, OUM 11 -5, Hum -1, IP14 -02, IP -02-03 of 8 -10 kg per care is to be sown."
          ]
       },
       "wheat": {
          "advisory": [
-            "Collect good quality seeds like UP 262. Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+            "Collect good quality seeds like UP 262 , Kalyansona . Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry undr shed. The fertilizer dose at the final land preparation is 5 t FYM, 24 -24-48 kg NPK per acre."
          ]
       },
       "mustard": {
          "advisory": [
-            "Farmers who wish to cultivate mustard crop, may start sowing after preparation of the field and Select the improved seed, recommended for this region like Varuna, Pusa Bold, M 27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm. (Plant to plant)."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "To control fall army worm farmers are advised to spray emmamectin benzoate 5SG @ 0.4 g/l of water."
+            "In the residual soil moisture condition the toria seeds like Sushree, M 27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm."
          ]
       },
       "brinjal": {
@@ -90,31 +93,16 @@
             "There is chances of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG @ 80 g in 200 l of water/acre or carbaryl 50% WP @ 800 g in 200 l of water/acre."
          ]
       },
-      "horsegram": {
+      "animals": {
          "advisory": [
-            "Advice for horsegram crop."
+            "Prepare the animal shed from the upcoming decreased temperature."
          ]
       },
-      "moong": {
+      "pisciculture": {
          "advisory": [
-            "Advice for moong crop."
-         ]
-      },
-      "urd": {
-         "advisory": [
-            "Advice for urd crop."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "Advice for toria crop."
-         ]
-      },
-      "sunflower": {
-         "advisory": [
-            "Advice for sunflower crop."
+            "Give mineral feed @ 3 % of the body mass."
          ]
       }
    },
-   "date": "29-10-2024"
+   "date": "05-11-2024"
 }

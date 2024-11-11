@@ -1,104 +1,102 @@
 {
    "weather_details": {
-      "30/10/2024": {
-         "rainfall": 8,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 93.9,
-         "rh_min": 69.2,
-         "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 7
-      },
-      "31/10/2024": {
-         "rainfall": 0.1,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 91.5,
-         "rh_min": 57.6,
-         "wind_speed": 5,
-         "wind_direction": 261,
-         "cloud_cover": 6
-      },
-      "01/11/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 91.7,
-         "rh_min": 67.7,
-         "wind_speed": 5,
-         "wind_direction": 91,
-         "cloud_cover": 6
-      },
-      "02/11/2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 91.5,
-         "rh_min": 57.6,
-         "wind_speed": 6,
-         "wind_direction": 6,
-         "cloud_cover": 1
-      },
-      "03/11/2024": {
-         "rainfall": 0,
-         "t_max": 33,
+      "06/11/2024": {
+         "rainfall": 2,
+         "t_max": 31,
          "t_min": 24,
-         "rh_max": 90.9,
-         "rh_min": 51.9,
-         "wind_speed": 5,
-         "wind_direction": 310,
-         "cloud_cover": 1
+         "rh_max": 84,
+         "rh_min": 57,
+         "wind_speed": 10,
+         "wind_direction": 3,
+         "cloud_cover": 5
+      },
+      "07/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 59,
+         "wind_speed": 10,
+         "wind_direction": 11,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
       "rabi pulses",
-      "oilseeds",
-      "vegetables",
+      "sugarcane",
       "green gram",
       "black gram",
-      "cowpea",
-      "field pea",
-      "lentil",
       "groundnut",
-      "toria",
-      "sunflower"
+      "brinjal",
+      "tomato",
+      "chilli",
+      "marigold",
+      "rose",
+      "fisheries"
    ],
-   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Toria and Sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
+   "general_advisory": "Harvest rice crops which have reached 85% maturity and dry to 14% moisture. Grow short-duration Rabi crops and conduct pest surveillance regularly. Apply micronutrients for micronutrient deficiency.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Flowering to Physiological maturity stage - Control ear head caterpillar by spraying Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. Spray in the evening hours for better results.",
-            "Gundhi Bug Management - Control Gundhi Bug by spraying Chlorpyriphos 20% EC @ 400 ml/acre in water."
+            "Do proper field surveillance for pests and diseases regularly and take appropriate plant protection measures accordingly."
          ]
       },
-      "groundnut": {
+      "rabi pulses": {
          "advisory": [
-            "Physiological maturity stage/Harvesting stage - Store groundnut in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250 grams/30 kg of seeds."
+            "Farmers are advised to grow short-duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil using available soil moisture."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Ripening stage - Manage internode borer using Trichogramma chilonis card at weekly intervals. Spray Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre."
+            "Sugarcane is at grand growth stage to ripening stage."
          ]
       },
-      "cucurbits": {
+      "green gram": {
          "advisory": [
-            "Vegetative to Fruiting - Control fruit fly by preparing a poison bait with Jaggery and DDVP in water."
+            "Grow high yielding varieties like T 9, PU 11, PU 19 and PU 30 for green gram."
          ]
       },
-      "cole crop": {
+      "black gram": {
          "advisory": [
-            "Vegetative stage - Management includes proper Fertilizer Management and spraying of Boron micronutrient."
+            "Grow high yielding varieties like T 9, PU 11, PU 19 and PU 30 for black gram."
          ]
       },
-      "marigold & rose": {
+      "groundnut": {
          "advisory": [
-            "To manage Red Spider Mites in Marigold and Rose, spray wettable sulphur 80% WP or Fenpyroximate 5% EC in water."
+            "Use groundnut varieties suitable to Odisha conditions like Kalinga groundnut 101, Devi, for one acre 40 kernel is required."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of Plantomycin."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of Plantomycin."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage thrips infestation, install Blue sticky traps at 8 nos./acre."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Marigold and Rose, spray wettable sulphur 80% WP."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Marigold and Rose, spray wettable sulphur 80% WP."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, various fungal, bacterial, and parasitic diseases may appear in fish. Treat the pond with CIFAX."
          ]
       }
    },
-   "date": "29-10-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "05-11-2024"
 }

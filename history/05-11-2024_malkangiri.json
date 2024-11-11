@@ -1,0 +1,111 @@
+{
+   "weather_details": {
+      "06-11-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 89,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 3
+      },
+      "07-11-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 43,
+         "wind_speed": 4,
+         "wind_direction": 75,
+         "cloud_cover": 3
+      },
+      "08-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 93,
+         "rh_min": 44,
+         "wind_speed": 4,
+         "wind_direction": 73,
+         "cloud_cover": 4
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 93,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 75,
+         "cloud_cover": 4
+      },
+      "10-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 43,
+         "wind_speed": 4,
+         "wind_direction": 70,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "pulses",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "cow",
+      "buffalo"
+   ],
+   "general_advisory": "Based on five days weather forecast, farmers are advised to continue intercultural operations, harvest mature produces, prepare for rabi crops, transplant mature seedlings, conduct regular surveillance for pests, sow horse gram & bengal gram, treat seeds, spray control measures for various pests, start land preparation and sowing of crops for optimum yield, and take care of livestock.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120 g/ac).",
+            "To control steam borer & leaf folder spray chlorpyriofos/profenofos @ 2 ml/ l of water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water to control infestation of American cob borer."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram. Hence, farmers are advised to sow the seeds depending upon moisture status of the soil. Before sowing, seeds should be treated with fungicide followed by Rhizobium culture @ 20g/kg seed to enhance nodulation."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at seedling stage."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Prepare nursery beds, apply well decomposed FYM and chlorpyriphos dust, sow seeds of specified varieties."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Prepare nursery beds, apply well decomposed FYM and chlorpyriphos dust, sow seeds of specified varieties."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

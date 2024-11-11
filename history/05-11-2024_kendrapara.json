@@ -1,0 +1,147 @@
+{
+   "weather_details": {
+      "06/11/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 57,
+         "wind_speed": 10,
+         "wind_direction": 3,
+         "cloud_cover": 5
+      },
+      "07/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 59,
+         "wind_speed": 10,
+         "wind_direction": 9,
+         "cloud_cover": 4
+      },
+      "08/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 60,
+         "wind_speed": 9,
+         "wind_direction": 3,
+         "cloud_cover": 4
+      },
+      "09/11/2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 53,
+         "wind_speed": 12,
+         "wind_direction": 14,
+         "cloud_cover": 4
+      },
+      "10/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 60,
+         "wind_speed": 9,
+         "wind_direction": 3,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
+      "sugarcane",
+      "green gram",
+      "black gram",
+      "groundnut",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "marigold",
+      "rose",
+      "fisheries"
+   ],
+   "general_advisory": "The general advisory includes information about harvesting crops, growing Rabi crops, field surveillance for pests and diseases, micronutrient deficiencies, and specific management practices for different crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Harvest rice crops which have reached 85% maturity and adjust moisture levels accordingly.",
+            "Grow short duration Rabi crops utilizing available soil moisture.",
+            "Perform regular field surveillance for pests and diseases.",
+            "Apply foliar spray of micronutrients in case of deficiencies."
+         ]
+      },
+      "rabi pulses": {
+         "advisory": [
+            "Grow short duration Rabi pulses in medium/shallow lowlands."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Sow oilseeds in appropriate conditions."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Plant vegetables in suitable locations."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Monitor sugarcane growth stages."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Use high-yielding varieties for green gram."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Use high-yielding varieties for black gram."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Select suitable groundnut varieties for planting."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Manage wilt and rot diseases in Brinjal and Tomato."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Manage wilt and rot diseases in Brinjal and Tomato."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control thrips infestation and apply necessary chemicals."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Manage Red Spider Mites in flower crops like Marigold and Rose."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Manage Red Spider Mites in flower crops like Marigold and Rose."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Treat fish ponds to prevent fungal, bacterial, and parasitic diseases during winters."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

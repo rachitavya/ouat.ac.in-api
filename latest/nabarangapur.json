@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "30-10-2024": {
-         "rainfall": 8,
-         "t_max": 32,
-         "t_min": 22,
-         "cloud_cover": 7,
-         "rh_max": 96,
-         "rh_min": 62,
-         "wind_speed": 3,
-         "wind_direction": 207
-      },
-      "31-10-2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 21,
-         "cloud_cover": 6,
-         "rh_max": 95,
-         "rh_min": 59,
-         "wind_speed": 2,
-         "wind_direction": 207
-      },
-      "01-11-2024": {
-         "rainfall": 1,
-         "t_max": 32,
-         "t_min": 21,
-         "cloud_cover": 5,
-         "rh_max": 94,
-         "rh_min": 54,
-         "wind_speed": 2,
-         "wind_direction": 211
-      },
-      "02-11-2024": {
+      "06-11-2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 21,
-         "cloud_cover": 4,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 43,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 4
+      },
+      "07-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 85,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 53,
+         "cloud_cover": 4
+      },
+      "08-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 89,
+         "rh_min": 49,
+         "wind_speed": 5,
+         "wind_direction": 51,
+         "cloud_cover": 3
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 19,
          "rh_max": 91,
          "rh_min": 48,
-         "wind_speed": 2,
-         "wind_direction": 166
+         "wind_speed": 4,
+         "wind_direction": 52,
+         "cloud_cover": 3
       },
-      "03-11-2024": {
+      "10-11-2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 22,
-         "cloud_cover": 4,
-         "rh_max": 86,
-         "rh_min": 40,
-         "wind_speed": 2,
-         "wind_direction": 81
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 88,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 51,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
@@ -60,66 +60,71 @@
       "cauliflower",
       "cabbage",
       "ginger",
-      "cow and buffalo"
+      "cow",
+      "buffalo"
    ],
-   "general_advisory": "Based on the weather forecast, farmers can continue intercultural operations, harvesting, and pesticide application. Start field preparation for rabi crops. Transplant seedlings and monitor insect pests for control strategies.",
+   "general_advisory": "Based on five days weather forecast, farmers can continue intercultural operations, harvesting of matured produces, and application of pesticides mixed with sticker as needed. Field preparation should be started for rabi crops. Regular surveillance for insect pests is recommended. Farmers are advised to transplant seedlings of various crops during clear weather.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Apply Tricyclazole for neck blast disease",
-            "Control steam borer & leaf folder with chlorpyriofos/profenofos",
+            "Apply Tricyclazole for neck blast disease management",
+            "Spray chlorpyriofos or profenofos to control steam borer & leaf folder",
             "Spray Imidachloprid to control BPH",
-            "For ear-cutting caterpillar, spray Quinalphos or Chlorpyriphos at the root zone"
+            "For ear cutting caterpillar control, spray Quinalphos or Chlorpyriphos at root zone in the morning"
          ]
       },
       "maize": {
          "advisory": [
-            "Apply Flubendiamide to control American Cob Borer infestation"
+            "Harvest cobs at maturity"
          ]
       },
       "pulses": {
          "advisory": [
-            "Current weather is favorable for sowing Horse gram & Bengal gram"
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram"
          ]
       },
       "mustard": {
          "advisory": [
-            "Start land preparation and sowing",
-            "Use suitable mustard varieties",
+            "Start land preparation and sowing of suitable varieties",
             "Spray neem oil to control insects at seedling stage"
          ]
       },
       "turmeric": {
          "advisory": [
-            "Weed and apply urea and MoP per acre",
-            "Apply mulching"
+            "Go for weeding and apply urea and MoP per acre",
+            "Apply irrigation as there is insufficient rainfall"
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Prepare nursery beds with well-decomposed FYM and chlorpyriphos dust",
-            "Transplant seedlings of recommended varieties"
+            "Prepare nursery beds and sow seeds based on variety",
+            "Transplant seedlings during clear weather"
          ]
       },
       "cabbage": {
          "advisory": [
-            "Prepare nursery beds as for cauliflower",
-            "Transplant seedlings of recommended varieties"
+            "Prepare nursery beds and sow seeds based on variety",
+            "Transplant seedlings during clear weather"
          ]
       },
       "ginger": {
          "advisory": [
             "Complete 3rd weeding and top dressing",
-            "Soil drenching to control rhizome rot",
-            "Remove infected plants"
+            "Control rhizome rot using recommended solutions"
          ]
       },
-      "cow and buffalo": {
+      "cow": {
          "advisory": [
             "Regularly check for dehydration, heat stress, and parasitic infections",
-            "Deworm and vaccinate as needed"
+            "Deworm and vaccinate animals against common diseases"
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Regularly check for dehydration, heat stress, and parasitic infections",
+            "Deworm and vaccinate animals against common diseases"
          ]
       }
    },
-   "date": "29-10-2024"
+   "date": "05-11-2024"
 }

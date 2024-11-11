@@ -14,21 +14,41 @@
          "rainfall": 0.1,
          "t_max": 33,
          "t_min": 25,
-         "rh_max": 91.7,
-         "rh_min": 67.7,
+         "rh_max": 91.5,
+         "rh_min": 57.6,
          "wind_speed": 5,
-         "wind_direction": 260,
+         "wind_direction": 261,
          "cloud_cover": 6
       },
       "01/11/2024": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 24,
-         "rh_max": 91.1,
-         "rh_min": 61.3,
-         "wind_speed": 6,
-         "wind_direction": 261,
+         "t_min": 25,
+         "rh_max": 91.7,
+         "rh_min": 67.7,
+         "wind_speed": 5,
+         "wind_direction": 91,
          "cloud_cover": 6
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 91.5,
+         "rh_min": 57.6,
+         "wind_speed": 6,
+         "wind_direction": 6,
+         "cloud_cover": 1
+      },
+      "03/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 90.9,
+         "rh_min": 51.9,
+         "wind_speed": 5,
+         "wind_direction": 310,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
@@ -45,36 +65,37 @@
       "toria",
       "sunflower"
    ],
-   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Toria and Sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Flowering to physiological maturity stage - Ear Head Caterpillar: 400 ml/acre or Profenophos 50 % EC @ 400 ml/acre. As the pest is nocturnal in behavior, spraying of pesticide should be done in the evening hours for better results. Gundhi Bug Management: 50 % EC @ 400 ml/acre by mixing in 200-liter of water."
+            "Flowering to Physiological maturity stage - Control ear head caterpillar by spraying Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. Spray in the evening hours for better results.",
+            "Gundhi Bug Management - Control Gundhi Bug by spraying Chlorpyriphos 20% EC @ 400 ml/acre in water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Physiological maturity stage/Harvesting stage - Storage: Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250-gram/30 box."
+            "Physiological maturity stage/Harvesting stage - Store groundnut in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250 grams/30 kg of seeds."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Ripening stage - Internode borer management: Weekly interval for 6 times by splitting each card into 12 pieces. To manage the pest chemically, spray Fipronil @ 600-ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 liters."
+            "Ripening stage - Manage internode borer using Trichogramma chilonis card at weekly intervals. Spray Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre."
          ]
       },
       "cucurbits": {
          "advisory": [
-            "Vegetative to fruiting - Fruit fly: Malathion flies will be attracted to this and eventually get killed by falling into the poison baits."
+            "Vegetative to Fruiting - Control fruit fly by preparing a poison bait with Jaggery and DDVP in water."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Vegetative stage - Fertilizer Management: 20 DAT and 33 kg of urea and 23 kg of MOP per acre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+            "Vegetative stage - Management includes proper Fertilizer Management and spraying of Boron micronutrient."
          ]
       },
       "marigold & rose": {
          "advisory": [
-            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP @ 2 ml/litre of water or Fenpyroximate 5 % EC @ 2 ml/litre of water."
+            "To manage Red Spider Mites in Marigold and Rose, spray wettable sulphur 80% WP or Fenpyroximate 5% EC in water."
          ]
       }
    },

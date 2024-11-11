@@ -56,8 +56,7 @@
       "raikia beans",
       "pointed gourd",
       "maize",
-      "mustard",
-      "fishery"
+      "mustard"
    ],
    "general_advisory": "Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Harvesting the matured crops and dispose it immediately. Farmers are advised to check their WhatsApp and messages to get crop weather related information.",
    "crops_data": {
@@ -76,7 +75,7 @@
       "pointed gourd": {
          "advisory": [
             "Harvest the matured crops from field.",
-            "Remove the damaged crop if infected due to any standing water in the field.",
+            "Remove the damaged crop if infected due to any standing water in the field",
             "Sanitize the field."
          ]
       },
@@ -91,13 +90,7 @@
             "Sowing",
             "It can be broadcasted in the fine tilth soil.",
             "Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha.",
-            "Zn application of ZnSO4 @37.5 kg/ ha will increase the yield."
-         ]
-      },
-      "fishery": {
-         "advisory": [
-            "Excess of water may occur due to heavy to very heavy rainfall.",
-            "Apply lime in the pond if water is muddy."
+            "Zn application of ZnSO4 @37.5 kg/ha will increase the yield."
          ]
       }
    },

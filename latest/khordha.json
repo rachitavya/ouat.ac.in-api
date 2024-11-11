@@ -1,94 +1,107 @@
 {
    "weather_details": {
-      "30/10/2024": {
-         "rainfall": 4,
+      "06/11/2024": {
+         "rainfall": 0,
          "t_max": 32,
-         "t_min": 25,
-         "rh_max": 94.3,
-         "rh_min": 66,
-         "wind_speed": 3,
-         "wind_direction": 15.9,
-         "cloud_cover": 8
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 51,
+         "wind_speed": 6,
+         "wind_direction": 357,
+         "cloud_cover": 5
       },
-      "31/10/2024": {
+      "07/11/2024": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 24,
-         "rh_max": 93.4,
-         "rh_min": 65,
-         "wind_speed": 2,
-         "wind_direction": 239,
-         "cloud_cover": 0
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 357,
+         "cloud_cover": 4
       },
-      "01/11/2024": {
+      "08/11/2024": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 24,
-         "rh_max": 92.1,
-         "rh_min": 59,
-         "wind_speed": 3,
-         "wind_direction": 238,
-         "cloud_cover": 0
-      },
-      "02/11/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 92.7,
+         "t_min": 22,
+         "rh_max": 89,
          "rh_min": 55,
-         "wind_speed": 4,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "wind_speed": 8,
+         "wind_direction": 3,
+         "cloud_cover": 4
+      },
+      "09/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 3,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
+      "rabi pulses",
+      "groundnut",
       "green gram",
       "black gram",
-      "cowpea",
-      "field pea",
-      "lentil",
-      "groundnut",
-      "toria",
-      "sunflower",
-      "cucumber",
-      "cabbage",
+      "brinjal",
+      "tomato",
+      "chilli",
       "marigold",
       "rose"
    ],
-   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use groundnut varieties suitable to Odisha conditions like Devi (ICGV-91114), Kadri-6, Kadri-9, TG-50. To manage wilt and rot disease in brinjal and tomato, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water.",
+   "general_advisory": "Overall crop condition is normal. Harvest rice crops when mature. Sow short duration Rabi crops and perform field surveillance for pests and diseases regularly.",
    "crops_data": {
-      "paddy": {
+      "rabi pulses": {
          "advisory": [
-            "Crop Stage - PADDY: Flowering to Physiological maturity stage - Ear Head Caterpillar - To control ear head caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. As the pest is nocturnal in behavior, spraying of pesticide should be done in the evening hours for better results.",
-            "Gundhi Bug Management - To control Gundhi Bug, spray Chlorpyriphos 20% EC @ 400 ml/acre by mixing in 200 liters of water. Dusting of Chlorpyriphos 1.5% D @ 10 kg/acre or Malathion 5% D.P @ 10 kg/acre should be done uniformly during morning hours when there is no or minimum wind."
+            "Sow short duration Rabi crops"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Storage - Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250 grams/30 box. The sealed bags should be kept vertically inside a well-ventilated room at room temperature. This technique is very effective in maintaining high germination rate even after 8-10 months of storage."
+            "Use suitable groundnut varieties"
          ]
       },
-      "sugarcane": {
+      "green gram": {
          "advisory": [
-            "Ripening stage - Internode borer management - To manage the pest biological use Trichogramma chilonis card @ 1/acre at a weekly interval for 6 times by splitting each card into 12 pieces at the given perforations. To manage the pest chemically, spray Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 liters of water. Also, apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+            "Grow high yielding varieties",
+            "Treat seeds with Rhizobium culture"
          ]
       },
-      "cucurbits": {
+      "black gram": {
          "advisory": [
-            "Vegetative to Fruiting - Fruit fly - To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 gram Jaggery and 8 ml DDVP in 4-liter of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+            "Grow high yielding varieties",
+            "Treat seeds with Rhizobium culture"
          ]
       },
-      "cole crop": {
+      "brinjal": {
          "advisory": [
-            "Cauliflower and Cabbage - Vegetative stage - Fertilizer Management - Apply 33 kg of Urea and 23 kg MOP per acre after hoeing and hand weeding at 15-20 DAT and 33 kg of urea and 23 kg of MOP per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings, then spray Borax @ 4 kg/acre or Folibor/Solubor @ 1.5 gram/liter. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+            "Drench root zone to manage wilt and rot disease"
          ]
       },
-      "marigold & rose": {
+      "tomato": {
          "advisory": [
-            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80% WP @ 2 gram/liter of water or Propargite 57% EC @ 2 ml/liter of water or Fenpyroximate 5% EC @ 2 ml/liter of water."
+            "Drench root zone to manage wilt and rot disease"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Install Blue sticky trap for thrips infestation",
+            "Use chemical control for thrips"
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Manage Red Spider Mites with wettable sulphur or Propargite"
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Manage Red Spider Mites with wettable sulphur or Propargite"
          ]
       }
    },
-   "date": "29-10-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "06-11-2024"
 }

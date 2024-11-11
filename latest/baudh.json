@@ -1,99 +1,87 @@
 {
    "weather_details": {
-      "30-10-2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 96.4,
-         "rh_min": 63.9,
-         "wind_speed": 2,
-         "wind_direction": 158,
-         "cloud_cover": 6
-      },
-      "31-10-2024": {
+      "06-11-2024": {
          "rainfall": 0,
          "t_max": 33,
          "t_min": 22,
-         "rh_max": 95.3,
-         "rh_min": 60,
+         "rh_max": 87,
+         "rh_min": 42,
          "wind_speed": 2,
-         "wind_direction": 161,
-         "cloud_cover": 5
-      },
-      "01-11-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 94.1,
-         "rh_min": 52.9,
-         "wind_speed": 2,
-         "wind_direction": 90,
-         "cloud_cover": 5
-      },
-      "02-11-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 90.2,
-         "rh_min": 44.9,
-         "wind_speed": 2,
-         "wind_direction": 168,
+         "wind_direction": 162,
          "cloud_cover": 4
       },
-      "03-11-2024": {
+      "07-11-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 44,
+         "wind_speed": 2,
+         "wind_direction": 127,
+         "cloud_cover": 3
+      },
+      "08-11-2024": {
          "rainfall": 0,
          "t_max": 32,
          "t_min": 21,
-         "rh_max": 86.8,
-         "rh_min": 38.6,
+         "rh_max": 91,
+         "rh_min": 46,
          "wind_speed": 2,
-         "wind_direction": 170,
-         "cloud_cover": 4
+         "wind_direction": 121,
+         "cloud_cover": 3
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 2,
+         "wind_direction": 129,
+         "cloud_cover": 2
+      },
+      "10-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 90,
+         "rh_min": 40,
+         "wind_speed": 3,
+         "wind_direction": 124,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
       "cotton",
       "okra",
-      "cole crop",
-      "fruit crop"
+      "mango"
    ],
-   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 29-10-2024, there is no heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
+   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation during that period. Irrigation should be provided properly to different crops. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start sowing and planting of Cole crops where irrigation facilities are available. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
-            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
-            "Keep the harvested produce in safe places.",
-            "Regular monitoring against different pests and disease should be advised."
+            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
+            "To control Brown Plant Hopper(BPH), spray Triflumezopyrim 10% sc @94 ml/acre or Pymetrozine 50% WG @ 120g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidachloprid 17.8% SL @ 50 ml/acre or Flonicamid 50% WG 60g/acre."
          ]
       },
       "cotton": {
          "advisory": [
-            "Postpone all type of spraying and intercultural operations for some days.",
-            "Make provision to drain out excess water from field to avoid lodging of plant.",
-            "Farmers can harvest matured crop."
+            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG @ 4g or Profenophos 50% EC @ 30 ml in 10 litres of water under clear weather."
          ]
       },
       "okra": {
          "advisory": [
-            "Irrigation as well as chemical application is recommended in okra.",
-            "Farmers should make provision for proper drainage system."
+            "To control Fruit and shoot borer in Okra etc. spraying of Neem based pesticide 1500 ppm @600ml per acre should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC @ 70ml and Emamectin benzoate @ 80 g per acre at 15 days interval should be advised.",
+            "Farmers shouldn’t spray any chemical insecticides at flowering period."
          ]
       },
-      "cole crop": {
+      "mango": {
          "advisory": [
-            "Farmers should go for sowing and planting of Cole crop.",
-            "Make proper drainage channels in field to drain out excess water."
-         ]
-      },
-      "fruit crop": {
-         "advisory": [
-            "Planting of new plants is recommended.",
-            "Chemical application should be done before the occurrence of rainfall."
+            "In the old Mango orchard, training, pruning and cleaning of weed, diseased and infected branches and leaves should be advised. If leaf webber infestation occurs, then spraying of quinalfos 20 EC @ 2.5 ml per liter should be advised.",
+            "In newly planted mango orchard, if leaf cutting weevil attack is observed then farmers should spray Lambda cyhalothrin 5% EC @ 0.5 -1 ml per liter or Chloropyriphos 20 EC @ 2ml per liter or Spinosad 45% SC @ 0.4 ml per liter or quinalfos 20 EC @ 2 ml per liter to control this insect."
          ]
       }
    },
-   "date": "29-10-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "05-11-2024"
 }

@@ -53,7 +53,11 @@
    },
    "names_of_crops": [
       "rice",
-      "horticulture",
+      "brinjal",
+      "tomato",
+      "cauliflower",
+      "onion",
+      "marigold",
       "cow",
       "common fish"
    ],
@@ -61,21 +65,37 @@
    "crops_data": {
       "rice": {
          "advisory": [
-            "If population of Brown Plant Hopper (BPH) exceeds economic threshold level (ETL) (i.e., 5-10 hoppers/hill), it is advised to alter the micro-climate of the rice field by alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20 % SG @ 80 g/acre or Flonicamid 50 % WG @ 60- gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant for control of above pests. Avoid using nitrogenous fertilizers during infestation of BPH. To control Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-ml/acre or Azoxystrobin+ Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre."
+            "If population of Brown Plant Hopper (BPH) exceeds economic threshold level (ETL) (i.e., 5-10 hoppers/hill), it is advised to alter the micro-climate of the rice field by alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Flonicamid 50% WG @ 60-gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant for control of above pests. Avoid using nitrogenous fertilizers during infestation of BPH. To control Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-ml/acre or Azoxystrobin+ Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre."
          ]
       },
-      "horticulture": {
+      "brinjal": {
          "advisory": [
-            "To control Phomopsis Blight disease in Brinjal spray Metalaxyl 8%+ Mancozeb 64 % WP @ 400 gram/acre or Propineb 70 % WP @ 400-gram/acre.",
-            "For Tomato apply 20 kg Urea, 52 Kg DAP  and 20Kg MOP  as basal fertilizer and maintain row to row spacing of 60 cm and plant to plant spacing of 45 cm.",
-            "Apply 33-kg of Urea and 23 kg MOP  per acre after hoeing and hand weeding at 15-20 DA T and 33 kg of urea and 23-kg of MOP  per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation.",
-            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2 g/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3 g/ kg of seeds. To prevent Damping of disease in nursery , drench the nursery bed with Carbendazim @ 2-gram/litre of water at 15 days interval. Seedlings of 8 weeks old are planted in the main field.",
-            "To manage Red Spider Mites in Marigold and rose spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57 % EC (Omite/Mitekill/Super Dynamite) @ 2-ml/litre of water or Fenpyroximate 5 % EC (Seagate/Mitigate/Formite) @ 2-ml/litre of water."
+            "To control Phomopsis Blight disease in Brinjal spray Metalaxyl 8%+ Mancozeb 64% WP @ 400 gram/acre or Propineb 70% WP @ 400-gram/acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "For Tomato apply 20 kg Urea, 52 Kg DAP  and 20Kg MOP  as basal fertilizer and maintain row to row spacing of 60 cm and plant to plant spacing of 45 cm."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply 33-kg of Urea and 23 kg MOP  per acre after hoeing and hand weeding at 15-20 DAT and 33 kg of urea and 23-kg of MOP  per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2 g/ per kg of seeds or Carboxin 37.5% + Thiram 37.5% D.S @ 3 g/ kg of seeds. To prevent Damping of f disease in nursery, drench the nursery bed with Carbendazim @ 2-gram/litre of water at 15 days interval. Seedlings of 8 weeks old are planted in the main field."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57 % EC (Omite/Mitekill/Super Dynamite) @ 2-ml/litre of water or Fenpyroximate 5 % EC (Seagate/Mitigate/Formite) @ 2-ml/litre of water."
          ]
       },
       "cow": {
          "advisory": [
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       },
       "common fish": {

@@ -1,82 +1,120 @@
 {
    "weather_details": {
-      "05.11.2024": {
+      "20-11-2024": {
          "rainfall": 0,
          "t_max": 30,
-         "t_min": 20,
-         "rh_max": 90,
-         "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 180,
-         "cloud_cover": 4
+         "t_min": 14,
+         "rh_max": 76,
+         "rh_min": 37,
+         "wind_speed": 4,
+         "wind_direction": 322,
+         "cloud_cover": 2
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 315,
+         "cloud_cover": 1
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 319,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 35,
+         "wind_speed": 4,
+         "wind_direction": 323,
+         "cloud_cover": 2
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 71,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 325,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "sugarcane",
-      "onion",
-      "french bean",
+      "black gram",
+      "green gram",
+      "mustard",
+      "sesame",
+      "brinjal",
+      "tomato",
       "cabbage",
       "cauliflower",
-      "potato",
-      "marigold",
-      "rose",
-      "fisheries",
-      "animal husbandry"
+      "cucurbits",
+      "banana"
    ],
-   "general_advisory": "For better agricultural benefits use OUAT KALINGA products. Animals should be given mineral mixture along with salt regularly during winter season.",
+   "general_advisory": "Now it is right time to take up Paira crop which can be sown 15 days before harvesting of paddy. Continue the harvest of medium duration paddy. Store the harvested grains after sun drying for 2 to 3 days in HDPE bags. To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cabbage, Chilly & tomato spray 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water.",
    "crops_data": {
-      "sugarcane": {
+      "black gram": {
          "advisory": [
-            "To prevent Scale insect infestation use Trichogramma chilonis card @ 1-2/acre at weekly interval for 6 times by splitting each card into 12 pieces at the given perforations.",
-            "Spray Metarhizium anisopilae @ 1 Kg/acre by mixing with 200 litres of water.",
-            "For chemical control, apply Thiamethoxam 25% WG @ 60g/acre or Imidacloprid 17.8% SL @ 60 ml/acre or Ace tamiprid 20% SP @60g/acre by mixing with 200 litres of water."
+            "Vegetative stage"
          ]
       },
-      "onion": {
+      "green gram": {
          "advisory": [
-            "Onion varieties like Agrifound light Red, Agrifound Dark Red, Bhima Shakti, Bhima Super etc are suitable for Odisha condition during winter season."
+            "Vegetative stage"
          ]
       },
-      "french bean": {
+      "mustard": {
          "advisory": [
-            "For cultivation of French bean 20-30 kg seed for bush varieties and 10-12 kg seed for tall varieties is required per acre. Before 7 days of sowing treat it with Carbendazim @ 2 g or Carboxin 37.5% + Thiram 37.5% @ 2 g per kg of seed."
+            "Vegetative stage"
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative to Fruiting stage"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage"
          ]
       },
       "cabbage": {
          "advisory": [
-            "Maintain row to row spacing of 60 cm and plant to plant spacing of 30 cm for early maturing varieties. For medium and late duration varieties maintain row to row spacing of 60-75 cm and plant to plant spacing of 40-45 cm. Seedlings should be transplanted in the afternoon hours."
+            "Vegetative stage"
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Maintain row to row spacing of 60 cm and plant to plant spacing of 30 cm for early maturing varieties. For medium and late duration varieties maintain row to row spacing of 60-75 cm and plant to plant spacing of 40-45 cm. Seedlings should be transplanted in the afternoon hours."
+            "Vegetative stage"
          ]
       },
-      "potato": {
+      "cucurbits": {
          "advisory": [
-            "Treat the seeds before planting by dipping them in a solution of Carbendazim 25% + Mancozeb 50% WS. Dry the seeds for 2-4 hours before planting."
+            "Fruiting Stage"
          ]
       },
-      "marigold": {
+      "banana": {
          "advisory": [
-            "To control Red Spider Mites in Marigold, spray Propargite 57% EC @ 2 ml/litre of water or Fenpyroximate 5% EC @ 2 ml/litre of water."
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "To control Red Spider Mites in Rose, spray Propargite 57% EC @ 2 ml/litre of water or Fenpyroximate 5% EC @ 2 ml/litre of water."
-         ]
-      },
-      "fisheries": {
-         "advisory": [
-            "During winters, various fungal, bacterial, and parasitic diseases may appear in the fish. Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1-2 kg/acre or limestone @ 50-100 kg/acre. Salt application @ 100 kg/acre also helps in protecting fish against disease outbreak during winters."
-         ]
-      },
-      "animal husbandry": {
-         "advisory": [
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery, etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
+            "Planting stage"
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

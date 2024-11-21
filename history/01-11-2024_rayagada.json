@@ -11,7 +11,7 @@
          "cloud_cover": 6
       },
       "2024-11-03": {
-         "rainfall": 0.6,
+         "rainfall": 0,
          "t_max": 32,
          "t_min": 22,
          "rh_max": 94,
@@ -21,7 +21,7 @@
          "cloud_cover": 5
       },
       "2024-11-04": {
-         "rainfall": 0.1,
+         "rainfall": 0,
          "t_max": 31,
          "t_min": 22,
          "rh_max": 94,
@@ -31,7 +31,7 @@
          "cloud_cover": 5
       },
       "2024-11-05": {
-         "rainfall": 0.1,
+         "rainfall": 0,
          "t_max": 31,
          "t_min": 22,
          "rh_max": 92,
@@ -41,7 +41,7 @@
          "cloud_cover": 4
       },
       "2024-11-06": {
-         "rainfall": 0.1,
+         "rainfall": 0,
          "t_max": 31,
          "t_min": 22,
          "rh_max": 92,
@@ -52,46 +52,43 @@
       }
    },
    "names_of_crops": [
-      "groundnut",
-      "horse gram",
-      "green gram",
-      "black gram",
-      "cowpea",
-      "sweet potato",
-      "sesame",
-      "cabbage",
-      "cauliflower",
-      "broccoli",
-      "brinjal",
-      "tomato",
+      "rice",
+      "cotton",
+      "horticulture",
       "chilli",
-      "capsicum",
-      "carrot",
-      "radish",
-      "onion",
-      "garlic",
-      "legumes",
-      "rose",
-      "beans"
+      "okra",
+      "onion"
    ],
-   "general_advisory": "Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame in upland/medium lands. It is optimum time for sowing of Vegetables like cole crops (Cabbage, late Cauliflower and Broccoli), Solanaceous vegetables (Brinjal, Tomato, Chilli and Capsicum). Go for planting of vegetables like Carrot, radish, late onion, garlic, legumes, etc. October -nov is the ideal time for hard pruning in rose to produce lots of flower buds on a well-spaced framework of branches. Go for nursery sowing of brinjal, tomato, cauliflower and sesame. Go for planting of cole crops. Cole crop seedlings are at 3-week stage in the nursery . Go for planting in the main field. The weather is optimum for beans planting.",
+   "general_advisory": "Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame in upland/medium lands. It is optimum time for sowing of Vegetables like cole crops (Cabbage, late Cauliflower and Broccoli), Solanaceous vegetables (Brinjal, Tomato, Chilli and Capsicum). Go for planting of vegetables like Carrot, radish, late onion, garlic, legumes, etc. October -nov is the ideal time for hard pruning in rose to produce lots of flower buds on a well-spaced framework of branches. Go for nursery sowing of brinjal, tomato, cauliflower and sesame. Go for planting of cole crops. Cole crop seedlings are at 3-week stage in the nursery. Go for planting in the main field. The weather is optimum for beans planting.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Sheath blight infestation may occur during this crop stage in paddy. To control sheath blight infestation in paddy, spray fungicide mixture Hexaconazole 5% + Validamycin 2.5% SC 400ml per acre @ 2ml/lit water or Propiconazole 13.9% + Difenconazole 13.9% EC 200ml per acre @ 1ml/lit of water."
+            "Sheath blight infestation may occur during this crop stage in paddy. To control sheath blight infestation in paddy spray fungicide mixture Hexaconazole 5% + Validamycin 2.5% SC 400ml per acre @ 2ml/lit water or Propiconazole 13.9% + Difenconazole 13.9% EC 200ml per acre @ 1ml/lit of water."
          ]
       },
       "cotton": {
          "advisory": [
-            "If there is infestation of sucking pest like Aphids and Jassids, Thrips and Mealybug in cotton crop, go for spraying of neem-based pesticide (Neem Oil 1500 PPM) @600-ml/acre by mixing it in 200-litre of water. If the sucking pest population found to be above ETL, spray Flonicamid 50% WG @ 60-gram/acre or Thiamethoxam 25% WG @ 40-gram /acre or Dinotefuran 20 % SG @ 80-gram/acre."
+            "If there is infestation of sucking pest like Aphids and Jassids, Thrips and Mealybug in cotton crop go for spraying of neem-based pesticide (Neem Oil 1500 PPM) @600-ml/acre by mixing it in 200-litre of water. If the sucking pest population found to be above ETL, spray Flonicamid 50% WG @ 60-gram/acre or Thiamethoxam 25% WG @ 40-gram /acre or Dinotefuran 20 % SG @ 80-gram/ acre."
          ]
       },
       "horticulture": {
          "advisory": [
-            "To control leaf eating caterpillar and fruit borer in Chilly apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water.",
-            "To control leaf eating caterpillar and fruit borer in Chilly apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water.",
-            "To prevent okra from stem & fruit borer apply 70 ml Spinosad or 60gm Ammonium benzoate in 200 liter of water per acre.",
-            "For onion use varieties like Agrifound light Red, Bhima Super , Bhima Red, Bhima Shakti and seed rate is 4-5 kg/ac. Cover the nursery to protect from sunrays and rain. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
+            "To control leaf eating caterpillar and fruit borer in Chilli apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in Chilli apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To prevent okra from stem & fruit borer apply 70 ml Spinosad or 60gm Ammonium benzoate in 200 liter of water per acre."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "For onion use varieties like Agrifound light Red, Bhima Super , Bhima Red, Bhima Shakti and seed rate is 4-5 kg/ac. Cover the nursery to protect from sun rays and rain. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
          ]
       }
    },

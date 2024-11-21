@@ -27,146 +27,79 @@
          "rh_max": 89,
          "rh_min": 55,
          "wind_speed": 8,
-         "wind_direction": 357,
+         "wind_direction": 3,
          "cloud_cover": 4
       },
       "09/11/2024": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 32,
          "t_min": 21,
          "rh_max": 91,
          "rh_min": 55,
          "wind_speed": 7,
          "wind_direction": 3,
          "cloud_cover": 4
-      },
-      "10/11/2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 90,
-         "rh_min": 48,
-         "wind_speed": 7,
-         "wind_direction": 3,
-         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "paddy",
       "rabi pulses",
-      "oilseeds",
-      "vegetables",
+      "groundnut",
       "green gram",
       "black gram",
-      "cowpea",
-      "tori",
       "brinjal",
       "tomato",
       "chilli",
       "marigold",
-      "rose",
-      "kalinga groundnut",
-      "devi",
-      "kadri-6",
-      "kadri-7",
-      "dharani"
+      "rose"
    ],
-   "general_advisory": "The mean maximum daily temperature was around 33.3°C with some light rainfall expected. Sowing of Rabi Pulses, Oilseeds & vegetables is ongoing. Farmers are advised to monitor pest and disease surveillance regularly.",
+   "general_advisory": "Overall crop condition is normal. Harvest rice crops when mature. Sow short duration Rabi crops and perform field surveillance for pests and diseases regularly.",
    "crops_data": {
-      "paddy": {
-         "advisory": [
-            "Harvest rice crops which have reached 85% maturity.",
-            "Monitor and manage Brown Plant Hopper (BPH) population.",
-            "Manage water levels in fields to control BPH.",
-            "Apply appropriate insecticides if BPH population is high."
-         ]
-      },
       "rabi pulses": {
          "advisory": [
-            "Grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Tori."
+            "Sow short duration Rabi crops"
          ]
       },
-      "oilseeds": {
+      "groundnut": {
          "advisory": [
-            "Sow suitable oilseed varieties in medium/shallow lowlands."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Sow vegetables utilizing available soil moisture."
+            "Use suitable groundnut varieties"
          ]
       },
       "green gram": {
          "advisory": [
-            "Use high-yielding varieties and treat seeds with Rhizobium culture."
+            "Grow high yielding varieties",
+            "Treat seeds with Rhizobium culture"
          ]
       },
       "black gram": {
          "advisory": [
-            "Use high-yielding varieties and treat seeds with Rhizobium culture."
-         ]
-      },
-      "cowpea": {
-         "advisory": [
-            "Sow cowpea in medium/shallow lowlands."
-         ]
-      },
-      "tori": {
-         "advisory": [
-            "Sow Tori in medium/shallow lowlands."
+            "Grow high yielding varieties",
+            "Treat seeds with Rhizobium culture"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Manage wilt and rot disease in Brinjal."
+            "Drench root zone to manage wilt and rot disease"
          ]
       },
       "tomato": {
          "advisory": [
-            "Manage wilt and rot disease in Tomato."
+            "Drench root zone to manage wilt and rot disease"
          ]
       },
       "chilli": {
          "advisory": [
-            "Manage thrips infestation in Chilli.",
-            "Install Blue sticky traps for thrips control."
+            "Install Blue sticky trap for thrips infestation",
+            "Use chemical control for thrips"
          ]
       },
       "marigold": {
          "advisory": [
-            "Manage Red Spider Mites in Marigold.",
-            "Use recommended pesticides for control."
+            "Manage Red Spider Mites with wettable sulphur or Propargite"
          ]
       },
       "rose": {
          "advisory": [
-            "Manage Red Spider Mites in Rose.",
-            "Use recommended pesticides for control."
-         ]
-      },
-      "kalinga groundnut": {
-         "advisory": [
-            "Use suitable varieties like Kalinga groundnut, Devi, Kadri-6, Kadri-7, Dharani."
-         ]
-      },
-      "devi": {
-         "advisory": [
-            "Use suitable varieties for groundnut planting."
-         ]
-      },
-      "kadri-6": {
-         "advisory": [
-            "Use suitable varieties for groundnut planting."
-         ]
-      },
-      "kadri-7": {
-         "advisory": [
-            "Use suitable varieties for groundnut planting."
-         ]
-      },
-      "dharani": {
-         "advisory": [
-            "Use suitable varieties for groundnut planting."
+            "Manage Red Spider Mites with wettable sulphur or Propargite"
          ]
       }
    },

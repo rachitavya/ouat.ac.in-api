@@ -1,49 +1,42 @@
 {
    "weather_details": {
-      "2022-10-01": {
-         "rainfall": 5,
-         "t_max": 28,
-         "t_min": 20,
+      "2022-01-01": {
+         "rainfall": 10,
+         "t_max": 25,
+         "t_min": 15,
          "rh_max": 80,
          "rh_min": 60,
-         "wind_speed": 10,
-         "wind_direction": 180,
+         "wind_speed": 15,
+         "wind_direction": 120,
          "cloud_cover": 4
       },
-      "2022-10-02": {
-         "rainfall": 2,
-         "t_max": 25,
-         "t_min": 18,
-         "rh_max": 75,
-         "rh_min": 55,
-         "wind_speed": 8,
-         "wind_direction": 200,
-         "cloud_cover": 6
+      "2022-01-02": {
+         "rainfall": 5,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 130,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
-      "wheat",
       "maize"
    ],
-   "general_advisory": "It is recommended to plant crops that require moderate rainfall and can tolerate varying temperatures.",
+   "general_advisory": "It is recommended to plant rice and maize in the current weather conditions",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Ensure proper water management during the growth stage.",
-            "Apply appropriate fertilizers based on soil nutrient content."
-         ]
-      },
-      "wheat": {
-         "advisory": [
-            "Monitor for pests and diseases regularly.",
-            "Harvest when the grains are fully matured to ensure quality."
+            "Plant rice in well-drained soil",
+            "Ensure adequate water supply for rice growth"
          ]
       },
       "maize": {
          "advisory": [
-            "Plant in well-drained soil to avoid waterlogging.",
-            "Provide adequate spacing between plants for optimal growth."
+            "Plant maize in an area with sufficient sunlight",
+            "Protect maize crops from pests and diseases"
          ]
       }
    },

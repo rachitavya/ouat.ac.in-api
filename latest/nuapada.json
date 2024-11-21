@@ -1,147 +1,183 @@
 {
    "weather_details": {
-      "02-11-2024": {
-         "rainfall": 0.4,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 85.3,
-         "rh_min": 39.9,
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 71,
+         "rh_min": 34,
          "wind_speed": 2,
-         "wind_direction": 296,
-         "cloud_cover": 4
+         "wind_direction": 307,
+         "cloud_cover": 0
       },
-      "03-11-2024": {
-         "rainfall": 0.1,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 73.6,
-         "rh_min": 36.3,
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 292,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 33,
          "wind_speed": 1,
-         "wind_direction": 0,
-         "cloud_cover": 4
+         "wind_direction": 304,
+         "cloud_cover": 1
       },
-      "04-11-2024": {
-         "rainfall": 0.1,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 73.8,
-         "rh_min": 35.3,
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 31,
          "wind_speed": 2,
-         "wind_direction": 258,
-         "cloud_cover": 3
+         "wind_direction": 281,
+         "cloud_cover": 0
       },
-      "05-11-2024": {
-         "rainfall": 0.2,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 73.9,
-         "rh_min": 36.5,
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 65,
+         "rh_min": 30,
          "wind_speed": 2,
-         "wind_direction": 225,
-         "cloud_cover": 3
-      },
-      "06-11-2024": {
-         "rainfall": 0.2,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 79.8,
-         "rh_min": 41.4,
-         "wind_speed": 1,
-         "wind_direction": 236,
-         "cloud_cover": 2
+         "wind_direction": 315,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "paddy",
       "cotton",
-      "mustard",
-      "toria",
-      "arhar",
-      "brinjal",
-      "chilli",
+      "greengram/blackgram",
+      "groundnut",
+      "mustard/toria",
+      "sunflower",
+      "cauliflower/cabbage/broccoli",
+      "onion",
+      "tomato",
+      "rose",
+      "marigold",
       "cattle",
       "buffalo",
       "goat",
       "sheep",
-      "poultry"
+      "poultry",
+      "duckery"
    ],
-   "general_advisory": "Harvest the matured vegetables & pulses and store in a safe place. Protect the vegetable nursery from rain. Start field preparation for rabi crops. Sow mustard, sarson, sunflower, field pea, carrot, radish. Broadcast pulses in matured rice crop. Deworm and vaccinate livestock. Maintain cleanliness in poultry houses.",
+   "general_advisory": "Based on the five-day weather forecast of IMD, farmers are advised to continue necessary agricultural activities, including weeding, fertilization, irrigation, harvesting and pesticide application. Undertake sowing of rabi crops like green gram, black gram, toria, chick pea, lentil, sunflower, groundnut, cowpea, field pea, etc. in medium or shallow low land to utilize the available soil moisture in the field. Pulses like lentil, black gram, green gram can be broadcasted as paira crop in the standing matured crop. Rouging of viral infested crop should be done in chilli, tomato & brinjal. Infected plants should be uprooted and buried in the soil. Apply Metalaxyl+Mancozeb and Plantomycine mixed with water to nurseries and at the root zone of the plant as precaution from wilting and root rot. The livestock and poultry shed need be repaired before winter to protect from low night temperature. Feed animals with a mixture of green grass + hay + minerals + dry feed.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Harvest paddy when 80-85% of grains are matured.",
-            "Dry paddy grains to 14% moisture for consumption and 12% for seed purposes.",
-            "Control BPH infestation by alternate wetting and drying techniques or specific pesticides."
+            "In early maturing varieties, harvest the crop when 80 -85% of the grains are matured either manually by sickle or by using combine harvester or reaper.",
+            "Drain out the water from paddy field, 15 days before harvesting the crop.",
+            "Store the harvested paddy in Super Grain bag for retaining the quality texture, colors, aroma, fragrance, and taste of the commodities for a longer period of time in a safer place."
          ]
       },
       "cotton": {
          "advisory": [
-            "Apply Emamectin benzoate or Profenophos for American bollworm control.",
-            "Control bacterial leaf blight with specific treatments.",
-            "Address grey mildew infestation with appropriate sprays."
+            "Picking should be done when there is complete bursting of bolls.",
+            "Dry the seed cotton on a concrete floor or tarpaulin sheets to reduce the moisture to 8-10%.",
+            "Store the seed cotton obtained from the 1st picking separately for getting a better price.",
+            "Foliar spray of liquid fertilizers like NPK -19-19-19 should be done for better plant growth and boll development.",
+            "Regular monitoring of the crop to know about the incidence of any new pest and diseases."
          ]
       },
-      "mustard": {
+      "greengram/blackgram": {
          "advisory": [
-            "Sow mustard from Mid-October to Mid-November.",
-            "Treat seeds with Thiram or Bavistin before sowing.",
-            "Use recommended varieties for best results."
+            "Suitable time for sowing green gram and black gram.",
+            "Treat the seeds with Thiram 50 WP or Carbendazim 50 WP before sowing.",
+            "Seed rate: 8-10 kg/acre.",
+            "Suitable varieties for green gram and black gram."
          ]
       },
-      "toria": {
+      "groundnut": {
          "advisory": [
-            "Follow similar sowing instructions as for mustard.",
-            "Use appropriate seed rates for optimal growth."
+            "Suitable time for sowing rabi groundnut.",
+            "Treat the seed with Carbendazim 25% + Mancozeb 50% WS before sowing.",
+            "Sowing of seeds should be done at afternoon hours.",
+            "Nutrient Management: Apply DAP, MOP, and Sulphur per acre before sowing."
          ]
       },
-      "arhar": {
+      "mustard/toria": {
          "advisory": [
-            "Control leaf webber, leaf folder, and defoliators with specific pesticides.",
-            "Manage pod borer infestation with neem-based pesticides."
+            "Weed Management: Apply Oxadiargyl 6% EC as pre-emergence or Quizalofop-ethyl 5% EC as post-emergence.",
+            "Additional advisory information."
          ]
       },
-      "brinjal": {
+      "sunflower": {
          "advisory": [
-            "Use pheromone traps for borer insect monitoring.",
-            "Control insects chemically with recommended sprays."
+            "Weed Management: Spray Pendimithalin 30% EC as pre-emergence herbicide.",
+            "Power weeding at 21-28 days before irrigation plays a significant role in managing the weeds."
          ]
       },
-      "chilli": {
+      "cauliflower/cabbage/broccoli": {
          "advisory": [
-            "Install traps for thrips monitoring.",
-            "Control thrips infestation with specific chemicals."
+            "Transplant the seedlings in the main field with proper spacing.",
+            "Before transplanting, apply Carbendazim + Mancozeb to seedlings.",
+            "Nutrient Management: Apply DAP, MOP, Urea, and Borax as basal at the time of transplanting."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Now is the suitable time for sowing onion.",
+            "Select suitable varieties for winter season.",
+            "Seed rate for onion."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Transplant the seedlings in the main field with proper spacing.",
+            "Before transplanting, treat the seedlings with solution of Bavistin and Plantomycin.",
+            "Nutrient Management: Apply DAP, MOP, Urea per acre."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Prevaling weather conditions may lead to Powdery mildew infestation. Control with Carbendazim 50% WP."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Pinching should be performed for better branching and yield."
          ]
       },
       "cattle": {
          "advisory": [
-            "Regularly deworm and vaccinate cattle and buffalo.",
-            "Consult with veterinary doctors for reproductive issues."
+            "Deworm the cattle and buffalo regularly.",
+            "Vaccinate animals against foot & mouth disease (FMD)."
          ]
       },
       "buffalo": {
          "advisory": [
-            "Similar care as for cattle."
+            "Repair the buffalo shed before winter season."
          ]
       },
       "goat": {
          "advisory": [
-            "Check animals for dehydration, heat stress, and parasitic infections.",
-            "Deworm and vaccinate animals appropriately."
+            "Repair the goat shed before winter season."
          ]
       },
       "sheep": {
          "advisory": [
-            "Similar care as for goats."
+            "Additional advisory information for sheep."
          ]
       },
       "poultry": {
          "advisory": [
-            "Use raised platforms and deep litter systems in poultry houses.",
-            "Maintain cleanliness and disinfect regularly.",
-            "Control stocking density to prevent stress and overheating."
+            "Take care of brooding management of chicks and ducklings during the winter season."
+         ]
+      },
+      "duckery": {
+         "advisory": [
+            "Additional advisory information for duckery."
          ]
       }
    },
-   "date": "01-11-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "19-11-2024"
 }

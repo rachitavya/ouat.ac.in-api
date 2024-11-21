@@ -1,130 +1,124 @@
 {
    "weather_details": {
-      "06-11-2024": {
+      "20-11-2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 19,
-         "rh_max": 80,
-         "rh_min": 43,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 72,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 51,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 70,
+         "rh_min": 29,
          "wind_speed": 2,
          "wind_direction": 76,
-         "cloud_cover": 4
+         "cloud_cover": 0
       },
-      "07-11-2024": {
+      "24-11-2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 19,
-         "rh_max": 85,
-         "rh_min": 45,
-         "wind_speed": 4,
-         "wind_direction": 53,
-         "cloud_cover": 4
-      },
-      "08-11-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 19,
-         "rh_max": 89,
-         "rh_min": 49,
-         "wind_speed": 5,
-         "wind_direction": 51,
-         "cloud_cover": 3
-      },
-      "09-11-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 19,
-         "rh_max": 91,
-         "rh_min": 48,
-         "wind_speed": 4,
-         "wind_direction": 52,
-         "cloud_cover": 3
-      },
-      "10-11-2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 18,
-         "rh_max": 88,
-         "rh_min": 43,
-         "wind_speed": 5,
-         "wind_direction": 51,
-         "cloud_cover": 4
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 70,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 60,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
-      "maize",
       "pulses",
+      "black gram",
+      "green gram",
+      "rabi groundnut",
       "mustard",
-      "turmeric",
-      "cauliflower",
-      "cabbage",
-      "ginger",
-      "cow",
-      "buffalo"
+      "beans",
+      "brinjal",
+      "chilli"
    ],
-   "general_advisory": "Based on five days weather forecast, farmers can continue intercultural operations, harvesting of matured produces, and application of pesticides mixed with sticker as needed. Field preparation should be started for rabi crops. Regular surveillance for insect pests is recommended. Farmers are advised to transplant seedlings of various crops during clear weather.",
+   "general_advisory": "No rainfall and dry weather expected during the next five days. Complete nursery sowing for winter vegetable crops. Go for sowing of pea, gram, and green gram as paira crop fifteen days prior to harvest of paddy in low land.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Apply Tricyclazole for neck blast disease management",
-            "Spray chlorpyriofos or profenofos to control steam borer & leaf folder",
-            "Spray Imidachloprid to control BPH",
-            "For ear cutting caterpillar control, spray Quinalphos or Chlorpyriphos at root zone in the morning"
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Harvest cobs at maturity"
+            "Keep water in the field up to grain filling stage.",
+            "Control stem borer infestation by spraying Chlorantraniliprole or Cartrap hydrochloride.",
+            "Control gundhi bug incidence by spraying Ethofenoprox.",
+            "Harvest rice when 80-85% grains in the panicles are matured."
          ]
       },
       "pulses": {
          "advisory": [
-            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram"
+            "Complete sowing of black gram and green gram in upland.",
+            "Use high yielding varieties and treat seeds with Rhizobium culture.",
+            "Apply urea, DAP, and MoP per acre during final land preparation."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Use high yielding varieties like T 9, PU 11, PU 19."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Use high yielding varieties like K 851, PDM 11, PDM 54, OUM 115.",
+            "Treat seeds with Rhizobium culture before sowing."
+         ]
+      },
+      "rabi groundnut": {
+         "advisory": [
+            "Go for land preparation and sowing of rabi groundnut at specified spacing with recommended seed rate.",
+            "Apply DAP, urea, MoP, zinc sulfate, and borax per acre along with seed treatment."
          ]
       },
       "mustard": {
          "advisory": [
-            "Start land preparation and sowing of suitable varieties",
-            "Spray neem oil to control insects at seedling stage"
+            "Start land preparation and sowing to get optimum yield.",
+            "Use suitable varieties and spray neem oil to control insects."
          ]
       },
-      "turmeric": {
+      "beans": {
          "advisory": [
-            "Go for weeding and apply urea and MoP per acre",
-            "Apply irrigation as there is insufficient rainfall"
+            "Sow high yielding varieties with specified seed rate and apply recommended fertilizers.",
+            "Use specific spacings and sow seeds accordingly."
          ]
       },
-      "cauliflower": {
+      "brinjal": {
          "advisory": [
-            "Prepare nursery beds and sow seeds based on variety",
-            "Transplant seedlings during clear weather"
+            "Apply urea and MoP per acre at specified stage.",
+            "Spray micronutrient mixture to get higher yield and control shoot borer."
          ]
       },
-      "cabbage": {
+      "chilli": {
          "advisory": [
-            "Prepare nursery beds and sow seeds based on variety",
-            "Transplant seedlings during clear weather"
-         ]
-      },
-      "ginger": {
-         "advisory": [
-            "Complete 3rd weeding and top dressing",
-            "Control rhizome rot using recommended solutions"
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "Regularly check for dehydration, heat stress, and parasitic infections",
-            "Deworm and vaccinate animals against common diseases"
-         ]
-      },
-      "buffalo": {
-         "advisory": [
-            "Regularly check for dehydration, heat stress, and parasitic infections",
-            "Deworm and vaccinate animals against common diseases"
+            "Spray recommended pesticides to control thrips in chilli."
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

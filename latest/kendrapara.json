@@ -1,102 +1,126 @@
 {
    "weather_details": {
-      "06/11/2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 84,
-         "rh_min": 57,
-         "wind_speed": 10,
-         "wind_direction": 3,
-         "cloud_cover": 5
-      },
-      "07/11/2024": {
+      "20/11/2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 85,
-         "rh_min": 59,
-         "wind_speed": 10,
-         "wind_direction": 11,
-         "cloud_cover": 4
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 76,
+         "rh_min": 42,
+         "wind_speed": 9,
+         "wind_direction": 335,
+         "cloud_cover": 1
+      },
+      "21/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 8,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 331,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
+      "paira",
       "paddy",
-      "rabi pulses",
-      "sugarcane",
-      "green gram",
-      "black gram",
-      "groundnut",
+      "winter vegetables",
       "brinjal",
-      "tomato",
+      "cauliflower",
+      "cabbage",
       "chilli",
-      "marigold",
-      "rose",
-      "fisheries"
+      "tomato",
+      "black gram",
+      "green gram",
+      "groundnut",
+      "sugarcane",
+      "pointed gourd",
+      "cole crops"
    ],
-   "general_advisory": "Harvest rice crops which have reached 85% maturity and dry to 14% moisture. Grow short-duration Rabi crops and conduct pest surveillance regularly. Apply micronutrients for micronutrient deficiency.",
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Rodent- If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents. Powdery mildew- There is a chance of powdery mildew disease in Black gram and Green gram...",
    "crops_data": {
+      "paira": {
+         "advisory": [
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+         ]
+      },
       "paddy": {
          "advisory": [
-            "Do proper field surveillance for pests and diseases regularly and take appropriate plant protection measures accordingly."
+            "Soft dough-Physiological maturity stage"
          ]
       },
-      "rabi pulses": {
+      "winter vegetables": {
          "advisory": [
-            "Farmers are advised to grow short-duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil using available soil moisture."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Sugarcane is at grand growth stage to ripening stage."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Grow high yielding varieties like T 9, PU 11, PU 19 and PU 30 for green gram."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Grow high yielding varieties like T 9, PU 11, PU 19 and PU 30 for black gram."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Use groundnut varieties suitable to Odisha conditions like Kalinga groundnut 101, Devi, for one acre 40 kernel is required."
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & Tomato apply 0.5 g Emamectin."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of Plantomycin."
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
          ]
       },
-      "tomato": {
+      "cauliflower": {
          "advisory": [
-            "To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of Plantomycin."
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
          ]
       },
       "chilli": {
          "advisory": [
-            "To manage thrips infestation, install Blue sticky traps at 8 nos./acre."
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
          ]
       },
-      "marigold": {
+      "tomato": {
          "advisory": [
-            "To manage Red Spider Mites in flowers like Marigold and Rose, spray wettable sulphur 80% WP."
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
          ]
       },
-      "rose": {
+      "black gram": {
          "advisory": [
-            "To manage Red Spider Mites in flowers like Marigold and Rose, spray wettable sulphur 80% WP."
+            "Seedling-vegetative stage"
          ]
       },
-      "fisheries": {
+      "green gram": {
          "advisory": [
-            "During winters, various fungal, bacterial, and parasitic diseases may appear in fish. Treat the pond with CIFAX."
+            "Seedling-vegetative stage"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Sowing stage"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Ripening stage",
+            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre"
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "Seedling-vegetative stage",
+            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Vegetative"
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

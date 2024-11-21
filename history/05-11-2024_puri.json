@@ -31,8 +31,8 @@
          "cloud_cover": 4
       },
       "09/11/2024": {
-         "rainfall": 2,
-         "t_max": 33,
+         "rainfall": 3,
+         "t_max": 32,
          "t_min": 23,
          "rh_max": 88,
          "rh_min": 59,
@@ -41,100 +41,241 @@
          "cloud_cover": 3
       },
       "10/11/2024": {
-         "rainfall": 1,
-         "t_max": 32,
+         "rainfall": 0,
+         "t_max": 33,
          "t_min": 23,
          "rh_max": 88,
          "rh_min": 53,
-         "wind_speed": 17,
-         "wind_direction": 14,
+         "wind_speed": 14,
+         "wind_direction": 12,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "paddy",
-      "gram",
+      "rice",
+      "medium duration paddy",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
+      "sugarcane",
+      "green gram",
       "black gram",
       "cowpea",
       "field pea",
+      "lentil",
       "groundnut",
+      "tori",
+      "paddy",
+      "bph",
+      "gundhi bug",
+      "high yielding varieties",
       "brinjal",
       "tomato",
+      "wilt",
+      "rot disease",
       "chilli",
+      "thrips infestation",
+      "blue sticky trap",
+      "red spider mites",
       "marigold",
       "rose",
-      "fisheries"
+      "fisheries",
+      "winters",
+      "fungal diseases",
+      "bacterial diseases",
+      "parasitic diseases",
+      "pond",
+      "cifax",
+      "limestone",
+      "potassium permanganate",
+      "salt"
    ],
-   "general_advisory": "Harvest rice crops at maturity stage, practice proper pest and disease surveillance, apply micronutrient spray for crops showing deficiency. Use appropriate pesticides for pest control, and manage diseases in fishponds during winters. Utilize OUAT KALINGA products for better agricultural benefits.",
+   "general_advisory": "Farmers are advised to harvest rice crops at maturity, grow short duration Rabi crops, conduct proper field surveillance for pests and diseases, and manage micronutrient deficiencies. Various specific advisories for different crops and activities have been provided.",
    "crops_data": {
-      "paddy": {
+      "rice": {
          "advisory": [
-            "Post-harvest drying of paddy grains is essential for consumption and seed purposes.",
-            "Grow short duration Rabi crops like green gram, black gram, cowpea, etc., in lowlands utilizing soil moisture."
+            "Harvest rice crops which have reached 85% maturity",
+            "Dry grains to appropriate moisture levels"
          ]
       },
-      "gram": {
+      "medium duration paddy": {
          "advisory": [
-            "Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30 for black gram.",
-            "Use 10 kg seeds/acre and treat seeds with Rhizobium culture before sowing."
+            "In physiological maturity stage"
+         ]
+      },
+      "rabi pulses": {
+         "advisory": [
+            "Grow short duration Rabi pulses"
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Sowing in progress"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Rabi vegetables cultivation ongoing"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "At grand growth stage to ripening stage"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pre sowing stage"
          ]
       },
       "black gram": {
          "advisory": [
-            "Select suitable groundnut varieties for Odisha like Kalinga groundnut 101, Devi, etc.",
-            "Adequate quantity of seed kernels is essential for planting."
+            "Pre sowing stage"
          ]
       },
       "cowpea": {
          "advisory": [
-            "No specific advisory available."
+            "Pre sowing stage"
          ]
       },
       "field pea": {
          "advisory": [
-            "No specific advisory available."
+            "Pre sowing stage"
+         ]
+      },
+      "lentil": {
+         "advisory": [
+            "Pre sowing stage"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Drench root zone with a solution to manage wilt and rot diseases.",
-            "Choose groundnut varieties suitable for Odisha conditions."
+            "Pre sowing stage"
+         ]
+      },
+      "tori": {
+         "advisory": [
+            "Pre sowing stage"
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Flowering to Physiological maturity stage"
+         ]
+      },
+      "bph": {
+         "advisory": [
+            "Management of Brown Plant Hopper"
+         ]
+      },
+      "gundhi bug": {
+         "advisory": [
+            "Gundhi Bug Management"
+         ]
+      },
+      "high yielding varieties": {
+         "advisory": [
+            "Grow high yielding varieties"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Drench root zone to manage wilt and rot diseases.",
-            "No specific advisory available."
+            "Seedling stage"
          ]
       },
       "tomato": {
          "advisory": [
-            "Drench root zone to manage wilt and rot diseases.",
-            "No specific advisory available."
+            "Seedling stage"
+         ]
+      },
+      "wilt": {
+         "advisory": [
+            "To manage wilt and rot disease"
+         ]
+      },
+      "rot disease": {
+         "advisory": [
+            "To manage wilt and rot disease"
          ]
       },
       "chilli": {
          "advisory": [
-            "Install Blue sticky trap for thrips control.",
-            "Use appropriate chemical sprays for thrips infestation."
+            "Vegetative to Fruiting stage"
+         ]
+      },
+      "thrips infestation": {
+         "advisory": [
+            "To manage thrips infestation"
+         ]
+      },
+      "blue sticky trap": {
+         "advisory": [
+            "Install Blue sticky trap"
+         ]
+      },
+      "red spider mites": {
+         "advisory": [
+            "To manage Red Spider Mites"
          ]
       },
       "marigold": {
          "advisory": [
-            "Spray wettable sulfur or propargite for Red Spider Mites control.",
-            "No specific advisory available."
+            "Vegetative to flowering"
          ]
       },
       "rose": {
          "advisory": [
-            "Spray wettable sulfur or propargite for Red Spider Mites control.",
-            "No specific advisory available."
+            "Vegetative to flowering"
          ]
       },
       "fisheries": {
          "advisory": [
-            "Treat ponds for fungal, bacterial, and parasitic diseases during winters.",
-            "Utilize CIFAX or limestone for disease prevention in fishponds."
+            "During winters, treat pond against diseases"
+         ]
+      },
+      "winters": {
+         "advisory": [
+            "Various diseases may appear in fish during winters"
+         ]
+      },
+      "fungal diseases": {
+         "advisory": [
+            "Treat the pond against fungal diseases"
+         ]
+      },
+      "bacterial diseases": {
+         "advisory": [
+            "Treat the pond against bacterial diseases"
+         ]
+      },
+      "parasitic diseases": {
+         "advisory": [
+            "Treat the pond against parasitic diseases"
+         ]
+      },
+      "pond": {
+         "advisory": [
+            "Use CIFAX or limestone for pond treatment"
+         ]
+      },
+      "cifax": {
+         "advisory": [
+            "Use CIFAX for pond treatment"
+         ]
+      },
+      "limestone": {
+         "advisory": [
+            "Use limestone for pond treatment"
+         ]
+      },
+      "potassium permanganate": {
+         "advisory": [
+            "Use potassium permanganate for pond treatment"
+         ]
+      },
+      "salt": {
+         "advisory": [
+            "Use salt for protecting fish against diseases in winters"
          ]
       }
    },

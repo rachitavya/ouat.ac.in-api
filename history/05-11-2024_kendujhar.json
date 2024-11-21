@@ -55,6 +55,7 @@
       "paddy",
       "linseed",
       "chickpea",
+      "greengram",
       "mustard and toria",
       "cauliflower",
       "brinjal",
@@ -70,15 +71,15 @@
             "Restrict the irrigation 10-15 days prior to harvesting of early paddy crops.",
             "Matured paddy crops can be harvested (early varieties) and sun dry it for 1-2 days.",
             "Some of the late maturing varieties are in grain filling stage. Irrigate the crop and maintain a water level of 5 cm in the field.",
-            "Gundhi bug infestation can be seen in the field. To minimize the Gundhi bug damage, spray Imidachloprid 17.8% SL @ 1 ml/lt.",
-            "Clean up the threshing floor to be used in the next few days."
+            "Gundhi bug infestation can be seen in the field. To minimise the Gundhi bug damage spray Imidacloprid 17.8% SL @ 1 ml/lt.",
+            "Clean up the threshing floor to be used in next few days."
          ]
       },
       "linseed": {
          "advisory": [
-            "Farmers interested in sowing linseed can broadcast the seeds in standing matured paddy crops.",
+            "Farmers interested to sow linseed can broadcast the seeds in standing matured paddy crops.",
             "Broadcast can be done 10-15 days prior to harvesting of paddy crops.",
-            "Do not broadcast the seeds in waterlogged conditions."
+            "Do not broadcast the seeds in waterlogged condition."
          ]
       },
       "chickpea": {
@@ -86,14 +87,20 @@
             "Prepare the land for sowing.",
             "The sowing activity can be resumed after proper land ploughing.",
             "Do not sow seeds in waterlogged condition.",
-            "Make sure to sow seeds at an optimum depth of 3-5 cm.",
-            "Irrigation should be provided after sowing."
+            "Make sure to sow seeds at optimum depth of 3-5 cm.",
+            "Irrigation should be provided after the sowing."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Seed treatment with Thiram or Captan @ 2g/kg seeds to be done before sowing.",
+            "Monitor the field for any pests and diseases."
          ]
       },
       "mustard and toria": {
          "advisory": [
             "Prepare the field for sowing of mustard and toria in the upcoming week.",
-            "Select disease and insect-free seeds for sowing.",
+            "Select the disease and insect-free seeds for sowing.",
             "Since the Mustard and Toria seeds are smaller in size, mix the seeds with sand to sow uniformly."
          ]
       },
@@ -101,7 +108,7 @@
          "advisory": [
             "Transplanting of Cauliflower can be done in the field.",
             "Remove excess water from the field.",
-            "Keep the field weed-free."
+            "Keep the field weed free."
          ]
       },
       "brinjal": {
@@ -113,7 +120,7 @@
       },
       "pumpkin": {
          "advisory": [
-            "Spraying of Insecticides and pesticides can be done in the early morning or evening hours.",
+            "Spraying of Insecticides and pesticides can be done in early morning or evening hours.",
             "Leaf blight disease in pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/lt of water."
          ]
       },
@@ -122,13 +129,13 @@
             "Provide irrigation to the banana crop in ring basin method.",
             "Staking should be done to the emerging bunch of banana plants.",
             "Harvested bunch should be kept at safe places away from the soil and water.",
-            "Spraying of Imidachloprid @ 1ml/lt can be used to reduce the whitefly and thrips infestation."
+            "Spraying of Imidacloprid @ 1ml/lt can be used to reduce the whitefly and thrips infestation."
          ]
       },
       "papaya": {
          "advisory": [
             "Remove weeds from the root zone of the plant.",
-            "Papaya ring spot virus can be managed by spraying Malathion or Imidachloprid @ 1ml/lt.",
+            "Papaya ring spot virus can be managed by spraying Malathion or Imidacloprid @ 1ml/lt.",
             "Irrigate the plant but be careful not to over-irrigate it."
          ]
       },

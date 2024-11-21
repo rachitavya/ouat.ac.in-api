@@ -52,31 +52,27 @@
       }
    },
    "names_of_crops": [
-      "arhar",
+      "mustard",
       "marigold",
       "maize",
       "rice",
-      "mustard",
-      "animal husbandry"
+      "arhar"
    ],
-   "general_advisory": "Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Farmers are advised to check their WhatsApp and messages to get crop weather-related information.",
+   "general_advisory": "Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Farmers are advised to check their WhatsApp and messages to get crop weather related information.",
    "crops_data": {
-      "arhar": {
+      "mustard": {
          "advisory": [
-            "Pod borer: In the primary stage, apply Azadirachtin 0.03% (300ppm) in every liter of water @5mg."
+            "Sowing: It can be broadcasted in the fine tilth soil. Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha. Zn application of ZnSO4 @37.5 kg/ha will increase the yield."
          ]
       },
       "marigold": {
          "advisory": [
-            "Make the soil fine tilth by pulverizing it 2-3 times.",
-            "During last ploughing, incorporate 25t/ha of FYM.",
-            "Apply 45:90:75 kg NPK/ha as basal."
+            "Make the soil fine tilth by pulverizing it 2-3 times. During last ploughing, incorporate 25t/ha of FYM. Apply 45:90:75 kg NPK/ha as basal."
          ]
       },
       "maize": {
          "advisory": [
-            "Maturity - Harvesting: Harvest the mature crops.",
-            "In case of fall army worm attack, apply Emamectin Benzoate @0.9gram liter of water."
+            "Maturity - Harvesting: Harvest the mature crops. In case of fall army worm attack, apply Emamectin Benzoate @0.9gram liter of water."
          ]
       },
       "rice": {
@@ -84,16 +80,9 @@
             "Booting stage: Apply final dose of fertilizer (potash and urea) by irrigating the field during flowering stage."
          ]
       },
-      "mustard": {
+      "arhar": {
          "advisory": [
-            "Sowing: It can be broadcasted in the fine tilth soil.",
-            "Basal application of FYM 25 ton and N 25 kg, P 60 kg/ha.",
-            "Zn application of ZnSO4 @37.5 kg/ha will increase the yield."
-         ]
-      },
-      "animal husbandry": {
-         "advisory": [
-            "Deworm the cattle in proper time to not let them weak and faint."
+            "Pod borer: In the primary stage, apply Azadirachtin 0.03% (300ppm) in every liter of water @5mg."
          ]
       }
    },

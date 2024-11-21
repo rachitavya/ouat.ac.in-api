@@ -56,12 +56,11 @@
       "groundnut",
       "chick"
    ],
-   "general_advisory": "Under clear sky conditions, adequate moisture in the soil for sowing of Rabi crops such as Groundnut, Green gram, Black gram, Cowpea, Sweet potato, Sesame, coriander and cole crops like cabbage, and cauliflower. Before winter vaccination should be done for PPR and FMD in dairy animals. Dry weather to very light rain is expected in the coming five days. There is a possibility of root rot in vegetable crops after rains, so after the rains, soak the roots of these crops with 20 grams of metalaxyl and mancozeb and 1.5 grams of streptocycline per 1 liter of water.",
+   "general_advisory": "Under clear sky conditions, adequate moisture in the soil for sowing of Rabi crops such as Groundnut, Green gram, Black gram, Cowpea, Sweet potato, Sesame, coriander and cole crops like cabbage, and cauliflower. Before winter vaccination should be done for PPR and FMP in dairy animals.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Leaf Folder and Caseworm pest infestation observed in some places. To control Leaf Folder and Caseworm pest biologically apply 2 no. of Trichogramma chilonis card per acre. In field move a string over the paddy crop by stretching at both the ends of the field. By this method, the larva of insects falls into the water and gets killed.",
-            "To manage Leaf Folder and Case Worm pests in paddy, spray Fipronil 5% SC @ 400-ml/acre or Profenophos 50% EC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
+            "Leaf Folder and Caseworm pest infestation observed in some places. To control Leaf Folder and Caseworm pest biologically apply 2 no. of Trichogramma chilonis card per acre. In field move a string over the paddy crop by stretching at both the ends of the field. By this method the larva of insects falls to the water and gets killed. To manage Leaf Folder and Case Worm pests in paddy, spray Fipronil 5% SC @ 400-ml/acre or Profenophos 50% EC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml/acre."
          ]
       },
       "groundnut": {

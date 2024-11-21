@@ -1,283 +1,93 @@
 {
    "weather_details": {
-      "06/11/2024": {
-         "rainfall": 3,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 55,
-         "wind_speed": 11,
-         "wind_direction": 9,
-         "cloud_cover": 5
-      },
-      "07/11/2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 57,
-         "wind_speed": 12,
-         "wind_direction": 10,
-         "cloud_cover": 4
-      },
-      "08/11/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 87,
-         "rh_min": 58,
-         "wind_speed": 13,
-         "wind_direction": 17,
-         "cloud_cover": 4
-      },
-      "09/11/2024": {
-         "rainfall": 3,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 88,
-         "rh_min": 59,
-         "wind_speed": 14,
-         "wind_direction": 12,
-         "cloud_cover": 3
-      },
-      "10/11/2024": {
+      "20/11/2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 88,
-         "rh_min": 53,
-         "wind_speed": 14,
-         "wind_direction": 12,
-         "cloud_cover": 2
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 75,
+         "rh_min": 38,
+         "wind_speed": 10,
+         "wind_direction": 356,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "rice",
-      "medium duration paddy",
+      "paira",
+      "paddy",
       "rabi pulses",
       "oilseeds",
       "vegetables",
-      "sugarcane",
-      "green gram",
       "black gram",
-      "cowpea",
-      "field pea",
-      "lentil",
+      "green gram",
       "groundnut",
-      "tori",
-      "paddy",
-      "bph",
-      "gundhi bug",
-      "high yielding varieties",
-      "brinjal",
-      "tomato",
-      "wilt",
-      "rot disease",
-      "chilli",
-      "thrips infestation",
-      "blue sticky trap",
-      "red spider mites",
-      "marigold",
-      "rose",
-      "fisheries",
-      "winters",
-      "fungal diseases",
-      "bacterial diseases",
-      "parasitic diseases",
-      "pond",
-      "cifax",
-      "limestone",
-      "potassium permanganate",
-      "salt"
+      "sugarcane",
+      "pointed gourd",
+      "cole crops",
+      "fisheries"
    ],
-   "general_advisory": "Farmers are advised to harvest rice crops at maturity, grow short duration Rabi crops, conduct proper field surveillance for pests and diseases, and manage micronutrient deficiencies. Various specific advisories for different crops and activities have been provided.",
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Keep the threshing floor clean. Rodent- If ‘Rodent/Rats’ problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents. Powdery mildew- There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% EC @ 300 ml/acre. Weed management - Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC @ 80ml/acre or Pendimethalin 30 % EC @ 1litre/acre or at 1-2 DAS. Apply herbicide when the soil is moist. Red Rot disease - For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre by mixing it in 200 litres of water. Downy mildew - To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre. Diamond Back Moth -To manage these pests install 6-8 nos of light traps per acre. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin 300 PPM @ 1 litre/acre by mixing it in 200 litres of water. Spray Tolfenpyrad 15 % EC @ 400 ml/acre or Flubendiamide 20 % WG @ 20 g/acre or Emamectin Benzoate 5 % SG @ @80 g/acre by mixing in 200 litres of water. Farmers are advised to keep the water depth up to 6 feet in the winter season. Feed intake of fish decreases with a decrease in temperature. Hence, it is essential to reduce the feeding rate by 75% depending on the temperature. Stop adding organic manures such as cow dung, poultry droppings in the pond.",
    "crops_data": {
-      "rice": {
+      "paira": {
          "advisory": [
-            "Harvest rice crops which have reached 85% maturity",
-            "Dry grains to appropriate moisture levels"
-         ]
-      },
-      "medium duration paddy": {
-         "advisory": [
-            "In physiological maturity stage"
-         ]
-      },
-      "rabi pulses": {
-         "advisory": [
-            "Grow short duration Rabi pulses"
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Sowing in progress"
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Rabi vegetables cultivation ongoing"
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "At grand growth stage to ripening stage"
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Pre sowing stage"
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Pre sowing stage"
-         ]
-      },
-      "cowpea": {
-         "advisory": [
-            "Pre sowing stage"
-         ]
-      },
-      "field pea": {
-         "advisory": [
-            "Pre sowing stage"
-         ]
-      },
-      "lentil": {
-         "advisory": [
-            "Pre sowing stage"
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Pre sowing stage"
-         ]
-      },
-      "tori": {
-         "advisory": [
-            "Pre sowing stage"
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
          ]
       },
       "paddy": {
          "advisory": [
-            "Flowering to Physiological maturity stage"
+            "Harvest matured paddy crop and store them in a safer place after 3-4 days sun drying."
          ]
       },
-      "bph": {
+      "rabi pulses": {
          "advisory": [
-            "Management of Brown Plant Hopper"
+            "Seed treatment is a must before sowing of rabi crops."
          ]
       },
-      "gundhi bug": {
+      "oilseeds": {
          "advisory": [
-            "Gundhi Bug Management"
+            "Seed treatment is a must before sowing of rabi crops."
          ]
       },
-      "high yielding varieties": {
+      "vegetables": {
          "advisory": [
-            "Grow high yielding varieties"
+            "To control leaf-eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & Tomato apply 0.5 g Emamectin Benzoate or 0.4 ml Spinosad per liter of water.",
+            "Farmers are advised to transplant 30-45 days old vegetable seedlings like Chilli, Tomato, Capsicum, Cabbage, Cauliflower, Brinjal etc. in the main field."
          ]
       },
-      "brinjal": {
+      "black gram": {
          "advisory": [
-            "Seedling stage"
+            "There is a chance of powdery mildew disease in Black gram."
          ]
       },
-      "tomato": {
+      "green gram": {
          "advisory": [
-            "Seedling stage"
+            "There is a chance of powdery mildew disease in Green gram."
          ]
       },
-      "wilt": {
+      "groundnut": {
          "advisory": [
-            "To manage wilt and rot disease"
+            "Groundnut is at sowing stage."
          ]
       },
-      "rot disease": {
+      "sugarcane": {
          "advisory": [
-            "To manage wilt and rot disease"
+            "Ripening stage."
          ]
       },
-      "chilli": {
+      "pointed gourd": {
          "advisory": [
-            "Vegetative to Fruiting stage"
+            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre."
          ]
       },
-      "thrips infestation": {
+      "cole crops": {
          "advisory": [
-            "To manage thrips infestation"
-         ]
-      },
-      "blue sticky trap": {
-         "advisory": [
-            "Install Blue sticky trap"
-         ]
-      },
-      "red spider mites": {
-         "advisory": [
-            "To manage Red Spider Mites"
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "Vegetative to flowering"
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "Vegetative to flowering"
+            "Cole crops are in the vegetative stage."
          ]
       },
       "fisheries": {
          "advisory": [
-            "During winters, treat pond against diseases"
-         ]
-      },
-      "winters": {
-         "advisory": [
-            "Various diseases may appear in fish during winters"
-         ]
-      },
-      "fungal diseases": {
-         "advisory": [
-            "Treat the pond against fungal diseases"
-         ]
-      },
-      "bacterial diseases": {
-         "advisory": [
-            "Treat the pond against bacterial diseases"
-         ]
-      },
-      "parasitic diseases": {
-         "advisory": [
-            "Treat the pond against parasitic diseases"
-         ]
-      },
-      "pond": {
-         "advisory": [
-            "Use CIFAX or limestone for pond treatment"
-         ]
-      },
-      "cifax": {
-         "advisory": [
-            "Use CIFAX for pond treatment"
-         ]
-      },
-      "limestone": {
-         "advisory": [
-            "Use limestone for pond treatment"
-         ]
-      },
-      "potassium permanganate": {
-         "advisory": [
-            "Use potassium permanganate for pond treatment"
-         ]
-      },
-      "salt": {
-         "advisory": [
-            "Use salt for protecting fish against diseases in winters"
+            "Farmers are advised to keep the water depth up to 6 feet in the winter season. Feed intake of fish decreases with a decrease in temperature. Hence, it is essential to reduce the feeding rate by 50-75% depending on the temperature. Stop adding organic manures such as cow dung, poultry droppings in the pond."
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

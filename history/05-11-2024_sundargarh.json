@@ -58,33 +58,34 @@
       "potato",
       "mustard",
       "brinjal",
+      "animals",
       "pisciculture"
    ],
    "general_advisory": "In case of moisture stress in pockets, foliar application of 1% KCL solution at reproductive stages will reduce the impact of moisture condition without much loss in yield. For rabi crops, farmers can start their field operations in fallow fields in November month. Tractor drawn rotavator or cultivator can be used and shallow ploughing should be done.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "The timely sown crop when more than 85% panicle turns yellow than go for harvesting the crop and dry it under sun for 2-3 days."
+            "The timely sown crop when more than 85% panicle turns yellow than go for harvesting the crop and dry it under sun for 2 -3 days."
          ]
       },
       "mung": {
          "advisory": [
-            "In November month, Mung variety like Tram-1, OUM 11-5, Hum-1, IP14-02, IP-02-03 of 8-10 kg per care is to be sown. Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds. After seven days before sowing in the previous night go for Rhizobium treatment @ 20 g per kg of seeds. Also treat with Ammonium Molbdate @ 3 g Gramin Krishi Mausam Sewa per 10 kg of seeds for proper nodulation."
+            "In November month, Mung variety like Tram -1, OUM 11 -5, Hum -1, IP14 -02, IP -02-03 of 8 -10 kg per care is to be sown."
          ]
       },
       "wheat": {
          "advisory": [
-            "Collect good quality seeds like UP 262, Kalyansona. Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+            "Collect good quality seeds like UP 262 , Kalyansona . Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
          ]
       },
       "potato": {
          "advisory": [
-            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed. The fertilizer dose at the final land preparation is 5 t FYM, 24-24-48 kg NPK per acre."
+            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry undr shed. The fertilizer dose at the final land preparation is 5 t FYM, 24 -24-48 kg NPK per acre."
          ]
       },
       "mustard": {
          "advisory": [
-            "In the residual soil moisture condition the toria seeds like Sushree, M27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm. (Plant to plant)."
+            "In the residual soil moisture condition the toria seeds like Sushree, M 27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm."
          ]
       },
       "brinjal": {
@@ -92,9 +93,14 @@
             "There is chances of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG @ 80 g in 200 l of water/acre or carbaryl 50% WP @ 800 g in 200 l of water/acre."
          ]
       },
+      "animals": {
+         "advisory": [
+            "Prepare the animal shed from the upcoming decreased temperature."
+         ]
+      },
       "pisciculture": {
          "advisory": [
-            "Give mineral feed @ 3% of the body mass."
+            "Give mineral feed @ 3 % of the body mass."
          ]
       }
    },

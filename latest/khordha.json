@@ -1,117 +1,96 @@
 {
    "weather_details": {
-      "20/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 16,
-         "rh_max": 73,
-         "rh_min": 35,
-         "wind_speed": 6,
-         "wind_direction": 336,
-         "cloud_cover": 0
+      "30/11/2024": {
+         "rainfall": 5,
+         "t_max": 23,
+         "t_min": 22,
+         "rh_max": 86,
+         "rh_min": 52,
+         "wind_speed": 13,
+         "wind_direction": 23,
+         "cloud_cover": 8
       },
-      "21/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 72,
-         "rh_min": 34,
-         "wind_speed": 6,
-         "wind_direction": 332,
-         "cloud_cover": 1
+      "01/12/2024": {
+         "rainfall": 4,
+         "t_max": 24,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 61,
+         "wind_speed": 11,
+         "wind_direction": 27,
+         "cloud_cover": 8
       },
-      "22/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 73,
-         "rh_min": 34,
-         "wind_speed": 6,
-         "wind_direction": 330,
-         "cloud_cover": 0
+      "02/12/2024": {
+         "rainfall": 3,
+         "t_max": 26,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 62,
+         "wind_speed": 9,
+         "wind_direction": 27,
+         "cloud_cover": 7
       },
-      "23/11/2024": {
-         "rainfall": 0,
+      "03/12/2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 83,
+         "rh_min": 59,
+         "wind_speed": 6,
+         "wind_direction": 29,
+         "cloud_cover": 5
+      },
+      "04/12/2024": {
+         "rainfall": 1,
          "t_max": 29,
          "t_min": 17,
-         "rh_max": 75,
-         "rh_min": 33,
-         "wind_speed": 7,
-         "wind_direction": 335,
-         "cloud_cover": 1
+         "rh_max": 80,
+         "rh_min": 53,
+         "wind_speed": 6,
+         "wind_direction": 14,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "paira",
       "paddy",
-      "rabi pulses",
-      "oilseeds",
-      "vegetables",
-      "black gram",
-      "green gram",
       "groundnut",
-      "sugarcane",
-      "pointed gourd",
-      "cole crops"
+      "chilli",
+      "cole crops",
+      "banana",
+      "poultry"
    ],
-   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, harvesting. Reduce the moisture of the harvested paddy by sun drying it. floor clean. Rodent- If ‘Rodent/Rats’ problem is noticed, locate the rod ent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents. Powdery mildew- There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre. Weed management - Apply pre- emergence herbicide Oxyfluorfen or Pendimethalin 30 % EC @ 1litre/acre or at 1- 2 DAS. Apply herbicide when soil is moist and always use Flat-fan nozzle for spraying. Red Rot disease - For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre by mixing it in 200 litre of water. Downey mildew - To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl - AL 80 % WP @ 600 g/acre. Diamond Back Moth  -To manage these pests install 6- 8 nos primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 300 PPM @ 1 litre/acre by mixing in 200-litre of water. Spray Tolfenpyrad 15 % EC @ 400 ml/acre or Flubendiamide 20 % WG @ 20 g/acre or Emamectin Benzoate 5 % SG @ @80 g/acre by mixing in 200 litre of water. Farmers are advised to keep the water depth up to 6 feet in winter season. Feed intake of fish decreases with decrease in temperature. Hence, it is essential to reduce the feeding 50-75% depending on the temperature. Stop adding organic manures such as cow dung, poultry droppings in the pond.",
+   "general_advisory": "Complete transplanting of winter vegetable crops. Use low cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. For early and maximum yield in Cole crops spray Gibberellic Acid. Do proper field surveillance for pests and diseases regularly. In winter during cold or night hours, farmers should keep doors, windows, and open spaces in cow sheds covered with polythene or gunny bag curtains.",
    "crops_data": {
-      "paira": {
-         "advisory": [
-            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
-         ]
-      },
       "paddy": {
          "advisory": [
-            "Physiological maturity stage"
-         ]
-      },
-      "rabi pulses": {
-         "advisory": [
-            "Sowing going on"
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Sowing going on"
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Sowing going on",
-            "Transplant 30-45 days old seedlings"
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Seedling-vegetative stage"
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Seedling-vegetative stage"
+            "Post harvesting stage - Rodent control: If 'Rodent/Rats' problem is noticed, take necessary steps to eliminate them."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Sowing stage"
+            "Vegetative stage - Pest management: Control Tobacco Caterpillar by setting up traps and using appropriate sprays."
          ]
       },
-      "sugarcane": {
+      "chilli": {
          "advisory": [
-            "Ripening stage"
-         ]
-      },
-      "pointed gourd": {
-         "advisory": [
-            "Seedling-vegetative stage"
+            "Vegetative stage - Aphids and Thrips control: Use neem-based pesticide for infestation management."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Vegetative"
+            "Vegetative stage - Diamond Back Moth infestation: Use neem-based pesticide for control."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Planting stage - Optimum time for planting. Use disease-free suckers for planting."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure heat provision for chicks during night hours. Maintain cleanliness in poultry house."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

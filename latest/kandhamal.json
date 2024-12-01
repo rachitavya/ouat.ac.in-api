@@ -1,101 +1,82 @@
 {
    "weather_details": {
-      "15-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 88,
-         "rh_min": 37,
-         "wind_speed": 1,
-         "wind_direction": 72,
-         "cloud_cover": 3
+      "30-11-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 55,
+         "wind_speed": 4,
+         "wind_direction": 68,
+         "cloud_cover": 7
       },
-      "16-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 15,
-         "rh_max": 79,
-         "rh_min": 33,
-         "wind_speed": 1,
-         "wind_direction": 45,
-         "cloud_cover": 2
+      "01-12-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 72,
+         "wind_speed": 4,
+         "wind_direction": 96,
+         "cloud_cover": 8
       },
-      "17-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 15,
-         "rh_max": 71,
-         "rh_min": 31,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 1
+      "02-12-2024": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 10,
+         "rh_max": 97,
+         "rh_min": 69,
+         "wind_speed": 4,
+         "wind_direction": 110,
+         "cloud_cover": 7
       },
-      "18-11-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 67,
-         "rh_min": 30,
-         "wind_speed": 0,
-         "wind_direction": 90,
-         "cloud_cover": 1
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 10,
+         "rh_max": 94,
+         "rh_min": 68,
+         "wind_speed": 4,
+         "wind_direction": 112,
+         "cloud_cover": 7
       },
-      "19-11-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 65,
-         "rh_min": 31,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 2
+      "04-12-2024": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 90,
+         "rh_min": 59,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "mustard",
-      "radish",
-      "maize",
-      "cabbage/cauliflower",
-      "marigold"
+      "cauliflower",
+      "cabbage",
+      "garden pea"
    ],
-   "general_advisory": "Harvest the matured crops like rice maize at 80 -85% maturity and keep them safe. Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Prepare the lands for cole crops like cauliflower, cabbage, radish.",
+   "general_advisory": "As per the forecast, there will be continuous very light to light rainfall. Farmers can utilize the rainfall for the mentioned cole crops. Irrigate the nursery bed for cole crops during morning or evening hours. Harvested rice crop should be dried in the sun and then threshed & stored in a safe place.",
    "crops_data": {
-      "mustard": {
+      "garden pea": {
          "advisory": [
-            "Flowering initiation",
-            "Leaf miner insect",
-            "Young maggot mines zig-zag galleries in the leaves",
-            "Spray 5% neem seed kernel extract (NSKE)"
-         ]
-      },
-      "radish": {
-         "advisory": [
-            "Vegetative",
-            "Leaf eating caterpillar",
-            "It can be controlled by spraying Carbaryl 50 WP @ 2 g/lit."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Maturity - Harvesting",
-            "Harvest the mature crops.",
-            "In case of fall army worm attack, apply Emamectin Benzoate @0.9gram liter of water."
+            "Seed treatment in garden pea before sowing.",
+            "Treat the seeds with Trichoderma@ 4 g/kg or Thiram or Captan@ 2 g/kg of seeds to avoid seed borne diseases."
          ]
       },
       "cabbage/cauliflower": {
          "advisory": [
-            "Vegetative",
-            "Cut Worms",
-            "Set up light trap in summer months. Spray Chlorpyriphos 2 ml/lit in the collar region during evening hours."
+            "Vegetative - maturity",
+            "Black spot",
+            "First foliar spraying with Tridemorph 0.1% followed by spraying with Mancozeb 0.25% at a month interval."
          ]
       },
-      "marigold": {
+      "dhanicha": {
          "advisory": [
-            "Germination - vegetative stage",
-            "Apply 45:90:75 kg NPK/ha as basal.",
-            "Apply light irrigation to crop when required."
+            "Harvesting",
+            "Harvest the mature pods and beat to remove the seeds. Dry it in the sun and store safely."
          ]
       }
    },
-   "date": "14-11-2024"
+   "date": "29-11-2024"
 }

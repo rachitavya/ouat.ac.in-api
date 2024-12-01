@@ -1,0 +1,179 @@
+{
+   "weather_details": {
+      "15-11-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "16-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "17-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "18-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 33,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 80,
+         "rh_min": 30,
+         "wind_speed": 4,
+         "wind_direction": 84,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 80,
+         "rh_min": 32,
+         "wind_speed": 4,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 80,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 82,
+         "rh_min": 31,
+         "wind_speed": 3,
+         "wind_direction": 84,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "french bean",
+      "rice",
+      "black gram",
+      "green gram",
+      "rabi groundnut",
+      "mustard",
+      "beans",
+      "brinjal",
+      "chilli"
+   ],
+   "general_advisory": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop fields as per requirement. Complete nursery sowing for winter vegetable crops. Irrigate the nursery during morning and evening time. Go for sowing of pea, gram and green gram as paira crop fifteen days prior to harvest of paddy in lowland.",
+   "crops_data": {
+      "french bean": {
+         "advisory": [
+            "The weather is optimum for French bean sowing.",
+            "Grow high yielding varieties such as Contender, Arka Kamal, and Kentucky Wonder.",
+            "Use 10-20 kg seeds/acre depending upon the bean type.",
+            "Apply 10 tons of FYM/acre.",
+            "Apply 10:30:20 kg NPK/acre as basal.",
+            "Sow the seeds with a spacing of 40x20 cm."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Keep water in the field up to the grain filling stage.",
+            "To control stem borer infestation, spray Chlorantraniliprole 18.5% SC or Cartrap hydrochloride 50% SP.",
+            "Be aware of chances of gundhi bug incidence and spray Ethofenoprox 10% EC if needed.",
+            "Go for harvesting of rice when 80-85% grains in the panicles are matured."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Complete the sowing of black gram in upland.",
+            "Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30.",
+            "Treat seeds with Rhizobium culture before sowing.",
+            "Apply 4 kg urea, 35 kg DAP, and 13 kg MoP per acre during the final land preparation."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Complete the sowing of green gram in upland.",
+            "Grow high yielding varieties like K 851, PDM 11, PDM 54, OUM 115.",
+            "Treat seeds with Rhizobium culture before sowing.",
+            "Apply 4 kg urea, 35 kg DAP, and 13 kg MoP per acre during the final land preparation."
+         ]
+      },
+      "rabi groundnut": {
+         "advisory": [
+            "Go for land preparation and sowing of rabi groundnut at a spacing of 25 cm x 10 cm.",
+            "Apply 35 kg DAP, 4 kg urea, and 27 kg MoP per acre.",
+            "Treat seeds with Trichoderma harzianum/viride or Carboxin DS before sowing."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Start land preparation and sowing of mustard to get optimum yield.",
+            "Choose suitable varieties like Toria Anuradha, Parbati, Sushree, Indian mustard Pusa Bold, Pusa Jai Kisan.",
+            "Control insects by spraying neem oil at seedling stage."
+         ]
+      },
+      "beans": {
+         "advisory": [
+            "The weather is optimal for French bean sowing.",
+            "Grow high yielding varieties such as Contender, Arka Kamal, and Kentucky Wonder.",
+            "Use 10-20 kg seeds/acre depending upon the bean type.",
+            "Apply 10 tons of FYM/acre.",
+            "Apply 10:30:20 kg NPK/acre as basal.",
+            "Sow the seeds with a spacing of 40x20 cm."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Apply 44 kg urea and 20 kg MoP per acre at the 3 to 4-week stage.",
+            "To control shoot borer, spray Azadirachtin 1% EC or Emamectin benzoate 5% SG.",
+            "Take precautions for shoot borer infestation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control thrips in chilli, spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC or Imidacloprid 17.8% SL."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

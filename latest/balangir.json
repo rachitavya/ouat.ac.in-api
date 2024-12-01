@@ -1,6 +1,6 @@
 {
    "weather_details": {
-      "2022-10-01": {
+      "2022-01-01": {
          "rainfall": 5,
          "t_max": 25,
          "t_min": 15,
@@ -8,9 +8,9 @@
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 4
+         "cloud_cover": 3
       },
-      "2022-10-02": {
+      "2022-01-02": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 18,
@@ -18,27 +18,27 @@
          "rh_min": 50,
          "wind_speed": 15,
          "wind_direction": 220,
-         "cloud_cover": 3
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "wheat",
-      "poultry"
+      "corn"
    ],
-   "general_advisory": "Sunny weather with moderate wind speeds. Keep poultry sheltered from strong winds.",
+   "general_advisory": "Sow wheat and corn seeds in the upcoming week. Watch out for heavy rainfall in the region.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Plant wheat seeds at recommended spacing.",
-            "Use appropriate fertilizers for optimal growth."
+            "Ensure proper irrigation during the growth stage.",
+            "Protect from pests and diseases."
          ]
       },
-      "poultry": {
+      "corn": {
          "advisory": [
-            "Ensure proper ventilation in poultry houses.",
-            "Provide adequate water and feed for poultry."
+            "Plant in well-drained soil.",
+            "Fertilize regularly for better yield."
          ]
       }
    },
-   "date": "25-10-2024"
+   "date": "29-11-2024"
 }

@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 75,
+         "rh_min": 38,
+         "wind_speed": 10,
+         "wind_direction": 356,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paira",
+      "paddy",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
+      "black gram",
+      "green gram",
+      "groundnut",
+      "sugarcane",
+      "pointed gourd",
+      "cole crops",
+      "fisheries"
+   ],
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Keep the threshing floor clean. Rodent- If ‘Rodent/Rats’ problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents. Powdery mildew- There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% EC @ 300 ml/acre. Weed management - Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC @ 80ml/acre or Pendimethalin 30 % EC @ 1litre/acre or at 1-2 DAS. Apply herbicide when the soil is moist. Red Rot disease - For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre by mixing it in 200 litres of water. Downy mildew - To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre. Diamond Back Moth -To manage these pests install 6-8 nos of light traps per acre. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin 300 PPM @ 1 litre/acre by mixing it in 200 litres of water. Spray Tolfenpyrad 15 % EC @ 400 ml/acre or Flubendiamide 20 % WG @ 20 g/acre or Emamectin Benzoate 5 % SG @ @80 g/acre by mixing in 200 litres of water. Farmers are advised to keep the water depth up to 6 feet in the winter season. Feed intake of fish decreases with a decrease in temperature. Hence, it is essential to reduce the feeding rate by 75% depending on the temperature. Stop adding organic manures such as cow dung, poultry droppings in the pond.",
+   "crops_data": {
+      "paira": {
+         "advisory": [
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Harvest matured paddy crop and store them in a safer place after 3-4 days sun drying."
+         ]
+      },
+      "rabi pulses": {
+         "advisory": [
+            "Seed treatment is a must before sowing of rabi crops."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Seed treatment is a must before sowing of rabi crops."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To control leaf-eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & Tomato apply 0.5 g Emamectin Benzoate or 0.4 ml Spinosad per liter of water.",
+            "Farmers are advised to transplant 30-45 days old vegetable seedlings like Chilli, Tomato, Capsicum, Cabbage, Cauliflower, Brinjal etc. in the main field."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "There is a chance of powdery mildew disease in Black gram."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "There is a chance of powdery mildew disease in Green gram."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Groundnut is at sowing stage."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Ripening stage."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Cole crops are in the vegetative stage."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Farmers are advised to keep the water depth up to 6 feet in the winter season. Feed intake of fish decreases with a decrease in temperature. Hence, it is essential to reduce the feeding rate by 50-75% depending on the temperature. Stop adding organic manures such as cow dung, poultry droppings in the pond."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

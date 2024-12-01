@@ -1,0 +1,124 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 72,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 51,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 0
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 70,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 60,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "pulses",
+      "black gram",
+      "green gram",
+      "rabi groundnut",
+      "mustard",
+      "beans",
+      "brinjal",
+      "chilli"
+   ],
+   "general_advisory": "No rainfall and dry weather expected during the next five days. Complete nursery sowing for winter vegetable crops. Go for sowing of pea, gram, and green gram as paira crop fifteen days prior to harvest of paddy in low land.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Keep water in the field up to grain filling stage.",
+            "Control stem borer infestation by spraying Chlorantraniliprole or Cartrap hydrochloride.",
+            "Control gundhi bug incidence by spraying Ethofenoprox.",
+            "Harvest rice when 80-85% grains in the panicles are matured."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Complete sowing of black gram and green gram in upland.",
+            "Use high yielding varieties and treat seeds with Rhizobium culture.",
+            "Apply urea, DAP, and MoP per acre during final land preparation."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Use high yielding varieties like T 9, PU 11, PU 19."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Use high yielding varieties like K 851, PDM 11, PDM 54, OUM 115.",
+            "Treat seeds with Rhizobium culture before sowing."
+         ]
+      },
+      "rabi groundnut": {
+         "advisory": [
+            "Go for land preparation and sowing of rabi groundnut at specified spacing with recommended seed rate.",
+            "Apply DAP, urea, MoP, zinc sulfate, and borax per acre along with seed treatment."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Start land preparation and sowing to get optimum yield.",
+            "Use suitable varieties and spray neem oil to control insects."
+         ]
+      },
+      "beans": {
+         "advisory": [
+            "Sow high yielding varieties with specified seed rate and apply recommended fertilizers.",
+            "Use specific spacings and sow seeds accordingly."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Apply urea and MoP per acre at specified stage.",
+            "Spray micronutrient mixture to get higher yield and control shoot borer."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray recommended pesticides to control thrips in chilli."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

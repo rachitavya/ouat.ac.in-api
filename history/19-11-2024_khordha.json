@@ -1,0 +1,117 @@
+{
+   "weather_details": {
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 35,
+         "wind_speed": 6,
+         "wind_direction": 336,
+         "cloud_cover": 0
+      },
+      "21/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 72,
+         "rh_min": 34,
+         "wind_speed": 6,
+         "wind_direction": 332,
+         "cloud_cover": 1
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 34,
+         "wind_speed": 6,
+         "wind_direction": 330,
+         "cloud_cover": 0
+      },
+      "23/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 75,
+         "rh_min": 33,
+         "wind_speed": 7,
+         "wind_direction": 335,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paira",
+      "paddy",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
+      "black gram",
+      "green gram",
+      "groundnut",
+      "sugarcane",
+      "pointed gourd",
+      "cole crops"
+   ],
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, harvesting. Reduce the moisture of the harvested paddy by sun drying it. floor clean. Rodent- If ‘Rodent/Rats’ problem is noticed, locate the rod ent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents. Powdery mildew- There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre. Weed management - Apply pre- emergence herbicide Oxyfluorfen or Pendimethalin 30 % EC @ 1litre/acre or at 1- 2 DAS. Apply herbicide when soil is moist and always use Flat-fan nozzle for spraying. Red Rot disease - For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre by mixing it in 200 litre of water. Downey mildew - To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl - AL 80 % WP @ 600 g/acre. Diamond Back Moth  -To manage these pests install 6- 8 nos primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 300 PPM @ 1 litre/acre by mixing in 200-litre of water. Spray Tolfenpyrad 15 % EC @ 400 ml/acre or Flubendiamide 20 % WG @ 20 g/acre or Emamectin Benzoate 5 % SG @ @80 g/acre by mixing in 200 litre of water. Farmers are advised to keep the water depth up to 6 feet in winter season. Feed intake of fish decreases with decrease in temperature. Hence, it is essential to reduce the feeding 50-75% depending on the temperature. Stop adding organic manures such as cow dung, poultry droppings in the pond.",
+   "crops_data": {
+      "paira": {
+         "advisory": [
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Physiological maturity stage"
+         ]
+      },
+      "rabi pulses": {
+         "advisory": [
+            "Sowing going on"
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Sowing going on"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Sowing going on",
+            "Transplant 30-45 days old seedlings"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Seedling-vegetative stage"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Seedling-vegetative stage"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Sowing stage"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Ripening stage"
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "Seedling-vegetative stage"
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Vegetative"
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

@@ -1,74 +1,86 @@
 {
    "weather_details": {
-      "20/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 18,
-         "rh_max": 76,
-         "rh_min": 40,
-         "wind_speed": 9,
-         "wind_direction": 341,
-         "cloud_cover": 1
+      "30/11/2024": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 22,
+         "rh_max": 83,
+         "rh_min": 56,
+         "wind_speed": 18,
+         "wind_direction": 30,
+         "cloud_cover": 8
       },
-      "21/11/2024": {
-         "rainfall": 0,
+      "01/12/2024": {
+         "rainfall": 4,
+         "t_max": 24,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 61,
+         "wind_speed": 16,
+         "wind_direction": 32,
+         "cloud_cover": 8
+      },
+      "02/12/2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 13,
+         "wind_direction": 26,
+         "cloud_cover": 8
+      },
+      "03/12/2024": {
+         "rainfall": 4,
          "t_max": 29,
-         "t_min": 18,
+         "t_min": 17,
          "rh_max": 77,
-         "rh_min": 39,
-         "wind_speed": 8,
-         "wind_direction": 338,
-         "cloud_cover": 0
-      },
-      "22/11/2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 78,
-         "rh_min": 38,
-         "wind_speed": 8,
-         "wind_direction": 335,
-         "cloud_cover": 0
-      },
-      "23/11/2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 78,
-         "rh_min": 39,
-         "wind_speed": 8,
-         "wind_direction": 336,
-         "cloud_cover": 2
+         "rh_min": 57,
+         "wind_speed": 13,
+         "wind_direction": 27,
+         "cloud_cover": 20
       }
    },
    "names_of_crops": [
-      "paira",
-      "black gram",
-      "sugarcane",
-      "pointed gourd"
+      "paddy",
+      "groundnut",
+      "chilli",
+      "cole crops",
+      "banana",
+      "poultry"
    ],
-   "general_advisory": "General advisory: Harvest the matured paddy, control pests and diseases, manage weeds, maintain water depth in fisheries.",
+   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. For early and maximum yield in cole crops, spray gibberellic acid 0.001% L. Do proper field surveillance for pests and diseases regularly.",
    "crops_data": {
-      "paira": {
+      "paddy": {
          "advisory": [
-            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+            "Post-harvesting stage: Rodent/Rats problem - Locate rodent burrow, place aluminium phosphide tablet. Stored grain insect pest - Fumigation with Aluminium phosphide tablets."
          ]
       },
-      "black gram": {
+      "groundnut": {
          "advisory": [
-            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+            "Vegetative stage: Tobacco caterpillar - Monitor and spray insecticides as needed."
          ]
       },
-      "sugarcane": {
+      "chilli": {
          "advisory": [
-            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre"
+            "Vegetative stage: Aphids and Thrips - Use neem-based pesticide or chemical sprays."
          ]
       },
-      "pointed gourd": {
+      "cole crops": {
          "advisory": [
-            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre."
+            "Vegetative stage: Diamond Back Moth infestation - Use neem-based pesticide or spray insecticides."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Planting: Choose appropriate varieties, maintain proper spacing, and use disease-free suckers."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements for heat provision, proper brooding, and clean house maintenance for chicks."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

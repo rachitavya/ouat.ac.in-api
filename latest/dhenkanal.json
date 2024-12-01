@@ -1,120 +1,66 @@
 {
    "weather_details": {
-      "20-11-2024": {
+      "29.11.2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
-         "rh_max": 76,
-         "rh_min": 37,
-         "wind_speed": 4,
-         "wind_direction": 322,
-         "cloud_cover": 2
-      },
-      "21-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
-         "rh_max": 75,
-         "rh_min": 36,
-         "wind_speed": 4,
-         "wind_direction": 315,
-         "cloud_cover": 1
-      },
-      "22-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
-         "rh_max": 75,
-         "rh_min": 36,
-         "wind_speed": 4,
-         "wind_direction": 319,
-         "cloud_cover": 1
-      },
-      "23-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
-         "rh_max": 74,
-         "rh_min": 35,
-         "wind_speed": 4,
-         "wind_direction": 323,
-         "cloud_cover": 2
-      },
-      "24-11-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 71,
-         "rh_min": 33,
-         "wind_speed": 4,
-         "wind_direction": 325,
-         "cloud_cover": 1
+         "t_max": 26,
+         "t_min": 16,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "black gram",
-      "green gram",
       "mustard",
-      "sesame",
-      "brinjal",
-      "tomato",
-      "cabbage",
-      "cauliflower",
-      "cucurbits",
-      "banana"
+      "pointed gourd",
+      "chilli",
+      "cabbage & cauliflower",
+      "livestock",
+      "fishery",
+      "poultry"
    ],
-   "general_advisory": "Now it is right time to take up Paira crop which can be sown 15 days before harvesting of paddy. Continue the harvest of medium duration paddy. Store the harvested grains after sun drying for 2 to 3 days in HDPE bags. To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cabbage, Chilly & tomato spray 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water.",
+   "general_advisory": "Farmers are advised to take necessary precautions for the mentioned crops during the current weather conditions. Livestock, fishery, and poultry advice are also provided for the winter season.",
    "crops_data": {
-      "black gram": {
-         "advisory": [
-            "Vegetative stage"
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Vegetative stage"
-         ]
-      },
       "mustard": {
          "advisory": [
-            "Vegetative stage"
+            "In low temperature conditions, monitor for Aphid infestation and take appropriate measures."
          ]
       },
-      "sesame": {
+      "pointed gourd": {
          "advisory": [
-            "Vegetative stage"
+            "To control downy mildew, spray recommended fungicides at the mentioned concentrations."
          ]
       },
-      "brinjal": {
+      "chilli": {
          "advisory": [
-            "Vegetative to Fruiting stage"
+            "Monitor for Aphids and Thrips infestation, and use neem-based pesticide for control.",
+            "Chemical sprays like Thiamethoxam or Acetamiprid can be used for management."
          ]
       },
-      "tomato": {
+      "cabbage & cauliflower": {
          "advisory": [
-            "Vegetative stage"
+            "Install light traps and use neem-based pesticide for Diamond Back Moth pests.",
+            "Recommended chemical sprays can also be used for pest management."
          ]
       },
-      "cabbage": {
+      "livestock": {
          "advisory": [
-            "Vegetative stage"
+            "During cold hours, take measures to ensure livestock comfort and health."
          ]
       },
-      "cauliflower": {
+      "fishery": {
          "advisory": [
-            "Vegetative stage"
+            "Maintain water depth and adjust feeding rates according to temperature changes.",
+            "Avoid adding organic manures in the pond during winter."
          ]
       },
-      "cucurbits": {
+      "poultry": {
          "advisory": [
-            "Fruiting Stage"
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Planting stage"
+            "Install heaters and use bulbs for heat maintenance in poultry sheds during winter.",
+            "Ensure necessary vaccinations are carried out timely."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

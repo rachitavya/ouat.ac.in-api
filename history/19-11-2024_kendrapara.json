@@ -1,0 +1,126 @@
+{
+   "weather_details": {
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 76,
+         "rh_min": 42,
+         "wind_speed": 9,
+         "wind_direction": 335,
+         "cloud_cover": 1
+      },
+      "21/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 8,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 331,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paira",
+      "paddy",
+      "winter vegetables",
+      "brinjal",
+      "cauliflower",
+      "cabbage",
+      "chilli",
+      "tomato",
+      "black gram",
+      "green gram",
+      "groundnut",
+      "sugarcane",
+      "pointed gourd",
+      "cole crops"
+   ],
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Rodent- If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents. Powdery mildew- There is a chance of powdery mildew disease in Black gram and Green gram...",
+   "crops_data": {
+      "paira": {
+         "advisory": [
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Soft dough-Physiological maturity stage"
+         ]
+      },
+      "winter vegetables": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & Tomato apply 0.5 g Emamectin."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.5 g Emamectin."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Seedling-vegetative stage"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Seedling-vegetative stage"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Sowing stage"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Ripening stage",
+            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre"
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "Seedling-vegetative stage",
+            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Vegetative"
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

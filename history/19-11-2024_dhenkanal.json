@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 76,
+         "rh_min": 37,
+         "wind_speed": 4,
+         "wind_direction": 322,
+         "cloud_cover": 2
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 315,
+         "cloud_cover": 1
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 319,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 35,
+         "wind_speed": 4,
+         "wind_direction": 323,
+         "cloud_cover": 2
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 71,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 325,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "black gram",
+      "green gram",
+      "mustard",
+      "sesame",
+      "brinjal",
+      "tomato",
+      "cabbage",
+      "cauliflower",
+      "cucurbits",
+      "banana"
+   ],
+   "general_advisory": "Now it is right time to take up Paira crop which can be sown 15 days before harvesting of paddy. Continue the harvest of medium duration paddy. Store the harvested grains after sun drying for 2 to 3 days in HDPE bags. To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cabbage, Chilly & tomato spray 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water.",
+   "crops_data": {
+      "black gram": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative to Fruiting stage"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Vegetative stage"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Fruiting Stage"
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Planting stage"
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

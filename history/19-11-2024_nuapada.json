@@ -1,0 +1,183 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 71,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 307,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 292,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 33,
+         "wind_speed": 1,
+         "wind_direction": 304,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 281,
+         "cloud_cover": 0
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 65,
+         "rh_min": 30,
+         "wind_speed": 2,
+         "wind_direction": 315,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "greengram/blackgram",
+      "groundnut",
+      "mustard/toria",
+      "sunflower",
+      "cauliflower/cabbage/broccoli",
+      "onion",
+      "tomato",
+      "rose",
+      "marigold",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep",
+      "poultry",
+      "duckery"
+   ],
+   "general_advisory": "Based on the five-day weather forecast of IMD, farmers are advised to continue necessary agricultural activities, including weeding, fertilization, irrigation, harvesting and pesticide application. Undertake sowing of rabi crops like green gram, black gram, toria, chick pea, lentil, sunflower, groundnut, cowpea, field pea, etc. in medium or shallow low land to utilize the available soil moisture in the field. Pulses like lentil, black gram, green gram can be broadcasted as paira crop in the standing matured crop. Rouging of viral infested crop should be done in chilli, tomato & brinjal. Infected plants should be uprooted and buried in the soil. Apply Metalaxyl+Mancozeb and Plantomycine mixed with water to nurseries and at the root zone of the plant as precaution from wilting and root rot. The livestock and poultry shed need be repaired before winter to protect from low night temperature. Feed animals with a mixture of green grass + hay + minerals + dry feed.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "In early maturing varieties, harvest the crop when 80 -85% of the grains are matured either manually by sickle or by using combine harvester or reaper.",
+            "Drain out the water from paddy field, 15 days before harvesting the crop.",
+            "Store the harvested paddy in Super Grain bag for retaining the quality texture, colors, aroma, fragrance, and taste of the commodities for a longer period of time in a safer place."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking should be done when there is complete bursting of bolls.",
+            "Dry the seed cotton on a concrete floor or tarpaulin sheets to reduce the moisture to 8-10%.",
+            "Store the seed cotton obtained from the 1st picking separately for getting a better price.",
+            "Foliar spray of liquid fertilizers like NPK -19-19-19 should be done for better plant growth and boll development.",
+            "Regular monitoring of the crop to know about the incidence of any new pest and diseases."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Suitable time for sowing green gram and black gram.",
+            "Treat the seeds with Thiram 50 WP or Carbendazim 50 WP before sowing.",
+            "Seed rate: 8-10 kg/acre.",
+            "Suitable varieties for green gram and black gram."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Suitable time for sowing rabi groundnut.",
+            "Treat the seed with Carbendazim 25% + Mancozeb 50% WS before sowing.",
+            "Sowing of seeds should be done at afternoon hours.",
+            "Nutrient Management: Apply DAP, MOP, and Sulphur per acre before sowing."
+         ]
+      },
+      "mustard/toria": {
+         "advisory": [
+            "Weed Management: Apply Oxadiargyl 6% EC as pre-emergence or Quizalofop-ethyl 5% EC as post-emergence.",
+            "Additional advisory information."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Weed Management: Spray Pendimithalin 30% EC as pre-emergence herbicide.",
+            "Power weeding at 21-28 days before irrigation plays a significant role in managing the weeds."
+         ]
+      },
+      "cauliflower/cabbage/broccoli": {
+         "advisory": [
+            "Transplant the seedlings in the main field with proper spacing.",
+            "Before transplanting, apply Carbendazim + Mancozeb to seedlings.",
+            "Nutrient Management: Apply DAP, MOP, Urea, and Borax as basal at the time of transplanting."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Now is the suitable time for sowing onion.",
+            "Select suitable varieties for winter season.",
+            "Seed rate for onion."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Transplant the seedlings in the main field with proper spacing.",
+            "Before transplanting, treat the seedlings with solution of Bavistin and Plantomycin.",
+            "Nutrient Management: Apply DAP, MOP, Urea per acre."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Prevaling weather conditions may lead to Powdery mildew infestation. Control with Carbendazim 50% WP."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Pinching should be performed for better branching and yield."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Deworm the cattle and buffalo regularly.",
+            "Vaccinate animals against foot & mouth disease (FMD)."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Repair the buffalo shed before winter season."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Repair the goat shed before winter season."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Additional advisory information for sheep."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Take care of brooding management of chicks and ducklings during the winter season."
+         ]
+      },
+      "duckery": {
+         "advisory": [
+            "Additional advisory information for duckery."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

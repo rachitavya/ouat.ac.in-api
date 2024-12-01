@@ -1,0 +1,74 @@
+{
+   "weather_details": {
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 76,
+         "rh_min": 40,
+         "wind_speed": 9,
+         "wind_direction": 341,
+         "cloud_cover": 1
+      },
+      "21/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 77,
+         "rh_min": 39,
+         "wind_speed": 8,
+         "wind_direction": 338,
+         "cloud_cover": 0
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 78,
+         "rh_min": 38,
+         "wind_speed": 8,
+         "wind_direction": 335,
+         "cloud_cover": 0
+      },
+      "23/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 78,
+         "rh_min": 39,
+         "wind_speed": 8,
+         "wind_direction": 336,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paira",
+      "black gram",
+      "sugarcane",
+      "pointed gourd"
+   ],
+   "general_advisory": "General advisory: Harvest the matured paddy, control pests and diseases, manage weeds, maintain water depth in fisheries.",
+   "crops_data": {
+      "paira": {
+         "advisory": [
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre"
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

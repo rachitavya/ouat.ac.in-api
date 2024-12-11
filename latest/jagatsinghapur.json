@@ -1,86 +1,78 @@
 {
    "weather_details": {
-      "30/11/2024": {
-         "rainfall": 5,
-         "t_max": 26,
-         "t_min": 22,
-         "rh_max": 83,
-         "rh_min": 56,
-         "wind_speed": 18,
-         "wind_direction": 30,
-         "cloud_cover": 8
-      },
-      "01/12/2024": {
-         "rainfall": 4,
-         "t_max": 24,
-         "t_min": 22,
-         "rh_max": 81,
-         "rh_min": 61,
-         "wind_speed": 16,
-         "wind_direction": 32,
-         "cloud_cover": 8
-      },
-      "02/12/2024": {
-         "rainfall": 3,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 85,
-         "rh_min": 64,
-         "wind_speed": 13,
-         "wind_direction": 26,
-         "cloud_cover": 8
-      },
-      "03/12/2024": {
-         "rainfall": 4,
+      "11/12/2024": {
+         "rainfall": 0,
          "t_max": 29,
-         "t_min": 17,
-         "rh_max": 77,
-         "rh_min": 57,
-         "wind_speed": 13,
-         "wind_direction": 27,
-         "cloud_cover": 20
+         "t_min": 21,
+         "rh_max": 76,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 25,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 66,
+         "rh_min": 32,
+         "wind_speed": 14,
+         "wind_direction": 18,
+         "cloud_cover": 16
       }
    },
    "names_of_crops": [
       "paddy",
+      "blackgram and greengram",
       "groundnut",
-      "chilli",
-      "cole crops",
-      "banana",
-      "poultry"
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
    ],
-   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. For early and maximum yield in cole crops, spray gibberellic acid 0.001% L. Do proper field surveillance for pests and diseases regularly.",
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There will be chances of infestation of sucking pests, leaf blight, powdery mildew in the crops and vegetables, due to low night temperature. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Post-harvesting stage: Rodent/Rats problem - Locate rodent burrow, place aluminium phosphide tablet. Stored grain insect pest - Fumigation with Aluminium phosphide tablets."
+            "Post harvesting stage - Rodent areas: Place Aluminium Phosphide with mud which will kill the rodents."
+         ]
+      },
+      "blackgram and greengram": {
+         "advisory": [
+            "Vegetative stage - Aphids: Spray Neem Based PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre by mixing in 200 litres of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Vegetative stage: Tobacco caterpillar - Monitor and spray insecticides as needed."
+            "Vegetative stage - Tobacco Caterpillar: Monitor the emergence of adult moths by setting up Pheromone traps. Spray insecticides."
          ]
       },
-      "chilli": {
+      "potato": {
          "advisory": [
-            "Vegetative stage: Aphids and Thrips - Use neem-based pesticide or chemical sprays."
+            "Vegetative stage: Go for hoeing and hand weeding. Irrigate the crop at 7-8 days interval. During irrigation, 2/3 portion of the ridge should be submerged."
          ]
       },
-      "cole crops": {
+      "tomato": {
          "advisory": [
-            "Vegetative stage: Diamond Back Moth infestation - Use neem-based pesticide or spray insecticides."
+            "Vegetative stage: Late blight - Spray Metalaxyl + Mancozeb mix for seed treatment. Avoid excess nitrogen fertilizer and close spacing of plants."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "Planting: Choose appropriate varieties, maintain proper spacing, and use disease-free suckers."
+            "Vegetative to Fruit formation stage: Fruit and shoot borer - Spray pesticides."
          ]
       },
-      "poultry": {
+      "marigold": {
          "advisory": [
-            "Make necessary arrangements for heat provision, proper brooding, and clean house maintenance for chicks."
+            "Vegetative to Flowering: Thrips - Apply Fipronil. Mealy bug - Apply Profenophos."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, apply Cifax as preventive measure for 'EUS' disease. Feed fishes with oil cake bran mixture."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

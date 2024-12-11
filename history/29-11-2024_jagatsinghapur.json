@@ -1,0 +1,86 @@
+{
+   "weather_details": {
+      "30/11/2024": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 22,
+         "rh_max": 83,
+         "rh_min": 56,
+         "wind_speed": 18,
+         "wind_direction": 30,
+         "cloud_cover": 8
+      },
+      "01/12/2024": {
+         "rainfall": 4,
+         "t_max": 24,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 61,
+         "wind_speed": 16,
+         "wind_direction": 32,
+         "cloud_cover": 8
+      },
+      "02/12/2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 13,
+         "wind_direction": 26,
+         "cloud_cover": 8
+      },
+      "03/12/2024": {
+         "rainfall": 4,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 77,
+         "rh_min": 57,
+         "wind_speed": 13,
+         "wind_direction": 27,
+         "cloud_cover": 20
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "chilli",
+      "cole crops",
+      "banana",
+      "poultry"
+   ],
+   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. For early and maximum yield in cole crops, spray gibberellic acid 0.001% L. Do proper field surveillance for pests and diseases regularly.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post-harvesting stage: Rodent/Rats problem - Locate rodent burrow, place aluminium phosphide tablet. Stored grain insect pest - Fumigation with Aluminium phosphide tablets."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage: Tobacco caterpillar - Monitor and spray insecticides as needed."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Vegetative stage: Aphids and Thrips - Use neem-based pesticide or chemical sprays."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Vegetative stage: Diamond Back Moth infestation - Use neem-based pesticide or spray insecticides."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Planting: Choose appropriate varieties, maintain proper spacing, and use disease-free suckers."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements for heat provision, proper brooding, and clean house maintenance for chicks."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

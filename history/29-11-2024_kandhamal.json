@@ -1,0 +1,82 @@
+{
+   "weather_details": {
+      "30-11-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 55,
+         "wind_speed": 4,
+         "wind_direction": 68,
+         "cloud_cover": 7
+      },
+      "01-12-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 72,
+         "wind_speed": 4,
+         "wind_direction": 96,
+         "cloud_cover": 8
+      },
+      "02-12-2024": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 10,
+         "rh_max": 97,
+         "rh_min": 69,
+         "wind_speed": 4,
+         "wind_direction": 110,
+         "cloud_cover": 7
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 10,
+         "rh_max": 94,
+         "rh_min": 68,
+         "wind_speed": 4,
+         "wind_direction": 112,
+         "cloud_cover": 7
+      },
+      "04-12-2024": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 90,
+         "rh_min": 59,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "cauliflower",
+      "cabbage",
+      "garden pea"
+   ],
+   "general_advisory": "As per the forecast, there will be continuous very light to light rainfall. Farmers can utilize the rainfall for the mentioned cole crops. Irrigate the nursery bed for cole crops during morning or evening hours. Harvested rice crop should be dried in the sun and then threshed & stored in a safe place.",
+   "crops_data": {
+      "garden pea": {
+         "advisory": [
+            "Seed treatment in garden pea before sowing.",
+            "Treat the seeds with Trichoderma@ 4 g/kg or Thiram or Captan@ 2 g/kg of seeds to avoid seed borne diseases."
+         ]
+      },
+      "cabbage/cauliflower": {
+         "advisory": [
+            "Vegetative - maturity",
+            "Black spot",
+            "First foliar spraying with Tridemorph 0.1% followed by spraying with Mancozeb 0.25% at a month interval."
+         ]
+      },
+      "dhanicha": {
+         "advisory": [
+            "Harvesting",
+            "Harvest the mature pods and beat to remove the seeds. Dry it in the sun and store safely."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

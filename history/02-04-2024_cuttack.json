@@ -53,102 +53,73 @@
    },
    "names_of_crops": [
       "paddy",
-      "summer pulses",
-      "oilseed",
-      "vegetables",
-      "mustard",
-      "groundnut",
-      "mung",
-      "biri",
-      "kulthi",
       "sugarcane",
       "maize",
       "tomato",
       "brinjal",
       "coconut",
-      "vegetable seedlings",
-      "fingerlings"
+      "vegetables",
+      "black gram",
+      "green gram",
+      "onion",
+      "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation. Irrigate maize crop. Spread polythene in irrigation channels. Apply 1g Streptocyclin in tomato and brinjal. Mulch coconut leaves. Cover with paper caps on vegetable seedlings. Harvest fingerlings from shallow ponds if water temperature rises. Yellow stem borer management in paddy. Blast disease management.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop to meet water requirements. Spread polythene in irrigation channels to save water wastage in sandy and loamy soil. Take preventive measures for high temperatures affecting tomato, brinjal, and coconut. Implement proper harvest management practices for onion. Control mango hoppers in mango orchards.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves. Avoid water deficit during critical stages."
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "Sowing of summer pulses underway."
-         ]
-      },
-      "oilseed": {
-         "advisory": [
-            "Sowing of oilseed underway."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Sowing of vegetables underway."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Harvesting of mustard completed."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Harvesting of groundnut completed."
-         ]
-      },
-      "mung": {
-         "advisory": [
-            "Harvesting of mung completed."
-         ]
-      },
-      "biri": {
-         "advisory": [
-            "Harvesting of biri completed."
-         ]
-      },
-      "kulthi": {
-         "advisory": [
-            "Harvesting of kulthi completed."
+            "Yellow stem borer management - spray recommended insecticides.",
+            "Blast Disease Management - spray recommended fungicides."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves in sugarcane. Top-dress with 4% potassium to protect from water scarcity."
+            "Early Shoot Borer management - frequent irrigation and timely cutting advised."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement of maize crop. Irrigate the crop. Avoid stagnant water in the field."
+            "High temperature increases water requirement - irrigate crops promptly."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature can lead to wilting in tomato. Apply 1g Streptocyclin in root zone."
+            "Apply Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps for brinjal shoot and fruit borer. Spray neem-based pesticide at infestation. Use chemical control at necessary intervals."
+            "Install pheromone trap and spray recommended insecticides for management."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves around the tree to reduce water loss."
+            "Mulch the area around coconut tree to reduce water loss."
          ]
       },
-      "vegetable seedlings": {
+      "vegetables": {
          "advisory": [
-            "Cover newly planted vegetable seedlings with paper caps during the day."
+            "Cover seedlings with paper caps during daytime."
          ]
       },
-      "fingerlings": {
+      "black gram": {
          "advisory": [
-            "Harvest fingerlings from shallow ponds if water temperature rises."
+            "Tobacco Caterpillar Management - dusting and spray recommendations."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Tobacco Caterpillar Management - dusting and spray recommendations."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Harvest and store onions properly for longer shelf life."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Mango hopper control - spray recommended insecticides."
          ]
       }
    },

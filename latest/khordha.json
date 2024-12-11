@@ -1,96 +1,84 @@
 {
    "weather_details": {
-      "30/11/2024": {
-         "rainfall": 5,
-         "t_max": 23,
-         "t_min": 22,
-         "rh_max": 86,
-         "rh_min": 52,
-         "wind_speed": 13,
-         "wind_direction": 23,
-         "cloud_cover": 8
-      },
-      "01/12/2024": {
-         "rainfall": 4,
-         "t_max": 24,
-         "t_min": 22,
-         "rh_max": 82,
-         "rh_min": 61,
-         "wind_speed": 11,
-         "wind_direction": 27,
-         "cloud_cover": 8
-      },
-      "02/12/2024": {
-         "rainfall": 3,
-         "t_max": 26,
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
          "t_min": 20,
-         "rh_max": 85,
-         "rh_min": 62,
+         "rh_max": 81,
+         "rh_min": 43,
+         "wind_speed": 8,
+         "wind_direction": 34,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 71,
+         "rh_min": 31,
          "wind_speed": 9,
-         "wind_direction": 27,
-         "cloud_cover": 7
-      },
-      "03/12/2024": {
-         "rainfall": 1,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 83,
-         "rh_min": 59,
-         "wind_speed": 6,
-         "wind_direction": 29,
-         "cloud_cover": 5
-      },
-      "04/12/2024": {
-         "rainfall": 1,
-         "t_max": 29,
-         "t_min": 17,
-         "rh_max": 80,
-         "rh_min": 53,
-         "wind_speed": 6,
-         "wind_direction": 14,
-         "cloud_cover": 6
+         "wind_direction": 22,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "paddy",
+      "blackgram",
+      "greengram",
       "groundnut",
-      "chilli",
-      "cole crops",
-      "banana",
-      "poultry"
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
    ],
-   "general_advisory": "Complete transplanting of winter vegetable crops. Use low cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. For early and maximum yield in Cole crops spray Gibberellic Acid. Do proper field surveillance for pests and diseases regularly. In winter during cold or night hours, farmers should keep doors, windows, and open spaces in cow sheds covered with polythene or gunny bag curtains.",
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There may be chances of infestation of sucking pests, leaf blight, powdery mildew in the rabi crops and vegetables due to low night temperature. Monitor crops and vegetables for symptoms and undertake appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. Harvest mature sugarcanes below one inch of ground level for a successful ratoon crop.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Post harvesting stage - Rodent control: If 'Rodent/Rats' problem is noticed, take necessary steps to eliminate them."
+            "Post harvesting stage: Rodent areas - Place Aluminium Phosphide with mud to kill rodents."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative stage: Aphids - Spray Neem Based Pesticide 1500 PPM. Then spray Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative stage: Aphids - Spray Neem Based Pesticide 1500 PPM. Then spray Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Vegetative stage - Pest management: Control Tobacco Caterpillar by setting up traps and using appropriate sprays."
+            "Vegetative stage: Tobacco Caterpillar - Set up Pheromone traps and spray insecticides."
          ]
       },
-      "chilli": {
+      "potato": {
          "advisory": [
-            "Vegetative stage - Aphids and Thrips control: Use neem-based pesticide for infestation management."
+            "Vegetative stage: Hoeing and hand weeding, high ridges, and proper irrigation."
          ]
       },
-      "cole crops": {
+      "tomato": {
          "advisory": [
-            "Vegetative stage - Diamond Back Moth infestation: Use neem-based pesticide for control."
+            "Vegetative stage: Late blight - Spray Metalaxyl + Mancozeb. Avoid excess nitrogen fertilizer."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "Planting stage - Optimum time for planting. Use disease-free suckers for planting."
+            "Vegetative - Fruit formation stage: Fruit and shoot borer - Spray Neem based pesticide and alternate sprays."
          ]
       },
-      "poultry": {
+      "marigold": {
          "advisory": [
-            "Ensure heat provision for chicks during night hours. Maintain cleanliness in poultry house."
+            "Vegetative to Flowering: Thrips - Install blue sticky traps. Mealy bug - Apply Profenophos."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, apply Cifax as a preventive measure for 'EUS' disease in fish."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

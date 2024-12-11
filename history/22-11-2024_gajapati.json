@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "2024-11-23": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 38,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "2024-11-24": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 85,
+         "rh_min": 39,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "2024-11-25": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 3,
+         "wind_direction": 8,
+         "cloud_cover": 5
+      },
+      "2024-11-26": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 82,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 17,
+         "cloud_cover": 6
+      },
+      "2024-11-27": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 76,
+         "rh_min": 32,
+         "wind_speed": 5,
+         "wind_direction": 27,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "marigold",
+      "cow",
+      "goat",
+      "common fish",
+      "chicken"
+   ],
+   "general_advisory": "According to the weather forecast, farmers are advised to undertake necessary agricultural activities, including sowing of rabi crops and viral infested crop rouging. Spraying of plant protection chemicals should be done in clear weather condition.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured.",
+            "Sun-dry paddy grains to 14% moisture content for consumption purpose."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control boll worm complex, spray Emamectin Benzoate or Chlorantraniliprole mix.",
+            "Harvest cotton from bursted bolls and protect from rain damage."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites, spray wettable sulphur or Propargite or Fenpyroximate."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Deworm the cattle and buffalo in regular intervals.",
+            "Consult with veterinary doctors if animal is not coming to heat after 4 years."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Repair the goat house before winter to prevent mortality among kids."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Apply CIFAX to prevent fungal, bacterial, and parasitic infections in fish during winter."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Take care of brooding management of chicks and ducklings during winter season."
+         ]
+      }
+   },
+   "date": "22-11-2024"
+}

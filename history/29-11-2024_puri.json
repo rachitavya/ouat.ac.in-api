@@ -1,0 +1,107 @@
+{
+   "weather_details": {
+      "30/11/2024": {
+         "rainfall": 5,
+         "t_max": 25,
+         "t_min": 21,
+         "rh_max": 84,
+         "rh_min": 55,
+         "wind_speed": 21,
+         "wind_direction": 29,
+         "cloud_cover": 8
+      },
+      "01/12/2024": {
+         "rainfall": 3,
+         "t_max": 25,
+         "t_min": 21,
+         "rh_max": 82,
+         "rh_min": 62,
+         "wind_speed": 17,
+         "wind_direction": 29,
+         "cloud_cover": 8
+      },
+      "02/12/2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 62,
+         "wind_speed": 16,
+         "wind_direction": 25,
+         "cloud_cover": 8
+      },
+      "03/12/2024": {
+         "rainfall": 3,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 82,
+         "rh_min": 60,
+         "wind_speed": 16,
+         "wind_direction": 28,
+         "cloud_cover": 7
+      },
+      "04/12/2024": {
+         "rainfall": 3,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 79,
+         "rh_min": 57,
+         "wind_speed": 12,
+         "wind_direction": 20,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "chilli",
+      "cole crops",
+      "banana",
+      "poultry"
+   ],
+   "general_advisory": "Complete transplanting of winter vegetable crops. Use low cost polythene cover to avoid poor germination. For early and maximum yield in Cole crops, spray Gibberellic Acid. Proper field surveillance for pests and diseases is recommended. Take precautions in cow sheds during cold hours.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Rodent/Rats problem - Place Aluminium Phosphide tablet per burrow",
+            "Stored grain insect pest - Fumigation using Aluminium phosphide tablets",
+            "Groundnut - Monitor for pests like Tobacco Caterpillar",
+            "Chilli - Control Aphids and Thrips infestation",
+            "Cole crops - Manage Diamond Back Moth infestation"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Monitor for Tobacco Caterpillar",
+            "Spray appropriate insecticides for control"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control Aphids and Thrips infestation",
+            "Chemical spray for effective pest management"
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Manage Diamond Back Moth infestation",
+            "Spray neem-based pesticide for control"
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Plant Dwarf Cavendish and Robusta variety",
+            "Proper spacing and pit size",
+            "Use disease-free suckers or tissue culture"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure heat provision for chicks at night",
+            "Maintain clean poultry house",
+            "Utilize OUAT KALINGA products for benefits"
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

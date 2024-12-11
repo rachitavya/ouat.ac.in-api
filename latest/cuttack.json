@@ -56,70 +56,60 @@
       "sugarcane",
       "maize",
       "tomato",
-      "brinjal",
       "coconut",
-      "vegetables",
-      "black gram",
-      "green gram",
+      "brinjal",
+      "okra",
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop to meet water requirements. Spread polythene in irrigation channels to save water wastage in sandy and loamy soil. Take preventive measures for high temperatures affecting tomato, brinjal, and coconut. Implement proper harvest management practices for onion. Control mango hoppers in mango orchards.",
+   "general_advisory": "General advisory about weather and cropping: In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. In these stages, water scarcity or deficit of water causes a comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management - spray recommended insecticides.",
-            "Blast Disease Management - spray recommended fungicides."
+            "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. In these stages water scarcity or deficit of water causes comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Early Shoot Borer management - frequent irrigation and timely cutting advised."
+            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect the crop from water scarcity during summer.",
+            "Apply sprinkler irrigation to bring down the heat effect. Conserve up to 50% water by irrigating alternate rows.",
+            "The high temperature increases the water requirement of the maize crop. Irrigate the crop. Never allow water to remain stagnant for more than six hours in the field."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement - irrigate crops promptly."
+            "The high temperature increases the water requirement of the maize crop. Irrigate the crop. Never allow water to remain stagnant for more than six hours in the field. Spread polythene in irrigation channels to save water wastage during irrigation in sandy and loamy soil."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply Streptocyclin in root zone to prevent wilting."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Install pheromone trap and spray recommended insecticides for management."
+            "High temperature in day hours may lead to wilting in tomato and brinjal. Apply 1g Streptocyclin in 10-liter water in the root zone."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch the area around coconut tree to reduce water loss."
+            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
          ]
       },
-      "vegetables": {
+      "brinjal": {
          "advisory": [
-            "Cover seedlings with paper caps during daytime."
+            "In shallow ponds, harvest fingerlings if the water temperature rises to 30 0C. Ensure enough water depth before introducing fingerlings in a pond.",
+            "Cover with paper caps on the newly planted vegetable seedlings during daytime."
          ]
       },
-      "black gram": {
+      "okra": {
          "advisory": [
-            "Tobacco Caterpillar Management - dusting and spray recommendations."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Tobacco Caterpillar Management - dusting and spray recommendations."
+            "Whitefly Infestation: To prevent whitefly infestation in okra seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop."
          ]
       },
       "onion": {
          "advisory": [
-            "Harvest and store onions properly for longer shelf life."
+            "After harvesting of onion, cut the tops leaving 2.0 -2.5 cm above bulb. The harvested bulb should be dried in a well-ventilated concrete floored room. Well-dried bulbs can be stored for a longer period."
          ]
       },
       "mango": {
          "advisory": [
-            "Mango hopper control - spray recommended insecticides."
+            "To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 liters of water or Thiamethoxam 25% W.G @ 3ml/15litre of water or Acetamiprid 20% S.P. @ 4g / 15litre of water. Application of smoke below the plants can also help in reducing the pest population."
          ]
       }
    },

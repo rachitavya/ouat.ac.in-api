@@ -1,0 +1,173 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 5,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 54,
+         "wind_speed": 2,
+         "wind_direction": 18,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 89,
+         "rh_min": 43,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 4
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 2
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 76,
+         "rh_min": 31,
+         "wind_speed": 3,
+         "wind_direction": 124,
+         "cloud_cover": 2
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 71,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 101,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "greengram",
+      "blackgram",
+      "groundnut",
+      "mustard",
+      "toria",
+      "sunflower",
+      "onion",
+      "cauliflower",
+      "cabbage",
+      "tomato",
+      "cattle",
+      "buffalo",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "According to the forecast, very light to light rain is likely. Minimum temperatures are expected to range from 10°C to 20°C. Farmers are advised to postpone paddy harvesting due to anticipated rain and to complete the sowing of rabi crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare nursery for rabi season",
+            "Use suitable high yielding varieties",
+            "Treat seeds before sowing"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Harvest when there is complete bursting of bolls",
+            "Dry seed cotton to reduce moisture",
+            "Sell seed cotton in nearby market for MSP"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Follow recommended control measures for pests",
+            "Apply specific pesticides for pod borer, pod sucking bug, aphid"
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Apply Pendimithalin for weed management"
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Apply Pendimithalin for weed management"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Imazethapyr for weed management",
+            "Install yellow sticky traps for pest monitoring"
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Apply Quizalofop-ethyl for weed management"
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Intercultural operations and fertilization"
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Intercultural operations and first top dressing",
+            "Sucking pest control measures"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Prepare main field for transplanting onion seedlings",
+            "Apply necessary nutrients prior to transplanting"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Hoeing, weeding, and fertilizer application",
+            "Continue with nutrient application and irrigation"
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Continue with nutrient application and irrigation"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Spray Mancozeb in case of wilting"
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Vaccinate against FMD",
+            "Control and prevent Foot and Mouth Disease"
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Vaccinate calves against Brucellosis"
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Protect from chill wind and damp floors"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide heat to chicks during night hours",
+            "Ensure proper brooding arrangement"
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

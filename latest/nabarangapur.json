@@ -1,129 +1,137 @@
 {
    "weather_details": {
-      "11-12-2024": {
-         "rainfall": 0,
+      "21-12-2024": {
+         "rainfall": 7,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 55,
+         "wind_speed": 5,
+         "wind_direction": 51,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
          "t_max": 28,
-         "t_min": 17,
-         "rh_max": 79,
+         "t_min": 19,
+         "rh_max": 87,
+         "rh_min": 42,
+         "wind_speed": 3,
+         "wind_direction": 36,
+         "cloud_cover": 4
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 32,
+         "wind_speed": 5,
+         "wind_direction": 53,
+         "cloud_cover": 2
+      },
+      "24-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 77,
          "rh_min": 33,
-         "wind_speed": 6,
-         "wind_direction": 18,
-         "cloud_cover": 3
-      },
-      "12-12-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 65,
-         "rh_min": 29,
-         "wind_speed": 5,
-         "wind_direction": 39,
-         "cloud_cover": 0
-      },
-      "13-12-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 65,
-         "rh_min": 28,
          "wind_speed": 4,
-         "wind_direction": 48,
-         "cloud_cover": 0
+         "wind_direction": 0,
+         "cloud_cover": 2
       },
-      "14-12-2024": {
+      "25-12-2024": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 60,
-         "rh_min": 26,
-         "wind_speed": 5,
-         "wind_direction": 30,
-         "cloud_cover": 0
-      },
-      "15-12-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 59,
-         "rh_min": 22,
-         "wind_speed": 5,
-         "wind_direction": 34,
-         "cloud_cover": 0
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 73,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 63,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rice",
       "arhar",
       "groundnut",
+      "greengram/blackgram",
       "mustard",
-      "cauliflower",
-      "cabbage",
-      "broccoli",
+      "cauliflower/cabbage/broccoli",
+      "brinjal",
+      "tomato",
       "okra",
-      "cow",
       "goat",
       "poultry"
    ],
-   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop, go for soil testing. Apply balanced fertilizers as per soil test recommendations. Repair goat house before winter season.",
+   "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card. Hold off on spraying of pesticides for the time being. Complete the impending rabi crop sowing to utilize anticipated rainfall.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Continue harvesting kharif paddy and process different varieties separately.",
-            "Do not burn residue in fields. Mix it with soil.",
-            "Address rodent/rats problem by using Aluminium Phosphide 6% tablet."
+            "Go for nursery raising of summer rice from Dec to 1st week of January. Early planting reduces stem borer attack.",
+            "Select certified 3 -4 months duration HYV resistant to biotic stress like Khandagiri, Mandakini, Sahabhagi Dhan, MTU 1010, Sidhant, Lalat, CR Dhan 101etc.",
+            "Dip the seeds in the brine solution (165 g common salt in one litre of water) to discard the chaffs & half filled seeds.",
+            "After discard, wash the seeds with clear water & dry it.",
+            "Before sowing, to reduce incidence of seed borne diseases, treat the seeds with Carbendazim @ 1.5 g/kg seed or Vitavax Power @ 2.5 g/kg seed."
          ]
       },
       "arhar": {
          "advisory": [
-            "Follow recommended pest management for prevailing pests."
+            "To control pod borer, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
+            "To control pod sucking bug and aphid, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Apply Oxyflourfen 23.5% EC for weed management."
+            "Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as early post emergence herbicide or apply Fenoxaprop -P-ethyl 9.3% @ 35 ml/drum (15 liter capacity) at 15 -20 DAS."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Apply Pendimithalin 30% EC @ 1.20 liter/acre mixed with 200 liters of water at 1 -2 DAS."
          ]
       },
       "mustard": {
          "advisory": [
-            "Apply Oxadiargyl 6% EC for pre-emergence weed management."
+            "For control of Aphids, spray Dimethoate 30% EC (1.5 ml/l ) or Imidacloprid 17.8 % SL ( 0.6 ml/l) or Thiomethoxam 25 % WG (0.2 g/l). For control of fly spray Ethofenprox 10 % EC @ 1 ml/l water or Quinalphos 25% EC @ 2.5ml/l water or Acephate 75 % SP @ 1g per litre of water.",
+            "Weed management: Apply Quizalofop -ethyl 5% EC as post emergence @ 2ml /liter of water at 15 -20 DAS.",
+            "Undertake intercultural operation like weeding and earthing up followed by fertilizer application (Urea @ 35 -40kg/ac + MOP @ 10kg/ac) and irrigation at 3 -week stage."
          ]
       },
-      "cauliflower": {
+      "cauliflower/cabbage/broccoli": {
          "advisory": [
-            "Spray bio insecticide or chemical insecticide to control pests."
+            "To control Diamond back moth, spray bio insecticide Azadiractin 0.03% (300 ppm) @ 5 ml/liter of water or Beauveria bassiana 5% WP @ 800 g/acre mixed with 200 liters of water. To control chemically, spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water.",
+            "To control tobacco leaf eating caterpillar, spray Cyantraniliprole 10.26% OD @ 6 ml/5ltr of water.",
+            "Chances of aphid infestation in cabbage, if observe spray Thiamethoxam 25% WG @ 6 g or Acetamiprid 20% SP @ 3 g per 15 litre of water."
          ]
       },
-      "cabbage": {
+      "brinjal": {
          "advisory": [
-            "Spray bio insecticide or chemical insecticide to control pests."
+            "Shoot borer may observe in brinjal field, to control it spray Azadirachtin 1% EC @ 3 ml/litre of water or Emamectin benzoate 5% SG @ 0.4 g/litre of water."
          ]
       },
-      "broccoli": {
+      "tomato": {
          "advisory": [
-            "Spray bio insecticide or chemical insecticide to control pests."
+            "In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr  of water if symptom is noticed.",
+            "Chances of early blight infestation in tomato, if observe spray Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/litre of water or Captan 50% WP @ 2.5 g/litre of water.",
+            "White fly may observe in tomato, to control it spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5 ZC @ 3.75 ml or Imidacloprid 70%  WG @ 1.5 g in 15 litre of water."
          ]
       },
       "okra": {
          "advisory": [
-            "Spray Buprofezin 15% + Acephate 35% WP to control aphids.",
-            "Spray neem based pesticide for fruit borer control."
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "Provide sufficient green grass. Lactating animals should have concentrate mix."
+            "To control the vector of YMV and leaf curling due to aphid infestation in okra spray Buprofezin 15% + Acephate 35% WP  @ 1.5 g/litre of water or Thiamethoxam 25% WG @ 3 g in 15 litre of water."
          ]
       },
       "goat": {
          "advisory": [
-            "Repair goat house before winter season."
+            "Protect Goat from chill wind and damp floors."
          ]
       },
       "poultry": {
          "advisory": [
-            "Provide heat to reduce mortality rate, especially for chicks. Maintain clean poultry house."
+            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

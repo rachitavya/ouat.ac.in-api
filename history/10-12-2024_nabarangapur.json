@@ -1,0 +1,129 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 33,
+         "wind_speed": 6,
+         "wind_direction": 18,
+         "cloud_cover": 3
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 65,
+         "rh_min": 29,
+         "wind_speed": 5,
+         "wind_direction": 39,
+         "cloud_cover": 0
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 65,
+         "rh_min": 28,
+         "wind_speed": 4,
+         "wind_direction": 48,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 60,
+         "rh_min": 26,
+         "wind_speed": 5,
+         "wind_direction": 30,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 59,
+         "rh_min": 22,
+         "wind_speed": 5,
+         "wind_direction": 34,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "groundnut",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "okra",
+      "cow",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop, go for soil testing. Apply balanced fertilizers as per soil test recommendations. Repair goat house before winter season.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Continue harvesting kharif paddy and process different varieties separately.",
+            "Do not burn residue in fields. Mix it with soil.",
+            "Address rodent/rats problem by using Aluminium Phosphide 6% tablet."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Follow recommended pest management for prevailing pests."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Oxyflourfen 23.5% EC for weed management."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Apply Oxadiargyl 6% EC for pre-emergence weed management."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticide to control pests."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticide to control pests."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticide to control pests."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Spray Buprofezin 15% + Acephate 35% WP to control aphids.",
+            "Spray neem based pesticide for fruit borer control."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide sufficient green grass. Lactating animals should have concentrate mix."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Repair goat house before winter season."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide heat to reduce mortality rate, especially for chicks. Maintain clean poultry house."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

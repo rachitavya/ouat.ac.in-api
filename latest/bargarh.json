@@ -1,101 +1,109 @@
 {
    "weather_details": {
-      "11-12-2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 18,
-         "rh_max": 71,
-         "rh_min": 32,
-         "wind_speed": 5,
-         "wind_direction": 4,
-         "cloud_cover": 4
-      },
-      "12-12-2024": {
-         "rainfall": 0,
-         "t_max": 30,
+      "21-12-2024": {
+         "rainfall": 6,
+         "t_max": 29,
          "t_min": 17,
-         "rh_max": 68,
+         "rh_max": 88,
+         "rh_min": 52,
+         "wind_speed": 6,
+         "wind_direction": 47,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 41,
+         "wind_speed": 6,
+         "wind_direction": 48,
+         "cloud_cover": 5
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 30,
+         "wind_speed": 6,
+         "wind_direction": 40,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 69,
          "rh_min": 29,
-         "wind_speed": 4,
-         "wind_direction": 17,
-         "cloud_cover": 1
-      },
-      "13-12-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 66,
-         "rh_min": 26,
-         "wind_speed": 4,
-         "wind_direction": 11,
-         "cloud_cover": 1
-      },
-      "14-12-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 61,
-         "rh_min": 22,
-         "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 0
-      },
-      "15-12-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 59,
-         "rh_min": 20,
          "wind_speed": 5,
-         "wind_direction": 4,
-         "cloud_cover": 0
+         "wind_direction": 56,
+         "cloud_cover": 3
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 66,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 49,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "rice",
-      "cotton",
-      "green gram",
-      "black gram",
+      "kharif rice",
+      "summer rice",
+      "green gram/black gram",
       "ground nut",
-      "cole crop"
+      "cole crop",
+      "livestock",
+      "poultry"
    ],
-   "general_advisory": "Looking to the dry weather condition in upcoming days, farmers are advised to harvest their matured crops and conduct spraying operations during that period. Farmers are advised to complete the sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram etc. and start land preparation for nursery sowing of Rabi Paddy where irrigation facilities are available. Deworming and vaccination should be advised in animals to boost immunity and protect them from any harmful diseases.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing and spraying operations according to the weather forecast. Provision should be made to protect crops and animals from the cold. Sowing of Rabi crops should be completed.",
    "crops_data": {
-      "rice": {
+      "kharif rice": {
          "advisory": [
-            "There is no rainfall event is expected in upcoming days so farmers are advised to conduct harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
-            "After harvesting rice should be dried in the field for 2-3 days and thereafter threshing should be done. Rice should be stored at a moisture level of 12% in safe places."
+            "There is some rainfall expected in the first half of upcoming days so farmers are advised to wait for harvesting operations and store the harvested paddy crop safely.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice."
          ]
       },
-      "cotton": {
+      "summer rice": {
          "advisory": [
-            "Dry weather is expected in upcoming week so picking of matured bolls should be advised and dry the seed cotton on to reduce the moisture to 8-10%."
+            "Farmers should start field preparation for summer season rice cultivation.",
+            "Select improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
          ]
       },
-      "green gram": {
+      "green gram/black gram": {
          "advisory": [
-            "Farmers are advised to complete sowing of green gram / black gram in upcoming week.",
-            "One week before sowing, seed should be treated with carbendazim @ 1.5-2.0g and imidacloprid @ 5g per kg seeds..."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Farmers are advised to complete sowing of green gram / black gram in upcoming week.",
-            "One week before sowing, seed should be treated with carbendazim @ 1.5-2.0g and imidacloprid @ 5g per kg seeds..."
+            "Treat seeds with carbendazim and imidacloprid before sowing.",
+            "Sow seeds with proper spacing and use recommended varieties."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Farmers who have not yet sown seeds can use improved Groundnut varieties such as TAG-24, JL-24, Girnar-3, Smruti, TG-3, TG-22, Kadri-5...",
-            "Ensure seed treatment before sowing of seed and if possible, treat with bacteria or phospho culture 7 days after treatment..."
+            "Use improved groundnut varieties for sowing.",
+            "Ensure seed treatment and proper spacing for sowing."
          ]
       },
       "cole crop": {
          "advisory": [
-            "During panting, polythene can be used as mulching material or if planting already done straw can be used for the same purpose to maintain moisture as well as soil temperature vegetable crops...",
-            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised..."
+            "Use straw for mulching in vegetable crops.",
+            "Monitor for Diamond back moth in cauliflower and use pheromone trap if necessary."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold weather and provide clean drinking water.",
+            "Vaccinate and deworm animals to control diseases."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry houses.",
+            "Provide external heat source and maintain suitable drinking water temperature."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

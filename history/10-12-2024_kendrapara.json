@@ -1,0 +1,118 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 48,
+         "wind_speed": 15,
+         "wind_direction": 16,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 64,
+         "rh_min": 34,
+         "wind_speed": 30,
+         "wind_direction": 14,
+         "cloud_cover": 15
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 53,
+         "rh_min": 28,
+         "wind_speed": 34,
+         "wind_direction": 30,
+         "cloud_cover": 14
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 52,
+         "rh_min": 26,
+         "wind_speed": 17,
+         "wind_direction": 4,
+         "cloud_cover": 16
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "sugarcane",
+      "blackgram",
+      "greengram",
+      "groundnut",
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
+   ],
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. Monitor the crops and vegetables for pest infestation and diseases. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. Harvest mature sugarcanes below one inch of ground level for a successful ratoon crop.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post harvesting stage - Rodent areas. Place Aluminium Phosphide with mud to kill rodents."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Vegetative stage - Aphids management."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Vegetative stage - Tobacco Caterpillar control."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative stage - Aphids management.",
+            "Vegetative stage - Tobacco Caterpillar control."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative stage - Aphids management.",
+            "Vegetative stage - Tobacco Caterpillar control."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage - Tobacco Caterpillar control."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Vegetative stage - Hoeing and hand weeding. High ridges for tubers. Proper irrigation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage - Late blight prevention."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative to fruit formation stage - Fruit and shoot borer control."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Vegetative to flowering - Thrips and Mealy bug control."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, preventive measures for 'EUS' disease in fish. Proper feeding."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

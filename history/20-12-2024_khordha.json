@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 16,
+         "t_max": 23,
+         "t_min": 20,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 10,
+         "wind_direction": 18,
+         "cloud_cover": 7
+      },
+      "22/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 87,
+         "rh_min": 50,
+         "wind_speed": 9,
+         "wind_direction": 7,
+         "cloud_cover": 6
+      },
+      "23/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 36,
+         "wind_speed": 8,
+         "wind_direction": 15,
+         "cloud_cover": 5
+      },
+      "24/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 70,
+         "rh_min": 32,
+         "wind_speed": 10,
+         "wind_direction": 35,
+         "cloud_cover": 1
+      },
+      "25/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 67,
+         "rh_min": 30,
+         "wind_speed": 351,
+         "wind_direction": 10,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "sugarcane",
+      "tomato",
+      "chilli",
+      "brinjal",
+      "cauliflower"
+   ],
+   "general_advisory": "Light to moderate rainfall may occur on Saturday & Sunday with generally cloudy sky condition. Farmers are advised to keep harvested paddy safe, make provisions for draining excess rain water, withhold application of fertilizers and pesticides, manage wilt and rot disease in vegetable crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare wet nursery seed beds by puddling and planking",
+            "Apply fertilizers like FYM, DAP, MOP, and Zinc sulphate",
+            "Sow sprouted seeds in seed bed by line sowing",
+            "Harvesting and planting activities"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking of cotton crop is in progress"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Planting in well-drained soil after rain receding"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Cover nursery with polythene sheet"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Cover nursery with polythene sheet"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control Fruit and shoot borer with Neem based pesticide"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply borax to prevent browning or brown rot"
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

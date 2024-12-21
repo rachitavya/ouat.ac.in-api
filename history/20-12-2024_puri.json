@@ -1,0 +1,65 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 18,
+         "t_max": 23,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 68,
+         "wind_speed": 15,
+         "wind_direction": 23,
+         "cloud_cover": 8
+      },
+      "22/12/2024": {
+         "rainfall": 15,
+         "t_max": 24,
+         "t_min": 21,
+         "rh_max": 90,
+         "rh_min": 55,
+         "wind_speed": 16,
+         "wind_direction": 22,
+         "cloud_cover": 7
+      },
+      "23/12/2024": {
+         "rainfall": 2,
+         "t_max": 23,
+         "t_min": 20,
+         "rh_max": 79,
+         "rh_min": 41,
+         "wind_speed": 22,
+         "wind_direction": 16,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "sugarcane",
+      "brinjal",
+      "cauliflower"
+   ],
+   "general_advisory": "Light to moderate rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep the harvested paddy in a safe place with polythene to keep it safe from rain. Make provision for draining out excess rainwater in late duration rice crop by making alleys (Pahi) and keep the drain ends open.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare the wet nursery seed beds for paddy. Using rainwater, the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "November to February is the optimum time for planting of sugarcane for Odisha climate. Farmers are advised to go for planting of sugarcane in well drained soil having good irrigation facility."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative to fruiting Fruit and shoot borer: To control Fruit and shoot borer in Brinjal, Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45% SC @70ml/acre and Thiodicarb@300g/acre at 15 days interval in dry weather."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Vegetative – Fruit formation stage Browning or Brown rot: Apply borax @ 4 kg/ acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5 g/litre or Folibor/Solubor @ 1.5 g/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

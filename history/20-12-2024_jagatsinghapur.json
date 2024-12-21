@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 15,
+         "t_max": 26,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 13,
+         "wind_direction": 23,
+         "cloud_cover": 8
+      },
+      "22/12/2024": {
+         "rainfall": 10,
+         "t_max": 27,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 55,
+         "wind_speed": 14,
+         "wind_direction": 16,
+         "cloud_cover": 7
+      },
+      "23/12/2024": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 77,
+         "rh_min": 39,
+         "wind_speed": 13,
+         "wind_direction": 19,
+         "cloud_cover": 6
+      },
+      "24/12/2024": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 34,
+         "wind_speed": 11,
+         "wind_direction": 19,
+         "cloud_cover": 6
+      },
+      "25/12/2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 69,
+         "rh_min": 31,
+         "wind_speed": 8,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "cereals",
+      "pulses",
+      "oilseeds",
+      "spices",
+      "vegetables",
+      "sugarcane",
+      "brinjal",
+      "cauliflower"
+   ],
+   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep harvested paddy safe from rain and drain excess water. Make provisions for various crops and vegetable nursery care.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare wet nursery seed beds for paddy",
+            "Apply fertilizers and maintain irrigation",
+            "Manage lodging and drainage"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Plant in well-drained soil with good irrigation",
+            "Optimal planting time from November to February"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control fruit and shoot borer with Neem-based pesticide",
+            "Follow up sprays at intervals in dry weather",
+            "Apply Boron micronutrient for plant health"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Prevent browning or brown rot with Borax application",
+            "Ensure soil health and nutrient balance"
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Vaccinate against PPR disease ('Goat Plague')",
+            "Monitor animal health during winter"
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

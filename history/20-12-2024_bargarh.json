@@ -1,0 +1,119 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 6,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 88,
+         "rh_min": 52,
+         "wind_speed": 6,
+         "wind_direction": 47,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 41,
+         "wind_speed": 6,
+         "wind_direction": 48,
+         "cloud_cover": 5
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 30,
+         "wind_speed": 6,
+         "wind_direction": 40,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 69,
+         "rh_min": 29,
+         "wind_speed": 5,
+         "wind_direction": 56,
+         "cloud_cover": 3
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 66,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 49,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "green gram",
+      "black gram",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Make provision to take proper care of crops and protect animals from cold. Complete sowing of Rabi crops and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some rainfall event expected in the first half of upcoming days, so wait for harvesting operations and store safely.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice.",
+            "Avoid damage due to untimely rain by providing suitable cover."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Treat seeds with carbendazim and imidacloprid before sowing.",
+            "Mix Rizobium culture and sodium molybdate with seeds before sowing.",
+            "Avoid irrigation for some days due to expected rainfall.",
+            "Plant varieties like Kamadeva, Durga, IPM 02-3, IPM 02-14, TARM1."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Treat seeds with carbendazim and imidacloprid before sowing.",
+            "Mix Rizobium culture and sodium molybdate with seeds before sowing.",
+            "Avoid irrigation for some days due to expected rainfall.",
+            "Plant varieties like Prasada, Usala, PU 31, IPU2-43, Mahuri."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Use improved groundnut varieties for sowing.",
+            "Ensure seed treatment before sowing and treat with bacteria or phospho culture.",
+            "Conduct gap filling where seedlings have not emerged.",
+            "Monitor for insect attacks and take necessary actions."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use straw as mulching material in vegetable crops.",
+            "Monitor for Diamond back moth in cauliflower.",
+            "Spray neem oil or Emamectin Benzoate after rain if attack observed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold using jute bags and straw as bedding material.",
+            "Provide clean drinking water to cattle and maintain clean sheds.",
+            "Vaccinate and deworm animals to control diseases and worms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry house.",
+            "Provide external heat source to keep the shed warm and dry.",
+            "Maintain suitable temperature for drinking water."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 36,
+         "wind_speed": 2,
+         "wind_direction": 259,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 30,
+         "wind_speed": 1,
+         "wind_direction": 162,
+         "cloud_cover": 2
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 25,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 1
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 65,
+         "rh_min": 20,
+         "wind_speed": 1,
+         "wind_direction": 214,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "green gram/black gram",
+      "ground nut",
+      "cole crop"
+   ],
+   "general_advisory": "According to medium range weather forecast, no rainfall is expected in the upcoming week. Farmers are advised to harvest matured crops and conduct spraying operations. Sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram should be completed. Deworming and vaccination should be advised in animals.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "No rainfall is expected in upcoming days so farmers are advised to conduct harvesting operations and store harvested paddy crops in safe places. After harvesting rice should be dried in the field for 2-3 days and thereafter threshing should be done. Rice should be stored at a moisture level of 12% in safe places.",
+            "Prevailing weather condition is favourable for False Smut disease infestation in late maturing rice varieties, so regular monitoring should be advised. If infestation noticed, spraying of Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr should be advised when the sky is clear. Repeat the spray after 7-10 days for effective control."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Dry weather is expected in the upcoming week so picking of matured bolls should be advised and dry the seed cotton to reduce the moisture to 8-10%."
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "Farmers are advised to complete sowing of green gram/black gram in the upcoming week. Seed treatment should be done before sowing, and specific varieties should be used."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Farmers who have not yet sown seeds can use improved Groundnut varieties. Seed treatment before sowing is recommended. Seedlings should be sown within 2 to 3 days of husking at a depth of 5 cm."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "During planting, polythene can be used as mulching material to maintain moisture. Regular monitoring against the attack of Diamond back moth in cauliflower should be advised. If attack observed, then spraying of neem oil or Emamectin Benzoate should be advised after rain."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

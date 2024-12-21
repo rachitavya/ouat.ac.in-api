@@ -1,64 +1,71 @@
 {
    "weather_details": {
-      "10.12.2024": {
+      "20.12.2024": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 88,
-         "rh_min": 62,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 34,
          "wind_speed": 10,
          "wind_direction": 120,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "groundnut",
       "mustard",
+      "cucurbits",
+      "indian bean",
+      "spinach",
       "garlic",
-      "chilli",
       "potato",
-      "cauliflower",
-      "marigold"
+      "cauliflower"
    ],
-   "general_advisory": "Use the specified pesticides and methods to manage pests and diseases for the mentioned crops. Apply necessary nutrients and fertilizers as advised.",
+   "general_advisory": "Ensure proper irrigation practices for mustard crop to manage Sawfly infestation. Control downy mildew in cucurbits due to low temperature. Protect Indian bean from aphids. Follow proper sowing practices for spinach and garlic. Prevent early leaf blight in potato and Alternaria leaf spot in cauliflower. Ensure good ventilation in animal husbandry to prevent diseases.",
    "crops_data": {
-      "groundnut": {
-         "advisory": [
-            "Manage Aphids population with neem-based pesticide or chemical sprays.",
-            "Use yellow sticky traps for monitoring pests."
-         ]
-      },
       "mustard": {
          "advisory": [
-            "Manage Sawfly infestation by irrigation and manual collection of grubs."
+            "There will be chances of Sawfly infestation in Mustard crop.",
+            "To manage this pest, irrigation should be done in seedling stage.",
+            "Manually collect and destroy grubs of Sawfly.",
+            "Spray Ethofenprox 10 % EC or Chlorpyriphos 50% + Cypermethrin 5 % E.C."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "There will be an increase in infestation of downy mildew due to low temperature.",
+            "Spray Metalaxyl 8% + Mancozeb 64% W.P or Fosetyl -AL 80 % WP."
+         ]
+      },
+      "indian bean": {
+         "advisory": [
+            "To manage aphids, put yellow sticky traps per acre.",
+            "Spray Neem based pesticide or chemical pesticide if severe infestation."
+         ]
+      },
+      "spinach": {
+         "advisory": [
+            "Varieties of Palak include Pusa Palak, All Green, Pusa Jyoti, Pusa Harit, Komal, Punjab Green.",
+            "Soak seeds in water before sowing."
          ]
       },
       "garlic": {
          "advisory": [
-            "Plant garlic varieties like Agrifound white or Jamuna Safed.",
-            "Treat garlic cloves with Carbendazim before planting."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Monitor and manage aphids with yellow sticky traps and appropriate pesticides."
+            "Plant varieties like Agrifound white, Jamuna Safed, G-282, Agrifound Parvati.",
+            "Treat garlic cloves with Carbendazim.",
+            "Maintain optimal spacing for Garlic."
          ]
       },
       "potato": {
          "advisory": [
-            "Control Early Leaf Blight disease with specified fungicides."
+            "Chances of Early leaf Blight disease in potato.",
+            "Spray Mancozeb 75% WP or Carbendazim 12% + Mancozeb 63% WP."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Apply borax as soil application to prevent Brown rot in Cole crops."
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "Manage Leaf eating caterpillar with biological methods or chemical sprays."
+            "To manage Alternaria leaf spot disease, spray Mancozeb 75 % WP or Carbendazim 12 % + Mancozeb 63 % WP."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

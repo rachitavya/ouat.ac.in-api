@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 81,
+         "rh_min": 43,
+         "wind_speed": 8,
+         "wind_direction": 34,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 9,
+         "wind_direction": 22,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "greengram",
+      "groundnut",
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
+   ],
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There may be chances of infestation of sucking pests, leaf blight, powdery mildew in the rabi crops and vegetables due to low night temperature. Monitor crops and vegetables for symptoms and undertake appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. Harvest mature sugarcanes below one inch of ground level for a successful ratoon crop.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post harvesting stage: Rodent areas - Place Aluminium Phosphide with mud to kill rodents."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative stage: Aphids - Spray Neem Based Pesticide 1500 PPM. Then spray Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative stage: Aphids - Spray Neem Based Pesticide 1500 PPM. Then spray Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage: Tobacco Caterpillar - Set up Pheromone traps and spray insecticides."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Vegetative stage: Hoeing and hand weeding, high ridges, and proper irrigation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage: Late blight - Spray Metalaxyl + Mancozeb. Avoid excess nitrogen fertilizer."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative - Fruit formation stage: Fruit and shoot borer - Spray Neem based pesticide and alternate sprays."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Vegetative to Flowering: Thrips - Install blue sticky traps. Mealy bug - Apply Profenophos."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, apply Cifax as a preventive measure for 'EUS' disease in fish."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

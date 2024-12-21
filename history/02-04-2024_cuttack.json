@@ -58,68 +58,79 @@
       "tomato",
       "brinjal",
       "coconut",
-      "vegetables",
+      "vegetable seedlings",
+      "fingerlings",
       "black gram",
       "green gram",
       "onion",
-      "mango"
+      "mango",
+      "okra"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop to meet water requirements. Spread polythene in irrigation channels to save water wastage in sandy and loamy soil. Take preventive measures for high temperatures affecting tomato, brinjal, and coconut. Implement proper harvest management practices for onion. Control mango hoppers in mango orchards.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Ensure water does not remain stagnant in the field. Spread polythene in irrigation channels. High temperature in day hours may lead to wilting in tomato and brinjal. Mulch coconut leaves. Cover vegetable seedlings. Harvest fingerlings in shallow ponds. Yellow stem borer management in paddy. Blast disease management. Tobacco caterpillar management. Early shoot borer management in sugarcane. Brinjal shoot and fruit borer management. Whitefly infestation in okra. Harvested onion storage. Mango hopper control.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management - spray recommended insecticides.",
-            "Blast Disease Management - spray recommended fungicides."
+            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Early Shoot Borer management - frequent irrigation and timely cutting advised."
+            "Cover the rows with dry leaves and top-dress with 4% potassium. Irrigate frequently during hot months."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement - irrigate crops promptly."
+            "High temperature increases water requirement. Avoid stagnant water in the field."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply Streptocyclin in root zone to prevent wilting."
+            "Apply 1g Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone trap and spray recommended insecticides for management."
+            "Install pheromone traps and spray neem-based pesticide during pest infestation."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch the area around coconut tree to reduce water loss."
+            "Mulch coconut leaves around the tree to reduce water loss."
          ]
       },
-      "vegetables": {
+      "vegetable seedlings": {
          "advisory": [
-            "Cover seedlings with paper caps during daytime."
+            "Cover newly planted seedlings with paper caps during the day."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings in shallow ponds if temperature rises."
          ]
       },
       "black gram": {
          "advisory": [
-            "Tobacco Caterpillar Management - dusting and spray recommendations."
+            "Check migration of caterpillars and use appropriate insecticides for control."
          ]
       },
       "green gram": {
          "advisory": [
-            "Tobacco Caterpillar Management - dusting and spray recommendations."
+            "Check migration of caterpillars and use appropriate insecticides for control."
          ]
       },
       "onion": {
          "advisory": [
-            "Harvest and store onions properly for longer shelf life."
+            "After harvesting, store dried bulbs in a well-ventilated room."
          ]
       },
       "mango": {
          "advisory": [
-            "Mango hopper control - spray recommended insecticides."
+            "Control mango hoppers with specific insecticide sprays."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds to prevent whitefly infestation."
          ]
       }
    },

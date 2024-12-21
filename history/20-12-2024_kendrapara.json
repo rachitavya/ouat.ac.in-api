@@ -1,0 +1,57 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 15,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 91,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 32,
+         "cloud_cover": 8
+      },
+      "22/12/2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 91,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 15,
+         "cloud_cover": 15
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "brinjal",
+      "cauliflower"
+   ],
+   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep harvested paddy safe with polythene. Make provision for draining rainwater from crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare wet nursery seed beds for paddy",
+            "Apply organic fertilizers"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Planting in well-drained soil with good irrigation",
+            "November to February is optimal planting time"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control fruit and shoot borer with pesticides",
+            "Follow specific spray schedule"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply boron micronutrient for browning prevention"
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

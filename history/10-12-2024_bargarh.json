@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 71,
+         "rh_min": 32,
+         "wind_speed": 5,
+         "wind_direction": 4,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 68,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 17,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 66,
+         "rh_min": 26,
+         "wind_speed": 4,
+         "wind_direction": 11,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 61,
+         "rh_min": 22,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 59,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 4,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "green gram",
+      "black gram",
+      "ground nut",
+      "cole crop"
+   ],
+   "general_advisory": "Looking to the dry weather condition in upcoming days, farmers are advised to harvest their matured crops and conduct spraying operations during that period. Farmers are advised to complete the sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram etc. and start land preparation for nursery sowing of Rabi Paddy where irrigation facilities are available. Deworming and vaccination should be advised in animals to boost immunity and protect them from any harmful diseases.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "There is no rainfall event is expected in upcoming days so farmers are advised to conduct harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
+            "After harvesting rice should be dried in the field for 2-3 days and thereafter threshing should be done. Rice should be stored at a moisture level of 12% in safe places."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Dry weather is expected in upcoming week so picking of matured bolls should be advised and dry the seed cotton on to reduce the moisture to 8-10%."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Farmers are advised to complete sowing of green gram / black gram in upcoming week.",
+            "One week before sowing, seed should be treated with carbendazim @ 1.5-2.0g and imidacloprid @ 5g per kg seeds..."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Farmers are advised to complete sowing of green gram / black gram in upcoming week.",
+            "One week before sowing, seed should be treated with carbendazim @ 1.5-2.0g and imidacloprid @ 5g per kg seeds..."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Farmers who have not yet sown seeds can use improved Groundnut varieties such as TAG-24, JL-24, Girnar-3, Smruti, TG-3, TG-22, Kadri-5...",
+            "Ensure seed treatment before sowing of seed and if possible, treat with bacteria or phospho culture 7 days after treatment..."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "During panting, polythene can be used as mulching material or if planting already done straw can be used for the same purpose to maintain moisture as well as soil temperature vegetable crops...",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised..."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

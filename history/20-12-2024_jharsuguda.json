@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 7,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 86,
+         "rh_min": 56,
+         "wind_speed": 9,
+         "wind_direction": 45,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 7,
+         "wind_direction": 49,
+         "cloud_cover": 5
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 70,
+         "rh_min": 34,
+         "wind_speed": 8,
+         "wind_direction": 50,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 67,
+         "rh_min": 33,
+         "wind_speed": 8,
+         "wind_direction": 56,
+         "cloud_cover": 2
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 66,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 53,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "green gram/black gram",
+      "ground nut",
+      "cole crop",
+      "summer rice"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, minimum temperature (night temperature) very likely to be 18-20°C in some parts of South Odisha, 14-16°C in most parts of Coastal Odisha and some parts of Interior Odisha, and 10-14°C over the remaining parts of Interior Odisha during week -1 (20th to 26th December, 2024). Minimum temperature very likely to be normal to above normal over the districts of Odisha and very light to light rain very likely to occur over Coastal Odisha & adjoining districts of Interior Odisha during that period. Overall Rainfall activity very likely to be normal to above normal over the state during week -1.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some rainfall event is expected in first half of upcoming days so farmers are advised to wait some days for harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy in properly bagged and stacked with a suitable cover to avoid damage due to untimely rain."
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "One week before sowing of green gram/black gram crop, seed should be treated with carbendazim @ 1.5-2.0g and imidacloprid @ 5g per kg seeds. Seven days after this treatment, 200g Rizobium culture and 3-4g sodium molybdate should be mixed in 10kg seeds in 400ml of water and mixed it thoroughly and dry it in shade for half an hour then go for sowing in the field.",
+            "Seed should be sown with a seed rate of 8-10 kg/ac with a spacing of 30cm×10cm.",
+            "Avoid irrigation for some days because some amount of rainfall is expected in the upcoming week."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Farmers who have not yet sown seeds can use improved Groundnut varieties such as TAG-24, JL-24, Girnar-3, Smruti, TG-3, TG-22, Kadri-5, Kadri-6, Kadri-9, TPG-41, GPBD-4, Devi, CO-7, Dharani and Divya etc. All these varieties are harvested within 100 to 130 days.",
+            "Ensure seed treatment before sowing of seed and if possible, treat with bacteria or phospho culture 7 days after treatment. For 10 kg of seed, a farmer can use 200 grams of rhizobium culture and 200 grams of phospho culture within 3 hours of sowing. 40 to 50 kg of seed or 60 to 70 kg of a pod is required per acre. Seeds should be sown within 2 to 3 days of husking at a depth of 5 cm.",
+            "If the seedlings are of 10 days old, it is recommended to conduct gap filling where the seedlings have not emerged.",
+            "Past weather conditions are favorable for insect attacks in the groundnut crop so its regular monitoring should be advised."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Straw can be used as mulching material in vegetable crops to maintain soil moisture as well as soil temperature in the field during the winter season.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use a pheromone trap in the field for this purpose.",
+            "If an attack is observed then spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter of water should be advised after the occurrence of rain."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer season rice cultivation. For this purpose, farmers may select some improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

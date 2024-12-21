@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 77,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 33,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 67,
+         "rh_min": 33,
+         "wind_speed": 15,
+         "wind_direction": 28,
+         "cloud_cover": 2
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 61,
+         "rh_min": 28,
+         "wind_speed": 12,
+         "wind_direction": 27,
+         "cloud_cover": 1
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 54,
+         "rh_min": 27,
+         "wind_speed": 13,
+         "wind_direction": 24,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "greengram",
+      "groundnut",
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
+   ],
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There will be chances of infestation of sucking pests, leaf blight, powdery mildew in the crops and vegetables, due to low night temperature. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. Harvest the mature sugarcanes below one inch of ground level for a successful ratoon crop.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post-harvesting stage - Rodent areas: Place Aluminium Phosphide with mud to kill rodents"
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative stage - Aphids: Spray Neem based pesticide followed by Thiamethoxam or Acetamiprid"
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative stage - Aphids: Spray Neem based pesticide followed by Thiamethoxam or Acetamiprid"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage - Tobacco Caterpillar: Monitor the migration and apply appropriate insecticides"
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Vegetative stage: Hoeing, hand weeding, high ridges, and appropriate irrigation"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage: Control late blight with specific sprays"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative to Fruit formation stage - Fruit and shoot borer: Spray Neem-based pesticide followed by Spinosad and Thiodicarb"
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Vegetative to Flowering - Thrips: Install traps and use Fipronil, Mealy bug: Apply Profenophos"
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Prevent EUS disease by applying Cifax, feed fishes with oil cake bran mixture"
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

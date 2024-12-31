@@ -53,65 +53,55 @@
    },
    "names_of_crops": [
       "kharif rice",
-      "green gram",
-      "black gram",
+      "summer rice",
+      "green gram/black gram",
       "ground nut",
       "cole crop",
       "livestock",
       "poultry"
    ],
-   "general_advisory": "Farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Make provision to take proper care of crops and protect animals from cold. Complete sowing of Rabi crops and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing and spraying operations according to the weather forecast. Provision should be made to protect crops and animals from the cold. Sowing of Rabi crops should be completed.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall event expected in the first half of upcoming days, so wait for harvesting operations and store safely.",
-            "Use 'Super Grain Bag' for safe storage of paddy/rice.",
-            "Avoid damage due to untimely rain by providing suitable cover."
+            "There is some rainfall expected in the first half of upcoming days so farmers are advised to wait for harvesting operations and store the harvested paddy crop safely.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice."
          ]
       },
-      "green gram": {
+      "summer rice": {
          "advisory": [
-            "Treat seeds with carbendazim and imidacloprid before sowing.",
-            "Mix Rizobium culture and sodium molybdate with seeds before sowing.",
-            "Avoid irrigation for some days due to expected rainfall.",
-            "Plant varieties like Kamadeva, Durga, IPM 02-3, IPM 02-14, TARM1."
+            "Farmers should start field preparation for summer season rice cultivation.",
+            "Select improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
          ]
       },
-      "black gram": {
+      "green gram/black gram": {
          "advisory": [
             "Treat seeds with carbendazim and imidacloprid before sowing.",
-            "Mix Rizobium culture and sodium molybdate with seeds before sowing.",
-            "Avoid irrigation for some days due to expected rainfall.",
-            "Plant varieties like Prasada, Usala, PU 31, IPU2-43, Mahuri."
+            "Sow seeds with proper spacing and use recommended varieties."
          ]
       },
       "ground nut": {
          "advisory": [
             "Use improved groundnut varieties for sowing.",
-            "Ensure seed treatment before sowing and treat with bacteria or phospho culture.",
-            "Conduct gap filling where seedlings have not emerged.",
-            "Monitor for insect attacks and take necessary actions."
+            "Ensure seed treatment and proper spacing for sowing."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Use straw as mulching material in vegetable crops.",
-            "Monitor for Diamond back moth in cauliflower.",
-            "Spray neem oil or Emamectin Benzoate after rain if attack observed."
+            "Use straw for mulching in vegetable crops.",
+            "Monitor for Diamond back moth in cauliflower and use pheromone trap if necessary."
          ]
       },
       "livestock": {
          "advisory": [
-            "Protect animals from cold using jute bags and straw as bedding material.",
-            "Provide clean drinking water to cattle and maintain clean sheds.",
-            "Vaccinate and deworm animals to control diseases and worms."
+            "Protect animals from cold weather and provide clean drinking water.",
+            "Vaccinate and deworm animals to control diseases."
          ]
       },
       "poultry": {
          "advisory": [
-            "Ensure proper ventilation in poultry house.",
-            "Provide external heat source to keep the shed warm and dry.",
-            "Maintain suitable temperature for drinking water."
+            "Ensure proper ventilation in poultry houses.",
+            "Provide external heat source and maintain suitable drinking water temperature."
          ]
       }
    },

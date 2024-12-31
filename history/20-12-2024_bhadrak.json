@@ -59,13 +59,13 @@
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "As per IMD there may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in a safer place. Provide stacking to fruits & vegetables. Harvestable vegetables should be plucked before rain and disposed to the market. Don’t spray insecticide & herbicide during rainy hours.",
+   "general_advisory": "As per IMD there may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in safer place. Provide stacking to fruits & vegetables. Harvestable vegetables should be plucked before rain and disposed to market. Don’t spray insecticide & herbicide during rainy hours.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "There may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in a safer place.",
+            "There may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in safer place.",
             "Store them in a safe place by covering with a polythene sheet.",
-            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pest."
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li of water to minimize the chance of future infestation of storage pest."
          ]
       },
       "rapeseed and mustard": {
@@ -77,28 +77,28 @@
       },
       "vegetables": {
          "advisory": [
-            "Make arrangements for covering plastic cover or polythene sheet for vegetables nursery like brinjal, tomato, and cole crops.",
+            "Make arrangement for covering plastic cover or polythene sheet for vegetables nursery like brinjal, tomato, and cole crops.",
             "Provide stacking to tomato plants.",
-            "Postpone spraying operations of pesticide & foliar fertilizer application.",
-            "Harvestable vegetables should be plucked before rain and disposed to the market."
+            "Postpone spraying operations of pesticides & foliar fertilizer application.",
+            "Harvestable vegetables should be plucked before rain and disposed to market."
          ]
       },
       "fruit": {
          "advisory": [
             "Provide mechanical support to fruit plants to prevent lodging.",
-            "Pluck the matured fruit before rainfall & dispose to the market.",
+            "Pluck the matured fruit before rainfall & disposed to market.",
             "Cover plastic bag to the fruits of banana."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "There is a possibility of “EUS” disease in fish. Farmers are advised to apply „Cifax‟ @ 400 ml mixed with 40 litres of water in one acre pond area as a preventive measure."
+            "There is a possibility of 'EUS' disease in fish. Farmers are advised to apply 'Cifax' @ 400 ml mixed with 40 liters of water in one acre pond area as a preventive measure."
          ]
       },
       "livestock": {
          "advisory": [
             "Keep the animal inside the shed.",
-            "Avoid mixing rainwater into drinking water of animals."
+            "Avoid mixing of rainwater into the drinking water of animals."
          ]
       }
    },

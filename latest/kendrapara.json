@@ -1,44 +1,44 @@
 {
    "weather_details": {
-      "21/12/2024": {
-         "rainfall": 15,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 91,
-         "rh_min": 66,
-         "wind_speed": 14,
-         "wind_direction": 32,
-         "cloud_cover": 8
-      },
-      "22/12/2024": {
-         "rainfall": 10,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 91,
-         "rh_min": 56,
-         "wind_speed": 13,
-         "wind_direction": 15,
-         "cloud_cover": 15
-      },
-      "23/12/2024": {
-         "rainfall": 1,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 74,
-         "rh_min": 38,
-         "wind_speed": 10,
-         "wind_direction": 15,
-         "cloud_cover": 15
-      },
-      "24/12/2024": {
+      "28/12/2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 69,
-         "rh_min": 34,
-         "wind_speed": 15,
-         "wind_direction": 15,
-         "cloud_cover": 6
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 76,
+         "rh_min": 45,
+         "wind_speed": 8,
+         "wind_direction": 11,
+         "cloud_cover": 1
+      },
+      "29/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 16,
+         "wind_direction": 357,
+         "cloud_cover": 1
+      },
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 73,
+         "rh_min": 50,
+         "wind_speed": 11,
+         "wind_direction": 10,
+         "cloud_cover": 1
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 48,
+         "wind_speed": 4,
+         "wind_direction": 2,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
@@ -50,61 +50,87 @@
       "oilseeds",
       "spices",
       "vegetables",
-      "brinjal",
-      "cauliflower"
+      "blackgram",
+      "greengram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
    ],
-   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep harvested paddy safe from rain. Make provision for draining out excess rainwater. Take care of lodged paddy. Withhold fertilizers and pesticides. Drain excess rainwater from crops. Cover vegetables with plastic sheets. Manage wilt and rot diseases in vegetable crops.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare the wet nursery seed beds for paddy. Apply necessary fertilizers. Sow sprouted seeds with proper spacing. Take care of lodging if occurs."
+            "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by",
+            "Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery."
          ]
       },
       "cotton": {
          "advisory": [
-            "Harvest the cotton crop."
+            "Monitor and manage the picking of cotton crop as needed."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Plant sugarcane in well-drained soil during November to February."
+            "Monitor and manage the harvesting and planting of sugarcane."
          ]
       },
       "cereals": {
          "advisory": [
-            "Continue planting and harvesting of cereals."
+            "Continuing the harvesting of Rabi crops like Cereals."
          ]
       },
       "pulses": {
          "advisory": [
-            "Drain out excess rainwater from pulse crops."
+            "Continuing the harvesting of Rabi crops like Pulses."
          ]
       },
       "oilseeds": {
          "advisory": [
-            "No specific advisory provided."
+            "Continuing the harvesting of Rabi crops like Oilseeds."
          ]
       },
       "spices": {
          "advisory": [
-            "No specific advisory provided."
+            "Continuing the harvesting of Rabi crops like Spices."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover vegetable crops with plastic sheets during heavy rain."
+            "Continuing the harvesting of Rabi crops like Vegetables."
          ]
       },
-      "brinjal": {
+      "blackgram": {
          "advisory": [
-            "Control fruit and shoot borer by spraying neem-based pesticide."
+            "Control yellow mosaic virus by spraying triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Control yellow mosaic virus by spraying triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "In view of high humid condition, manage wilting with Mancozeb 75% WP @ 2g/ltr of water.",
+            "Install pheromone traps to monitor Fruit & Shoot borer populations."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Apply borax to prevent browning or brown rot."
+            "To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75 % WP @ 600-g/acre by mixing in 200 liter of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Remove wilted plants from the field and manage aphids and Jassids infestation by spraying Imidachloprid 17.8% SL @ 1 ml/lt."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Control leaf eating caterpillar biologically by using Pheromone traps or chemical control with Chlorpyriphos 50 % + Cypermethrin E.C @ 400 ml/acre."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

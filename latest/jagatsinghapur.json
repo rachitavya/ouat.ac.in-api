@@ -1,68 +1,75 @@
 {
    "weather_details": {
-      "21/12/2024": {
-         "rainfall": 15,
-         "t_max": 26,
-         "t_min": 21,
-         "rh_max": 92,
-         "rh_min": 68,
-         "wind_speed": 13,
-         "wind_direction": 23,
-         "cloud_cover": 8
-      },
-      "22/12/2024": {
-         "rainfall": 10,
-         "t_max": 26,
-         "t_min": 21,
-         "rh_max": 92,
-         "rh_min": 55,
-         "wind_speed": 14,
-         "wind_direction": 16,
-         "cloud_cover": 7
-      },
-      "23/12/2024": {
-         "rainfall": 2,
+      "28/12/2024": {
+         "rainfall": 0,
          "t_max": 27,
-         "t_min": 20,
+         "t_min": 18,
+         "rh_max": 76,
+         "rh_min": 45,
+         "wind_speed": 10,
+         "wind_direction": 12,
+         "cloud_cover": 1
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
          "rh_max": 77,
-         "rh_min": 39,
-         "wind_speed": 13,
-         "wind_direction": 19,
-         "cloud_cover": 6
-      },
-      "24/12/2024": {
-         "rainfall": 2,
-         "t_max": 27,
-         "t_min": 17,
-         "rh_max": 70,
-         "rh_min": 34,
-         "wind_speed": 11,
-         "wind_direction": 19,
-         "cloud_cover": 6
+         "rh_min": 43,
+         "wind_speed": 9,
+         "wind_direction": 7,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "sugarcane",
-      "brinjal",
-      "cauliflower"
+      "paddy",
+      "blackgram",
+      "greengram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
    ],
-   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky conditions.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line. Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery. Present weather condition is favourable for the incidence of yellow mosaic virus which is caused by the vector white fly. To control, go for spraying of triazophos @ 400 ml/acre. In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP. Install pheromone trap @ 8nos/acre to monitor pest population. To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75% WP @ 600 gram/acre or carbendazim 12% + Mancozeb 63% WP @ 400 gram/acre by mixing in 200 litres of water. Remove the wilted plants from the field and destroy them away from the field. Aphids and Jassids infestation may be seen in the field. To manage it, spray Imidacloprid 17.8% SL @ 1 ml/lt. To manage the leaf-eating caterpillar biologically use Pheromone trap Spodolure @ 6/acre or install light trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyrifos 50% + Cypermethrin 5% EC @ 400 ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing. For better agricultural benefits, use OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & meteorological advisory of Odisha location is now available on Meghdoot mobile app in English and Odia.",
    "crops_data": {
-      "sugarcane": {
+      "paddy": {
          "advisory": [
-            "Planting from November to February is the optimum time for planting in well-drained soil with good irrigation facilities."
+            "Pre-sowing Nursery Management - Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line. Seed treatment: Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds before sowing in the nursery. After transplanting Nursery Management - Rice crop needs enough water during transplanting. Divide the field int...",
+            "Panicling Stage Management - Paddy crop has reached panicle initiation stage. Partial flash floods may take place during the panicle initiation stage. In case of flooding, tie the panicles of paddy in bundles to keep them erect. Remove the water from the field after the floodwater recedes.",
+            "Pest and Disease Management - Monitor the crop regularly for any pest and disease infestation. Take appropriate plant protection measures accordingly. During the current weather conditions, there is a chance of fungal and bacterial diseases like leaf blight, wilt, and rot. To manage these diseases, spray Metalaxyl+Mancozeb @ 2g/litre of water along with Plantomycin @ 1g/litre of water."
          ]
       },
-      "brinjal": {
+      "blackgram": {
          "advisory": [
-            "To control Fruit and shoot borer, spray Neem-based pesticide 1500ppm @600ml/acre followed by alternate spray of Spinosad 45% SC @70ml/acre and Thiodicarb@300g/acre at 15 days interval in dry weather."
+            "Vegetative Growth Management - Blackgram crop is in the vegetative growth stage. Control yellow mosaic virus, which is caused by the white fly vector, by spraying triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative Growth Management - Greengram crop is in the vegetative growth stage. Control yellow mosaic virus, which is caused by the white fly vector, by spraying triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative to Fruiting Stage Management - Wilting: In view of high humid conditions, wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptoms are noticed.",
+            "Fruit & Shoot Borer Management - Install pheromone traps @ 8nos/acre to monitor pest population."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Apply borax @ 4 kg/acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings, then spray Borax @ 2.5 g/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+            "Vegetative to Curd Formation Stage Management - To manage Alternaria leaf spot disease in cole crops, spray Mancozeb 75% WP @ 600 gram/acre or Carbendazim 12% + Mancozeb 63% WP @ 400 gram/acre by mixing in 200 litres of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Vegetative/Flowering Stage Management - Remove the wilted plants from the field. Aphids and Jassids infestation may be seen in the field. To manage, spray Imidacloprid 17.8% SL @ 1 ml/lt."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Vegetative/Flowering Stage Management - Manage leaf-eating caterpillar by using Pheromone trap Spodolure @ 6/acre or install light trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyrifos 50% + Cypermethrin E.C @ 400 ml/acre with 200 litres of water."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

@@ -62,36 +62,36 @@
       "poultry",
       "pisciculture"
    ],
-   "general_advisory": "Due to forecast of cloudy & rainy weather, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather, there is a chance of powdery mildew in various crops. To manage, spray sulfur powder @ 1 kg in 200 liters of water.",
+   "general_advisory": "Due to forecast of cloudy & rain weather, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "Provide irrigation to the nursery. Survey for any insect and pest. Apply 2% Urea solution at 15 Days old seedling."
+            "Provide irrigation to the nursery. Survey for any insect and pest. Apply 2% Urea solution at 15 Days old seedling"
          ]
       },
       "wheat": {
          "advisory": [
-            "Due to weather, there is a chance of stem borer attack. To manage, spray Triazophos @ 2 ml per liter of water."
+            "Due to weather there is chances of stem borer attack, to manage spray Triazophos @ 2 ml per liter of water."
          ]
       },
       "pulses": {
          "advisory": [
-            "Due to cloudy forecast, chances of powdery mildew attack may be there. Spray Sulfur powder @ 1 kg per 200 liters of water."
+            "Due to cloudy forecast, chances of powdery mildew attack may be there, spray Sulphure powder @ 1 kg per 200 liters of water."
          ]
       },
       "potato": {
          "advisory": [
-            "Due to forecast of cloudy weather, there are chances of leaf blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
+            "Due to forecast of cloud weather, there are chances leaf Blight disease incidence in potato crop. To control blight in Gramin Krishi Mausam Sewa India Meteorological Department Orissa University of Agriculture and Technology, Regional Research & Technology Transfer Sub Station, Kirei, Sundergarh -770073, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
          ]
       },
       "mustard": {
          "advisory": [
-            "Due to forecast of cloudy weather, there are chances of leaf spot disease. To manage this, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
+            "Due to forecast of cloud weather, there are chances of leaf spot disease, To manage this spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control the sucking pest, spray Thiomathaxam @ 0.4 g per liter of water."
+            "To control the sucking pest spray Thiomathaxam @ 0.4 g per liter of water."
          ]
       },
       "onion": {
@@ -101,12 +101,12 @@
       },
       "poultry": {
          "advisory": [
-            "Due to cold wave forecast, fix 200 watt bulb in the poultry house."
+            "Due to cold wave forecast, fix 200 watt bulb in the poultry house"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Due to forecast of decreasing temperature, reduce the feed quantity as there is a reduction of metabolic activity."
+            "Due to forecast of decreasing temperature, reduce the feed quantity as there is reduction of metabolic activity."
          ]
       }
    },

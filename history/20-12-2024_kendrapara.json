@@ -19,37 +19,90 @@
          "wind_speed": 13,
          "wind_direction": 15,
          "cloud_cover": 15
+      },
+      "23/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 74,
+         "rh_min": 38,
+         "wind_speed": 10,
+         "wind_direction": 15,
+         "cloud_cover": 15
+      },
+      "24/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 69,
+         "rh_min": 34,
+         "wind_speed": 15,
+         "wind_direction": 15,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
+      "cotton",
       "sugarcane",
+      "cereals",
+      "pulses",
+      "oilseeds",
+      "spices",
+      "vegetables",
       "brinjal",
       "cauliflower"
    ],
-   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep harvested paddy safe with polythene. Make provision for draining rainwater from crops.",
+   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep harvested paddy safe from rain. Make provision for draining out excess rainwater. Take care of lodged paddy. Withhold fertilizers and pesticides. Drain excess rainwater from crops. Cover vegetables with plastic sheets. Manage wilt and rot diseases in vegetable crops.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare wet nursery seed beds for paddy",
-            "Apply organic fertilizers"
+            "Prepare the wet nursery seed beds for paddy. Apply necessary fertilizers. Sow sprouted seeds with proper spacing. Take care of lodging if occurs."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Harvest the cotton crop."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Planting in well-drained soil with good irrigation",
-            "November to February is optimal planting time"
+            "Plant sugarcane in well-drained soil during November to February."
+         ]
+      },
+      "cereals": {
+         "advisory": [
+            "Continue planting and harvesting of cereals."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Drain out excess rainwater from pulse crops."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "No specific advisory provided."
+         ]
+      },
+      "spices": {
+         "advisory": [
+            "No specific advisory provided."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover vegetable crops with plastic sheets during heavy rain."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Control fruit and shoot borer with pesticides",
-            "Follow specific spray schedule"
+            "Control fruit and shoot borer by spraying neem-based pesticide."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Apply boron micronutrient for browning prevention"
+            "Apply borax to prevent browning or brown rot."
          ]
       }
    },

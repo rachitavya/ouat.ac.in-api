@@ -12,7 +12,7 @@
       },
       "22/12/2024": {
          "rainfall": 10,
-         "t_max": 27,
+         "t_max": 26,
          "t_min": 21,
          "rh_max": 92,
          "rh_min": 55,
@@ -39,62 +39,28 @@
          "wind_speed": 11,
          "wind_direction": 19,
          "cloud_cover": 6
-      },
-      "25/12/2024": {
-         "rainfall": 1,
-         "t_max": 27,
-         "t_min": 17,
-         "rh_max": 69,
-         "rh_min": 31,
-         "wind_speed": 8,
-         "wind_direction": 90,
-         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "paddy",
-      "cotton",
-      "cereals",
-      "pulses",
-      "oilseeds",
-      "spices",
-      "vegetables",
       "sugarcane",
       "brinjal",
       "cauliflower"
    ],
-   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep harvested paddy safe from rain and drain excess water. Make provisions for various crops and vegetable nursery care.",
+   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky conditions.",
    "crops_data": {
-      "paddy": {
-         "advisory": [
-            "Prepare wet nursery seed beds for paddy",
-            "Apply fertilizers and maintain irrigation",
-            "Manage lodging and drainage"
-         ]
-      },
       "sugarcane": {
          "advisory": [
-            "Plant in well-drained soil with good irrigation",
-            "Optimal planting time from November to February"
+            "Planting from November to February is the optimum time for planting in well-drained soil with good irrigation facilities."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Control fruit and shoot borer with Neem-based pesticide",
-            "Follow up sprays at intervals in dry weather",
-            "Apply Boron micronutrient for plant health"
+            "To control Fruit and shoot borer, spray Neem-based pesticide 1500ppm @600ml/acre followed by alternate spray of Spinosad 45% SC @70ml/acre and Thiodicarb@300g/acre at 15 days interval in dry weather."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Prevent browning or brown rot with Borax application",
-            "Ensure soil health and nutrient balance"
-         ]
-      },
-      "animal husbandry": {
-         "advisory": [
-            "Vaccinate against PPR disease ('Goat Plague')",
-            "Monitor animal health during winter"
+            "Apply borax @ 4 kg/acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings, then spray Borax @ 2.5 g/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
          ]
       }
    },

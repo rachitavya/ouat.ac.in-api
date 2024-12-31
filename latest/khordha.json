@@ -1,60 +1,94 @@
 {
    "weather_details": {
-      "21/12/2024": {
-         "rainfall": 16,
-         "t_max": 23,
-         "t_min": 20,
-         "rh_max": 90,
-         "rh_min": 64,
-         "wind_speed": 10,
-         "wind_direction": 18,
-         "cloud_cover": 7
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 353,
+         "cloud_cover": 1
       },
-      "22/12/2024": {
-         "rainfall": 12,
-         "t_max": 24,
-         "t_min": 20,
-         "rh_max": 87,
-         "rh_min": 50,
-         "wind_speed": 9,
-         "wind_direction": 7,
-         "cloud_cover": 6
+      "29/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 82,
+         "rh_min": 44,
+         "wind_speed": 4,
+         "wind_direction": 329,
+         "cloud_cover": 2
       },
-      "23/12/2024": {
-         "rainfall": 24,
-         "t_max": 25,
-         "t_min": 19,
-         "rh_max": 80,
-         "rh_min": 36,
-         "wind_speed": 8,
-         "wind_direction": 15,
-         "cloud_cover": 5
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 5,
+         "wind_direction": 9,
+         "cloud_cover": 3
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 85,
+         "rh_min": 48,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "paddy",
-      "cotton",
-      "sugarcane"
+      "blackgram",
+      "greengram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
    ],
-   "general_advisory": "Light to moderate rainfall may occur on Saturday & Sunday with generally cloudy sky condition. Keep the harvested paddy in a safe place with polythene to protect it from rain. Make provisions for draining out excess rainwater in late duration rice crop.",
+   "general_advisory": "Prepare the nursery seed beds for paddy, manage diseases in standing crops, control pests, and diseases regularly, and take appropriate plant protection measures. Install heaters in poultry sheds during the winter season.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare the wet nursery seed beds for paddy.",
-            "Using rainwater, puddle the nursery beds 2-3 times followed by planking."
+            "Nursery Management - Prepare wet nursery seed beds for paddy, apply fertilizers, and sow sprouted seeds with proper spacing.",
+            "Seed treatment - Treat paddy seeds with recommended fungicides before sowing in the nursery."
          ]
       },
-      "cotton": {
+      "blackgram": {
          "advisory": [
-            "Picking of cotton crop is in progress."
+            "Yellow Mosaic Virus - Control the vector white fly using recommended insecticides."
          ]
       },
-      "sugarcane": {
+      "greengram": {
          "advisory": [
-            "Planting season is November to February.",
-            "After receding of rain, plant in well-drained soil."
+            "Yellow Mosaic Virus - Control the vector white fly using recommended insecticides."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Wilting - Monitor for symptoms and apply appropriate fungicides if wilting occurs.",
+            "Fruit & Shoot Borer - Monitor pest population using pheromone traps."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Manage Alternaria Leaf Spot Disease - Spray recommended fungicides."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Remove wilted plants and manage Aphids and Jassids infestation using recommended insecticides."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Manage Leaf Eating Caterpillar - Use biological control methods and recommended chemical sprays."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

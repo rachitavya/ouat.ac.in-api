@@ -61,49 +61,46 @@
       "onion",
       "poultry"
    ],
-   "general_advisory": "Due to forecast of cloudy & rain weather, Shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "general_advisory": "Due to forecast of cloudy & rain weather, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather, there are chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "Provide irrigation to the nursery.",
-            "Survey for any insect and pest.",
-            "Apply 2% Urea solution at 15 Days old seedling"
+            "Provide irrigation to the nursery. Survey for any insect and pest. Apply 2% Urea solution at 15 days old seedling."
          ]
       },
       "wheat": {
          "advisory": [
-            "Due to weather there is chances of stem borer attack, to manage spray Triazophos @ 2 ml per liter of water."
+            "Due to weather there is chances of stem borer Gramin Krishi Mausam Sewa India Meteorological Department attack, to manage spray Triazophos @ 2 ml per liter of water."
          ]
       },
       "pulses": {
          "advisory": [
-            "Due to cloudy forecast, chances of powdery mildew attack may be there, spray Sulphure powder @ 1 kg per 200 liters of water."
+            "Due to cloudy forecast, chances of powdery mildew attack may be there, spray Sulphur powder @ 1 kg per 200 liters of water."
          ]
       },
       "potato": {
          "advisory": [
-            "Due to forecast of cloud weather, there are chances of leaf Blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
+            "Due to forecast of cloud weather, there are chances of leaf blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
          ]
       },
       "mustard (toria)": {
          "advisory": [
-            "Due to forecast of cloud weather, there are chances of leaf spot disease, To manage this spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
+            "Due to forecast of cloud weather, there are chances of leaf spot disease. To manage this spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control the sucking pest spray Thiomathaxam @ 0.4 g per liter of water."
+            "To control the sucking pest spray Thiomethaxam @ 0.4 g per liter of water."
          ]
       },
       "onion": {
          "advisory": [
-            "Sow the seedling when it is 15 cm height.",
-            "Provide irrigation to the onion nursery."
+            "Sow the seedling when it is 15 cm height. Provide irrigation to the onion nursery."
          ]
       },
       "poultry": {
          "advisory": [
-            "Due to cold wave forecast, fix 200 watt bulb in the poultry house"
+            "Due to cold wave forecast, fix 200 watt bulb in the poultry house."
          ]
       }
    },

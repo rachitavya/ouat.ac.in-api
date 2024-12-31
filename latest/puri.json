@@ -1,70 +1,147 @@
 {
    "weather_details": {
-      "21/12/2024": {
-         "rainfall": 18,
-         "t_max": 23,
-         "t_min": 21,
-         "rh_max": 91,
-         "rh_min": 68,
-         "wind_speed": 15,
-         "wind_direction": 23,
-         "cloud_cover": 8
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 77,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 12,
+         "cloud_cover": 1
       },
-      "22/12/2024": {
-         "rainfall": 15,
-         "t_max": 23,
-         "t_min": 21,
-         "rh_max": 90,
-         "rh_min": 55,
-         "wind_speed": 16,
-         "wind_direction": 22,
-         "cloud_cover": 7
-      },
-      "23/12/2024": {
-         "rainfall": 2,
-         "t_max": 24,
-         "t_min": 20,
+      "29/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
          "rh_max": 79,
-         "rh_min": 41,
-         "wind_speed": 22,
-         "wind_direction": 16,
-         "cloud_cover": 6
+         "rh_min": 48,
+         "wind_speed": 9,
+         "wind_direction": 354,
+         "cloud_cover": 1
+      },
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 48,
+         "wind_speed": 7,
+         "wind_direction": 9,
+         "cloud_cover": 1
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 46,
+         "wind_speed": 13,
+         "wind_direction": 259,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "paddy",
+      "summer paddy",
+      "cotton",
       "sugarcane",
-      "brinjal",
-      "cauliflower"
+      "cereals",
+      "pulses",
+      "oilseeds",
+      "spices",
+      "vegetables",
+      "blackgram",
+      "green gram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
    ],
-   "general_advisory": "Light to moderate rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep harvested paddy safe from rain, make provisions for draining excess water, withhold fertilizers and pesticides temporarily.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply organic and inorganic fertilizers during last puddling. Divide nursery area into smaller plots. Properly manage pests and diseases. Install heaters in poultry sheds during winter season.",
    "crops_data": {
-      "paddy": {
+      "summer paddy": {
          "advisory": [
-            "Prepare wet nursery seed beds followed by planking",
-            "Divide nursery area into smaller plots for convenience",
-            "Sow sprouted seeds with proper spacing",
-            "Make alleys for irrigation/drainage purposes",
-            "Tie panicles of paddy in bundles after rainwater recession"
+            "Pre-sowing Nursery Management - Prepare wet nursery seed beds for paddy. Apply fertilizers and sowing techniques.",
+            "Seed treatment - Treat paddy seeds with appropriate fungicides before sowing."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking of cotton crop is in progress.",
+            "Management of pests and diseases."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Plant in well-drained soil with good irrigation facilities",
-            "Optimum planting time is November to February"
+            "Harvesting and planting of sugar cane is under progress."
          ]
       },
-      "brinjal": {
+      "cereals": {
          "advisory": [
-            "Spray Neem based pesticide for Fruit and shoot borer control",
-            "Follow up with alternate sprays of Spinosad and Thiodicarb"
+            "Rabi crops like cereals are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Rabi crops like pulses are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Rabi crops like oilseeds are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "spices": {
+         "advisory": [
+            "Rabi crops like spices are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Rabi crops like vegetables are continuing.",
+            "Monitor for pests and diseases."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Management of yellow mosaic virus in blackgram.",
+            "Control of pests using appropriate pesticides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Management of yellow mosaic virus in green gram.",
+            "Control of pests using appropriate pesticides."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Management of wilting and fruit & shoot borer.",
+            "Proper disease management practices."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Apply boron micronutrient at proper stages"
+            "Management of Alternaria leaf spot disease.",
+            "Maintain proper curd formation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Removal of wilted plants and control of aphids and jassids.",
+            "Proper management of flowering stage."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Control of leaf eating caterpillar.",
+            "Use of biological agents for pest control."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

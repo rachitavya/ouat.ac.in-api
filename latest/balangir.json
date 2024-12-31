@@ -1,49 +1,42 @@
 {
    "weather_details": {
       "2022-01-01": {
-         "rainfall": 10,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 85,
+         "rainfall": 5,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 80,
          "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 120,
-         "cloud_cover": 5
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 4
       },
       "2022-01-02": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 80,
+         "rainfall": 2,
+         "t_max": 23,
+         "t_min": 14,
+         "rh_max": 75,
          "rh_min": 55,
          "wind_speed": 12,
-         "wind_direction": 150,
-         "cloud_cover": 3
+         "wind_direction": 200,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "rice",
       "wheat",
-      "maize"
+      "rice"
    ],
-   "general_advisory": "It is recommended to monitor crop growth during the upcoming rainy season and provide adequate protection.",
+   "general_advisory": "It is recommended to monitor crop conditions closely due to the forecasted rainfall.",
    "crops_data": {
-      "rice": {
-         "advisory": [
-            "Ensure proper irrigation to meet water requirements",
-            "Control weeds and pests timely"
-         ]
-      },
       "wheat": {
          "advisory": [
-            "Monitor and control fungal diseases",
-            "Apply fertilizers based on soil tests"
+            "Sow wheat seeds in prepared land.",
+            "Apply recommended fertilizers at appropriate stages."
          ]
       },
-      "maize": {
+      "rice": {
          "advisory": [
-            "Protect crops from strong winds",
-            "Harvest at optimal maturity for better yield"
+            "Transplant rice seedlings at the correct time.",
+            "Control pests and diseases by appropriate methods."
          ]
       }
    },

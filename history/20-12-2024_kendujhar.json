@@ -53,8 +53,7 @@
    },
    "names_of_crops": [
       "paddy",
-      "mustard",
-      "toria",
+      "mustard and toria",
       "chickpea",
       "linseed",
       "tomato",
@@ -63,7 +62,7 @@
       "rose",
       "banana"
    ],
-   "general_advisory": "Hold the irrigation for next few days as rainfall is expected. Make drainage to remove excess water from the field. Make arrangement to store rainwater for further use in irrigation. Harvest the paddy as soon as possible. Postpone the spraying activities for few days.",
+   "general_advisory": "Hold the irrigation for next few days as rainfall is expected. Make drainage to remove excess water from the field. Make arrangement to store rain water for further use in irrigation. Harvest the paddy as soon as possible. Postpone the spraying activities for few days.",
    "crops_data": {
       "paddy": {
          "advisory": [
@@ -72,16 +71,9 @@
             "If harvesting cannot be completed before the rain occurs, leave it to dry under the sun for few more days."
          ]
       },
-      "mustard": {
+      "mustard and toria": {
          "advisory": [
-            "Postpone spraying activities for the next few days.",
-            "Maintain plant population by thinning the plants.",
-            "Make drainage to remove excess water from the field in case of excess rainfall."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "Postpone spraying activities for the next few days.",
+            "Postpone spraying activities for next few days.",
             "Maintain plant population by thinning the plants.",
             "Make drainage to remove excess water from the field in case of excess rainfall."
          ]
@@ -90,7 +82,7 @@
          "advisory": [
             "Provide smoke to the crops to reduce the chilling injury.",
             "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
-            "Powdery mildew in chickpea may be seen in near future. To manage the same, spray Dithane M-45 @ 2.5 g/lt.",
+            "Powdery mildew in chickpea may be seen in near future. To manage the same, spray Dithane M -45 @ 2.5 g/lt.",
             "Spraying should be done after the rainfall activity."
          ]
       },
@@ -117,7 +109,7 @@
             "Cauliflower borer can be managed by manually destroying the borers.",
             "In case of heavy infestation spray Cartap hydrochloride @ 6 g/15 lts.",
             "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @ 4g/lt.",
-            "Spraying activities should be continued after 3-4 days."
+            "Spraying activities should be continued after 3 -4 days."
          ]
       },
       "marigold": {

@@ -54,29 +54,29 @@
    "names_of_crops": [
       "mustard",
       "common fish",
-      "chicken",
+      "poultry",
       "others (soil / land preparation)"
    ],
-   "general_advisory": "make arrangement for drainage of water from vegetable crops in view of upcoming rain. stop the application of plant protection for the time being. Make provision for storage of harvested rice in view of upcoming rainfall. make provision for fumigation by using Aluminium phosphide tablets @ of 3 tablets / ton grain in fairly airtight containers or by covering with a thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation.",
+   "general_advisory": "make arrangement for drainage of water from vegetable crops in view of upcoming rain. stop the application of plant protection for time being. make provision for storage of harvested rice in view of upcoming rainfall. make provision for fumigation by using Aluminium phosphide tablets @ of 3 tablets / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation.",
    "crops_data": {
       "mustard": {
          "advisory": [
-            "constant monitoring of aphid and white rust is advised in mustard crop. Early sown mustard are likely to be affected by Aphids due to foggy weather. Spray 80g Thiamethoxam or 80ml Imidacloprid in 200lt of water after cessation of rainfall."
+            "In present weather condition due to foggy weather and upcoming cloudy days, constant monitoring of aphid and white rust is advised in mustard crop. Early sown mustard are likely to be affected by aphids due to foggy weather. Spray 80g Thiamethoxam or 80ml Imidacloprid in 200lt of water after cessation of rainfall."
          ]
       },
       "common fish": {
          "advisory": [
-            "To increase the amount of oxygen, use 4-5 aerators/ha for 4-5 hours. Go for application of 80-100 kg stone lime after heavy rainfall."
+            "To increase amount of oxygen use 4-5 aerator/ ha for 4-5 hours. Go for application of 80-100 kg stone lime after heavy rainfall."
          ]
       },
-      "chicken": {
+      "poultry": {
          "advisory": [
             "Prevent the feed ingredients from getting wet, and the amount of feed should not be too much. The compound feed in the house should be placed on the platform above the ground to prevent the feed from regaining moisture. Regular checking of feeders to avoid fungus contamination. Provide your birds with warm water periodically during this season to encourage consumption and help them keep warm without using up energy reserved in the process."
          ]
       },
       "others (soil / land preparation)": {
          "advisory": [
-            "Make provision for storage of harvested rice in view of upcoming rainfall. make provision for fumigation by using Aluminium phosphide tablets @ of 3 tablets / ton grain in fairly airtight containers or by covering with a thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation."
+            "Make provision for storage of harvested rice in view of upcoming rainfall. Make provision for fumigation by using Aluminium phosphide tablets @ of 3 tablets / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation."
          ]
       }
    },

@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 16,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 3,
+         "wind_direction": 139,
+         "cloud_cover": 3
+      },
+      "29-12-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 39,
+         "wind_speed": 3,
+         "wind_direction": 154,
+         "cloud_cover": 5
+      },
+      "30-12-2024": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 83,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 166,
+         "cloud_cover": 4
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 84,
+         "rh_min": 41,
+         "wind_speed": 1,
+         "wind_direction": 198,
+         "cloud_cover": 1
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 76,
+         "rh_min": 33,
+         "wind_speed": 1,
+         "wind_direction": 236,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "summer rice",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "According to the extended range forecast of IMD, farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. Proper care of crops and animals to protect them from cold is recommended. Completion of sowing Rabi crops and starting nursery sowing of Summer Paddy where irrigation facilities are available is advised.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is an expected rainfall event in the first half of upcoming days, so wait for harvesting operations and store the harvested paddy properly.",
+            "Use 'Super Grain Bag' or proper storage methods to avoid damage.",
+            "Take precautions against stored grain pest management."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Start field preparation for summer rice cultivation with improved varieties."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Monitor groundnut crop for insect attack and use appropriate insecticides if required.",
+            "Wait for irrigation and spraying operations due to expected rain."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use straw as mulching material in vegetable crops for soil moisture and temperature maintenance.",
+            "Monitor against Diamond back moth attack and use pheromone traps if necessary.",
+            "Apply neem oil or Emamectin Benzoate after rain in case of attack."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold with jute bags and straw as bedding material.",
+            "Ensure clean drinking water for cattle and maintain clean sheds to prevent flies.",
+            "Vaccinate and deworm animals to control diseases."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide proper ventilation and heat source in poultry shed.",
+            "Maintain suitable drinking water temperature for poultry.",
+            "Use insulation methods to keep the poultry shed warm and dry."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

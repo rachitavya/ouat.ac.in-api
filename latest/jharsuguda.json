@@ -59,44 +59,40 @@
       "livestock",
       "poultry"
    ],
-   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. Make provision to take proper care of crops and animals to protect them from the cold. Complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram, etc. Start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They should also make provision to take proper care of crops and animals to protect them from cold. Sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer Paddy where irrigation facilities are available.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "Wait for harvesting operations due to expected rainfall",
-            "Use 'Super Grain Bag' or proper storage methods for harvested paddy"
+            "There is some rainfall event expected in the first half of upcoming days so farmers are advised to wait for harvesting operations and make provisions to keep the harvested paddy crop in safe places to avoid further damage.",
+            "Use 'Super Grain Bag' or properly bag and stack the harvested paddy to avoid damage due to untimely rain."
          ]
       },
       "summer rice": {
          "advisory": [
-            "Start field preparation for summer rice cultivation",
-            "Select suitable varieties for cultivation"
+            "Farmers should start field preparation for summer season rice cultivation using improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Monitor for sucking insect attack in groundnut crop",
-            "Take necessary actions for insect control and management"
+            "Regular monitoring against sucking insect attack in groundnut crop is advised, and if observed, spraying of Azadiractin or neem-based insecticide is recommended. Use yellow sticky traps and Trichogramma chilonis cards for biological control."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Use straw as mulching material in vegetable crops",
-            "Monitor and control Diamond back moth in cauliflower"
+            "Use straw as mulching material in vegetable crops to maintain soil moisture and temperature during winter season.",
+            "Regular monitoring for Diamond back moth in cauliflower should be done, and spraying of neem oil or Emamectin Benzoate is advised after rain."
          ]
       },
       "livestock": {
          "advisory": [
-            "Protect animals from cold weather",
-            "Ensure clean drinking water and clean sheds for livestock",
-            "Vaccination and deworming for disease control"
+            "Protect animals from cold using jute bags and straw as bedding material. Provide clean drinking water to cattle and maintain clean sheds.",
+            "Vaccination and deworming should be done to control diseases and stomach worms."
          ]
       },
       "poultry": {
          "advisory": [
-            "Ensure proper ventilation and fresh air for poultry",
-            "Provide external heat source for warmth and insulation",
-            "Maintain suitable drinking water temperature"
+            "Proper ventilation is required in poultry sheds for fresh air. External heat sources should be used to keep sheds warm and dry.",
+            "Maintain drinking water at suitable temperature to promote water intake."
          ]
       }
    },

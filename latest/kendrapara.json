@@ -16,8 +16,8 @@
          "t_min": 14,
          "rh_max": 75,
          "rh_min": 45,
-         "wind_speed": 16,
-         "wind_direction": 357,
+         "wind_speed": 11,
+         "wind_direction": 10,
          "cloud_cover": 1
       },
       "30/12/2024": {
@@ -26,8 +26,8 @@
          "t_min": 14,
          "rh_max": 73,
          "rh_min": 50,
-         "wind_speed": 11,
-         "wind_direction": 10,
+         "wind_speed": 16,
+         "wind_direction": 11,
          "cloud_cover": 1
       },
       "31/12/2024": {
@@ -36,15 +36,14 @@
          "t_min": 13,
          "rh_max": 75,
          "rh_min": 48,
-         "wind_speed": 4,
-         "wind_direction": 2,
-         "cloud_cover": 1
+         "wind_speed": 42,
+         "wind_direction": 4,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
       "cotton",
-      "sugarcane",
       "cereals",
       "pulses",
       "oilseeds",
@@ -57,78 +56,71 @@
       "chilli",
       "marigold"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2 -3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40 -50 g / m 2 area of seed bed by treating with appropriate chemicals.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by",
-            "Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery."
+            "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2 -3 times followed by planking."
          ]
       },
       "cotton": {
          "advisory": [
-            "Monitor and manage the picking of cotton crop as needed."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Monitor and manage the harvesting and planting of sugarcane."
+            "Picking of cotton crop is in progress."
          ]
       },
       "cereals": {
          "advisory": [
-            "Continuing the harvesting of Rabi crops like Cereals."
+            "Rabi crops like Cereals are continuing."
          ]
       },
       "pulses": {
          "advisory": [
-            "Continuing the harvesting of Rabi crops like Pulses."
+            "Rabi crops like Pulses are continuing."
          ]
       },
       "oilseeds": {
          "advisory": [
-            "Continuing the harvesting of Rabi crops like Oilseeds."
+            "Rabi crops like Oilseeds are continuing."
          ]
       },
       "spices": {
          "advisory": [
-            "Continuing the harvesting of Rabi crops like Spices."
+            "Rabi crops like Spices are continuing."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Continuing the harvesting of Rabi crops like Vegetables."
+            "Rabi crops like Vegetables are continuing."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Control yellow mosaic virus by spraying triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Vegetative stage advisory."
          ]
       },
       "greengram": {
          "advisory": [
-            "Control yellow mosaic virus by spraying triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Vegetative stage advisory."
          ]
       },
       "tomato": {
          "advisory": [
-            "In view of high humid condition, manage wilting with Mancozeb 75% WP @ 2g/ltr of water.",
-            "Install pheromone traps to monitor Fruit & Shoot borer populations."
+            "Vegetative to fruiting advisory."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75 % WP @ 600-g/acre by mixing in 200 liter of water."
+            "Advisory for curd formation stage."
          ]
       },
       "chilli": {
          "advisory": [
-            "Remove wilted plants from the field and manage aphids and Jassids infestation by spraying Imidachloprid 17.8% SL @ 1 ml/lt."
+            "Advisory for flowering stage."
          ]
       },
       "marigold": {
          "advisory": [
-            "Control leaf eating caterpillar biologically by using Pheromone traps or chemical control with Chlorpyriphos 50 % + Cypermethrin E.C @ 400 ml/acre."
+            "Advisory for flowering stage."
          ]
       }
    },

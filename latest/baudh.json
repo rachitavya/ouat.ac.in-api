@@ -59,45 +59,46 @@
       "livestock",
       "poultry"
    ],
-   "general_advisory": "According to the extended range forecast of IMD, farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. Proper care of crops and animals to protect them from cold is recommended. Completion of sowing Rabi crops and starting nursery sowing of Summer Paddy where irrigation facilities are available is advised.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations according to the weather conditions. It is recommended to protect crops and animals from the cold weather. Complete sowing of Rabi crops and start nursery sowing of Summer Paddy where possible irrigation facilities exist.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is an expected rainfall event in the first half of upcoming days, so wait for harvesting operations and store the harvested paddy properly.",
-            "Use 'Super Grain Bag' or proper storage methods to avoid damage.",
-            "Take precautions against stored grain pest management."
+            "Wait for some days for harvesting operations due to expected rainfall",
+            "Use 'Super Grain Bag' or proper storage methods for harvested paddy/rice"
          ]
       },
       "summer rice": {
          "advisory": [
-            "Start field preparation for summer rice cultivation with improved varieties."
+            "Start field preparation for summer rice cultivation",
+            "Consider using improved rice varieties for cultivation"
          ]
       },
       "ground nut": {
          "advisory": [
-            "Monitor groundnut crop for insect attack and use appropriate insecticides if required.",
-            "Wait for irrigation and spraying operations due to expected rain."
+            "Regular monitoring for sucking insect attack",
+            "Use neem-based insecticides for control after initial observation",
+            "Delay irrigation and spraying operations due to expected rainfall"
          ]
       },
       "cole crop": {
          "advisory": [
-            "Use straw as mulching material in vegetable crops for soil moisture and temperature maintenance.",
-            "Monitor against Diamond back moth attack and use pheromone traps if necessary.",
-            "Apply neem oil or Emamectin Benzoate after rain in case of attack."
+            "Use straw as mulching material to maintain soil moisture and temperature",
+            "Monitor and use pheromone traps for Diamond back moth in cauliflower",
+            "Apply neem oil or Emamectin Benzoate after rain if attack is observed"
          ]
       },
       "livestock": {
          "advisory": [
-            "Protect animals from cold with jute bags and straw as bedding material.",
-            "Ensure clean drinking water for cattle and maintain clean sheds to prevent flies.",
-            "Vaccinate and deworm animals to control diseases."
+            "Provide protection and proper care for animals from cold weather",
+            "Ensure clean drinking water for cattle and maintain clean sheds",
+            "Implement vaccination and deworming to control diseases"
          ]
       },
       "poultry": {
          "advisory": [
-            "Provide proper ventilation and heat source in poultry shed.",
-            "Maintain suitable drinking water temperature for poultry.",
-            "Use insulation methods to keep the poultry shed warm and dry."
+            "Ensure proper ventilation and removal of gases in poultry houses",
+            "Maintain suitable temperature in drinking water for poultry",
+            "Use insulation materials to keep poultry sheds warm and dry"
          ]
       }
    },

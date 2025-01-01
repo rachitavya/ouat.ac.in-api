@@ -1,6 +1,6 @@
 {
    "weather_details": {
-      "28-12-2024": {
+      "27-12-2024": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 16,
@@ -10,7 +10,7 @@
          "wind_direction": 54,
          "cloud_cover": 2
       },
-      "29-12-2024": {
+      "28-12-2024": {
          "rainfall": 5,
          "t_max": 27,
          "t_min": 16,
@@ -20,7 +20,7 @@
          "wind_direction": 76,
          "cloud_cover": 6
       },
-      "30-12-2024": {
+      "29-12-2024": {
          "rainfall": 2,
          "t_max": 27,
          "t_min": 16,
@@ -30,20 +30,20 @@
          "wind_direction": 9,
          "cloud_cover": 5
       },
-      "31-12-2024": {
+      "30-12-2024": {
          "rainfall": 0,
          "t_max": 26,
-         "t_min": 15,
+         "t_min": 16,
          "rh_max": 76,
          "rh_min": 37,
          "wind_speed": 6,
          "wind_direction": 4,
          "cloud_cover": 4
       },
-      "01-01-2025": {
+      "31-12-2024": {
          "rainfall": 0,
          "t_max": 26,
-         "t_min": 13,
+         "t_min": 15,
          "rh_max": 67,
          "rh_min": 30,
          "wind_speed": 5,
@@ -53,42 +53,52 @@
    },
    "names_of_crops": [
       "kharif rice",
+      "summer rice",
       "ground nut",
       "cole crop",
       "livestock",
       "poultry"
    ],
-   "general_advisory": "As per the extended range forecast of IMD, MC, Bhub aneswar, minimum temperature (night temperature) very likely to be 16-18°C over the district of Coastal Odisha and also in the districts adjoining to Coasta l Odisha, 14-16°C in some parts of Interior Odisha and 12-14°C o ver the remaining parts of Interior Odisha during w eek-1 (27 th December, 2024 to 2 nd January, 2025). Normal to above normal Minimum tem perature very likely to be expected over the districts of Odisha during that p eriod. Overall Rainfall activity very likely to be normal to below normal over the state during week-1.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Make provision to take proper care of crops and animals to protect them from cold. Complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer Paddy where irrigation facilities are available.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall event is expected in first h alf of upcoming days so farmers are advised to wait some days for harvestin g operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
-            "Use ‘Super Grain Bag’ for safe storage of paddy/ric e for longer period of time or store the harvested paddy in properly bagge d and stacked with suitable cover to avoid damage due to untimely rain.",
-            "Straw can be used as mulching material  in vegetable crops to soil maintain moisture as well as soil temperature in field durin g winter season."
+            "There is some rainfall event expected in the first half of upcoming days so farmers are advised to wait for harvesting operations.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice for longer periods."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer season rice cultivation.",
+            "Select improved rice varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Past weather condition (cloudy and foggy) is favour able for sucking insect attack in groundnut crop so its regular monitoring should be advised. If attack observed, then at initial stage spraying of Azadiractin or neem-based insecticide 1500 ppm @ 600 ml in 200 liters of wate r per acre. Use 8 yellow sticky traps per acre. Trichogramma chilonis  cards @ 1-2 nos. per acre can also be used at one week interval. Cut the  card into 12 pieces at the designated place. For chemical management, appl y 40 grams of thiamethoxam or 80 grams of Emamectin benzoate per acre in 200 liters of water. As some amount of rain is expected in upcomi ng two days so farmer should wait some days for irrigation and spraying o perations."
+            "Regular monitoring for sucking insect attack in groundnut crop is advised.",
+            "If attack observed, use Azadiractin or neem-based insecticide for spraying.",
+            "Wait for irrigation and spraying operations due to expected rain."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Straw can be used as mulching material  in vegetable crops to soil maintain moisture as well as soil temperature in field durin g winter season.",
-            "Regular monitoring against the attack of Diamond ba ck moth in cauliflower should be advised and if possible, farm ers should use pheromone trap in field for this purpose. If attack observed then spraying of neem oil @ 5 ml  or Emamectin Benzoate @ 0.4 g per liter water should be advised after occurrence of rain."
+            "Use straw as mulching material in vegetable crops to maintain soil moisture and temperature during winter season.",
+            "Monitor against the attack of Diamond back moth in cauliflower and use pheromone trap if necessary.",
+            "Spray neem oil or Emamectin Benzoate after rain if attack is observed."
          ]
       },
       "livestock": {
          "advisory": [
-            "Farmers should make provision to protect the animal  from cold (if possible use jute bag to cover the animal and straw as bedding material) dur ing winter season and provide clean drinking water to cattle and keep their sheds clean. Don’t allow the urine or excreta to deposit around the shed which may lead to flies and make provision to restrict the entry of rainwater into the shed.",
-            "Vaccination and deworming should be done to control  different harmful diseases and stomach  worms."
+            "Protect animals from cold by using jute bags as cover and provide straw as bedding material.",
+            "Ensure clean drinking water for cattle and keep sheds clean to prevent flies.",
+            "Vaccination and deworming to control diseases and stomach worms."
          ]
       },
       "poultry": {
          "advisory": [
-            "Proper ventilation is required to provide fresh air  and removing gases inside house.",
-            "External heat source is provided to keep the poultr y shed warm and dry. Various types and layers of curtains and jute bags are used to insula te the farm.",
-            "The drinking water should be maintained at suitable  temperature to promote water intake."
+            "Ensure proper ventilation in poultry houses for fresh air and gas removal.",
+            "Provide external heat sources to keep the shed warm and dry.",
+            "Maintain drinking water at suitable temperature for water intake."
          ]
       }
    },

@@ -1,0 +1,103 @@
+{
+   "weather_details": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 36,
+         "rh_min": 79,
+         "wind_speed": 5,
+         "wind_direction": 69,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 39,
+         "rh_min": 77,
+         "wind_speed": 4,
+         "wind_direction": 0,
+         "cloud_cover": 6
+      },
+      "30-12-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 45,
+         "rh_min": 82,
+         "wind_speed": 4,
+         "wind_direction": 18,
+         "cloud_cover": 5
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 37,
+         "rh_min": 80,
+         "wind_speed": 6,
+         "wind_direction": 5,
+         "cloud_cover": 2
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 31,
+         "rh_min": 77,
+         "wind_speed": 5,
+         "wind_direction": 355,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "summer rice",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They should take proper care of crops and animals to protect them from cold. Complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some rainfall expected in the first half of the upcoming days, so farmers are advised to wait for harvesting operations and store the harvested paddy crop safely."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer season rice cultivation and select improved varieties like MTU 1010, MTU 1156, MTU 1001, etc."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Regularly monitor for sucking insect attacks in groundnut crop due to favorable weather conditions.",
+            "Use Azadiractin or neem-based insecticide for spraying in case of attack.",
+            "Wait for irrigation and spraying operations due to expected rainfall."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use straw as mulching material in vegetable crops to maintain soil moisture and temperature.",
+            "Monitor and use pheromone traps against Diamond back moth attack in cauliflower.",
+            "Spray neem oil or Emamectin Benzoate after rain if attack is observed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold using jute bags and provide clean drinking water.",
+            "Control harmful diseases and stomach worms through vaccination and deworming."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation for fresh air and remove gases inside the poultry house.",
+            "Provide external heat source to keep the poultry shed warm and dry.",
+            "Maintain drinking water at suitable temperature for water intake."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

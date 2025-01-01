@@ -1,0 +1,147 @@
+{
+   "weather_details": {
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 77,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 12,
+         "cloud_cover": 1
+      },
+      "29/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 48,
+         "wind_speed": 9,
+         "wind_direction": 354,
+         "cloud_cover": 1
+      },
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 48,
+         "wind_speed": 7,
+         "wind_direction": 9,
+         "cloud_cover": 1
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 46,
+         "wind_speed": 13,
+         "wind_direction": 259,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "summer paddy",
+      "cotton",
+      "sugarcane",
+      "cereals",
+      "pulses",
+      "oilseeds",
+      "spices",
+      "vegetables",
+      "blackgram",
+      "green gram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
+   ],
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply organic and inorganic fertilizers during last puddling. Divide nursery area into smaller plots. Properly manage pests and diseases. Install heaters in poultry sheds during winter season.",
+   "crops_data": {
+      "summer paddy": {
+         "advisory": [
+            "Pre-sowing Nursery Management - Prepare wet nursery seed beds for paddy. Apply fertilizers and sowing techniques.",
+            "Seed treatment - Treat paddy seeds with appropriate fungicides before sowing."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking of cotton crop is in progress.",
+            "Management of pests and diseases."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Harvesting and planting of sugar cane is under progress."
+         ]
+      },
+      "cereals": {
+         "advisory": [
+            "Rabi crops like cereals are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Rabi crops like pulses are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Rabi crops like oilseeds are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "spices": {
+         "advisory": [
+            "Rabi crops like spices are continuing.",
+            "General crop management practices."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Rabi crops like vegetables are continuing.",
+            "Monitor for pests and diseases."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Management of yellow mosaic virus in blackgram.",
+            "Control of pests using appropriate pesticides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Management of yellow mosaic virus in green gram.",
+            "Control of pests using appropriate pesticides."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Management of wilting and fruit & shoot borer.",
+            "Proper disease management practices."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Management of Alternaria leaf spot disease.",
+            "Maintain proper curd formation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Removal of wilted plants and control of aphids and jassids.",
+            "Proper management of flowering stage."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Control of leaf eating caterpillar.",
+            "Use of biological agents for pest control."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

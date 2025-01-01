@@ -19,31 +19,11 @@
          "wind_speed": 9,
          "wind_direction": 354,
          "cloud_cover": 1
-      },
-      "30/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 79,
-         "rh_min": 48,
-         "wind_speed": 7,
-         "wind_direction": 9,
-         "cloud_cover": 1
-      },
-      "31/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 80,
-         "rh_min": 46,
-         "wind_speed": 13,
-         "wind_direction": 259,
-         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "summer paddy",
-      "cotton",
+      "cotton crop",
       "sugarcane",
       "cereals",
       "pulses",
@@ -51,53 +31,47 @@
       "spices",
       "vegetables",
       "blackgram",
-      "green gram",
+      "greengram",
       "tomato",
       "cauliflower",
       "chilli",
       "marigold"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply organic and inorganic fertilizers during last puddling. Divide nursery area into smaller plots. Properly manage pests and diseases. Install heaters in poultry sheds during winter season.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. ...",
    "crops_data": {
       "summer paddy": {
          "advisory": [
-            "Pre-sowing Nursery Management - Prepare wet nursery seed beds for paddy. Apply fertilizers and sowing techniques.",
-            "Seed treatment - Treat paddy seeds with appropriate fungicides before sowing."
+            "Pre-sowing - Nursery Management: Divide nursery area into smaller plots of convenient length. Irrigation channels should be made along the beds for irrigation/drainage purpose. Seed treatment should be done before sowing."
          ]
       },
-      "cotton": {
+      "cotton crop": {
          "advisory": [
-            "Picking of cotton crop is in progress.",
-            "Management of pests and diseases."
+            "Picking is in progress."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Harvesting and planting of sugar cane is under progress."
+            "Harvesting and planting is under progress."
          ]
       },
       "cereals": {
          "advisory": [
-            "Rabi crops like cereals are continuing.",
-            "General crop management practices."
+            "Rabi crops like cereals are continuing."
          ]
       },
       "pulses": {
          "advisory": [
-            "Rabi crops like pulses are continuing.",
-            "General crop management practices."
+            "Rabi crops like pulses are continuing."
          ]
       },
       "oilseeds": {
          "advisory": [
-            "Rabi crops like oilseeds are continuing.",
-            "General crop management practices."
+            "Rabi crops like oilseeds are continuing."
          ]
       },
       "spices": {
          "advisory": [
-            "Rabi crops like spices are continuing.",
-            "General crop management practices."
+            "Rabi crops like spices are continuing."
          ]
       },
       "vegetables": {
@@ -108,38 +82,33 @@
       },
       "blackgram": {
          "advisory": [
-            "Management of yellow mosaic virus in blackgram.",
-            "Control of pests using appropriate pesticides."
+            "Vegetative - Control yellow mosaic virus by spraying triazophos or acetamipride."
          ]
       },
-      "green gram": {
+      "greengram": {
          "advisory": [
-            "Management of yellow mosaic virus in green gram.",
-            "Control of pests using appropriate pesticides."
+            "Vegetative - Control yellow mosaic virus by spraying triazophos or acetamipride."
          ]
       },
       "tomato": {
          "advisory": [
-            "Management of wilting and fruit & shoot borer.",
-            "Proper disease management practices."
+            "Vegetative to fruiting - Control wilting with Mancozeb.",
+            "Control fruit & shoot borer."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Management of Alternaria leaf spot disease.",
-            "Maintain proper curd formation."
+            "Vegetative to curd formation stage - Control Alternaria with carbendazim + mancozeb."
          ]
       },
       "chilli": {
          "advisory": [
-            "Removal of wilted plants and control of aphids and jassids.",
-            "Proper management of flowering stage."
+            "Vegetative/Flowering - Remove wilted plants and manage aphids and jassids infestation."
          ]
       },
       "marigold": {
          "advisory": [
-            "Control of leaf eating caterpillar.",
-            "Use of biological agents for pest control."
+            "Vegetative/Flowering - Control leaf eating caterpillar with biological or chemical methods."
          ]
       }
    },

@@ -57,8 +57,7 @@
       "brinjal",
       "chilli",
       "mushroom",
-      "poultry",
-      "chicken"
+      "poultry"
    ],
    "general_advisory": "Dry weather is likely to prevail in the district.",
    "crops_data": {
@@ -82,7 +81,7 @@
       },
       "chilli": {
          "advisory": [
-            "Thrips and mites are noticed in chilli. Foliar spray with Propargite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
+            "Thrips and mites are noticed in chilli. Foliar spray with Propar gite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
          ]
       },
       "mushroom": {
@@ -91,11 +90,6 @@
          ]
       },
       "poultry": {
-         "advisory": [
-            "Deworming of chicks should be done once in every 2-3 months."
-         ]
-      },
-      "chicken": {
          "advisory": [
             "Deworming of chicks should be done once in every 2-3 months."
          ]

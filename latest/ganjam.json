@@ -53,22 +53,22 @@
    },
    "names_of_crops": [
       "rice",
-      "cabbage",
-      "cow"
+      "horticulture",
+      "live stock"
    ],
-   "general_advisory": "Postpone harvesting of rice. Store harvested produce in safe place or cover with polythene. Store the harvested rice safe place away from rats. Rain is expected in the coming five days.",
+   "general_advisory": "Postpone harvesting of rice. Store harvested produce in safe place or cover with polythene. Store the harvested rice safe place away from rats.",
    "crops_data": {
       "rice": {
          "advisory": [
             "As light rain is expected, postpone harvesting of matured rice. If already harvested, store in safe places."
          ]
       },
-      "cabbage": {
+      "horticulture": {
          "advisory": [
-            "For the late sown cabbage, spray NSKE 5% after the primordial stage to the diamondback moth or spray Cartap Hydrochloride 1gm/lt at the primordial stage on clear sky condition."
+            "For the late sown cabbage, spray NSKE 5% after the primordial stage to the diamondback moth. Or spray Cartap Hydrochloride 1gm/lt at the primordial stage on clear sky condition."
          ]
       },
-      "cow": {
+      "live stock": {
          "advisory": [
             "Animals should be given a mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
          ]

@@ -1,94 +1,84 @@
 {
    "weather_details": {
-      "28/12/2024": {
+      "04/01/2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 76,
-         "rh_min": 45,
-         "wind_speed": 10,
-         "wind_direction": 12,
-         "cloud_cover": 1
+         "t_max": 25,
+         "t_min": 16,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 5
       },
-      "29/12/2024": {
+      "11/01/2025": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 17,
-         "rh_max": 74,
-         "rh_min": 46,
-         "wind_speed": 8,
-         "wind_direction": 90,
-         "cloud_cover": 3
-      },
-      "30/12/2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 76,
-         "rh_min": 45,
+         "rh_max": 77,
+         "rh_min": 36,
          "wind_speed": 10,
          "wind_direction": 15,
-         "cloud_cover": 2
-      },
-      "31/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 14,
-         "rh_max": 77,
-         "rh_min": 43,
-         "wind_speed": 9,
-         "wind_direction": 5,
-         "cloud_cover": 1
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
-      "blackgram",
-      "greengram",
+      "sugarcane",
+      "groundnut",
       "tomato",
-      "cauliflower",
+      "cucurbits",
+      "onion",
       "chilli",
-      "marigold"
+      "tuberose",
+      "poultry"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply fertilizers accordingly...",
+   "general_advisory": "Dry weather with partly cloudy skies expected. Maintain soil moisture for rice seedlings, mulch vegetables, proper surveillance for pests and diseases, spray pesticides after 3 pm to protect honey bees.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Nursery Management - Prepare the wet nursery seed beds for paddy.",
-            "Seed treatment - Treat the paddy seeds with recommended chemicals.",
-            "Managing fungal and bacterial diseases in standing crops."
+            "Apply 800g Cartap Hydrochloride 4% or 400g Chlorantraniliprole 0.4% for nursery area before transplanting."
          ]
       },
-      "blackgram": {
+      "sugarcane": {
          "advisory": [
-            "Controlling Yellow mosaic virus with recommended sprays."
+            "Plant resistant varieties to prevent red rot disease, soak setts in specified solution before planting."
          ]
       },
-      "greengram": {
+      "groundnut": {
          "advisory": [
-            "Control white fly vector with proper spraying methods."
+            "Use Neem Based Pesticide or Profenophos/Chlorpyriphos for leaf miner control."
          ]
       },
       "tomato": {
          "advisory": [
-            "Prevent Wilting by spraying recommended pesticides."
+            "Use yellow sticky traps and neem-based pesticide for Whitefly control."
          ]
       },
-      "cauliflower": {
+      "cucurbits": {
          "advisory": [
-            "Manage Alternaria leaf spot disease with appropriate sprays."
+            "Spray Metalaxyl + Mancozeb or Fosetyl-AL to control Downey mildew."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Apply specified quantities of compost and fertilizers before transplanting seedlings."
          ]
       },
       "chilli": {
          "advisory": [
-            "Manage Aphids and Jassids infestation with suggested sprays."
+            "Spray Ethion or Spiromesifen for mite control."
          ]
       },
-      "marigold": {
+      "tuberose": {
          "advisory": [
-            "Control leaf eating caterpillar using recommended methods."
+            "Spray specified fungicides to control leaf blight, stem rot, and root knot nematode."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house in winter, provide mineral and calcium to laying birds."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

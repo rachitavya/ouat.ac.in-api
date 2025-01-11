@@ -1,96 +1,162 @@
 {
    "weather_details": {
-      "2024-12-28": {
+      "2025-01-11": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 16,
-         "rh_max": 77,
-         "rh_min": 41,
-         "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 1
-      },
-      "2024-12-29": {
-         "rainfall": 2,
-         "t_max": 25,
-         "t_min": 16,
-         "rh_max": 75,
-         "rh_min": 41,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 4
-      },
-      "2024-12-30": {
-         "rainfall": 1,
-         "t_max": 26,
-         "t_min": 16,
-         "rh_max": 76,
-         "rh_min": 44,
-         "wind_speed": 4,
-         "wind_direction": 9,
-         "cloud_cover": 4
-      },
-      "2024-12-31": {
-         "rainfall": 0,
-         "t_max": 26,
+         "t_max": 28,
          "t_min": 14,
-         "rh_max": 80,
-         "rh_min": 47,
-         "wind_speed": 5,
-         "wind_direction": 98,
-         "cloud_cover": 1
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 2
       },
-      "2025-01-01": {
+      "2025-01-12": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 3
+      },
+      "2025-01-13": {
          "rainfall": 0,
          "t_max": 27,
-         "t_min": 12,
-         "rh_max": 73,
-         "rh_min": 37,
+         "t_min": 16,
+         "rh_max": 67,
+         "rh_min": 27,
          "wind_speed": 5,
-         "wind_direction": 356,
+         "wind_direction": 352,
+         "cloud_cover": 3
+      },
+      "2025-01-14": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 0,
          "cloud_cover": 2
+      },
+      "2025-01-15": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
-      "mustard",
-      "green gram",
       "sunflower",
-      "amaranth",
-      "chlori"
+      "blackgram and greengram",
+      "mustard",
+      "groundnut",
+      "red gram",
+      "chilli",
+      "cauliflower",
+      "cabbage",
+      "brinjal",
+      "tomato",
+      "onion",
+      "potato",
+      "livestock",
+      "goat",
+      "poultry",
+      "fisheries"
    ],
-   "general_advisory": "Go for harvesting of rice at harvest maturity stage to avoid lodging and germination in the field itself. Make provision for draining out water in standing rice crop by making alleys (Pahi) and keep the drain ends open. Go for threshing of the harvested paddy. After threshing, paddy grains need to be sun-dried to 14% moisture for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life. Rodent infestation has been found in the threshing floor and in the field itself. Use poison bait. For the preparation of 100 g poison bait mix 96 g flour, 2 g edible oil and 2 g Zinc phosphide. Keep water in earthen bowl near the poison bait. Keep one celphos tablet in the mouth of each rat hole. Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy in properly bagged and stacked with a suitable cover to avoid damage due to untimely rain. Start field preparation for green gram and black gram where irrigation facilities are available, grow Rabi crops like groundnut, cowpea in medium/shallow lowlands utilizing the available soil moisture in the field.",
+   "general_advisory": "As per extended range of forecast, dry weather very likely to prevail over the districts of Odisha. Farmers are advised to continue harvesting of matured crops, apply plant protection chemicals, and undertake necessary intercultural operations.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Soon after noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly airtight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of the plastic cover should be plastered with a 6-inch thick layer of mud/adhesive tapes to prevent the leakage of gas. Minimum exposure period is for about 7-10 days."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Optimum time for sowing of Rabi mustard has come, use varieties like T-9, PT-303, Nirmal black gold, uttra and 3-5 kg of seed for line sowing. Use 3 grams of Captan or Thiram per 1 kg of seed. Give spacing of 20*10 cm in late varieties and 30*10 cm in early sown varieties."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Treat the seeds with Carbendazim 50% WP @ 2-gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing. Before sowing, treat the seeds with Rhizobium culture @ 20-gram/ kg of seeds. Apply 2 ton of FYM or Compost at the time of last plowing along with 35 kg DAP, 13 kg MOP, 4 kg of Urea per acre as basal fertilizer."
+            "Post Harvest Care: Fumigate stored grain insect pest with Aluminium phosphide. Use good quality paddy seed varieties for dry season planting."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Sunflower is a profitable rabi oilseed crop. Now the time is optimum for sowing of sunflower. Grow high yielding varieties like Morden, Sunrise, Surya and Hybrid varieties like KBSH-1, KBSH-3 and MSFH. Use 4 kg seeds/acre for high yielding varieties for rainfed conditions, 3.5 kg for irrigated conditions, 2-2.5 kg seeds/acre for hybrid varieties under rainfed conditions and 1.5-2 kg seeds for irrigated conditions. Before sowing treat the seeds with 2 g Carbendazim/kg seeds. To protect the crop from fungal wilt, treat the seeds with 4 g Trichoderma/kg. Soak the seeds for 10-12 hours for better germination. Use 600 g PSB culture per acre after draining out the water. Apply 2 ton FYM along with 8:16:12 kg NPK per acre for high yielding varieties and double of it for hybrid varieties before sowing. Sow the seeds 30 cm apart maintaining a row spacing of 45 cm for loamy soil and 60 cm for clayey soil."
+            "Apply Urea and MOP as top dressing. Use Acetamiprid or Imidacloprid for sucking pest control. Use wettable sulphur for powdery mildew."
          ]
       },
-      "amaranth": {
+      "blackgram and greengram": {
          "advisory": [
-            "October to March is suitable for greens amaranth. Amaranth are of two types- White or Red. Use 3 kg seeds/acre. Layout 5 ft long beds of 4 ft wide with bunds. Pulverize the beds, remove the weeds and apply 1 to 2 baskets of FYM/ bed. Because of small size seeds, mix some coarse sands with the seeds for easy and uniform sowing. After sowing cover the seeds with a thin layer of soil and cover it with straw followed by light irrigation. Remove the straw after emergence."
+            "Select YMV disease resistant varieties. Treat seeds with Imidacloprid before sowing. Use yellow sticky traps for whitefly. Manage whitefly infestation with neem based pesticides or chemical sprays."
          ]
       },
-      "chlori": {
+      "mustard": {
          "advisory": [
-            "Information not available"
+            "Watch for aphid infestation. Use yellow sticky traps. Manage aphids with neem based pesticides or chemical sprays."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spray Neem Based Pesticide for aphids and thrips. Apply pre-emergence herbicide. Treat seeds for disease prevention."
+         ]
+      },
+      "red gram": {
+         "advisory": [
+            "Harvest when pods turn brown. Sun dry harvested seeds. Prevent storage pests with edible oil and camphor tablets."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control aphids and thrips with neem based pesticides or chemical sprays."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Prevent Browning or Brown rot with Borax soil application."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Manage Dimond Back Moth infestation with light traps and neem based pesticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control whitefly with yellow sticky traps and neem based pesticides or chemical sprays. Manage shoot and fruit borer with plant removal and pheromone traps."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Manage fruit borer by collecting affected fruits and using pheromone traps. Use insecticides for control."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Drench nursery bed to prevent Damping off disease. Plant seedlings in main field after 8 weeks."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Hoe and weed potato crop. Apply N fertilizer. Manage Leaf Blight disease with appropriate sprays."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide proper shelter with ventilation for livestock. Increase feed in winter. Vaccinate animals if needed."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Vaccinate against PPR disease. Provide proper care and feed to reduce mortality."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Increase feeders in winter. Provide continuous access to water. Install heaters in poultry shed."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Prevent 'EUS' disease with Cifax application. Feed fish daily with oil cake bran mixture."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

@@ -16,7 +16,7 @@
          "t_min": 16,
          "rh_max": 82,
          "rh_min": 44,
-         "wind_speed": 4,
+         "wind_speed": 9,
          "wind_direction": 329,
          "cloud_cover": 2
       },
@@ -26,7 +26,7 @@
          "t_min": 16,
          "rh_max": 83,
          "rh_min": 46,
-         "wind_speed": 5,
+         "wind_speed": 4,
          "wind_direction": 9,
          "cloud_cover": 3
       },
@@ -36,9 +36,9 @@
          "t_min": 15,
          "rh_max": 85,
          "rh_min": 48,
-         "wind_speed": 4,
+         "wind_speed": 5,
          "wind_direction": 90,
-         "cloud_cover": 1
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
@@ -50,43 +50,42 @@
       "chilli",
       "marigold"
    ],
-   "general_advisory": "Prepare the nursery seed beds for paddy, manage diseases in standing crops, control pests, and diseases regularly, and take appropriate plant protection measures. Install heaters in poultry sheds during the winter season.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply appropriate treatments for various diseases and pests. Ensure proper field surveillance and protection measures. Install heaters in poultry sheds during winter.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Nursery Management - Prepare wet nursery seed beds for paddy, apply fertilizers, and sow sprouted seeds with proper spacing.",
-            "Seed treatment - Treat paddy seeds with recommended fungicides before sowing in the nursery."
+            "Nursery Management - Prepare the wet nursery seed beds for paddy. Ensure proper irrigation and division of nursery area. Sow sprouted seeds with appropriate spacing.",
+            "Seed treatment - Treat the paddy seeds with recommended chemicals before sowing in the nursery."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Yellow Mosaic Virus - Control the vector white fly using recommended insecticides."
+            "Vegetative - Control yellow mosaic virus by spraying recommended chemicals."
          ]
       },
       "greengram": {
          "advisory": [
-            "Yellow Mosaic Virus - Control the vector white fly using recommended insecticides."
+            "Vegetative - Control yellow mosaic virus by spraying recommended chemicals."
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting - Monitor for symptoms and apply appropriate fungicides if wilting occurs.",
-            "Fruit & Shoot Borer - Monitor pest population using pheromone traps."
+            "Vegetative to fruiting - Manage wilting and fruit & shoot borer with appropriate treatments."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Manage Alternaria Leaf Spot Disease - Spray recommended fungicides."
+            "Vegetative to Curd formation stage - Manage Alternaria diseases with recommended chemicals."
          ]
       },
       "chilli": {
          "advisory": [
-            "Remove wilted plants and manage Aphids and Jassids infestation using recommended insecticides."
+            "Vegetative/Flowering - Control aphids and jassids infestation with recommended chemicals."
          ]
       },
       "marigold": {
          "advisory": [
-            "Manage Leaf Eating Caterpillar - Use biological control methods and recommended chemical sprays."
+            "Vegetative/Flowering - Manage leaf eating caterpillar with biological or chemical control methods."
          ]
       }
    },

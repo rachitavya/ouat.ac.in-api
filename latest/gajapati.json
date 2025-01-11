@@ -1,132 +1,168 @@
 {
    "weather_details": {
-      "2024-12-28": {
-         "rainfall": 0,
-         "t_max": 24,
-         "t_min": 17,
-         "rh_max": 88,
-         "rh_min": 45,
-         "wind_speed": 3,
-         "wind_direction": 36,
-         "cloud_cover": 1
-      },
-      "2024-12-29": {
-         "rainfall": 0,
-         "t_max": 24,
-         "t_min": 17,
-         "rh_max": 85,
-         "rh_min": 49,
-         "wind_speed": 2,
-         "wind_direction": 14,
-         "cloud_cover": 2
-      },
-      "2024-12-30": {
-         "rainfall": 0,
-         "t_max": 25,
-         "t_min": 16,
-         "rh_max": 86,
-         "rh_min": 53,
-         "wind_speed": 2,
-         "wind_direction": 22,
-         "cloud_cover": 2
-      },
-      "2024-12-31": {
+      "11-01-2025": {
          "rainfall": 0,
          "t_max": 26,
-         "t_min": 16,
+         "t_min": 8,
          "rh_max": 88,
-         "rh_min": 50,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 301,
+         "cloud_cover": 3
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 86,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 2
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 9,
+         "rh_max": 82,
+         "rh_min": 36,
          "wind_speed": 2,
          "wind_direction": 11,
          "cloud_cover": 3
       },
-      "2025-01-01": {
+      "14-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 90,
-         "rh_min": 45,
-         "wind_speed": 2,
-         "wind_direction": 11,
-         "cloud_cover": 1
+         "t_max": 28,
+         "t_min": 9,
+         "rh_max": 86,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 3
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 10,
+         "rh_max": 86,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "rice",
-      "sunflower",
-      "mustard",
-      "cotton",
-      "menacinakahi",
-      "chilli",
+      "paddy",
+      "groundnut",
+      "green gram",
+      "black gram",
+      "onion",
+      "cauliflower",
+      "cabbage",
       "tomato",
-      "potato",
-      "cow",
-      "goa_tppr",
-      "common_fish",
-      "chick"
+      "chilli",
+      "sunflower",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep",
+      "chicken",
+      "common fish"
    ],
-   "general_advisory": "The mean maximum daily temperature was 24.0°C and the mean minimum daily temperature was 17.3°C of the Gajapati district during the last week. The district received 65.1 mm of rainfall during the last week. Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables...",
+   "general_advisory": "Keep your crop field free from weed to minimize the incidence of diseases and pests. Apply balanced and appropriate fertilizers according to the crop’s growth stage. Regular monitoring of the crop for incidence of pests and diseases should be done. Follow safety measures during the application of chemical pesticides and apply the recommended doses in the correct method with attention to wind direction.",
    "crops_data": {
-      "rice": {
+      "paddy": {
          "advisory": [
-            "Soon after noticing the infestation of the stored grain insect pest, take up fumigation..."
+            "Complete sowing of pre-germinated treated seeds in puddled soil by broadcasting or drum seeder and maintain proper water for seedling growth",
+            "Apply 44kg of DAP and 22kg of MOP per acre as basal dose at the time of puddling"
          ]
       },
-      "sunflower": {
+      "groundnut": {
          "advisory": [
-            "Sunflower crop is at 25-30 days stage. Go for hoeing and weeding and thinning and apply N -fertilizer."
+            "Prevailing weather conditions favor the development of sucking pests like aphid and jassids",
+            "Install yellow sticky traps to monitor pest populations"
          ]
       },
-      "mustard": {
+      "green gram": {
          "advisory": [
-            "There are chances of Aphid infestation in early sown mustard crop..."
+            "Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL for weed management",
+            "Use Profenophos 50 EC for controlling leaf-eating caterpillars"
          ]
       },
-      "cotton": {
+      "black gram": {
          "advisory": [
-            "Farmers are advised to go for picking cotton on sunny days after 9 AM or when dew dries up from the crop surface..."
+            "Apply similar weed and pest management as green gram"
          ]
       },
-      "menacinakahi": {
+      "onion": {
          "advisory": [
-            "To control aphids and thrips in chilli during primary stage of pest infestation..."
+            "Irrigate the crop at regular intervals",
+            "Undertake hoeing, weeding, and top dressing at the appropriate stages"
          ]
       },
-      "chilli": {
+      "cauliflower": {
          "advisory": [
-            "To control aphids and thrips in chilli during primary stage of pest infestation..."
+            "Continue hoeing, weeding, and apply urea and MOP as needed",
+            "Control diamond back moth and other pests as required"
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Follow similar nutrient management practices as cauliflower"
          ]
       },
       "tomato": {
          "advisory": [
-            "To control fruit borer in Tomato, first collect and destroy the af fected fruits and grown up larvae..."
+            "Complete hoeing, weeding, and apply urea as needed",
+            "Monitor for wilting and fruit & shoot borers"
          ]
       },
-      "potato": {
+      "chilli": {
          "advisory": [
-            "Early planted potato crop is at 3 week stage. Go for hoeing and weeding and apply the rest 30-45 Kg N/acre..."
+            "Install Blue Sticky Trap for thrips control",
+            "Apply neem-based pesticide for pest management"
          ]
       },
-      "cow": {
+      "sunflower": {
          "advisory": [
-            "Provide proper shelter to the animals with proper ventilation facilities..."
+            "Control sucking pest complex with recommended sprays",
+            "Address powdery mildew and other diseases as needed"
          ]
       },
-      "goa_tppr": {
+      "cattle": {
          "advisory": [
-            "Goa TPPR disease also known as 'Goat Plague'  is common during winter..."
+            "Monitor body condition score during lactation phase",
+            "Gradually increase feed amount before calving for better results"
          ]
       },
-      "common_fish": {
+      "buffalo": {
          "advisory": [
-            "During winters, there is a possibility of 'EUS' disease in fish..."
+            "Similar care to cattle regarding feed and health management"
          ]
       },
-      "chick": {
+      "goat": {
          "advisory": [
-            "In winter number of feeders should be increased. Feed should be available to the bird whole of the day ..."
+            "Protect goats from chill winds and cold floors",
+            "Contact veterinarians for health concerns"
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Similar care to goats for cold weather issues"
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Prevent poultry birds from severe chill wind and cold floor exposure",
+            "Cover poultry houses with polythene sheet for protection"
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Apply Cifax as preventive measure against EUS disease",
+            "Feed fishes with oil cake bran mixture for proper nutrition"
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

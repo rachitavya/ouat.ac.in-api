@@ -1,116 +1,95 @@
 {
    "weather_details": {
-      "28/12/2024": {
+      "11-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 18,
-         "rh_max": 77,
-         "rh_min": 47,
-         "wind_speed": 11,
-         "wind_direction": 12,
-         "cloud_cover": 1
+         "t_min": 9,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 281,
+         "cloud_cover": 0
       },
-      "29/12/2024": {
+      "12-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 79,
-         "rh_min": 48,
+         "t_max": 29,
+         "t_min": 10,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 81,
+         "rh_min": 38,
          "wind_speed": 9,
-         "wind_direction": 354,
-         "cloud_cover": 1
+         "wind_direction": 12,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "summer paddy",
-      "cotton crop",
+      "paddy",
       "sugarcane",
-      "cereals",
-      "pulses",
-      "oilseeds",
-      "spices",
-      "vegetables",
-      "blackgram",
-      "greengram",
+      "groundnut",
       "tomato",
-      "cauliflower",
+      "cucurbits",
+      "onion",
       "chilli",
-      "marigold"
+      "tuberose",
+      "poultry"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. ...",
+   "general_advisory": "As per the forecast, dry weather may prevail over the district of Puri for the next five days. Various recommendations include maintaining soil condition in nursery beds, using mulch to protect plants, providing proper irrigation, and implementing pest control measures.",
    "crops_data": {
-      "summer paddy": {
+      "paddy": {
          "advisory": [
-            "Pre-sowing - Nursery Management: Divide nursery area into smaller plots of convenient length. Irrigation channels should be made along the beds for irrigation/drainage purpose. Seed treatment should be done before sowing."
-         ]
-      },
-      "cotton crop": {
-         "advisory": [
-            "Picking is in progress."
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for pest management before transplanting."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Harvesting and planting is under progress."
+            "Select resistant varieties for planting to prevent red rot disease."
          ]
       },
-      "cereals": {
+      "groundnut": {
          "advisory": [
-            "Rabi crops like cereals are continuing."
-         ]
-      },
-      "pulses": {
-         "advisory": [
-            "Rabi crops like pulses are continuing."
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Rabi crops like oilseeds are continuing."
-         ]
-      },
-      "spices": {
-         "advisory": [
-            "Rabi crops like spices are continuing."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Rabi crops like vegetables are continuing.",
-            "Monitor for pests and diseases."
-         ]
-      },
-      "blackgram": {
-         "advisory": [
-            "Vegetative - Control yellow mosaic virus by spraying triazophos or acetamipride."
-         ]
-      },
-      "greengram": {
-         "advisory": [
-            "Vegetative - Control yellow mosaic virus by spraying triazophos or acetamipride."
+            "Use Neem Based Pesticide or Profenophos for leaf miner control."
          ]
       },
       "tomato": {
          "advisory": [
-            "Vegetative to fruiting - Control wilting with Mancozeb.",
-            "Control fruit & shoot borer."
+            "Use yellow sticky traps and neem-based pesticide for Whitefly control."
          ]
       },
-      "cauliflower": {
+      "cucurbits": {
          "advisory": [
-            "Vegetative to curd formation stage - Control Alternaria with carbendazim + mancozeb."
+            "Spray Metalaxyl + Mancozeb or Fosetyl - AL for Downy mildew control."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Apply recommended nutrients before transplanting and maintain proper spacing."
          ]
       },
       "chilli": {
          "advisory": [
-            "Vegetative/Flowering - Remove wilted plants and manage aphids and jassids infestation."
+            "Spray Ethion or Spiromesifen for mite control."
          ]
       },
-      "marigold": {
+      "tuberose": {
          "advisory": [
-            "Vegetative/Flowering - Control leaf eating caterpillar with biological or chemical methods."
+            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb for leaf blight control.",
+            "Apply carbendazim to control stem rot."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "During winter, insulate poultry house and provide mineral and calcium supplements."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

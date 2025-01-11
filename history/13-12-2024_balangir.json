@@ -1,21 +1,21 @@
 {
    "weather_details": {
-      "2022-01-01": {
+      "2022-10-01": {
          "rainfall": 5,
          "t_max": 25,
-         "t_min": 15,
-         "rh_max": 80,
-         "rh_min": 60,
-         "wind_speed": 10,
-         "wind_direction": 180,
-         "cloud_cover": 4
-      },
-      "2022-01-02": {
-         "rainfall": 2,
-         "t_max": 23,
-         "t_min": 14,
+         "t_min": 18,
          "rh_max": 75,
          "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 6
+      },
+      "2022-10-02": {
+         "rainfall": 2,
+         "t_max": 23,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 50,
          "wind_speed": 12,
          "wind_direction": 200,
          "cloud_cover": 5
@@ -23,20 +23,27 @@
    },
    "names_of_crops": [
       "wheat",
-      "rice"
+      "corn",
+      "cattle"
    ],
-   "general_advisory": "It is recommended to monitor crop conditions closely due to the forecasted rainfall.",
+   "general_advisory": "Sow wheat and corn crops, ensure proper care and feeding of cattle.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Sow wheat seeds in prepared land.",
-            "Apply recommended fertilizers at appropriate stages."
+            "Ensure adequate moisture for wheat growth",
+            "Protect from pests and diseases"
          ]
       },
-      "rice": {
+      "corn": {
          "advisory": [
-            "Transplant rice seedlings at the correct time.",
-            "Control pests and diseases by appropriate methods."
+            "Provide sufficient spacing between corn plants for proper growth",
+            "Fertilize regularly for healthy corn yields"
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Ensure clean water supply for cattle",
+            "Vaccinate cattle regularly to prevent diseases"
          ]
       }
    },

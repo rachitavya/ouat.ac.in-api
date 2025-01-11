@@ -1,93 +1,111 @@
 {
    "weather_details": {
-      "28/12/2024": {
+      "04/01/2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 79,
-         "rh_min": 42,
-         "wind_speed": 6,
-         "wind_direction": 353,
-         "cloud_cover": 1
-      },
-      "29/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 82,
-         "rh_min": 44,
-         "wind_speed": 9,
-         "wind_direction": 329,
-         "cloud_cover": 2
-      },
-      "30/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 83,
-         "rh_min": 46,
+         "t_max": 14,
+         "t_min": 4,
+         "rh_max": 87,
+         "rh_min": 37,
          "wind_speed": 4,
-         "wind_direction": 9,
-         "cloud_cover": 3
+         "wind_direction": 280,
+         "cloud_cover": 0
       },
-      "31/12/2024": {
+      "11/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 87,
+         "rh_min": 37,
+         "wind_speed": 4,
+         "wind_direction": 280,
+         "cloud_cover": 0
+      },
+      "12/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 87,
+         "rh_min": 36,
+         "wind_speed": 5,
+         "wind_direction": 330,
+         "cloud_cover": 0
+      },
+      "13/01/2025": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 15,
-         "rh_max": 85,
-         "rh_min": 48,
-         "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 4
+         "rh_max": 81,
+         "rh_min": 34,
+         "wind_speed": 4,
+         "wind_direction": 5,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
-      "blackgram",
-      "greengram",
+      "sugarcane",
+      "groundnut",
       "tomato",
-      "cauliflower",
+      "cucurbits",
+      "onion",
       "chilli",
-      "marigold"
+      "tuberose",
+      "poultry"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply appropriate treatments for various diseases and pests. Ensure proper field surveillance and protection measures. Install heaters in poultry sheds during winter.",
+   "general_advisory": "Dry weather may prevail over the district of Khordha for the next five days. Maintain saturated condition in the surface soil of nursery bed for proper establishment of rice seedlings. Take appropriate plant protection measures against pests and diseases. Use low cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Nursery Management - Prepare the wet nursery seed beds for paddy. Ensure proper irrigation and division of nursery area. Sow sprouted seeds with appropriate spacing.",
-            "Seed treatment - Treat the paddy seeds with recommended chemicals before sowing in the nursery."
+            "Apply 800g Cartap Hydrochloride 4% G or 400g Chlorantraniliprole 0.4% G for 10 decimal nursery area 7 days before transplanting to manage pests."
          ]
       },
-      "blackgram": {
+      "sugarcane": {
          "advisory": [
-            "Vegetative - Control yellow mosaic virus by spraying recommended chemicals."
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in a solution to protect against diseases."
          ]
       },
-      "greengram": {
+      "groundnut": {
          "advisory": [
-            "Vegetative - Control yellow mosaic virus by spraying recommended chemicals."
+            "Spray Neem Based Pesticide or Profenophos during infestation.",
+            "Control leaf miner by spraying appropriate pesticide."
          ]
       },
       "tomato": {
          "advisory": [
-            "Vegetative to fruiting - Manage wilting and fruit & shoot borer with appropriate treatments."
+            "Use yellow sticky traps to attract and kill whitefly.",
+            "Spray neembased pesticide during pest infestation."
          ]
       },
-      "cauliflower": {
+      "cucurbits": {
          "advisory": [
-            "Vegetative to Curd formation stage - Manage Alternaria diseases with recommended chemicals."
+            "To control downy mildew, spray Metalaxyl + Mancozeb or Fosetyl -AL."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Plant onion seedlings uniformly, and apply recommended nutrients.",
+            "Maintain proper spacing during transplanting."
          ]
       },
       "chilli": {
          "advisory": [
-            "Vegetative/Flowering - Control aphids and jassids infestation with recommended chemicals."
+            "Spray Ethion or Spiromesifen to control mites.",
+            "Use appropriate pesticide during infestation."
          ]
       },
-      "marigold": {
+      "tuberose": {
          "advisory": [
-            "Vegetative/Flowering - Manage leaf eating caterpillar with biological or chemical control methods."
+            "Spray recommended chemicals to control leaf blight, stem rot, and nematode.",
+            "Apply specific pesticides for each pest."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house against cold wind during winter.",
+            "Provide mineral and calcium to laying birds as required."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

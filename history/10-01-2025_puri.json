@@ -1,0 +1,95 @@
+{
+   "weather_details": {
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 9,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 281,
+         "cloud_cover": 0
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 10,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 81,
+         "rh_min": 38,
+         "wind_speed": 9,
+         "wind_direction": 12,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "tomato",
+      "cucurbits",
+      "onion",
+      "chilli",
+      "tuberose",
+      "poultry"
+   ],
+   "general_advisory": "As per the forecast, dry weather may prevail over the district of Puri for the next five days. Various recommendations include maintaining soil condition in nursery beds, using mulch to protect plants, providing proper irrigation, and implementing pest control measures.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for pest management before transplanting."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties for planting to prevent red rot disease."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use Neem Based Pesticide or Profenophos for leaf miner control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps and neem-based pesticide for Whitefly control."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spray Metalaxyl + Mancozeb or Fosetyl - AL for Downy mildew control."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Apply recommended nutrients before transplanting and maintain proper spacing."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray Ethion or Spiromesifen for mite control."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb for leaf blight control.",
+            "Apply carbendazim to control stem rot."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "During winter, insulate poultry house and provide mineral and calcium supplements."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

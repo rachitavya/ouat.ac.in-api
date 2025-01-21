@@ -1,98 +1,91 @@
 {
    "weather_details": {
-      "11-01-2025": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 12,
-         "rh_max": 23,
-         "rh_min": 69,
-         "wind_speed": 2,
-         "wind_direction": 90,
-         "cloud_cover": 2
-      },
-      "12-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 13,
+         "t_min": 15,
+         "rh_max": 23,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
          "rh_max": 21,
-         "rh_min": 57,
+         "rh_min": 15,
          "wind_speed": 4,
          "wind_direction": 323,
-         "cloud_cover": 3
+         "cloud_cover": 2
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
+         "t_max": 28,
+         "t_min": 15,
          "rh_max": 22,
-         "rh_min": 62,
+         "rh_min": 15,
          "wind_speed": 5,
          "wind_direction": 53,
-         "cloud_cover": 3
+         "cloud_cover": 2
       },
-      "14-01-2025": {
+      "21-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
+         "t_max": 28,
+         "t_min": 15,
          "rh_max": 21,
-         "rh_min": 57,
+         "rh_min": 21,
          "wind_speed": 4,
          "wind_direction": 118,
          "cloud_cover": 3
       },
-      "15-01-2025": {
+      "22-01-2025": {
          "rainfall": 0,
          "t_max": 29,
-         "t_min": 14,
+         "t_min": 16,
          "rh_max": 22,
-         "rh_min": 62,
+         "rh_min": 22,
          "wind_speed": 5,
          "wind_direction": 100,
-         "cloud_cover": 3
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "kharif rice",
       "dry season rice",
       "mustard",
       "fruit and vegetable crops",
       "livestock"
    ],
-   "general_advisory": "As per the extended range forecast (date:-09.01.2025) of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week -1 (10th to 16th January, 2025) and week -2 (17th to 23rd January, 2025) so farmers are advised to conduct irrigation and any kind of spraying operations during that period and also make provision to protect the crop as well as animal from cold. If possible, cover young fruit plants by using sarkanda grass, dry corn stalks, or gunny sacks to cover small plants, keep the southeast side open to allow sunlight and airflow and apply light irrigation in field to maintain soil temperature. Vaccination should be avoided in animals during foggy days and cold wave period.",
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha. Farmers are advised to protect the crop and animal from cold conditions. Vaccination should be avoided in animals during foggy days and cold wave period.",
    "crops_data": {
-      "kharif rice": {
-         "advisory": [
-            "After noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ton grain (total 9g of tablets) in fairly airtight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of plastic cover should be plastered with 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
-         ]
-      },
       "dry season rice": {
          "advisory": [
-            "For dry season transplanted rice cultivation, farmer should prepare the wet nursery seed beds in puddled soil of 120 cm wide, 10 cm height, and convenient length with 30 cm gap in between two beds. About 320 m2 nursery areas are required for transplanting one-acre main field.",
-            "Seed treatment should be done with Carbendazim 50 WP @ 1.5 g/kg of seed or Trichoderma formulation @ 10 g/kg of seed.",
-            "During cool winter days to protect the rice nursery from cold injury, apply a thin layer of well decomposed FYM after sowing of seeds in wet bed to keep the bed relatively warm. Preferably use bore well water for irrigation at evening and drain out the cold water at morning to maintain the soil temperature favorable for growth."
+            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP at 80g/acre at 3-5 days after sowing or Bispyribac sodium at 120ml/acre at 10-12 DAS",
+            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil, spacing of 15cm x 15cm, 3-4 seedlings per hill, shallow depth, apply DAP + MOP or Urea + SSP + MOP as basal dose during final puddling"
          ]
       },
       "mustard": {
          "advisory": [
-            "One hoeing and weeding operation should be advised in case of 15 to 20 days old crop. In case of dense planting, one thinning operation is advised to maintain optimum plant population.",
-            "Prevailing weather condition is favorable for Aphid attack in mustard crop so regular monitoring against this insect should be advised."
+            "Prevalent weather conditions are favorable for Aphid attack in mustard, regular monitoring against this insect is advised",
+            "At present, attack of Aphid is noticed in some fields, spraying of Acetamiprid or Imidachloprid should be advised under dry weather condition"
          ]
       },
       "fruit and vegetable crops": {
          "advisory": [
-            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised.",
-            "Straw can be used as mulching material to maintain soil moisture as well as temperature in the field during the winter season.",
-            "Harvesting of matured crops as well as one light irrigation in crops which are in the vegetative growth stage should be advised because dry weather is expected in the upcoming week."
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug",
+            "Training and pruning of diseased and unwanted branches and leaves should be advised",
+            "Straw can be used as mulching material to maintain soil moisture and temperature during winter season",
+            "Harvesting of matured crops and one light irrigation in crops in vegetative growth stage should be advised"
          ]
       },
       "livestock": {
          "advisory": [
-            "Cover the animal shelter from all sides during the night in order to avoid direct exposure of animals to cold winds, including dry straw as animal bedding.",
-            "Weak and sick animals should be covered with sack cloth to protect them from the cold. At the same time, during the night, all the animals should be kept in a covered shelter.",
-            "Avoid keeping animals in a damp area, as well as protect them from smoke from fires which are lit to provide warmth. The dampness and smoke increase their chances of contracting pneumonia.",
-            "To maintain the body temperature of animals, they should be fed with a mixture of oil cakes and jiggery, including covering of the body during cold hours. Pregnant animals (>6 months) should be given additional feed."
+            "Cover animal shelter from all sides during the night to avoid direct exposure to cold winds, use dry straw as animal bedding",
+            "Weak and sick animals should be covered with sack cloth to protect them from cold, keep all animals in a covered shelter during the night",
+            "Avoid keeping animals in a damp area, protect them from smoke to prevent pneumonia, feed animals with a mixture of oil cakes and jiggery, pregnant animals should be given additional feed"
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

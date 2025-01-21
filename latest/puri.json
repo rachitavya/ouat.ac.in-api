@@ -1,29 +1,29 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "2025-01-18": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 9,
+         "t_min": 13,
          "rh_max": 83,
          "rh_min": 46,
          "wind_speed": 6,
          "wind_direction": 281,
-         "cloud_cover": 0
+         "cloud_cover": 4
       },
-      "12-01-2025": {
+      "2025-01-19": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 10,
+         "t_max": 28,
+         "t_min": 13,
          "rh_max": 83,
          "rh_min": 45,
          "wind_speed": 6,
          "wind_direction": 327,
-         "cloud_cover": 0
+         "cloud_cover": 4
       },
-      "13-01-2025": {
+      "2025-01-20": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 11,
+         "t_max": 28,
+         "t_min": 13,
          "rh_max": 81,
          "rh_min": 38,
          "wind_speed": 9,
@@ -33,63 +33,59 @@
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "groundnut",
-      "tomato",
-      "cucurbits",
-      "onion",
-      "chilli",
-      "tuberose",
-      "poultry"
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
    ],
-   "general_advisory": "As per the forecast, dry weather may prevail over the district of Puri for the next five days. Various recommendations include maintaining soil condition in nursery beds, using mulch to protect plants, providing proper irrigation, and implementing pest control measures.",
+   "general_advisory": "As per the forecast received, dry weather may prevail over the district of Puri for the next five days with mainly clear to partly cloudy skies. The wind speed is expected to be around 6-9 km/h. The daily maximum and minimum temperatures will likely remain between 27-28°C and 13-14°C, respectively.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply Cartap Hydrochloride or Chlorantraniliprole for pest management before transplanting."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Select resistant varieties for planting to prevent red rot disease."
+            "Farmers going for transplanting should apply DAP, MOP, and Urea per acre according to guidelines."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Use Neem Based Pesticide or Profenophos for leaf miner control."
+            "To minimize White grab infestation, drench with Chloropyriphos or Imidacloprid."
          ]
       },
-      "tomato": {
+      "sugarcane": {
          "advisory": [
-            "Use yellow sticky traps and neem-based pesticide for Whitefly control."
+            "Apply recommended fertilizers and FYM at planting.",
+            "Do not apply Urea after 120 days post-planting."
          ]
       },
-      "cucurbits": {
+      "cowpea": {
          "advisory": [
-            "Spray Metalaxyl + Mancozeb or Fosetyl - AL for Downy mildew control."
+            "To control hairy caterpillar, spray specified insecticides."
          ]
       },
-      "onion": {
+      "cole crops": {
          "advisory": [
-            "Apply recommended nutrients before transplanting and maintain proper spacing."
+            "Manage Dimond Back Moth and Head Borer infestations.",
+            "Use recommended pesticides based on guidelines."
          ]
       },
-      "chilli": {
+      "coconut": {
          "advisory": [
-            "Spray Ethion or Spiromesifen for mite control."
+            "Apply carbendazim 3%G to control red palm weevil infestation."
          ]
       },
-      "tuberose": {
+      "banana": {
          "advisory": [
-            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb for leaf blight control.",
-            "Apply carbendazim to control stem rot."
+            "To control sigatoka leaf spot, spray specified fungicides."
          ]
       },
-      "poultry": {
+      "pisciculture": {
          "advisory": [
-            "During winter, insulate poultry house and provide mineral and calcium supplements."
+            "Prevent 'EUS' (Epizootic ulcerative syndrome) by applying 'Cifax'.",
+            "Feed fishes daily as recommended."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

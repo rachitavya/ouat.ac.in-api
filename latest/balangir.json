@@ -1,49 +1,49 @@
 {
    "weather_details": {
-      "2022-10-01": {
+      "2022-01-01": {
          "rainfall": 5,
          "t_max": 30,
          "t_min": 20,
          "rh_max": 80,
-         "rh_min": 60,
+         "rh_min": 50,
          "wind_speed": 15,
          "wind_direction": 180,
          "cloud_cover": 4
       },
-      "2022-10-02": {
-         "rainfall": 8,
+      "2022-01-02": {
+         "rainfall": 3,
          "t_max": 28,
          "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 65,
+         "rh_max": 75,
+         "rh_min": 45,
          "wind_speed": 12,
-         "wind_direction": 220,
-         "cloud_cover": 5
+         "wind_direction": 200,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "wheat",
-      "corn",
-      "chicken"
+      "rice",
+      "maize"
    ],
-   "general_advisory": "It is recommended to irrigate the crops at specific intervals and provide proper ventilation for poultry.",
+   "general_advisory": "Sow wheat and rice during optimal weather conditions. Maize cultivation should be done with proper care.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Apply nitrogen-rich fertilizer during growth phase.",
-            "Harvest when grains are fully mature."
+            "Ensure adequate nitrogen supply for better growth",
+            "Monitor for pest infestations regularly"
          ]
       },
-      "corn": {
+      "rice": {
          "advisory": [
-            "Plant in well-drained soil for better root development.",
-            "Protect from pests during flowering stage."
+            "Maintain proper water management throughout the growth cycle",
+            "Keep an eye out for rice blast disease"
          ]
       },
-      "chicken": {
+      "maize": {
          "advisory": [
-            "Ensure clean water supply at all times.",
-            "Monitor for any signs of disease regularly."
+            "Plant in well-drained soil to avoid waterlogging issues",
+            "Apply balanced fertilizer for optimal yield"
          ]
       }
    },

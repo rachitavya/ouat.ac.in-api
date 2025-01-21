@@ -1,103 +1,109 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 12,
+         "t_min": 11,
          "rh_max": 85,
          "rh_min": 36,
          "wind_speed": 7,
          "wind_direction": 281,
-         "cloud_cover": 0
+         "cloud_cover": 4
       },
-      "12-01-2025": {
+      "19-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 13,
+         "t_min": 11,
          "rh_max": 83,
          "rh_min": 37,
          "wind_speed": 11,
          "wind_direction": 338,
-         "cloud_cover": 0
+         "cloud_cover": 2
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
+         "t_max": 28,
+         "t_min": 11,
          "rh_max": 74,
          "rh_min": 33,
          "wind_speed": 7,
          "wind_direction": 10,
-         "cloud_cover": 0
+         "cloud_cover": 4
       },
-      "14-01-2025": {
+      "21-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 74,
-         "rh_min": 33,
-         "wind_speed": 3,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 7,
+         "wind_direction": 281,
+         "cloud_cover": 4
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
          "wind_direction": 338,
-         "cloud_cover": 0
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "groundnut",
-      "tomato",
-      "onion",
-      "chilli",
-      "tuberose",
-      "poultry"
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
    ],
-   "general_advisory": "Dry weather may prevail with partly cloudy skies. Maintain optimal conditions for nursery sowing and early growth of crops. Proper pest surveillance and control measures are advised.",
+   "general_advisory": "Farmers are advised to prepare nursery bed and treat the paddy seeds. Mulch vegetable seedling to avoid cold injury. Provide light irrigation to standing vegetables and crops. Use pre-emergence herbicides. Various crop-specific advisories are provided for different stages.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply Cartap Hydrochloride or Chlorantraniliprole for gall midge, stem borer, caseworm, leaf folder, and root knot nematode management."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Select resistant varieties like CO-7219, CO-8371, etc. for red rot disease prevention.",
-            "Soak setts in a solution containing carbendazim, chlorpyriphos, and urea before planting."
+            "Farmers should apply DAP, MOP, and Urea during last puddling for transplanting.",
+            "Seedlings should be transplanted at a specific spacing for high yielding varieties."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Spray Neem Based Pesticide or Profenophos for leaf miner control."
+            "Infestations like White Grab and Stem rot can be controlled by specific treatments."
          ]
       },
-      "tomato": {
+      "sugarcane": {
          "advisory": [
-            "Use yellow sticky traps for Whitefly control in Tomato.",
-            "Spray neem-based pesticide or Thiamethoxam for pest control."
+            "Specific fertilizers should be applied at planting and during top dressing to ensure proper growth."
          ]
       },
-      "onion": {
+      "cowpea": {
          "advisory": [
-            "Apply compost, DAP, Murate of Potash, urea, and sulphur before transplanting in the main field."
+            "To control hairy caterpillar, specific sprays are recommended."
          ]
       },
-      "chilli": {
+      "cole crops": {
          "advisory": [
-            "Spray Ethion, Spiromesifen, or Propargite for mite control."
+            "Management advice for Dimond Back Moth and Head Borer infestations."
          ]
       },
-      "tuberose": {
+      "coconut": {
          "advisory": [
-            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb for leaf blight control.",
-            "Apply carbendazim for stem rot control.",
-            "Use carbofuran to control root knot nematode."
+            "To control red palm weevil infestation, apply specific treatment."
          ]
       },
-      "poultry": {
+      "banana": {
          "advisory": [
-            "Insulate poultry house against cold wind during winter.",
-            "Provide mineral and calcium to laying birds."
+            "Spray specific pesticides to control sigatoka leaf spot."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Preventive measures for EUS (Epizootic ulcerative syndrome) in winter."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

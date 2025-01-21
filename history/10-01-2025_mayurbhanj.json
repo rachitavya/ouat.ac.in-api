@@ -1,0 +1,162 @@
+{
+   "weather_details": {
+      "2025-01-11": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 2
+      },
+      "2025-01-12": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 3
+      },
+      "2025-01-13": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 67,
+         "rh_min": 27,
+         "wind_speed": 5,
+         "wind_direction": 352,
+         "cloud_cover": 3
+      },
+      "2025-01-14": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 2
+      },
+      "2025-01-15": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sunflower",
+      "blackgram and greengram",
+      "mustard",
+      "groundnut",
+      "red gram",
+      "chilli",
+      "cauliflower",
+      "cabbage",
+      "brinjal",
+      "tomato",
+      "onion",
+      "potato",
+      "livestock",
+      "goat",
+      "poultry",
+      "fisheries"
+   ],
+   "general_advisory": "As per extended range of forecast, dry weather very likely to prevail over the districts of Odisha. Farmers are advised to continue harvesting of matured crops, apply plant protection chemicals, and undertake necessary intercultural operations.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Post Harvest Care: Fumigate stored grain insect pest with Aluminium phosphide. Use good quality paddy seed varieties for dry season planting."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Apply Urea and MOP as top dressing. Use Acetamiprid or Imidacloprid for sucking pest control. Use wettable sulphur for powdery mildew."
+         ]
+      },
+      "blackgram and greengram": {
+         "advisory": [
+            "Select YMV disease resistant varieties. Treat seeds with Imidacloprid before sowing. Use yellow sticky traps for whitefly. Manage whitefly infestation with neem based pesticides or chemical sprays."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Watch for aphid infestation. Use yellow sticky traps. Manage aphids with neem based pesticides or chemical sprays."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spray Neem Based Pesticide for aphids and thrips. Apply pre-emergence herbicide. Treat seeds for disease prevention."
+         ]
+      },
+      "red gram": {
+         "advisory": [
+            "Harvest when pods turn brown. Sun dry harvested seeds. Prevent storage pests with edible oil and camphor tablets."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control aphids and thrips with neem based pesticides or chemical sprays."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Prevent Browning or Brown rot with Borax soil application."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Manage Dimond Back Moth infestation with light traps and neem based pesticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control whitefly with yellow sticky traps and neem based pesticides or chemical sprays. Manage shoot and fruit borer with plant removal and pheromone traps."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Manage fruit borer by collecting affected fruits and using pheromone traps. Use insecticides for control."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Drench nursery bed to prevent Damping off disease. Plant seedlings in main field after 8 weeks."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Hoe and weed potato crop. Apply N fertilizer. Manage Leaf Blight disease with appropriate sprays."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide proper shelter with ventilation for livestock. Increase feed in winter. Vaccinate animals if needed."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Vaccinate against PPR disease. Provide proper care and feed to reduce mortality."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Increase feeders in winter. Provide continuous access to water. Install heaters in poultry shed."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Prevent 'EUS' disease with Cifax application. Feed fish daily with oil cake bran mixture."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

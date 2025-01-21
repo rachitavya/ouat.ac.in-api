@@ -1,49 +1,49 @@
 {
    "weather_details": {
-      "2025-01-11": {
+      "2025-01-18": {
          "rainfall": 0,
-         "t_max": 28,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 3
+      },
+      "2025-01-19": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 2
+      },
+      "2025-01-20": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 67,
+         "rh_min": 27,
+         "wind_speed": 5,
+         "wind_direction": 352,
+         "cloud_cover": 2
+      },
+      "2025-01-21": {
+         "rainfall": 0,
+         "t_max": 27,
          "t_min": 14,
          "rh_max": 73,
          "rh_min": 28,
          "wind_speed": 3,
          "wind_direction": 0,
-         "cloud_cover": 2
-      },
-      "2025-01-12": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 70,
-         "rh_min": 29,
-         "wind_speed": 4,
-         "wind_direction": 334,
          "cloud_cover": 3
       },
-      "2025-01-13": {
+      "2025-01-22": {
          "rainfall": 0,
          "t_max": 27,
-         "t_min": 16,
-         "rh_max": 67,
-         "rh_min": 27,
-         "wind_speed": 5,
-         "wind_direction": 352,
-         "cloud_cover": 3
-      },
-      "2025-01-14": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 73,
-         "rh_min": 28,
-         "wind_speed": 3,
-         "wind_direction": 0,
-         "cloud_cover": 2
-      },
-      "2025-01-15": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
+         "t_min": 14,
          "rh_max": 70,
          "rh_min": 29,
          "wind_speed": 4,
@@ -54,7 +54,8 @@
    "names_of_crops": [
       "rice",
       "sunflower",
-      "blackgram and greengram",
+      "blackgram",
+      "greengram",
       "mustard",
       "groundnut",
       "red gram",
@@ -64,99 +65,80 @@
       "brinjal",
       "tomato",
       "onion",
-      "potato",
-      "livestock",
-      "goat",
-      "poultry",
-      "fisheries"
+      "potato"
    ],
-   "general_advisory": "As per extended range of forecast, dry weather very likely to prevail over the districts of Odisha. Farmers are advised to continue harvesting of matured crops, apply plant protection chemicals, and undertake necessary intercultural operations.",
+   "general_advisory": "Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Post Harvest Care: Fumigate stored grain insect pest with Aluminium phosphide. Use good quality paddy seed varieties for dry season planting."
+            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 11, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season. Seed rate for an acre of land is 20 kg for these varieties. Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3-gram/1 kg of seeds before sowing in the nursery."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Apply Urea and MOP as top dressing. Use Acetamiprid or Imidacloprid for sucking pest control. Use wettable sulphur for powdery mildew."
+            "Apply half dose of Urea + half dose of MOP as 2nd top dressing at second irrigation. Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended. Spray 0.2% wettable sulphur @ 2g/ltr of water for powdery mildew."
          ]
       },
-      "blackgram and greengram": {
+      "blackgram": {
          "advisory": [
-            "Select YMV disease resistant varieties. Treat seeds with Imidacloprid before sowing. Use yellow sticky traps for whitefly. Manage whitefly infestation with neem based pesticides or chemical sprays."
+            "Select YMV disease resistant varieties like PDM 139, PDM 11. To prevent whitefly infestation seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install yellow sticky traps starting from 2-3 leaf stage of the crop. Diseased plants should be rogued out to prevent further spread of the disease."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Select YMV disease resistant varieties like PDM 139, PDM 11. To prevent whitefly infestation seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install yellow sticky traps starting from 2-3 leaf stage of the crop. Diseased plants should be rogued out to prevent further spread of the disease."
          ]
       },
       "mustard": {
          "advisory": [
-            "Watch for aphid infestation. Use yellow sticky traps. Manage aphids with neem based pesticides or chemical sprays."
+            "There are chances of Aphid infestation in early sown mustard crop. To manage aphids at early stage, put yellow sticky traps per acre. Spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe than spray chemical pesticide Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50-gram/acre in 200-liter of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Spray Neem Based Pesticide for aphids and thrips. Apply pre-emergence herbicide. Treat seeds for disease prevention."
+            "To manage aphids, and thrips spray Neem Based Pesticide 300 PPM @ 1-litre/acre during primary stage of infestation. If the infestation is severe than spray Thiamethoxam 25% W.G @ 40-gram/acre or Imidacloprid 17.8% SL @ 50-ml/acre by mixing it in 200 liter of water. Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC @ 80ml/acre or Pendimethalin 30 % EC @ 1-litre/acre or at 1-2 DAS."
          ]
       },
       "red gram": {
          "advisory": [
-            "Harvest when pods turn brown. Sun dry harvested seeds. Prevent storage pests with edible oil and camphor tablets."
+            "Harvest the red gram crop when 70-80% Pods turn brown. Over maturity can cause shattering of seeds which results in lower yield. Harvested plants should be kept in threshing floor for sun drying for 3-6 days depending on season. After that threshing should be done by beating the pods with a stick. Clean harvested seeds should be dried under direct sunlight to bring the moisture content below 10-12% for safe storage. Dal processing should be done in composite mini dal mill."
          ]
       },
       "chilli": {
          "advisory": [
-            "Control aphids and thrips with neem based pesticides or chemical sprays."
+            "To control aphids and thrips in chilli during the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Spray Thiamethoxam 25% WG @ 40 g/acre or Acetamiprid 20% SP @ 50 g/acre or Profenophos 40% + Fenpyroximate 2.5% EC @ 400-ml/acre."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Prevent Browning or Brown rot with Borax soil application."
+            "Apply borax as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
          ]
       },
       "cabbage": {
          "advisory": [
-            "Manage Dimond Back Moth infestation with light traps and neem based pesticides."
+            "There are chances of infestation of Dimond Back Moth in early planted Cole crops. To manage this pest, install light traps per acre. During the primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-liter of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Control whitefly with yellow sticky traps and neem based pesticides or chemical sprays. Manage shoot and fruit borer with plant removal and pheromone traps."
+            "To manage whitefly in Brinjal and Tomato crop, use yellow sticky traps per acre to attract and kill the insects. During the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water."
          ]
       },
       "tomato": {
          "advisory": [
-            "Manage fruit borer by collecting affected fruits and using pheromone traps. Use insecticides for control."
+            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown-up larvae. Set up pheromone traps per acre. Go for spraying of insecticide if there are 10% fruits infested with the borer."
          ]
       },
       "onion": {
          "advisory": [
-            "Drench nursery bed to prevent Damping off disease. Plant seedlings in main field after 8 weeks."
+            "To prevent Damping off disease in the nursery, drench the nursery bed with Carbendazim @ 2 g/litre of water at 15 days interval. Seedlings of 8-weeks old are planted in the main field."
          ]
       },
       "potato": {
          "advisory": [
-            "Hoe and weed potato crop. Apply N fertilizer. Manage Leaf Blight disease with appropriate sprays."
-         ]
-      },
-      "livestock": {
-         "advisory": [
-            "Provide proper shelter with ventilation for livestock. Increase feed in winter. Vaccinate animals if needed."
-         ]
-      },
-      "goat": {
-         "advisory": [
-            "Vaccinate against PPR disease. Provide proper care and feed to reduce mortality."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Increase feeders in winter. Provide continuous access to water. Install heaters in poultry shed."
-         ]
-      },
-      "fisheries": {
-         "advisory": [
-            "Prevent 'EUS' disease with Cifax application. Feed fish daily with oil cake bran mixture."
+            "Early planted potato crop is at 3-week stage. Go for hoeing and weeding and apply the rest 30-45 Kg N/acre. For better tuber growth in potato, soil temperature below 30°C should be maintained. Therefore farmers are advised to irrigate the field. There are chances of Leaf Blight disease incidence in potato crop. To manage early leaf blight in potato, spray Mancozeb 75% WP @600 gram/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400-gram/acre. To manage late blight in potato spray Metalaxyl 8% + Mancozeb 64% W.P @ 40 =gram/acre at 10 days interval."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

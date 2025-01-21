@@ -1,0 +1,111 @@
+{
+   "weather_details": {
+      "04/01/2025": {
+         "rainfall": 0,
+         "t_max": 14,
+         "t_min": 4,
+         "rh_max": 87,
+         "rh_min": 37,
+         "wind_speed": 4,
+         "wind_direction": 280,
+         "cloud_cover": 0
+      },
+      "11/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 87,
+         "rh_min": 37,
+         "wind_speed": 4,
+         "wind_direction": 280,
+         "cloud_cover": 0
+      },
+      "12/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 87,
+         "rh_min": 36,
+         "wind_speed": 5,
+         "wind_direction": 330,
+         "cloud_cover": 0
+      },
+      "13/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 34,
+         "wind_speed": 4,
+         "wind_direction": 5,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "tomato",
+      "cucurbits",
+      "onion",
+      "chilli",
+      "tuberose",
+      "poultry"
+   ],
+   "general_advisory": "Dry weather may prevail over the district of Khordha for the next five days. Maintain saturated condition in the surface soil of nursery bed for proper establishment of rice seedlings. Take appropriate plant protection measures against pests and diseases. Use low cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply 800g Cartap Hydrochloride 4% G or 400g Chlorantraniliprole 0.4% G for 10 decimal nursery area 7 days before transplanting to manage pests."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in a solution to protect against diseases."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spray Neem Based Pesticide or Profenophos during infestation.",
+            "Control leaf miner by spraying appropriate pesticide."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps to attract and kill whitefly.",
+            "Spray neembased pesticide during pest infestation."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "To control downy mildew, spray Metalaxyl + Mancozeb or Fosetyl -AL."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Plant onion seedlings uniformly, and apply recommended nutrients.",
+            "Maintain proper spacing during transplanting."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray Ethion or Spiromesifen to control mites.",
+            "Use appropriate pesticide during infestation."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "Spray recommended chemicals to control leaf blight, stem rot, and nematode.",
+            "Apply specific pesticides for each pest."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house against cold wind during winter.",
+            "Provide mineral and calcium to laying birds as required."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

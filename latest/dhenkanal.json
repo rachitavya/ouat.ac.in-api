@@ -1,75 +1,122 @@
 {
    "weather_details": {
-      "10.01.2025": {
+      "18-01-2025": {
          "rainfall": 0,
-         "t_max": 25,
+         "t_max": 27,
          "t_min": 15,
-         "rh_max": 85,
-         "rh_min": 55,
-         "wind_speed": 10,
-         "wind_direction": 180,
-         "cloud_cover": 5
+         "rh_max": 87,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 315,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 325,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 76,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 351,
+         "cloud_cover": 2
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 325,
+         "cloud_cover": 3
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 81,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 325,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "mustard",
       "groundnut",
-      "chilli",
+      "cole crops",
       "tomato",
+      "potato",
       "brinjal",
       "onion",
-      "tuberose",
-      "animal husbandry",
-      "poultry"
+      "mango"
    ],
-   "general_advisory": "Ensure to minimize white grub infestation in groundnut, manage mites in chilli, control aphid in tomato, attract and kill white fly in brinjal, plant onion seedlings properly, and control leaf blight, stem rot, and root knot nematode in tuberose. Vaccinate animals against diseases and store fodder for winter months. Insulate poultry house during winter.",
+   "general_advisory": "In view of the decrease of minimum temperature, apply light irrigation to different standing crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. Transplanting of 25-30 days old paddy seedlings should be done at a spacing of 20x15 cm, plant 2 seedlings per hill for high-yielding varieties. To control bacterial blight in paddy, dip the seedling roots in 0.1% Plantomycin solution before transplanting for 30 minutes.",
    "crops_data": {
-      "groundnut": {
+      "paddy": {
          "advisory": [
-            "Drenching Chloropyriphos or Imidacloprid to minimize white grub infestation."
+            "Transplant 25-30 days old paddy seedlings at a spacing of 20x15 cm, plant 2 seedlings per hill for high-yielding varieties",
+            "Control bacterial blight in paddy by dipping the seedling roots in 0.1% Plantomycin solution before transplanting for 30 minutes"
          ]
       },
-      "chilli": {
+      "blackgram": {
          "advisory": [
-            "Spray Ethion, Spiromesifen, or Propargite to manage mites in chilli."
+            "To control powdery mildew disease, spray Sulphur 80% WP or Hexaconazole 5% E.C."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "To control white rust disease, spray Metalaxyl @2g/liter of water"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Minimize white grub infestation by drenching Chloropyriphous or Imidacloprid at the plant base"
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Manage tobacco caterpillar biologically using pheromone trap or install light trap",
+            "Chemical control: spray Chlorpyriphos + Cypermethrin or Lambda Cyhalothrin during the afternoon hours"
          ]
       },
       "tomato": {
          "advisory": [
-            "Spray neem oil formulation or Flonicam to control aphid in tomato."
+            "To control aphid, spray neem oil formulation or Flonicam"
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Spray Neem Based Pesticide or Thiamethoxam or Acetamiprid or Imidacloprid for controlling Aphids during primary stage of pest infestation"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Use yellow sticky traps to attract and kill white fly in brinjal.",
-            "Spray neem-based pesticide or chemical pesticides to control pests."
+            "Use yellow sticky traps to attract and kill White fly, spray neem-based pesticide or chemical control with Thiamethoxam, Pyriproxifen, or Spiromesifen"
          ]
       },
       "onion": {
          "advisory": [
-            "Plant onion seedlings properly in the main field."
+            "Transplant 8-weeks old onion seedlings, apply compost, DAP, Murate of Potash, urea, and sulfur before planting"
          ]
       },
-      "tuberose": {
+      "mango": {
          "advisory": [
-            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb to control leaf blight.",
-            "Apply carbendazim + mancozeb to control stem rot.",
-            "Spray carbofuran to control root knot nematode."
-         ]
-      },
-      "animal husbandry": {
-         "advisory": [
-            "Vaccinate animals against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia, etc.",
-            "Store/procure fodder for winter months.",
-            "Cut perennial grasses at this time."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Insulate poultry house against cold wind.",
-            "Ensure proper ventilation to avoid ammonia build up.",
-            "Feed mineral and calcium to laying birds."
+            "To control mango hopper, spray Imidacloprid or Carbendazim"
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

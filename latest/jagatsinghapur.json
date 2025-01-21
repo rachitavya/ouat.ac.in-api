@@ -1,84 +1,114 @@
 {
    "weather_details": {
-      "04/01/2025": {
+      "11/01/2025": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 16,
+         "t_max": 27,
+         "t_min": 15,
          "rh_max": 84,
          "rh_min": 39,
          "wind_speed": 5,
          "wind_direction": 297,
-         "cloud_cover": 5
+         "cloud_cover": 0
       },
-      "11/01/2025": {
+      "18/01/2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 0
+      },
+      "19/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 83,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "20/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 83,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "21/01/2025": {
          "rainfall": 0,
          "t_max": 27,
-         "t_min": 17,
-         "rh_max": 77,
-         "rh_min": 36,
-         "wind_speed": 10,
-         "wind_direction": 15,
-         "cloud_cover": 5
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "groundnut",
-      "tomato",
-      "cucurbits",
-      "onion",
-      "chilli",
-      "tuberose",
-      "poultry"
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
    ],
-   "general_advisory": "Dry weather with partly cloudy skies expected. Maintain soil moisture for rice seedlings, mulch vegetables, proper surveillance for pests and diseases, spray pesticides after 3 pm to protect honey bees.",
+   "general_advisory": "Farmers are advised to prepare nursery bed and treat the paddy seeds before sowing. Mulch vegetable seedlings and provide light irrigation to crops. Use herbicides for weed control and apply appropriate fertilizers for various crops.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply 800g Cartap Hydrochloride 4% or 400g Chlorantraniliprole 0.4% for nursery area before transplanting."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Plant resistant varieties to prevent red rot disease, soak setts in specified solution before planting."
+            "Basal Fertilizer Application: Apply DAP, MOP, and Urea per acre during last puddling. Transplant 25-30 days old seedlings at proper spacing for high yields."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Use Neem Based Pesticide or Profenophos/Chlorpyriphos for leaf miner control."
+            "White grab infestation: Minimize by drenching Chloropyriphous or Imidacloprid at the plant base.",
+            "Stem rot control: Drench soil with Validamycin or Captan + Hexaconazole."
          ]
       },
-      "tomato": {
+      "sugarcane": {
          "advisory": [
-            "Use yellow sticky traps and neem-based pesticide for Whitefly control."
+            "Planting stage: Apply DAP, MOP, and FYM at planting. Top dress with Urea at specified intervals. Avoid late Urea application.",
+            "N/A"
          ]
       },
-      "cucurbits": {
+      "cowpea": {
          "advisory": [
-            "Spray Metalaxyl + Mancozeb or Fosetyl-AL to control Downey mildew."
+            "Hairy caterpillar control: Spray flubendiamide or difenoconazole for control.",
+            "N/A"
          ]
       },
-      "onion": {
+      "cole crops": {
          "advisory": [
-            "Apply specified quantities of compost and fertilizers before transplanting seedlings."
+            "Dimond Back Moth and Head Borer management: Collect and destroy caterpillars. Apply Neem based pesticide or chemical sprays for pest control."
          ]
       },
-      "chilli": {
+      "coconut": {
          "advisory": [
-            "Spray Ethion or Spiromesifen for mite control."
+            "Red palm weevil infestation: Apply carbendazim in stem holes to control.",
+            "Rhinoceros beetle control: Clean and disinfect nearby compost yard."
          ]
       },
-      "tuberose": {
+      "banana": {
          "advisory": [
-            "Spray specified fungicides to control leaf blight, stem rot, and root knot nematode."
+            "Sigatoka leaf spot control: Spray carbendazim or chlorothalonil per litre of water.",
+            "N/A"
          ]
       },
-      "poultry": {
+      "pisciculture": {
          "advisory": [
-            "Insulate poultry house in winter, provide mineral and calcium to laying birds."
+            "EUS prevention: Apply 'Cifax' with water in pond area as preventive measure. Feed fishes with oil cake bran mixture daily.",
+            "N/A"
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

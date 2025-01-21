@@ -1,28 +1,28 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 12,
+         "t_min": 13,
          "rh_max": 84,
          "rh_min": 32,
          "wind_speed": 5,
          "wind_direction": 262,
          "cloud_cover": 2
       },
-      "12-01-2025": {
+      "19-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
+         "t_max": 28,
          "t_min": 13,
          "rh_max": 72,
          "rh_min": 31,
          "wind_speed": 6,
          "wind_direction": 346,
-         "cloud_cover": 2
+         "cloud_cover": 3
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
+         "t_max": 28,
          "t_min": 13,
          "rh_max": 66,
          "rh_min": 26,
@@ -30,20 +30,20 @@
          "wind_direction": 90,
          "cloud_cover": 3
       },
-      "14-01-2025": {
+      "21-01-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
+         "t_max": 28,
+         "t_min": 12,
          "rh_max": 84,
          "rh_min": 32,
          "wind_speed": 5,
          "wind_direction": 262,
-         "cloud_cover": 2
+         "cloud_cover": 3
       },
-      "15-01-2025": {
+      "22-01-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
+         "t_max": 29,
+         "t_min": 12,
          "rh_max": 72,
          "rh_min": 31,
          "wind_speed": 6,
@@ -56,14 +56,13 @@
       "kharif rice",
       "blackgram",
       "greengram",
-      "rapeseed",
-      "mustard",
-      "groundnut",
-      "vegetables",
-      "fruit",
-      "livestock"
+      "rapeseed and mustard",
+      "tomato",
+      "brinjal",
+      "banana",
+      "cattle"
    ],
-   "general_advisory": "After harvesting of paddy, it is ideal time for land preparation for sowing of pulses like green gram & black gram. To prevent damage from fog, low temperature, and moisture stress, provide light irrigation to standing crops & vegetables during morning hours.",
+   "general_advisory": "Weather condition is favourable for aphid attack and leaf spot incidence in mustard crop so its regular monitoring should be advised. To prevent damage from fog, low temperature and moisture stress, provide light irrigation to standing crops & vegetables during morning hours.",
    "crops_data": {
       "summer rice": {
          "advisory": [
@@ -81,56 +80,49 @@
          "advisory": [
             "After harvesting of paddy, it is ideal time for land preparation for sowing pulses like green gram, black gram.",
             "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
-            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days.",
-            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
-            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
-            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days. On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha. Spacing - 25cm * 10cm, Variety - Virat, Sikha"
          ]
       },
       "greengram": {
          "advisory": [
             "After harvesting of paddy, it is ideal time for land preparation for sowing pulses like green gram, black gram.",
             "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
-            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days.",
-            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
-            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
-            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days. On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha. Spacing - 25cm * 10cm, Variety - Virat, Sikha"
          ]
       },
-      "rapeseed": {
+      "rapeseed and mustard": {
          "advisory": [
-            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre.",
-            "Irrigate the field if soil moisture stress is observed."
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre. Irrigate the field if soil moisture stress is observed.",
+            "To manage leaf Webber, Aphid and Sawfly pests at early stage of infestation spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600-ml/acre by mixing in 200-litre of water. After 7-10 days need based spraying of Acephate @300g/acre is recommended."
          ]
       },
-      "mustard": {
+      "tomato": {
          "advisory": [
-            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre.",
-            "Irrigate the field if soil moisture stress is observed."
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
+            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thirps and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/l of water.",
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like brinjal, cole crops, chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/liter of water."
          ]
       },
-      "groundnut": {
+      "brinjal": {
          "advisory": [
-            "Spraying of Rhidomil M -Z @2g/li of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
+            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thrips and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/l of water.",
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like brinjal, cole crops, chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/liter of water."
          ]
       },
-      "vegetables": {
+      "banana": {
          "advisory": [
-            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/ liter of water.",
-            "Cauliflower: If tobacco caterpillar infestation in cauliflower observed, spray Azadiractin 5% W/W @ 0.5 ml/litre of water or Emamectin benzoate 5% SG @ 0.5 g/litre of water is recommended. To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75 % WP @ 600 -gram/acre or (carbendazim 12 % + Mancozeb 63 %) WP @ 400 - gram/acre by mixing in 200 -litre of water."
+            "Apply (Carbendazim + Mancozeb) @ 2g/liter of water to reduce the incidence of Sigatoka leaf spot disease in banana."
          ]
       },
-      "fruit": {
-         "advisory": [
-            "Banana - Apply (Carbendazim + Mancozeb) @ 2g/liter of water to reduce the incidence of Sigatoka leaf spot disease in banana."
-         ]
-      },
-      "livestock": {
+      "cattle": {
          "advisory": [
             "The large ventilation spaces in shed must be closed in night, as the night temperature is falling.",
             "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

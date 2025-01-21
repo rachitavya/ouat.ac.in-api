@@ -1,49 +1,49 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
+         "t_max": 26,
+         "t_min": 12,
          "rh_max": 65,
          "rh_min": 25,
          "wind_speed": 3,
          "wind_direction": 45,
-         "cloud_cover": 2
+         "cloud_cover": 3
       },
-      "12-01-2025": {
+      "19-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
+         "t_max": 26,
+         "t_min": 12,
          "rh_max": 58,
          "rh_min": 24,
          "wind_speed": 6,
          "wind_direction": 33,
          "cloud_cover": 2
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
+         "t_max": 27,
+         "t_min": 12,
          "rh_max": 63,
          "rh_min": 25,
          "wind_speed": 8,
          "wind_direction": 32,
          "cloud_cover": 3
       },
-      "14-01-2025": {
+      "21-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
+         "t_max": 27,
+         "t_min": 13,
          "rh_max": 58,
          "rh_min": 24,
          "wind_speed": 6,
          "wind_direction": 33,
          "cloud_cover": 2
       },
-      "15-01-2025": {
+      "22-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 16,
+         "t_min": 13,
          "rh_max": 63,
          "rh_min": 25,
          "wind_speed": 8,
@@ -52,38 +52,38 @@
       }
    },
    "names_of_crops": [
-      "kharif rice",
       "dry season rice",
       "mustard",
-      "fruit and vegetable crops"
+      "fruit and vegetable crops",
+      "livestock"
    ],
-   "general_advisory": "As per the extended range forecast (date:-09.01.2025) of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week -1 (10th to 16th January, 2025) and week -2 (17th to 23rd January, 2025) so farmers are advised to conduct irrigation and any kind of spraying operations during that period and also make provision to protect the crop as well as animal from cold. If possible, cover young fruit plants by using sarkanda grass, dry corn stalks, or gunny sacks to cover small plants, keep the southeast side open to allow sunlight and airflow and apply light irrigation in field to maintain soil temperature. Vaccination should be avoided in animals during foggy days and cold wave period.",
+   "general_advisory": "As per the extended range forecast of IMD, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha. Farmers are advised to protect crops and animals from cold, avoid vaccinating animals during foggy days and cold wave period, use appropriate methods to maintain soil temperature, and take necessary precautions against insect attacks.",
    "crops_data": {
-      "kharif rice": {
-         "advisory": [
-            "Stored grain pest management: After noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9g of tablets) in fairly airtight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of the plastic cover should be plastered with 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
-         ]
-      },
       "dry season rice": {
          "advisory": [
-            "For dry season transplanted rice cultivation, farmers should prepare the wet nursery seed beds in puddled soil of 120 cm wide, 10 cm height and convenient length with 30 cm gap in between two beds. About 320 m2 nursery areas are required for transplanting one-acre main field.",
-            "Seed treatment should be done with Carbendazim 50 WP @ 1.5 g/kg of Gramin Krishi Mausam Sewa India Meteorological Department or Trichoderma formulation @ 10 g of /kg of seed.",
-            "During cool winter days to protect the rice nursery from cold injury, apply a thin layer of well decomposed FYM after sowing of seeds in wet bed to keep the bed relatively warm. Preferably use bore well water for irrigation at evening and drain out the cold water at morning to maintain the soil temperature favorable for growth."
+            "To control weeds in nursery, spray Pyrazosulfuron-ethyl or Bispyribac sodium at recommended rates and intervals",
+            "Transplant 3-5 week old seedlings at proper spacing and apply basal dose of fertilizers"
          ]
       },
       "mustard": {
          "advisory": [
-            "One hoeing and weeding operation should be advised in case of 15 to 20 days old crop. In case of dense planting, one thinning operation is advised to maintain optimum plant population.",
-            "Prevailing weather condition is favorable for Aphid attack in mustard crop so regular monitoring against this insect should be advised."
+            "Monitor and control aphid attacks in mustard crop",
+            "Spray recommended insecticides under dry weather conditions"
          ]
       },
       "fruit and vegetable crops": {
          "advisory": [
-            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised.",
-            "Straw can be used as mulching material to maintain soil moisture as well as temperature in the field during winter season.",
-            "Harvesting of matured crops as well as one light irrigation in crops which are in the vegetative growth stage should be advised because dry weather is expected in the upcoming week."
+            "Manage mango mealy bug by wrapping polythene/alkathane sheet on mango trees",
+            "Use straw as mulching material and harvest matured crops with light irrigation",
+            "Carry out training and pruning of diseased branches"
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold winds by covering shelter, avoid damp areas and smoke exposure",
+            "Maintain body temperature of animals with proper feed and covering during cold hours"
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

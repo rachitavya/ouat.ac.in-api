@@ -1,0 +1,133 @@
+{
+   "weather_details": {
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 26,
+         "wind_speed": 4,
+         "wind_direction": 175,
+         "cloud_cover": 2
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 24,
+         "t_min": 14,
+         "rh_max": 66,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 3
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 24,
+         "t_min": 14,
+         "rh_max": 62,
+         "rh_min": 27,
+         "wind_speed": 2,
+         "wind_direction": 127,
+         "cloud_cover": 3
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 3
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "arhar",
+      "greengram/blackgram",
+      "groundnut",
+      "sunflower",
+      "onion",
+      "cauliflower & cabbage",
+      "tomato",
+      "chilli",
+      "cattle & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "General Advisory: Keep your crop field free from weed to minimize the incidence of diseases and pests. Apply balanced and appropriate fertilizers according to crop’s growth stage.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Complete the sowing of pre-germinated treated seeds in puddled soil by broadcasting or drum seeder."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Harvest when 2/3rd to 3/4th of the pods have changed to brown color."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL for weed management.",
+            "Spray Profenophos 50 EC for controlling leaf eating caterpillar."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Neem oil-based pesticide Azadiractin for pest management."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Need based spray of Acetamiprid 20% SP or Imidacloprid 17.8% SL for controlling sucking pest complex."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Irrigate the crop at a regular interval."
+         ]
+      },
+      "cauliflower & cabbage": {
+         "advisory": [
+            "Go for hoeing, weeding and apply urea + MOP at six-to-seven- week stage followed by irrigation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Complete hoeing, weeding and apply urea at six-week stage followed by irrigation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Install Blue Sticky Trap for thrips control and monitor pest population."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Increase the amount of concentrate in the feed gradually before two months prior to calving."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Prevent animals from chill wind and floor."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Prevent poultry birds from severe chill wind and cold floor."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

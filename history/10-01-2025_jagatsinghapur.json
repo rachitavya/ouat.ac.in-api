@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "04/01/2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 16,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 5
+      },
+      "11/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 77,
+         "rh_min": 36,
+         "wind_speed": 10,
+         "wind_direction": 15,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "tomato",
+      "cucurbits",
+      "onion",
+      "chilli",
+      "tuberose",
+      "poultry"
+   ],
+   "general_advisory": "Dry weather with partly cloudy skies expected. Maintain soil moisture for rice seedlings, mulch vegetables, proper surveillance for pests and diseases, spray pesticides after 3 pm to protect honey bees.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply 800g Cartap Hydrochloride 4% or 400g Chlorantraniliprole 0.4% for nursery area before transplanting."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Plant resistant varieties to prevent red rot disease, soak setts in specified solution before planting."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use Neem Based Pesticide or Profenophos/Chlorpyriphos for leaf miner control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps and neem-based pesticide for Whitefly control."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spray Metalaxyl + Mancozeb or Fosetyl-AL to control Downey mildew."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Apply specified quantities of compost and fertilizers before transplanting seedlings."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray Ethion or Spiromesifen for mite control."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "Spray specified fungicides to control leaf blight, stem rot, and root knot nematode."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house in winter, provide mineral and calcium to laying birds."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

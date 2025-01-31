@@ -1,0 +1,89 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 65,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 45,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 58,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 33,
+         "cloud_cover": 2
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 63,
+         "rh_min": 25,
+         "wind_speed": 8,
+         "wind_direction": 32,
+         "cloud_cover": 3
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 58,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 33,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 63,
+         "rh_min": 25,
+         "wind_speed": 8,
+         "wind_direction": 32,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha. Farmers are advised to protect crops and animals from cold, avoid vaccinating animals during foggy days and cold wave period, use appropriate methods to maintain soil temperature, and take necessary precautions against insect attacks.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "To control weeds in nursery, spray Pyrazosulfuron-ethyl or Bispyribac sodium at recommended rates and intervals",
+            "Transplant 3-5 week old seedlings at proper spacing and apply basal dose of fertilizers"
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Monitor and control aphid attacks in mustard crop",
+            "Spray recommended insecticides under dry weather conditions"
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Manage mango mealy bug by wrapping polythene/alkathane sheet on mango trees",
+            "Use straw as mulching material and harvest matured crops with light irrigation",
+            "Carry out training and pruning of diseased branches"
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold winds by covering shelter, avoid damp areas and smoke exposure",
+            "Maintain body temperature of animals with proper feed and covering during cold hours"
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

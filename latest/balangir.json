@@ -1,51 +1,51 @@
 {
    "weather_details": {
-      "2022-01-01": {
+      "2022-02-01": {
          "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
+         "t_max": 25,
+         "t_min": 15,
          "rh_max": 80,
-         "rh_min": 50,
+         "rh_min": 60,
          "wind_speed": 15,
          "wind_direction": 180,
          "cloud_cover": 4
       },
-      "2022-01-02": {
+      "2022-02-02": {
          "rainfall": 3,
-         "t_max": 28,
+         "t_max": 27,
          "t_min": 18,
-         "rh_max": 75,
-         "rh_min": 45,
+         "rh_max": 85,
+         "rh_min": 65,
          "wind_speed": 12,
          "wind_direction": 200,
          "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "wheat",
       "rice",
-      "maize"
+      "maize",
+      "wheat"
    ],
-   "general_advisory": "Sow wheat and rice during optimal weather conditions. Maize cultivation should be done with proper care.",
+   "general_advisory": "Sow rice and maize at recommended spacing. Monitor wheat for any signs of pests and diseases.",
    "crops_data": {
-      "wheat": {
-         "advisory": [
-            "Ensure adequate nitrogen supply for better growth",
-            "Monitor for pest infestations regularly"
-         ]
-      },
       "rice": {
          "advisory": [
-            "Maintain proper water management throughout the growth cycle",
-            "Keep an eye out for rice blast disease"
+            "Ensure proper irrigation for rice cultivation.",
+            "Monitor for any signs of diseases and pests."
          ]
       },
       "maize": {
          "advisory": [
-            "Plant in well-drained soil to avoid waterlogging issues",
-            "Apply balanced fertilizer for optimal yield"
+            "Prepare the soil well before planting maize seeds.",
+            "Use recommended fertilizers for optimal growth."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Monitor wheat crop for yellow rust and apply fungicides if necessary.",
+            "Harvest wheat when the moisture content is below 14%."
          ]
       }
    },
-   "date": "31-12-2024"
+   "date": "24-01-2025"
 }

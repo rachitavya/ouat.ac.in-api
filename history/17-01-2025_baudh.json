@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 11,
+         "rh_max": 72,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 187,
+         "cloud_cover": 2
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 11,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 11,
+         "rh_max": 62,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 3
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha. Farmers are advised to protect crops and animals from cold weather conditions.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP at specific intervals.",
+            "If seedling blight is noticed, appropriate fungicides should be applied.",
+            "Transplant seedlings at the recommended spacing with proper fertilization."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Regular monitoring against Aphids is recommended.",
+            "Use appropriate insecticides in case of insect infestation.",
+            "Avoid insecticide application at flowering stage."
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Implement management strategies for mango mealy bugs.",
+            "Utilize mulching materials for soil moisture and temperature maintenance.",
+            "Harvest mature crops and provide light irrigation as needed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Ensure animal shelter is well-covered during cold nights.",
+            "Provide additional bedding and shelter for weak/sick animals.",
+            "Avoid damp areas for animals and protect from smoke exposure.",
+            "Maintain body temperature of animals through proper feed and covering."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

@@ -1,119 +1,98 @@
 {
    "weather_details": {
-      "11/01/2025": {
+      "28/01/2025": {
          "rainfall": 0,
-         "t_max": 14,
-         "t_min": 4,
-         "rh_max": 87,
-         "rh_min": 36,
-         "wind_speed": 4,
-         "wind_direction": 280,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 48,
+         "wind_speed": 7,
+         "wind_direction": 209,
          "cloud_cover": 0
       },
-      "18/01/2025": {
+      "29/01/2025": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 11,
-         "rh_max": 87,
-         "rh_min": 37,
-         "wind_speed": 4,
-         "wind_direction": 280,
-         "cloud_cover": 0
-      },
-      "19/01/2025": {
-         "rainfall": 0,
-         "t_max": 25,
-         "t_min": 11,
-         "rh_max": 87,
-         "rh_min": 36,
-         "wind_speed": 5,
-         "wind_direction": 330,
-         "cloud_cover": 0
-      },
-      "20/01/2025": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 11,
-         "rh_max": 81,
-         "rh_min": 34,
-         "wind_speed": 4,
-         "wind_direction": 330,
-         "cloud_cover": 0
-      },
-      "21/01/2025": {
-         "rainfall": 0,
-         "t_max": 25,
-         "t_min": 11,
-         "rh_max": 87,
-         "rh_min": 37,
-         "wind_speed": 4,
-         "wind_direction": 280,
-         "cloud_cover": 0
-      },
-      "22/01/2025": {
-         "rainfall": 0,
-         "t_max": 25,
-         "t_min": 11,
-         "rh_max": 87,
-         "rh_min": 36,
-         "wind_speed": 5,
-         "wind_direction": 330,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 252,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
       "groundnut",
-      "sugarcane",
-      "cowpea",
+      "mustard",
+      "black gram",
+      "green gram",
+      "potato",
       "cole crops",
-      "coconut",
-      "banana",
+      "tomato",
+      "brinjal",
+      "rose",
       "pisciculture"
    ],
-   "general_advisory": "Farmers are advised to prepare nursery bed and treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery. Mulch vegetable seedling with straw or other mulching material to avoid cold injury. In view of prevailing low temperature, provide light irrigation to standing vegetables and crops. Maintain saturated condition in the surface soil of nursery bed by applying irrigation in furrow, for proper establishment and early growth of Rice seedlings. Use pre-emergence herbicides like Atrazine 50 % WP @ 800 gram/acre within 3 days after planting to control weeds in Sugarcane. Sunflower crop is at 25-30 days stage. Go for hoeing and weeding and thinning and apply N-fertilizer.",
+   "general_advisory": "As per the forecast received from IMD, dry weather may prevail. Farmers are advised to irrigate their field and follow specific crop-related advices mentioned below.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Basal Fertilizer Application: Farmers those who are going for transplanting should apply 35- kg DAP, 30-kg MOP and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP, 15 kg MOP and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+            "To manage stem borer in paddy, use Trichogrammajaponicum card weekly for 6 times.",
+            "Apply Cartap Hydrochloride or Chlorantraniliprole or Imidacloprid for stem borer management."
          ]
       },
       "groundnut": {
          "advisory": [
-            "White grab infestation in groundnut can be minimized by drenching Chloropyriphous @ 6ml/lit of water or Imidacloprid 30.5 sc@1ml/lit of water at the plant base.",
-            "To control stem rot in groundnut drench soil with Validamycin 3% L @ 400-ml/acre or Captan 70 % + Hexaconazole 5 % WP@ 300-gram/acre."
+            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
          ]
       },
-      "sugarcane": {
+      "mustard": {
          "advisory": [
-            "Sugarcane crop is a heavy feeder. Apply 87-kg of DAP, 20-kg of MOP and 4- tonne of FYM at the time of planting in trenches. Top dressing with Urea @ 60-kg per acre each at 45, 75 and 105 days after planting should be done. Apply the rest 20-kg of MOP at the time of the third top dressing with Urea. Do not top apply Urea after 120 days after planting as late application delayed maturity, reduces sucrose content and the total cane yield."
+            "For pest infestation, spray Neem Based Pesticide or chemical sprays like Thiamethoxam or Acetamiprid or Imidacloprid."
          ]
       },
-      "cowpea": {
+      "black gram": {
          "advisory": [
-            "To control from hairy caterpillar, spray flubendiamide 39.35%SC @ 80 ml /200 liter of water. If cercospora leaf spot is seen then spray difenoconazole 25%EC @ 200 ml or carbendazim 12% + mancozeb 63%WP 400gm/200 lit water per acre."
+            "To manage powdery mildew, spray Sulphur or Hexaconazole or Propiconazole or Penconazole."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew, same methods as black gram."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "For Early Blight management, spray Mancozeb or Carbendazim.",
+            "For late blight, spray Metalaxyl + Mancozeb at 10 days interval."
          ]
       },
       "cole crops": {
          "advisory": [
-            "There are chances of infestation of Dimond Back Moth and Head Borer in Cauliflower and Cabbage crops. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Spray Neem based Pesticide (Azadirachtin) 300 PPM @ 1-litre /acre by mixing in 200-litre of water. To manage these pests chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200- litre of water."
+            "Favourable for Diamond Back Moth and Head Borer, collect caterpillars and egg masses, spray Neem based Pesticide or chemical sprays."
          ]
       },
-      "coconut": {
+      "tomato": {
          "advisory": [
-            "To control from the infestation of red palm weevil, apply carbendazim 3%G + Sand 1:1 ratio in the hole of the stem and plug the hole. To control from rhinoceros beetle clean the nearby compost yard of the coconut garden and disinfect it by applying 1.5% chlorpyrifos dust."
+            "Control Aphid infestation by spraying neem oil formulation or Flonicam."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "To control sigatoka leaf spot spray 2gm carbendazim 12% + mancozeb 63%WP or chlorothalonil 75%WP per litre of water."
+            "To manage Epilachna Beetle, shake plants, destroy grubs and pupae, spray neem-based pesticide or Chlorpyriphos or Profenophos."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips, spray Fenpyroximate or Abamactin."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "There is a possibility of “EUS” (Epizootic ulcerative syndrome) in winter. Farmers are advised to apply 'Cifax' @ 400 ml with 40lt of water in one-acre pond area as a preventive measure. Fishes should be fed daily oil cake bran mixture @ 2-3% of their biomass."
+            "Maintain water depth for hibernating of fish in warmer bottom zone."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

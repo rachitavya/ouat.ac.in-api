@@ -1,0 +1,157 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 8,
+         "rh_max": 88,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 301,
+         "cloud_cover": 2
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 86,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 8,
+         "rh_max": 82,
+         "rh_min": 36,
+         "wind_speed": 2,
+         "wind_direction": 11,
+         "cloud_cover": 2
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 9,
+         "rh_max": 86,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 86,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "sunflower",
+      "mustard",
+      "chilli",
+      "cauliflower",
+      "cabbage",
+      "tomato",
+      "brinjal",
+      "potato",
+      "cattle",
+      "goat",
+      "chicken",
+      "fish"
+   ],
+   "general_advisory": "In view of prevailing low temperature, provide light irrigation to standing vegetables and crops during morning hours. Farmers are advised to prepare nursery bed and treat the paddy seeds with Carbendazim 50% W.P @ 2 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery. Spraying of pesticides to be done after 3 pm to protect the honey bee. Mulch vegetable seedling with straw or other mulching material to avoid cold injury.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR - 43, DRR -44, Bina 11, GB -1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season.",
+            "Seed rate for an acre of land is 20 kg for these varieties.",
+            "Treat the seeds with Carbendazim 50% W.P @ 2-gram/1 -kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 - gram /1 kg of seeds before sowing in the nursery."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Apply Quizalfop -ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20 -25 DAS."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Apply half dose of Urea (Inbred - 6kg/ac, Hybrid - 12kg/ac) + half dose of MOP (Inbred - 10 kg/ac, Hybrid - 20 kg/ac) as 2nd top dressing at second irrigation.",
+            "Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favours the development of sucking pests."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "There are chances of Aphid infestation in early sown mustard crop.",
+            "To manage aphids at early stage, put 8 number of yellow sticky traps per acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem -based pesticide 1500 PPM @ 600-ml/acre by mixing in 200 -litre of water."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply borax @ 4 -kg/ acre as soil application during transplanting in Cole crops to prevent Brown rot.",
+            "If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5 -gram/litre or Folibor /Solubor @ 1.5 gram/litre."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "There are chances of infestation of Dimond Back Moth in early planted Cole crops.",
+            "To manage this pest, install 6 -8 nos of light traps per acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown up larvae.",
+            "Set up 20 nos. of pheromone trap having Helilure per acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds.",
+            "To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Early planted potato crop is at week stage.",
+            "Go for hoeing and weeding and apply the rest 30 -45 Kg N/acre."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Provide proper shelter to the animals with proper ventilation facilities.",
+            "Floor should be clean, dry and bedding with straw which act as insulation and prevention of heat loss."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "PPR disease also known as ‘Goat Plague’ is common during winter.",
+            "Vaccinate the animals."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "In winter number of feeders should be increased.",
+            "During winter season birds take less water so for maintenance of water in the body, it is necessary to give continuous supply of fresh water."
+         ]
+      },
+      "fish": {
+         "advisory": [
+            "During winters, there is a possibility of “EUS” disease in fish.",
+            "Farmers are advised to apply Cifax @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 23,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 21,
+         "rh_min": 15,
+         "wind_speed": 4,
+         "wind_direction": 323,
+         "cloud_cover": 2
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 22,
+         "rh_min": 15,
+         "wind_speed": 5,
+         "wind_direction": 53,
+         "cloud_cover": 2
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 21,
+         "rh_min": 21,
+         "wind_speed": 4,
+         "wind_direction": 118,
+         "cloud_cover": 3
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 22,
+         "rh_min": 22,
+         "wind_speed": 5,
+         "wind_direction": 100,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha. Farmers are advised to protect the crop and animal from cold conditions. Vaccination should be avoided in animals during foggy days and cold wave period.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP at 80g/acre at 3-5 days after sowing or Bispyribac sodium at 120ml/acre at 10-12 DAS",
+            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil, spacing of 15cm x 15cm, 3-4 seedlings per hill, shallow depth, apply DAP + MOP or Urea + SSP + MOP as basal dose during final puddling"
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Prevalent weather conditions are favorable for Aphid attack in mustard, regular monitoring against this insect is advised",
+            "At present, attack of Aphid is noticed in some fields, spraying of Acetamiprid or Imidachloprid should be advised under dry weather condition"
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug",
+            "Training and pruning of diseased and unwanted branches and leaves should be advised",
+            "Straw can be used as mulching material to maintain soil moisture and temperature during winter season",
+            "Harvesting of matured crops and one light irrigation in crops in vegetative growth stage should be advised"
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover animal shelter from all sides during the night to avoid direct exposure to cold winds, use dry straw as animal bedding",
+            "Weak and sick animals should be covered with sack cloth to protect them from cold, keep all animals in a covered shelter during the night",
+            "Avoid keeping animals in a damp area, protect them from smoke to prevent pneumonia, feed animals with a mixture of oil cakes and jiggery, pregnant animals should be given additional feed"
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

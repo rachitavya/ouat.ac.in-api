@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "11/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 0
+      },
+      "18/01/2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 0
+      },
+      "19/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 83,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "20/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 83,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "21/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to prepare nursery bed and treat the paddy seeds before sowing. Mulch vegetable seedlings and provide light irrigation to crops. Use herbicides for weed control and apply appropriate fertilizers for various crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Basal Fertilizer Application: Apply DAP, MOP, and Urea per acre during last puddling. Transplant 25-30 days old seedlings at proper spacing for high yields."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "White grab infestation: Minimize by drenching Chloropyriphous or Imidacloprid at the plant base.",
+            "Stem rot control: Drench soil with Validamycin or Captan + Hexaconazole."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Planting stage: Apply DAP, MOP, and FYM at planting. Top dress with Urea at specified intervals. Avoid late Urea application.",
+            "N/A"
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Hairy caterpillar control: Spray flubendiamide or difenoconazole for control.",
+            "N/A"
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Dimond Back Moth and Head Borer management: Collect and destroy caterpillars. Apply Neem based pesticide or chemical sprays for pest control."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Red palm weevil infestation: Apply carbendazim in stem holes to control.",
+            "Rhinoceros beetle control: Clean and disinfect nearby compost yard."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Sigatoka leaf spot control: Spray carbendazim or chlorothalonil per litre of water.",
+            "N/A"
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "EUS prevention: Apply 'Cifax' with water in pond area as preventive measure. Feed fishes with oil cake bran mixture daily.",
+            "N/A"
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

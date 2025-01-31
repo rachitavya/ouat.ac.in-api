@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 7,
+         "wind_direction": 281,
+         "cloud_cover": 4
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 338,
+         "cloud_cover": 2
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 74,
+         "rh_min": 33,
+         "wind_speed": 7,
+         "wind_direction": 10,
+         "cloud_cover": 4
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 7,
+         "wind_direction": 281,
+         "cloud_cover": 4
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 338,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to prepare nursery bed and treat the paddy seeds. Mulch vegetable seedling to avoid cold injury. Provide light irrigation to standing vegetables and crops. Use pre-emergence herbicides. Various crop-specific advisories are provided for different stages.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Farmers should apply DAP, MOP, and Urea during last puddling for transplanting.",
+            "Seedlings should be transplanted at a specific spacing for high yielding varieties."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Infestations like White Grab and Stem rot can be controlled by specific treatments."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Specific fertilizers should be applied at planting and during top dressing to ensure proper growth."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "To control hairy caterpillar, specific sprays are recommended."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Management advice for Dimond Back Moth and Head Borer infestations."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "To control red palm weevil infestation, apply specific treatment."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Spray specific pesticides to control sigatoka leaf spot."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Preventive measures for EUS (Epizootic ulcerative syndrome) in winter."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

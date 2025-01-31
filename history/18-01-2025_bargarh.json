@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 59,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 346,
+         "cloud_cover": 2
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 2
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 58,
+         "rh_min": 25,
+         "wind_speed": 4,
+         "wind_direction": 10,
+         "cloud_cover": 3
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 3
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 58,
+         "rh_min": 25,
+         "wind_speed": 4,
+         "wind_direction": 10,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "Dry weather along with normal to below normal minimum temperature is expected. Farmers are advised to protect crops and animals from cold conditions.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "To control weeds in the nursery, spray Pyrazosulfuron-ethyl 10% WP or Bispyribac sodium.",
+            "Transplant 3-5 week old seedlings in well-puddled soil.",
+            "Monitor and control Aphid attack in mustard."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Spray Acetamiprid or Imidachloprid against Aphid attack.",
+            "Avoid insecticide application at initial flowering stage."
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet on mango trees to manage mealy bug.",
+            "Use straw as mulching material to maintain soil moisture and temperature.",
+            "Harvest matured crops and provide light irrigation.",
+            "Train and prune diseased branches and leaves."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover animal shelter from cold winds during night.",
+            "Feed animals with oil cakes and jiggery to maintain body temperature.",
+            "Avoid keeping animals in damp areas.",
+            "Cover weak and sick animals with cloth.",
+            "Provide additional feed to pregnant animals."
+         ]
+      }
+   },
+   "date": "18-01-2025"
+}

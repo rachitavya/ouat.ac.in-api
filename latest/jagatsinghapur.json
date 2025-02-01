@@ -1,102 +1,108 @@
 {
    "weather_details": {
-      "18/01/2025": {
+      "25/01/2025": {
          "rainfall": 0,
-         "t_max": 29,
+         "t_max": 28,
          "t_min": 0,
-         "rh_max": 87,
-         "rh_min": 46,
-         "wind_speed": 4,
-         "wind_direction": 236,
+         "rh_max": 91,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 219,
          "cloud_cover": 0
       },
-      "24/01/2025": {
+      "01/02/2025": {
          "rainfall": 0,
-         "t_max": 19,
-         "t_min": 0,
-         "rh_max": 94,
-         "rh_min": 53,
-         "wind_speed": 9,
-         "wind_direction": 212,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 219,
+         "cloud_cover": 0
+      },
+      "05/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 92,
+         "rh_min": 44,
+         "wind_speed": 3,
+         "wind_direction": 264,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "mustard",
-      "groundnut",
-      "cotton",
-      "sugarcane",
       "paddy",
-      "onion",
+      "groundnut",
+      "sugarcane",
       "black gram",
+      "green gram",
       "potato",
-      "cole crops",
+      "chilli",
       "tomato",
-      "brinjal",
-      "rose"
+      "onion",
+      "rose",
+      "pisciculture"
    ],
-   "general_advisory": "Farmers are advised to irrigate their fields as there is a mild dry condition prevailing. Different crops require specific treatments to manage diseases and pests. Specific advice is provided for each crop mentioned in the advisory.",
+   "general_advisory": "Farmers are advised to maintain standing water levels, irrigate fields, manage foot rot disease in paddy, apply necessary fertilizers and insecticides, and use pre-emergence herbicides for weed control.",
    "crops_data": {
-      "mustard": {
+      "paddy": {
          "advisory": [
-            "Now there are chances of Aphid and Painted Bug infestation in mustard crop. Spray Neem Based Pesticide (Azadirachtin) 1500 PPM to manage primary infestation."
+            "To manage stem borer, use Trichogramma japonicum card at weekly intervals.",
+            "Apply appropriate insecticides as mentioned."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage stem rot in groundnut, drench soil with Validamycin 3% L at recommended rate."
-         ]
-      },
-      "cotton": {
-         "advisory": [
-            "Cotton crop picking is almost completed."
+            "To manage stem rot, drench soil with Validamycin 3% L or Captan 70% + Hexaconazole 5% WP."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "For ratooning in sugarcane, green manure crops like Dhaincha, Sunhemp, and Cowpea can be grown between two rows."
-         ]
-      },
-      "paddy": {
-         "advisory": [
-            "To manage stem borer in paddy, use Trichogrammajaponicum card at weekly intervals. Apply recommended insecticides for effective pest control."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "In onion crop, go for interculture and hand weeding at recommended intervals. Apply fertilizers as per recommendations."
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in specified solution for planting."
          ]
       },
       "black gram": {
          "advisory": [
-            "To manage powdery mildew disease in Blackgram and Greengram crop, spray recommended fungicides at specified rates."
+            "To manage powdery mildew disease, spray recommended fungicides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew disease, spray recommended fungicides."
          ]
       },
       "potato": {
          "advisory": [
-            "To manage early blight and late blight in potatoes, spray recommended fungicides at specified intervals."
+            "To control cut worm, spray recommended insecticides."
          ]
       },
-      "cole crops": {
+      "chilli": {
          "advisory": [
-            "Present weather condition is favorable for infestation of Diamond Back Moth and Head Borer in late sown Cauliflower and Cabbage crops. Take necessary control measures as advised."
+            "To control mites, spray recommended insecticides."
          ]
       },
       "tomato": {
          "advisory": [
-            "Prevailing fog condition may increase Aphid infestation in tomatoes. Control measures with recommended sprays."
+            "To control aphids, spray neem oil formulation or Flonicam."
          ]
       },
-      "brinjal": {
+      "onion": {
          "advisory": [
-            "To manage Epilachna Beetle in brinjal plants, follow the recommended management practices."
+            "To manage diseases, spray recommended fungicides at specified intervals."
          ]
       },
       "rose": {
          "advisory": [
-            "To control thrips in rose, spray recommended insecticides as specified."
+            "To control black spot disease, spray Copper Oxy-chloride."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for fish hibernating."
          ]
       }
    },
-   "date": "28-01-2025"
+   "date": "31-01-2025"
 }

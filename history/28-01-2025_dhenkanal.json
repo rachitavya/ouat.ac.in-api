@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "28.01.2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 92,
+         "rh_min": 45,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sugarcane",
+      "cabbage",
+      "cauliflower",
+      "tomato",
+      "potato",
+      "brinjal",
+      "poultry"
+   ],
+   "general_advisory": "Weather conditions are suitable for the infestation of pests in crops. Ensure proper pest control measures and follow recommended practices for better agricultural yields.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Chlorothalonil 75% WP (Ishaan/ Kavach) @ 400-gram/ acre for Tikka disease control"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Apply 87kg of DAP, 20kg of MOP and 4-ton of FYM at the time of planting in trenches"
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Collect and destroy caterpillars and egg masses for Dimond Back Moth and Head Borer control",
+            "Spray Neem based Pesticide (Azadirachtin) 300 PPM @ 1-litre/acre"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Collect and destroy caterpillars and egg masses for Dimond Back Moth and Head Borer control",
+            "Spray Neem based Pesticide (Azadirachtin) 300 PPM @ 1-litre/acre"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use neem oil formulation for aphid control",
+            "Prevailing fog condition may increase the infestation of aphids"
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Spray Mancozeb 75% WP @600 g/acre for Early Blight disease control"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Shake plants to dislodge grubs, pupae, and adults for Epilachna Beetle control",
+            "Spray neem-based pesticide (Azadirachtin) 1500 PPM @ 3-ml/litre of water"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate the chicks with Lasota at 7 days and with IBD vaccines within 13-15 days for Sleeping disease control"
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

@@ -1,0 +1,74 @@
+{
+   "weather_details": {
+      "2025-01-25": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 24,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-01-26": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 68,
+         "rh_min": 26,
+         "wind_speed": 2,
+         "wind_direction": 334,
+         "cloud_cover": 1
+      },
+      "2025-01-27": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 19,
+         "wind_speed": 2,
+         "wind_direction": 14,
+         "cloud_cover": 2
+      },
+      "2025-01-28": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 21,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-01-29": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 91,
+         "rh_min": 17,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "ଟମାଟୋ",
+      "କଳା ଚଣା"
+   ],
+   "general_advisory": "ଗୋରୁମାନଙ୍କୁ ଓଦା କିମ୍ବା ପାଣିରେ ଭିଜାଇ ରଖିଥିବା ନଡ଼ିଆ ଖାଇବାକୁ ଦିଅନ୍ତୁ ନାହିଁ।",
+   "crops_data": {
+      "tomato": {
+         "advisory": [
+            "ଟମାଟୋରେ ତରଳିବାର କିମ୍ବା ଆଂଶିକ ତରଳିବାର ଦେଖିବାକୁ ମିଳିଛି।",
+            "ଟମାଟୋରେ ଶୁଖିଲା କିମ୍ବା ଆଂଶିକ ଶୁଖିଲା ନହେବା ପାଇଁ ନିମ୍ କିମ୍ବା କରଞ୍ଜା କେକ୍ ଲଗାନ୍ତୁ |"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "କଳା ଚାଉଳରେ ପାଉଡର ଫଙ୍ଗୁର ରୋଗ ପରିଲକ୍ଷିତ ହୋଇଛି।",
+            "ପାଉଡର ଫଙ୍ଗୁରିକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ଏକର ପିଛା 200 ଲିଟର ପାଣିରେ 800 ଗ୍ରାମ ହାରରେ 80 ଡବ୍ଲ୍ୟୁ. ପି. ସଲଫର୍ ସ୍ପ୍ରେ କରନ୍ତୁ।"
+         ]
+      }
+   },
+   "date": "24-01-2025"
+}

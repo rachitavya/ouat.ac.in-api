@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "18/01/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 0,
+         "rh_max": 87,
+         "rh_min": 46,
+         "wind_speed": 4,
+         "wind_direction": 236,
+         "cloud_cover": 0
+      },
+      "24/01/2025": {
+         "rainfall": 0,
+         "t_max": 19,
+         "t_min": 0,
+         "rh_max": 94,
+         "rh_min": 53,
+         "wind_speed": 9,
+         "wind_direction": 212,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "groundnut",
+      "cotton",
+      "sugarcane",
+      "paddy",
+      "onion",
+      "black gram",
+      "potato",
+      "cole crops",
+      "tomato",
+      "brinjal",
+      "rose"
+   ],
+   "general_advisory": "Farmers are advised to irrigate their fields as there is a mild dry condition prevailing. Different crops require specific treatments to manage diseases and pests. Specific advice is provided for each crop mentioned in the advisory.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "Now there are chances of Aphid and Painted Bug infestation in mustard crop. Spray Neem Based Pesticide (Azadirachtin) 1500 PPM to manage primary infestation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot in groundnut, drench soil with Validamycin 3% L at recommended rate."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Cotton crop picking is almost completed."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "For ratooning in sugarcane, green manure crops like Dhaincha, Sunhemp, and Cowpea can be grown between two rows."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "To manage stem borer in paddy, use Trichogrammajaponicum card at weekly intervals. Apply recommended insecticides for effective pest control."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "In onion crop, go for interculture and hand weeding at recommended intervals. Apply fertilizers as per recommendations."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew disease in Blackgram and Greengram crop, spray recommended fungicides at specified rates."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To manage early blight and late blight in potatoes, spray recommended fungicides at specified intervals."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Present weather condition is favorable for infestation of Diamond Back Moth and Head Borer in late sown Cauliflower and Cabbage crops. Take necessary control measures as advised."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prevailing fog condition may increase Aphid infestation in tomatoes. Control measures with recommended sprays."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage Epilachna Beetle in brinjal plants, follow the recommended management practices."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips in rose, spray recommended insecticides as specified."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

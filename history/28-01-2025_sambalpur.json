@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 24,
+         "rh_min": 70,
+         "wind_speed": 4,
+         "wind_direction": 101,
+         "cloud_cover": 2
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 28,
+         "rh_min": 83,
+         "wind_speed": 4,
+         "wind_direction": 117,
+         "cloud_cover": 1
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 23,
+         "rh_min": 78,
+         "wind_speed": 3,
+         "wind_direction": 196,
+         "cloud_cover": 1
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 23,
+         "rh_min": 76,
+         "wind_speed": 2,
+         "wind_direction": 214,
+         "cloud_cover": 2
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 21,
+         "rh_min": 77,
+         "wind_speed": 5,
+         "wind_direction": 167,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mango",
+      "vegetable crops",
+      "green gram/black gram"
+   ],
+   "general_advisory": "1. According to the daily forecast of IMD, MC, Bhubaneswar, there is no large change in minimum temperature expected during next two days and thereafter rise by 2-4 degrees Celsius in subsequent three days over the district of Odisha. 2. Looking to the dry weather condition in upcoming days farmers are advised to provide one irrigation in crop field and conduct all kinds of spraying and intercultural operations in standing crop fields. 3. Farmers should keep their field weed-free for proper crop growth. 4. Prevailing temperature conditions (high gap in day and night temperature) may affect various types of crops (favor different kind of insect attacks) as well as animals.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil at a spacing of 15cm x 15cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44kg + MOP 22kg) or (Urea 22kg + SSP 125kg + MOP 22kg) as basal dose during final puddling. Weed Management: Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/acre at 5-8 DAT."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on Mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised. If powdery mildew infestation or any fungal infection observed in Mango orchard then spraying of wettable sulphur @ 2g per liter of water should be advised."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "To control leaf-eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4g per liter of water should be advised. For Diamond Back Moth attack in Cauliflower, spraying of Spinosad 45 SC @ 0.5ml or Fipronil 5% SC @ 2ml or Neem oil @ 5ml per liter of water should be advised. Regular monitoring against sucking insect attack should be advised. Avoid chemical application at flowering stage."
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky traps per acre to control these insects at a vegetative stage. At the initial stage of attack, farmers should spray 5ml of neem oil per liter of water to control these insects. Insecticide application should be avoided at the flowering stage."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

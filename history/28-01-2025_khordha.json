@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "28/01/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 48,
+         "wind_speed": 7,
+         "wind_direction": 209,
+         "cloud_cover": 0
+      },
+      "29/01/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 252,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "mustard",
+      "black gram",
+      "green gram",
+      "potato",
+      "cole crops",
+      "tomato",
+      "brinjal",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "As per the forecast received from IMD, dry weather may prevail. Farmers are advised to irrigate their field and follow specific crop-related advices mentioned below.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer in paddy, use Trichogrammajaponicum card weekly for 6 times.",
+            "Apply Cartap Hydrochloride or Chlorantraniliprole or Imidacloprid for stem borer management."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "For pest infestation, spray Neem Based Pesticide or chemical sprays like Thiamethoxam or Acetamiprid or Imidacloprid."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew, spray Sulphur or Hexaconazole or Propiconazole or Penconazole."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew, same methods as black gram."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "For Early Blight management, spray Mancozeb or Carbendazim.",
+            "For late blight, spray Metalaxyl + Mancozeb at 10 days interval."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Favourable for Diamond Back Moth and Head Borer, collect caterpillars and egg masses, spray Neem based Pesticide or chemical sprays."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Control Aphid infestation by spraying neem oil formulation or Flonicam."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage Epilachna Beetle, shake plants, destroy grubs and pupae, spray neem-based pesticide or Chlorpyriphos or Profenophos."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips, spray Fenpyroximate or Abamactin."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for hibernating of fish in warmer bottom zone."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

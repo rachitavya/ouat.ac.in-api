@@ -1,100 +1,108 @@
 {
    "weather_details": {
-      "28-01-2025": {
+      "01-02-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 20,
-         "rh_max": 89,
-         "rh_min": 63,
-         "wind_speed": 15,
-         "wind_direction": 211,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 218,
          "cloud_cover": 0
       },
-      "29-01-2025": {
+      "02-02-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 21,
-         "rh_max": 91,
-         "rh_min": 60,
-         "wind_speed": 17,
-         "wind_direction": 210,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 61,
+         "wind_speed": 11,
+         "wind_direction": 213,
+         "cloud_cover": 0
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 231,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
       "groundnut",
-      "mustard",
+      "sugarcane",
       "black gram",
       "green gram",
       "potato",
-      "cole crops",
+      "chilli",
       "tomato",
-      "brinjal",
+      "onion",
       "rose",
       "pisciculture"
    ],
-   "general_advisory": "Dry weather may prevail over the district of Puri for the next five days. Farmers are advised to irrigate their fields as there is a mildly dry condition. Various crop-specific advisories are provided for diseases and pest management.",
+   "general_advisory": "Dry weather may prevail for the next five days. Maintain standing water in fields before uprooting seedlings. Irrigate fields due to mild dry conditions. Various crop management recommendations are provided in the advisory.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "To manage stem borer in paddy, use Trichogrammajaponicum card weekly for 6 times.",
-            "Apply insecticides like Cartap Hydrochloride or Chlorantraniliprole to control stem borer."
+            "To manage stem borer, use Trichogramma japonicum card weekly interval for 6 times.",
+            "Use pheromone traps and apply recommended insecticides."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage stem rot in groundnut, drench soil with Validamycin or Captan + Hexaconazole."
+            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
          ]
       },
-      "mustard": {
+      "sugarcane": {
          "advisory": [
-            "During primary stage of pest infestation in mustard, spray Neem Based Pesticide.",
-            "Chemically spray Thiamethoxam, Acetamiprid, or Imidacloprid for pest management."
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in recommended solution to prevent diseases."
          ]
       },
       "black gram": {
          "advisory": [
-            "To manage powdery mildew disease, spray Sulphur, Hexaconazole, Propiconazole, or Penconazole."
+            "Spray recommended fungicides for powdery mildew management."
          ]
       },
       "green gram": {
          "advisory": [
-            "To manage powdery mildew disease, spray Sulphur, Hexaconazole, Propiconazole, or Penconazole."
+            "Spray recommended fungicides for powdery mildew management."
          ]
       },
       "potato": {
          "advisory": [
-            "To manage early blight disease in potato, spray Mancozeb or Carbendazim.",
-            "To manage late blight, spray Metalaxyl + Mancozeb at 10 days interval."
+            "Control cut worm by spraying recommended insecticides."
          ]
       },
-      "cole crops": {
+      "chilli": {
          "advisory": [
-            "Favourable conditions for Diamond Back Moth and Head Borer in late sown Cauliflower and Cabbage crops.",
-            "Collect and destroy caterpillars and spray Neem based Pesticide or chemical sprays."
+            "Spray recommended insecticides for mite control."
          ]
       },
       "tomato": {
          "advisory": [
-            "Prevailing fog condition may increase Aphid infestation in tomato. Control with neem oil formulation or Flonicam."
+            "Control aphid infestation by spraying recommended formulations."
          ]
       },
-      "brinjal": {
+      "onion": {
          "advisory": [
-            "To manage Epilachna Beetle, shake plants to dislodge grubs and spray neem-based pesticide or chemical sprays."
+            "Manage purple blotch and Stemphylium leaf blight by spraying recommended fungicides."
          ]
       },
       "rose": {
          "advisory": [
-            "To control thrips in rose, spray Fenpyroximate or Abamactin."
+            "Control black spot disease in Roses by spraying recommended fungicides."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Maintain water depth up to 6 ft for fish to hibernate in the warmer bottom zone."
+            "Maintain water depth for fish hibernating in warmer bottom zones."
          ]
       }
    },
-   "date": "28-01-2025"
+   "date": "31-01-2025"
 }

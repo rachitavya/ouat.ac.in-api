@@ -251,3 +251,8 @@ ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai
 ERROR:root:Error downloading PDF for bargarh
 ERROR:root:Attempt 1: An error occurred: 'str' object has no attribute 'get'
 ERROR:root:Attempt 1: An error occurred: 'str' object has no attribute 'get'
+ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2025/01/Bargarh_IAAS_English_31.01.2025-_05_09.pdf: 504
+ERROR:root:Error downloading PDF for bargarh
+ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/04/Cuttack_IAAS_English_02.04.2024_14_27.pdf: 504
+ERROR:root:Error downloading PDF for cuttack
+ERROR:root:Error processing PDF for kalahandi: Expecting ',' delimiter: line 109 column 248 (char 6042)

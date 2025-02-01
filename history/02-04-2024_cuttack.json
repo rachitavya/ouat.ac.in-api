@@ -53,137 +53,80 @@
    },
    "names_of_crops": [
       "paddy",
-      "summer pulses",
-      "oilseed",
-      "vegetables",
-      "mustard",
-      "groundnut",
-      "mung",
-      "biri",
-      "kulthi",
       "sugarcane",
       "maize",
       "tomato",
       "brinjal",
       "coconut",
-      "vegetable seedlings",
+      "vegetables",
+      "fingerlings",
       "black gram",
       "green gram",
-      "tobacco",
-      "okra",
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down heat effect.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages...",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Water deficit during critical stages should be avoided."
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "Sowing in progress."
-         ]
-      },
-      "oilseed": {
-         "advisory": [
-            "Sowing in progress."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Sowing in progress."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Harvesting completed."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Harvesting completed."
-         ]
-      },
-      "mung": {
-         "advisory": [
-            "Harvesting completed."
-         ]
-      },
-      "biri": {
-         "advisory": [
-            "Harvesting completed."
-         ]
-      },
-      "kulthi": {
-         "advisory": [
-            "Harvesting completed."
+            "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. In these stages water scarcity or deficit of water causes comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided.",
+            "General Advisory: Yellow stem borer management - Due to rise in temperature there are chances of increase in stem borer infestation in paddy crop..."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Top-dress with potassium to protect from water scarcity."
+            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect crop from water scarcity during summer.",
+            "Early Shoot Borer: To manage early shoot borer in Sugarcane, irrigate the crop frequently during hot months. Timely cutting the attacked shoot at or just below the ground level ensures destruction of most of the caterpillar. Collect and destroy the egg masses manually. In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement."
+            "The high temperature increases the water requirement of maize crop. Irrigate the crop. Never allow water to remain stagnant for more than six hour in the field."
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting may occur, apply Streptocyclin.",
-            "High temperature may lead to wilting."
+            "High temperature in day hours may lead to wilting in tomato and brinjal. Apply 1g Streptocyclin in 10 liter water in root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone trap for management.",
-            "Spray neem-based pesticide for primary stage of infestation."
+            "Brinjal shoot and fruit borer... (Advisory continues)"
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves to reduce water loss."
+            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
          ]
       },
-      "vegetable seedlings": {
+      "vegetables": {
          "advisory": [
-            "Cover with paper caps during day time."
+            "Cover with paper caps on the newly planted vegetable seedlings during day time."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "In shallow ponds, harvest fingerlings, if water temperature rises to 30 0C. Ensure enough water depth before introducing fingerlings in a pond."
          ]
       },
       "black gram": {
          "advisory": [
-            "Manage tobacco caterpillar infestation."
+            "Tobacco Caterpillar Management... (Advisory continues)"
          ]
       },
       "green gram": {
          "advisory": [
-            "Manage tobacco caterpillar infestation."
-         ]
-      },
-      "tobacco": {
-         "advisory": [
-            "Check migration of caterpillars.",
-            "For chemical control, spray insecticides."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Treat seeds to prevent whitefly infestation.",
-            "Install yellow sticky traps."
+            "Tobacco Caterpillar Management... (Advisory continues)"
          ]
       },
       "onion": {
          "advisory": [
-            "After harvesting, cut tops and dry bulbs."
+            "After harvesting of onion, cut the tops leaving 2.0 -2.5 cm above bulb. The harvested bulb should be dried in well ventilated concrete floored room. Well dried bulbs can be stored for longer period."
          ]
       },
       "mango": {
          "advisory": [
-            "Control mango hoppers with specified sprays.",
-            "Application of smoke can help reduce pest population."
+            "Mango hopper - To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3ml/15 litre of water or Acetamiprid 20% S.P. @ 4g/15litre of water. Application of smoke below the plants can also help in reducing the pest population."
          ]
       }
    },

@@ -1,0 +1,145 @@
+{
+   "weather_details": {
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 23,
+         "wind_speed": 5,
+         "wind_direction": 164,
+         "cloud_cover": 2
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 88,
+         "rh_min": 26,
+         "wind_speed": 6,
+         "wind_direction": 177,
+         "cloud_cover": 1
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 77,
+         "rh_min": 21,
+         "wind_speed": 7,
+         "wind_direction": 186,
+         "cloud_cover": 2
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 20,
+         "wind_speed": 6,
+         "wind_direction": 187,
+         "cloud_cover": 3
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 65,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 183,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "chickpea",
+      "greengram",
+      "blackgram",
+      "groundnut",
+      "mustard",
+      "sunflower",
+      "onion",
+      "tomato",
+      "chilli",
+      "rose",
+      "merigold",
+      "cattle & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Make arrangement for supplemental irrigation in standing crops like Groundnut, Sunflower, Chick pea, Maize, Green gram etc. Farmers are advised to install “T” shaped bird perches in and around crop fields. Install pheromone traps and yellow sticky traps for monitoring insect populations. Apply recommended doses of fertilizers and pesticides correctly. Specific advisories for different crops are provided in the bulletin.",
+   "crops_data": {
+      "Paddy": {
+         "advisory": [
+            "Weed management advice for Paddy.",
+            "Pest management advice for stem borer and leaf folder in Paddy."
+         ]
+      },
+      "Chickpea": {
+         "advisory": [
+            "Pest management advice for Powdery mildew, Stem rot, Root rot, and Wilting in Chickpea."
+         ]
+      },
+      "Greengram/Blackgram": {
+         "advisory": [
+            "Pest management advice for Leaf eating caterpillar, Aphid, Whitefly, and Powdery mildew."
+         ]
+      },
+      "Groundnut": {
+         "advisory": [
+            "Pest management advice for Tikka in Groundnut."
+         ]
+      },
+      "Mustard": {
+         "advisory": [
+            "Pest management advice for White rust in Mustard."
+         ]
+      },
+      "Sunflower": {
+         "advisory": [
+            "Pest management advice for Sucking pest complex, Powdery mildew, Capitulum Borer, and Head Rot in Sunflower."
+         ]
+      },
+      "Onion": {
+         "advisory": [
+            "Nutrient management advice for Onion."
+         ]
+      },
+      "Tomato": {
+         "advisory": [
+            "Pest management advice for Fruit & Shoot borer, Leaf curling, and White fly in Tomato."
+         ]
+      },
+      "Chilli": {
+         "advisory": [
+            "Pest management advice for Mite infestation in Chilli."
+         ]
+      },
+      "Rose": {
+         "advisory": [
+            "Pest management advice for Black spot in Rose."
+         ]
+      },
+      "Merigold": {
+         "advisory": [
+            "Pest management advice for Inflorescence rot in Merigold."
+         ]
+      },
+      "Cattle & Buffalo": {
+         "advisory": [
+            "Guidance for maintaining health of Cattle & Buffalo."
+         ]
+      },
+      "Goat & Sheep": {
+         "advisory": [
+            "Advice for protection of Goats & Sheep from cold."
+         ]
+      },
+      "Poultry": {
+         "advisory": [
+            "Recommendations for the welfare of Poultry birds."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

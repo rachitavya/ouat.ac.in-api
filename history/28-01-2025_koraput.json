@@ -1,0 +1,166 @@
+{
+   "weather_details": {
+      "24-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 14,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "27-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 90,
+         "rh_min": 90,
+         "wind_speed": 3,
+         "wind_direction": 31,
+         "cloud_cover": 2
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 89,
+         "rh_min": 89,
+         "wind_speed": 3,
+         "wind_direction": 194,
+         "cloud_cover": 3
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 79,
+         "rh_min": 79,
+         "wind_speed": 4,
+         "wind_direction": 217,
+         "cloud_cover": 2
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 75,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 3
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 69,
+         "rh_min": 69,
+         "wind_speed": 3,
+         "wind_direction": 172,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "chilli",
+      "tomato",
+      "turmeric"
+   ],
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetables at vegetative stage. Rouging of viral infested plant should be done in vegetables. Infected plants should be uprooted and buried in the soil. After rouging, if infection is more, then spraying of Imidacloprid is advised to control the vector. Use pheromone trap for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Tikka : If symptom is noticed, application of Chlorothalonil 75% WP, Hexaconazole 5% EC, or Mancozeb 75% WP mixed with water is recommended.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Weed Management",
+            "Apply granular herbicide Bensulfuron -methyl 0.6% + Pretilachlor 6%",
+            "Pest Management"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Tikka : If symptom is noticed, application of Chlorothalonil 75% WP, Hexaconazole 5% EC, or Mancozeb 75% WP mixed with water is recommended."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "White rust: In prevailing weather condition (Foggy), infestation of white rust can be seen. Apply Metalaxyl M 4% + Mancozeb 64% WP, Copper Oxychloride 50% WP mixed with water when symptom is noticed."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Dimond back moth : Spray Fipronil 5% SC, Chlorpyriphos 20% EC as control measure.",
+            "Tobacco leaf eating caterpillar : Spray Cyantraniliprole 10.26% OD to control pest population.",
+            "Cabbage Aphid : Spray Thiamethoxam 25% WG as control measure."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Dimond back moth : Spray Fipronil 5% SC, Chlorpyriphos 20% EC as control measure.",
+            "Tobacco leaf eating caterpillar : Spray Cyantraniliprole 10.26% OD to control pest population.",
+            "Cabbage Aphid : Spray Thiamethoxam 25% WG as control measure."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Dimond back moth : Spray Fipronil 5% SC, Chlorpyriphos 20% EC as control measure.",
+            "Tobacco leaf eating caterpillar : Spray Cyantraniliprole 10.26% OD to control pest population.",
+            "Cabbage Aphid : Spray Thiamethoxam 25% WG as control measure."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Mite:  Stunted growth with downward curling and crinkling of leaves are seen in mite infested chili plants. Apply Ethion 50 % EC or Propargite  57 % EC to control mite infestation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Leaf curling/White fly : Leaf curling may notice due to white fly infestation. Install yellow sticky trap to monitor pest population. For chemical control, spray Dimethoate 30% EC, Cyntranliprole 10.26% OD, Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5%, Indoxacarb14.5% SC mixed with water."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Depending on the variety, turmeric is ready for harvesting after 270 days.",
+            "Early varieties mature after 7 -8 months, medium varieties after 8 -9 months and late varieties after 9 months.",
+            "Turmeric is ready for harvesting when the leaves turn yellow.",
+            "Plough the land and collect turmeric by hand, or remove the turmeric stalks from the soil with the help of a spade.",
+            "Clean the harvested turmeric from soil and other foreign matter."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

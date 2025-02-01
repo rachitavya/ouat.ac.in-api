@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "24.01.2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 92,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25.01.2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 92,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26.01.2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": -17,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "27.01.2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 0,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "28.01.2025": {
+         "rainfall": 0,
+         "t_max": 0,
+         "t_min": 0,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "chilli",
+      "tomato",
+      "mushroom"
+   ],
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap @ 8/acre to monitor sucking pest in vegetables. Rouging of viral infested plant should be done in vegetables. Use pheromone trap @ 8/acre for monitoring borer insect. Chances of mainly clear to partly cloudy sky during next five days. Chances of no rainfall during next five days. Maximum temperature is expected to be 32-33°C and minimum temperature is expected to be 16-17°C. Maximum and minimum relative humidity is expected to be 76-92%, and 21-32%, respectively.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Weed Management: Apply granular herbicide Bensulfuron -methyl 0.6% + Pretilachlor 6% @ 4 kg at 3 -5 days after transplanting.",
+            "Pest Management: Install 3 pheromone traps/acre to monitor pest population of stem borer and leaf folder soon after transplanting.",
+            "Blast Control: If infestation of blast is noticed, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 6g or Isoprothiolane 40 EC @ 25 ml or Carbendazim 50% WP @ 25g or Hexaconazole 5% EC @ 15ml by mixing with 15 liters of water. Repeat the spray at 7 -10 days’ interval."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Tikka Control: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "White Rust Control: Apply Metalaxyl M 4% + Mancozeb 64% WP @ 25g or Copper Oxychloride 50% WP @ 30g mixed with 10 liters of water when symptom is noticed."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Dimond Back Moth Control: Spray Fipronil 5% SC @ 2ml/ltr  or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
+            "Tobacco Leaf Eating Caterpillar Control: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population.",
+            "Cabbage Aphid Control: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as control measure."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Dimond Back Moth Control: Spray Fipronil 5% SC @ 2ml/ltr  or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
+            "Tobacco Leaf Eating Caterpillar Control: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Dimond Back Moth Control: Spray Fipronil 5% SC @ 2ml/ltr  or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
+            "Tobacco Leaf Eating Caterpillar Control: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Mite Control: Apply Ethion 50 % EC or Propargite 57 % EC @ 600ml/acre mixed with 200 liters of water to control mite infestation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Leaf Curling/White Fly Control: Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15ml mixed with 15 liters of water."
+         ]
+      },
+      "mushroom": {
+         "advisory": [
+            "For Oyster mushroom cultivation use Niger sticks as substrate. For better agricultural benefits, use OUAT KALINGA products."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

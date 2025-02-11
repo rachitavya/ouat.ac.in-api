@@ -1,33 +1,43 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "01/02/2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 24,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 44,
+         "wind_speed": 7,
+         "wind_direction": 12,
+         "cloud_cover": 0
+      },
+      "08/02/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 44,
+         "wind_speed": 7,
+         "wind_direction": 12,
+         "cloud_cover": 0
+      },
+      "09/02/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 21,
          "rh_max": 88,
-         "rh_min": 67,
-         "wind_speed": 11,
-         "wind_direction": 218,
-         "cloud_cover": 0
+         "rh_min": 44,
+         "wind_speed": 6,
+         "wind_direction": 90,
+         "cloud_cover": 315
       },
-      "02-02-2025": {
+      "10/02/2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 89,
-         "rh_min": 61,
-         "wind_speed": 11,
-         "wind_direction": 213,
-         "cloud_cover": 0
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 90,
-         "rh_min": 55,
-         "wind_speed": 10,
-         "wind_direction": 231,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 84,
+         "rh_min": 45,
+         "wind_speed": 5,
+         "wind_direction": 315,
          "cloud_cover": 0
       }
    },
@@ -36,73 +46,71 @@
       "groundnut",
       "sugarcane",
       "black gram",
-      "green gram",
-      "potato",
       "chilli",
-      "tomato",
+      "cole crops",
       "onion",
+      "mango",
       "rose",
-      "pisciculture"
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advisory": "Dry weather may prevail for the next five days. Maintain standing water in fields before uprooting seedlings. Irrigate fields due to mild dry conditions. Various crop management recommendations are provided in the advisory.",
+   "general_advisory": "As per the forecast, dry weather may prevail with some cloudy conditions. Farmers are advised to monitor pest activities and apply irrigation as needed. Various treatments are recommended for different crops to manage diseases and pests.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "To manage stem borer, use Trichogramma japonicum card weekly interval for 6 times.",
-            "Use pheromone traps and apply recommended insecticides."
+            "In transplanted paddy, spray recommended herbicides to control weeds."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
+            "To manage Bud Necrosis, use Neem Based Pesticide or chemical sprays."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Select resistant varieties to prevent red rot disease.",
-            "Soak setts in recommended solution to prevent diseases."
+            "For Sett Rot management, use specific fungicides for control."
          ]
       },
       "black gram": {
          "advisory": [
-            "Spray recommended fungicides for powdery mildew management."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Spray recommended fungicides for powdery mildew management."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "Control cut worm by spraying recommended insecticides."
+            "To control Aphids, use Neem Based Pesticide followed by chemical sprays."
          ]
       },
       "chilli": {
          "advisory": [
-            "Spray recommended insecticides for mite control."
+            "To manage Fruit rot and Die back disease, spray recommended fungicides."
          ]
       },
-      "tomato": {
+      "cole crops": {
          "advisory": [
-            "Control aphid infestation by spraying recommended formulations."
+            "To control Alternaria Leaf Spot, use specific fungicides."
          ]
       },
       "onion": {
          "advisory": [
-            "Manage purple blotch and Stemphylium leaf blight by spraying recommended fungicides."
+            "To manage Purple Blotch and Stemphylium leaf blight, spray specific fungicides."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To manage mango hoppers, spray recommended insecticides at specific stages."
          ]
       },
       "rose": {
          "advisory": [
-            "Control black spot disease in Roses by spraying recommended fungicides."
+            "To prevent Powdery mildew, spray Carbendazim preventively."
          ]
       },
-      "pisciculture": {
+      "animal husbandry": {
          "advisory": [
-            "Maintain water depth for fish hibernating in warmer bottom zones."
+            "Ensure Foot and Mouth diseases vaccination for cattle."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate chicks for Sleeping disease and other common ailments."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

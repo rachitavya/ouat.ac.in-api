@@ -1,120 +1,161 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
          "t_max": 31,
-         "t_min": 18,
-         "rh_max": 94,
-         "rh_min": 35,
-         "wind_speed": 1,
-         "wind_direction": 315,
-         "cloud_cover": 3
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 18,
-         "rh_max": 93,
-         "rh_min": 33,
-         "wind_speed": 1,
-         "wind_direction": 154,
-         "cloud_cover": 3
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 83,
-         "rh_min": 27,
-         "wind_speed": 2,
-         "wind_direction": 321,
+         "t_min": 16,
+         "rh_max": 49,
+         "rh_min": 15,
+         "wind_speed": 5,
+         "wind_direction": 352,
          "cloud_cover": 2
       },
-      "04-02-2025": {
+      "09-02-2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 79,
-         "rh_min": 29,
-         "wind_speed": 3,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 48,
+         "rh_min": 13,
+         "wind_speed": 4,
          "wind_direction": 90,
          "cloud_cover": 3
       },
-      "05-02-2025": {
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 68,
+         "rh_min": 14,
+         "wind_speed": 3,
+         "wind_direction": 348,
+         "cloud_cover": 1
+      },
+      "11-02-2025": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 17,
-         "rh_max": 75,
-         "rh_min": 26,
+         "t_min": 14,
+         "rh_max": 69,
+         "rh_min": 17,
          "wind_speed": 1,
-         "wind_direction": 342,
+         "wind_direction": 0,
          "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 64,
+         "rh_min": 17,
+         "wind_speed": 2,
+         "wind_direction": 284,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "mustard",
-      "toria",
       "linseed",
       "chickpea",
-      "tomato",
+      "mustard",
+      "toria",
+      "cucumber",
       "coriander",
-      "pea",
       "chilli",
       "potato",
-      "cauliflower"
+      "amaranthus",
+      "marigold",
+      "chrysanthemum",
+      "papaya",
+      "banana"
    ],
-   "general_advisory": "Value addition of the crops is important after harvesting. Make Tomato sauce, Potato chips, Cauliflower chips, pickles etc. which will attract more income than normal. Spray Imidachloprid and Dimethoate during morning and evening hours to reduce infestation of aphids, jassids and whitefly. Remove weeds from the field and apply irrigation to the crops.",
+   "general_advisory": "Keep a watch on the disease and pests as their infestation will increase in recent times. Prepare the field for sowing of summer crops. Provide irrigation whenever soil is dry or plants showing wilting symptoms. Sowing of summer crops can be taken such as cucumber, bitter gourd, watermelon etc.",
    "crops_data": {
-      "mustard": {
-         "advisory": [
-            "The mustard plants have almost reached the physiological maturity stage. Restrict irrigation. If the plants have lodged down, make sure siliqua does not touch the soil to prevent rotting and decaying. Spray Emamectin benzoate 4% SG @ 5g/10lt of water. In severe infestation of aphids, spray Imidacloprid or Dimethoate @ 2 ml/lt."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "The mustard plants have almost reached the physiological maturity stage. Restrict irrigation. If the plants have lodged down, make sure siliqua does not touch the soil to prevent rotting and decaying. Spray Emamectin benzoate 4% SG @ 5g/10lt of water. In severe infestation of aphids, spray Imidacloprid or Dimethoate @ 2 ml/lt."
-         ]
-      },
       "linseed": {
          "advisory": [
-            "If possible, one irrigation can be provided at the fruit formation time. Remove any weeds from the field. Whitefly, aphids can be managed in linseed by spraying Dimethoate 30 EC @ 2 ml/lt."
+            "Irrigate the field during flowering/fruiting.",
+            "Do not irrigate the crop if it has yellowish orange fruits.",
+            "Remove wilted, damaged, or diseased plant parts.",
+            "Remove Cuscuta (Nirmuli lata) weeds manually."
          ]
       },
       "chickpea": {
          "advisory": [
-            "Provide irrigation at pod initiation or development stage. Cutworm infestation may be seen in the field. Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt. Powdery mildew in chickpea is a major problem in recent time. To manage the same, wettable sulphur powder or copper oxychloride @ 2 ml/lt can be sprayed on the crops. Repeat it after 7 days for better result. The wilted plants or damaged leaves should be removed from the plants. For controlling termite infestation, spray Chloropyriphos or Imidachloprid @ 4ml/10lt."
+            "Spray Chloropyriphos or Imidachloprid for controlling termites.",
+            "Irrigate at pod initiation or development stage."
          ]
       },
-      "tomato": {
+      "mustard": {
          "advisory": [
-            "For the tomato cultivation, apply irrigation at an interval of 6-7 days. Be careful about not touching of the fruits with the ground and provide staking in case of plant lodging. To manage the whitefly infestation, spray Acetamiprid 20 SP @ 0.5g/lt or Profenophos @ 1ml/lt."
+            "Restrict irrigation during physiological maturity.",
+            "Harvest mustard and Toria at the right time.",
+            "Prevent siliqua pods from shattering due to overdrying.",
+            "Control aphids and mustard saw fly with Emamectin benzoate."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Restrict irrigation during physiological maturity.",
+            "Harvest mustard and Toria at the right time.",
+            "Prevent siliqua pods from shattering due to overdrying.",
+            "Control aphids and mustard saw fly with Emamectin benzoate."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Prepare the field for sowing summer crops.",
+            "Treat cucumber seeds with Carbendazim or Mancozeb before sowing.",
+            "Provide irrigation after sowing as needed."
          ]
       },
       "coriander": {
          "advisory": [
-            "Provide light and frequent irrigation to the crops. Harvest the matured plants by uprooting them. Make bundles of the coriander plants and sell them at market."
-         ]
-      },
-      "pea": {
-         "advisory": [
-            "Pod borers in pea cause a lot of damage to the fruits by boring into flowers and pods. To manage the same spray Emamectin benzoate 4% SG @ 5g/10lt or Chloropyriphos @ 1 ml/lt. For managing Powdery mildew, spray Karathane 40 EC @ 1 ml/lt."
+            "Provide light and frequent irrigation.",
+            "Harvest matured plants by uprooting.",
+            "Bundle coriander plants for sale in the market."
          ]
       },
       "chilli": {
          "advisory": [
-            "Harvest the matured chilli. Little leaf in Chilli can be seen in the field. If that happens spray Dimethoate @ 2 ml/lt. Aphids and Jassids infestation may be seen in the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt. The harvested chilli can be value added by making Chilli pickles. Chilli pickles can fetch more income rather than selling it raw."
+            "Harvest matured chilli.",
+            "Control aphids and Jassids with Imidachloprid.",
+            "Consider making value-added products like Chilli pickles."
          ]
       },
       "potato": {
          "advisory": [
-            "Earthing up is required in potato to prevent from direct exposure to sun. If wilting is seen in the field, drench Blitox-50 @ 45g + Steptocycline @ 2g in 10lts of water."
+            "Harvest potatoes when plants are dry and wilted.",
+            "Earthing up potatoes to prevent solanine production.",
+            "Treat wilting plants with Blitox-50 and Steptocycline."
          ]
       },
-      "cauliflower": {
+      "amaranthus": {
          "advisory": [
-            "Harvest the cauliflower when it's get matured. Do not expose the flower to direct sun rays as it may hamper the flower head. Cover it with the cauliflower leaves. Weeding and irrigation is important to keep it in good quality."
+            "Provide light and frequent irrigation for freshness.",
+            "Bundle and sell harvested amaranthus after weeding."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Irrigate before harvesting flowers.",
+            "Manage aphids, thrips, and whiteflies with specific sprays."
+         ]
+      },
+      "chrysanthemum": {
+         "advisory": [
+            "Periodically harvest flowers.",
+            "Create bouquets and garlands for better income."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Control aphids, Jassids, and whitefly with specific sprays.",
+            "Remove crinkled and upward curling papaya leaves."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Limit suckers near mother plants for better growth.",
+            "Support emerging banana bunches."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

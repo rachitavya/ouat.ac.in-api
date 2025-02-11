@@ -1,148 +1,118 @@
 {
    "weather_details": {
-      "27.01.2025": {
+      "08-02-2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 81,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "28.01.2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 17,
-         "rh_max": 81,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "29.01.2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 75,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "30.01.2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 18,
-         "rh_max": 72,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "31.01.2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 81,
-         "rh_min": 63,
-         "wind_speed": 2,
-         "wind_direction": 117,
-         "cloud_cover": 2
-      },
-      "01.02.2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 81,
-         "rh_min": 63,
-         "wind_speed": 2,
-         "wind_direction": 117,
-         "cloud_cover": 3
-      },
-      "02.02.2025": {
-         "rainfall": 0,
-         "t_max": 34,
+         "t_max": 35,
          "t_min": 19,
          "rh_max": 75,
-         "rh_min": 0,
-         "wind_speed": 2,
-         "wind_direction": 127,
-         "cloud_cover": 3
-      },
-      "03.02.2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 19,
-         "rh_max": 72,
-         "rh_min": 0,
+         "rh_min": 23,
          "wind_speed": 3,
-         "wind_direction": 106,
-         "cloud_cover": 3
-      },
-      "04.02.2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 63,
-         "rh_min": 0,
-         "wind_speed": 2,
-         "wind_direction": 76,
+         "wind_direction": 0,
          "cloud_cover": 2
+      },
+      "09-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 18,
+         "rh_max": 79,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 18,
+         "rh_max": 79,
+         "rh_min": 17,
+         "wind_speed": 3,
+         "wind_direction": 104,
+         "cloud_cover": 2
+      },
+      "11-02-2025": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 124,
+         "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 69,
+         "rh_min": 18,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
-      "groundnut",
       "mustard",
+      "toria",
       "chilli",
       "tomato",
       "potato",
-      "mushroom"
+      "okra"
    ],
-   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetables at vegetative stage. Rouging of viral infested plant should be done in vegetables. Use pheromone trap for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Tikka: If symptom is noticed, application of Chlorothalonil 75% WP or Hexaconazole 5% EC or Mancozeb 75% WP mixed with water is recommended.",
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap to monitor pests like White fly, Aphids, Jassids & Thirps in vegetables. Rouging of viral infested plant should be done. Use pheromone trap for monitoring borer insect in vegetables.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Weed Management: Apply herbicide according to crop growth stage. Pest Management: Install pheromone traps to monitor pest population"
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Tikka: If symptom is noticed, apply recommended chemicals mixed with water"
+            "Apply light irrigation to the nursery beds as & when required.",
+            "Spray the nursery area with Tebuconazole + Trifloxystrobin to control blast infestation.",
+            "Go for puddling of main field and apply basal fertilizer.",
+            "Apply herbicide Bensulfuron methyl + Pretilachlor after transplanting to control weeds."
          ]
       },
       "mustard": {
          "advisory": [
-            "Regularly monitor for pests like grasshopper, aphids, and larvae. Spray recommended chemicals when necessary"
+            "Keep a watch for pests like grasshopper, aphids and larvae in development stage.",
+            "Spray Emamectin benzoate to control infestation.",
+            "Spray Imidacloprid or Dimethoate in severe infestation.",
+            "Spray Profenophos or Quinalphos for saw fly control."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Keep a watch for pests like grasshopper, aphids and larvae in development stage.",
+            "Spray Emamectin benzoate to control infestation.",
+            "Spray Imidacloprid or Dimethoate in severe infestation.",
+            "Spray Profenophos or Quinalphos for saw fly control."
          ]
       },
       "chilli": {
          "advisory": [
-            "Provide vermicompost and manures to the crop.",
-            "Spray Dimethoate if little leaf is noticed.",
-            "Manage aphids and Jassids infestation with recommended chemicals",
-            "Apply appropriate chemicals for mite infestation"
+            "Spray Dimethoate for Little leaf control.",
+            "Spray Imidacloprid for aphids and Jassids management.",
+            "Apply Ethion or Propargite for mite infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Monitor pest population with yellow sticky traps",
-            "Use recommended chemicals for controlling white fly infestation"
+            "Spray Azoxystrobin or Zineb to control early and late blight.",
+            "Install yellow sticky trap to monitor white fly population.",
+            "Spray Dimethoate, Cyntranliprole, Thiamethoxam or Indoxacarb for chemical control."
          ]
       },
       "potato": {
          "advisory": [
-            "Provide irrigation as needed",
-            "Earthing up required to prevent direct exposure to sun",
-            "Use recommended chemicals for wilting"
+            "Provide irrigation as per requirement.",
+            "Earth up the plants to prevent direct sun exposure.",
+            "Use Blitox -50 + Steptocycline drench in case of wilting."
          ]
       },
-      "mushroom": {
+      "okra": {
          "advisory": [
-            "For Oyster mushroom cultivation use Niger sticks as substrate"
+            "Spray neem based pesticide to control fruit borer.",
+            "At later stages, apply Spinosad SC for further control."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

@@ -1,0 +1,80 @@
+{
+   "weather_details": {
+      "31.01.2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 90,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sugarcane",
+      "potato",
+      "onion",
+      "cabbage",
+      "cauliflower",
+      "chilli",
+      "brinjal",
+      "mango",
+      "jasmine"
+   ],
+   "general_advisory": "Keep a close eye on pest infestations and diseases in crops mentioned. Follow recommended spraying schedules and doses for effective pest management. Prune jasmine plants for better flowering.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "To manage Tikka disease in groundnut, spray Chlorothalonil 75% WP or Mancozeb 75% WP or Hexaconazole 5% E.C."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Apply 87kg of DAP, 20kg of MOP, and 4-ton of FYM at the time of planting."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To control Cut worm in Potato crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight disease in Onion, spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "To manage Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops, spray Neem based Pesticide (Azadirachtin) 300 PPM."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "To manage Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops, spray Neem based Pesticide (Azadirachtin) 300 PPM."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage thrips in chilli crop, spray neem-based pesticide (Azadirachtin) 1500 PPM."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage Epilachna Beetle infestation in Brinjal, shake plants to dislodge grubs, pupae, and adults in a pail of kerosene mixed water."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To manage mango hoppers, spray Imidacloprid 17.8% SL or Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
+         ]
+      },
+      "jasmine": {
+         "advisory": [
+            "Prune jasmine plants for better flowering."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

@@ -1,7 +1,140 @@
 {
-   "date": "31-01-2025",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "08-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 15,
+         "rh_max": 57,
+         "rh_min": 20,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 2
+      },
+      "09-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 14,
+         "rh_max": 56,
+         "rh_min": 15,
+         "wind_speed": 1,
+         "wind_direction": 135,
+         "cloud_cover": 1
+      },
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 61,
+         "rh_min": 12,
+         "wind_speed": 4,
+         "wind_direction": 169,
+         "cloud_cover": 2
+      },
+      "11-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 14,
+         "rh_max": 68,
+         "rh_min": 14,
+         "wind_speed": 5,
+         "wind_direction": 172,
+         "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 14,
+         "rh_max": 59,
+         "rh_min": 15,
+         "wind_speed": 6,
+         "wind_direction": 187,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "chickpea",
+      "green gram",
+      "black gram",
+      "groundnut",
+      "onion",
+      "tomato",
+      "brinjal",
+      "rose",
+      "merigold",
+      "cattle & buffalo",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "In view of prolong dry period condition over the district, farmers are advised to provide one life saving irrigation to the standing crops like green gram, black gram, chick pea, groundnut, field pea, maize etc. to avoid water stress condition. Farmers are advised to complete weeding followed by earthing up operation in rabi crops. Apply top dressing during earthing up operation followed by irrigation as needed. Install yellow sticky trap @ 8 /acre to monitor sucking pest complex like White fly, Aphids, Jassids & Thirps in vegetative stage of the crop. To prevent sucking pests, neem-based pesticide (1500 ppm) may be sprayed @ 3 ml/ lit of water at primary stage of infestation. To control chemically, apply Thiamethoxam 25 WG @ 1 g or Imidacloprid 17.8% SL @ 1.5 ml by mixing with 5 liters of water.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Nutrient Management: In direct seeded rice apply urea @ 24 kg /acre as fist top dressing at 20 -25 DAS. Apply DAP 44 kg + MOP 22 kg per acre as basal dose during final puddling in case of transplanted paddy. In transplanted paddy apply urea@35kg/acre as fist top dressing at 20 -25 DAS",
+            "Weed Management: Spray Pyrazosulfuron-ethyl 10 % WP @ 100 g at 8-10 days after transplanting or spray Bispyribac sodium 10% SC @ 120 ml at 15-20 DAT or spray Fenoxaprop-p-ethyl 9% EC @ 300 ml/ac at 20 to 25 DAT/DAS mixed with 200 liters of water.",
+            "Pest Management: Stem borer & Leaf folder: Install 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder just after the transplanting. Whenever the number of male moths/trap reaches 4 or 5, spray Azadiractin 0.15% neem seed kernel-based EC formulation @ 4 ml/ltr of water or apply Cartap hydrochloride 4G @ 10 kg/acre mixing with sand at 1:1 ratio or spray Chlorantraniliprole 18.5% SC @ 60ml/acre mixed with 200 liters of water. Blast: If infestation of blast is noticed, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 6g or Isoprothiolane 40 EC @ 25 ml or Carbendazim 50% WP @ 25g or Hexaconazole 5% EC @ 15ml by mixing with 15 liters of water. Repeat the spray at 7-10 days’ interval."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Pest Management: Rust: Prevailing weather condition favors the development of rust disease. To control spray, Chlorothalonil 75% WP @ 400g/acre or Difenoconazole 25% EC @ 200ml/acre mixed with 200 liters of water."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pest Management: Yellow Mosaic Virus: In prevailing weather condition YMV is transmitted through white fly. If symptom is noticed, remove infected plants from the field. Install yellow sticky traps @ 8nos/acre to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at the initial stage of infestation. For chemical control, spray Imidacloprid 17.8% SL @ 4ml or Thiamethoxam 25% WG @ 3g or Chlorpyriphos 20% EC @ 35 ml by mixing with 15 liters of water. Powdery mildew: Infestation powdery mildew may notice in prevailing weather condition. To, control spray wettable Sulfur @ 60 g mixed with 15 liters of water."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            ""
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Pest Management: Tikka: If symptoms are noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Nutrient Management: After hoeing and weeding, apply 45kg Urea as the first top dressing at a 4-week stage followed by irrigation. After hoeing and weeding, apply 23kg Urea as the second top dressing at 6 to 7-week stage followed by irrigation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Pest Management: Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population. For chemical control, spray Flubendiamide 39.35% SC @ 3 ml Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water. Leaf curling/White fly: Leaf curling may notice due to white fly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Pest Management: White fly: Install yellow sticky trap @ 8-10/acre or spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 3ml/ltr of water at the initial stage of infestation."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Powdery mildew: In prevailing weather condition infestation of Powdery mildew may notice in Rose plant. Spray Carbendazim 50% WP @ 2g/ltr of water as a preventive measure."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "Inflorescence rot: To control inflorescence rotting in Merigold spray Mancozeb 75% WP @ 2g or Carbendazim 50% WP @ 1g by mixing with one liter of water."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Provide kid starter @ 50-100 g/day for better growth."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Keep the poultry house clean and damp free."
+         ]
+      }
+   },
+   "date": "07-02-2025"
 }

@@ -1,0 +1,128 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 92,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 50,
+         "wind_speed": 3,
+         "wind_direction": 242,
+         "cloud_cover": 0
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 90,
+         "rh_min": 54,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 85,
+         "rh_min": 44,
+         "wind_speed": 1,
+         "wind_direction": 284,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to maintain standing water depth, irrigate fields, manage foot rot disease in paddy, apply zinc in deficient soil, and follow specific crop-related instructions provided in the advisory.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer, use Trichogramma japonicum card weekly and pheromone traps.",
+            "Apply specified insecticides for stem borer control."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in specified solution during planting."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew, spray specified fungicides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew, spray specified fungicides."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To control cut worm, spray specified insecticides in the evening."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control mites, spray specified miticides."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control aphids, spray neem oil formulation or Flonicam."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight, spray specified fungicides."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control black spot disease, spray specified fungicides."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for fish hibernation."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

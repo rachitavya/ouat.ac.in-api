@@ -1,33 +1,33 @@
 {
    "weather_details": {
-      "25/01/2025": {
-         "rainfall": 0,
-         "t_max": 19,
-         "t_min": 18,
-         "rh_max": 90,
-         "rh_min": 80,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 0
-      },
       "01/02/2025": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 20,
-         "rh_max": 94,
-         "rh_min": 53,
-         "wind_speed": 5,
-         "wind_direction": 210,
+         "t_min": 19,
+         "rh_max": 84,
+         "rh_min": 32,
+         "wind_speed": 4,
+         "wind_direction": 90,
          "cloud_cover": 0
       },
-      "05/02/2025": {
+      "08/02/2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 20,
-         "rh_max": 90,
-         "rh_min": 84,
-         "wind_speed": 3,
-         "wind_direction": 214,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 84,
+         "rh_min": 32,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "09/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 81,
+         "rh_min": 27,
+         "wind_speed": 8,
+         "wind_direction": 247,
          "cloud_cover": 0
       }
    },
@@ -37,71 +37,82 @@
       "sugarcane",
       "black gram",
       "green gram",
-      "potato",
       "chilli",
-      "tomato",
+      "cole crops",
       "onion",
+      "mango",
       "rose",
-      "pisciculture"
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advisory": "Farmers are advised to maintain standing water in the fields, irrigate due to mild dry conditions, manage foot rot disease in paddy, apply Zinc sulfate in deficient soil, use appropriate insecticides, and herbicides. Specific crop advisories are provided for different stages.",
+   "general_advisory": "Rainfall is expected to be minimal with clear skies. Farmers are advised to monitor pest populations, apply irrigation as needed, and follow specific crop management practices.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "To manage stem borer, use Trichogrammajaponicum card at weekly intervals and apply appropriate insecticides."
+            "In transplanted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray Bispyribac Sodium 10% E.C. or Ethoxysulfuron 15% WDG at 3 to 4 leaf stage.",
+            "Raising of nursery bed for summer paddy is under progress."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
+            "To manage the carrier of Bud necrosis disease (Thrips) during primary stage of pest infestation spray Neem-Based Pesticide or chemical sprays like Thiamethoxam 25% W.G or Acetamiprid 20% S.P.",
+            "Mustard and Groundnut are in flowering to pod formation stage."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Select resistant varieties to prevent red rot disease.",
-            "Soak setts in a solution before planting."
+            "To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% or foliar spray with Metalaxyl 8% + Mancozeb 64% WP.",
+            "Harvesting and planting of sugarcane is under progress."
          ]
       },
       "black gram": {
          "advisory": [
-            "To manage powdery mildew, spray appropriate fungicides."
+            "To control aphids during the primary stage of pest infestation spray Neem-Based Pesticide or chemical sprays like Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
          ]
       },
       "green gram": {
          "advisory": [
-            "To manage powdery mildew, spray appropriate fungicides."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "To control cut worm, spray Chlorpyriphos + Cypermethrin."
+            "To control aphids during the primary stage of pest infestation spray Neem-Based Pesticide or chemical sprays like Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control mites, spray Ethion or Spiromesifen."
+            "To manage Fruit rot and Die back disease in Chilli crop spray Propineb 70 % WP or Difenoconazole 25 % EC or Azoxystrobin 23 % SC.",
+            "There are chances of fruit rot and die back disease incidence in Chilli crop."
          ]
       },
-      "tomato": {
+      "cole crops": {
          "advisory": [
-            "For controlling Aphid, spray neem oil formulation or Flonicam."
+            "There are chances of Alternaria leaf spot disease incidence in Cole crops due to current weather conditions. To control this disease spray Mancozeb 75 % WP or carbendazim 12 % + Mancozeb 63 % WP."
          ]
       },
       "onion": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight, spray Mancozeb or Difenoconazole."
+            "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To manage mango hoppers multiply rapidly in cloudy and foggy weather spray Imidacloprid 17.8% SL or Thiamethoxam 25% W.G or Acetamiprid 20% S.P.",
+            "The mango hoppers multiply rapidly in cloudy and foggy weather."
          ]
       },
       "rose": {
          "advisory": [
-            "To control black spot, spray Copper Oxy-chloride."
+            "In prevailing weather conditions infestation of Powdery mildew may be noticed in Rose plant. Spray Carbendazim 50% WP as a preventive measure.",
+            "The mango hoppers multiply rapidly in cloudy and foggy weather."
          ]
       },
-      "pisciculture": {
+      "animal husbandry": {
          "advisory": [
-            "Maintain water depth for fish hibernating."
+            "For countering Foot and mouth diseases of cattle, care should be taken for FMD vaccination once in a year."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Sleeping disease of poultry has been found. Vaccinate the chicks with LaSota at 7 days and with IBD vaccines within 13-15 days."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

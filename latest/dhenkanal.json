@@ -1,80 +1,102 @@
 {
    "weather_details": {
-      "31.01.2025": {
+      "07.02.2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 90,
-         "rh_min": 55,
-         "wind_speed": 10,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 85,
+         "rh_min": 45,
+         "wind_speed": 8,
          "wind_direction": 120,
-         "cloud_cover": 5
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "groundnut",
       "sugarcane",
+      "blackgram",
+      "green gram",
+      "mustard",
+      "tomato",
+      "chilli",
       "potato",
       "onion",
       "cabbage",
       "cauliflower",
-      "chilli",
-      "brinjal",
+      "cucurbits",
       "mango",
-      "jasmine"
+      "poultry"
    ],
-   "general_advisory": "Keep a close eye on pest infestations and diseases in crops mentioned. Follow recommended spraying schedules and doses for effective pest management. Prune jasmine plants for better flowering.",
+   "general_advisory": "Vaccinate birds against RD, Fowl pox and IB to prevent viral diseases. For preventing CRD (Chronic Respiratory Disease) maintain litter properly, take care of disinfection and avoid ammonia build up in poultry shed.",
    "crops_data": {
-      "groundnut": {
-         "advisory": [
-            "To manage Tikka disease in groundnut, spray Chlorothalonil 75% WP or Mancozeb 75% WP or Hexaconazole 5% E.C."
-         ]
-      },
       "sugarcane": {
          "advisory": [
-            "Apply 87kg of DAP, 20kg of MOP, and 4-ton of FYM at the time of planting."
+            "Carry out planting of Sugarcane crop.",
+            "To manage set trot disease after planting, do basal drenching with Carbendazim 12% + Mancozeb 63%",
+            "To manage set trot disease after planting, do foliar spray with Metalaxyl 8% + Mancozeb 64% WP"
          ]
       },
-      "potato": {
+      "blackgram": {
          "advisory": [
-            "To control Cut worm in Potato crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
+            "To control Bihar hairy caterpillar in Green gram and Black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5% E.C"
          ]
       },
-      "onion": {
+      "green gram": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight disease in Onion, spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C."
+            "To control Bihar hairy caterpillar in Green gram and Black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5% E.C"
          ]
       },
-      "cabbage": {
+      "mustard": {
          "advisory": [
-            "To manage Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops, spray Neem based Pesticide (Azadirachtin) 300 PPM."
+            "To manage Leaf Webber and Mustard sawfly infestation in Mustard crop, spray Ethofenprox 10% EC"
          ]
       },
-      "cauliflower": {
+      "tomato": {
          "advisory": [
-            "To manage Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops, spray Neem based Pesticide (Azadirachtin) 300 PPM."
+            "To manage fruit borer in Tomato, collect and destroy affected fruits and larvae"
          ]
       },
       "chilli": {
          "advisory": [
-            "To manage thrips in chilli crop, spray neem-based pesticide (Azadirachtin) 1500 PPM."
+            "To manage Fruit rot and Die back disease incidence in Chilli crop, spray Propineb 70% WP"
          ]
       },
-      "brinjal": {
+      "potato": {
          "advisory": [
-            "To manage Epilachna Beetle infestation in Brinjal, shake plants to dislodge grubs, pupae, and adults in a pail of kerosene mixed water."
+            "To control Cut worm in Potato crop, spray Chlorpyriphos 50% + Cypermethrin 5% E.C"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage Purple blotch and Stemphylium leaf blight disease in Onion, spray Mancozeb 75% WP"
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "To manage Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops, collect and destroy caterpillars"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "To manage Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops, collect and destroy caterpillars"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "To manage infestation of Epilachna beetle in cucurbits, spray Chlorpyriphos 20% EC"
          ]
       },
       "mango": {
          "advisory": [
-            "To manage mango hoppers, spray Imidacloprid 17.8% SL or Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
+            "Irrigate at regular intervals after flower appearance",
+            "After appearance of flower, always spray the crop in the afternoon and evening hours"
          ]
       },
-      "jasmine": {
+      "poultry": {
          "advisory": [
-            "Prune jasmine plants for better flowering."
+            "Vaccinate birds against RD, Fowl pox and IB to prevent viral diseases",
+            "For preventing CRD (Chronic Respiratory Disease), maintain litter properly, take care of disinfection and avoid ammonia build up in poultry shed"
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

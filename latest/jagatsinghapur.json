@@ -1,33 +1,23 @@
 {
    "weather_details": {
-      "25/01/2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 0,
-         "rh_max": 91,
-         "rh_min": 55,
-         "wind_speed": 8,
-         "wind_direction": 219,
-         "cloud_cover": 0
-      },
       "01/02/2025": {
          "rainfall": 0,
          "t_max": 30,
-         "t_min": 23,
-         "rh_max": 91,
-         "rh_min": 55,
-         "wind_speed": 8,
-         "wind_direction": 219,
+         "t_min": 19,
+         "rh_max": 76,
+         "rh_min": 29,
+         "wind_speed": 7,
+         "wind_direction": 11,
          "cloud_cover": 0
       },
-      "05/02/2025": {
+      "07/02/2025": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 31,
          "t_min": 19,
-         "rh_max": 92,
-         "rh_min": 44,
-         "wind_speed": 3,
-         "wind_direction": 264,
+         "rh_max": 85,
+         "rh_min": 29,
+         "wind_speed": 7,
+         "wind_direction": 11,
          "cloud_cover": 0
       }
    },
@@ -36,73 +26,71 @@
       "groundnut",
       "sugarcane",
       "black gram",
-      "green gram",
-      "potato",
       "chilli",
-      "tomato",
+      "cole crops",
       "onion",
+      "mango",
       "rose",
-      "pisciculture"
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advisory": "Farmers are advised to maintain standing water levels, irrigate fields, manage foot rot disease in paddy, apply necessary fertilizers and insecticides, and use pre-emergence herbicides for weed control.",
+   "general_advisory": "Dry weather with mainly clear sky expected. Farmers advised to monitor pest activity, apply irrigation, and implement disease management practices as needed.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "To manage stem borer, use Trichogramma japonicum card at weekly intervals.",
-            "Apply appropriate insecticides as mentioned."
+            "In transplanted paddy, control grasses, sedges, and broadleaf weeds by spraying recommended pesticides."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage stem rot, drench soil with Validamycin 3% L or Captan 70% + Hexaconazole 5% WP."
+            "Manage Bud Necrosis disease by spraying Neem-based pesticide or chemical insecticides."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Select resistant varieties to prevent red rot disease.",
-            "Soak setts in specified solution for planting."
+            "Manage Sett Rot disease through appropriate drenching or foliar spray with recommended pesticides."
          ]
       },
       "black gram": {
          "advisory": [
-            "To manage powdery mildew disease, spray recommended fungicides."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "To manage powdery mildew disease, spray recommended fungicides."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "To control cut worm, spray recommended insecticides."
+            "Control aphids with Neem-based pesticide followed by chemical insecticides."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control mites, spray recommended insecticides."
+            "Manage Fruit rot and Die back disease through timely fungicide sprays."
          ]
       },
-      "tomato": {
+      "cole crops": {
          "advisory": [
-            "To control aphids, spray neem oil formulation or Flonicam."
+            "Control Alternaria Leaf Spot disease using recommended fungicides."
          ]
       },
       "onion": {
          "advisory": [
-            "To manage diseases, spray recommended fungicides at specified intervals."
+            "Manage Purple Blotch and Stemphylium leaf blight with appropriate fungicides at regular intervals."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Manage mango hoppers by spraying recommended insecticides at specific stages."
          ]
       },
       "rose": {
          "advisory": [
-            "To control black spot disease, spray Copper Oxy-chloride."
+            "Prevent Powdery mildew infestation by spraying preventive fungicides."
          ]
       },
-      "pisciculture": {
+      "animal husbandry": {
          "advisory": [
-            "Maintain water depth for fish hibernating."
+            "Ensure Foot and mouth disease vaccination for cattle."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate chicks against Sleeping disease using specific vaccines."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

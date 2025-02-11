@@ -1,103 +1,98 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 18,
-         "rh_max": 64,
-         "rh_min": 24,
-         "wind_speed": 2,
-         "wind_direction": 207,
-         "cloud_cover": 1
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 18,
-         "rh_max": 67,
-         "rh_min": 21,
-         "wind_speed": 2,
-         "wind_direction": 202,
-         "cloud_cover": 1
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 19,
-         "rh_max": 55,
-         "rh_min": 20,
-         "wind_speed": 1,
-         "wind_direction": 0,
+         "t_max": 33,
+         "t_min": 15,
+         "rh_max": 44,
+         "rh_min": 14,
+         "wind_speed": 5,
+         "wind_direction": 347,
          "cloud_cover": 2
       },
-      "04-02-2025": {
+      "09-02-2025": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 19,
-         "rh_max": 57,
-         "rh_min": 22,
-         "wind_speed": 2,
-         "wind_direction": 63,
-         "cloud_cover": 3
+         "t_min": 14,
+         "rh_max": 40,
+         "rh_min": 11,
+         "wind_speed": 3,
+         "wind_direction": 346,
+         "cloud_cover": 1
       },
-      "05-02-2025": {
+      "10-02-2025": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 18,
-         "rh_max": 51,
-         "rh_min": 22,
-         "wind_speed": 4,
-         "wind_direction": 79,
+         "t_min": 14,
+         "rh_max": 37,
+         "rh_min": 10,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "11-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 13,
+         "rh_max": 43,
+         "rh_min": 11,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 13,
+         "rh_max": 48,
+         "rh_min": 15,
+         "wind_speed": 3,
+         "wind_direction": 225,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "dry season rice",
       "green gram",
-      "black gram",
       "mango",
       "vegetable crops",
       "livestock"
    ],
-   "general_advisory": "According to the extended range forecast, dry weather is expected over the districts of Odisha. Farmers are advised to provide irrigation, conduct spraying operations, keep fields weed-free, and monitor temperature conditions for crop and animal health.",
+   "general_advisory": "As per the extended range forecast, dry weather is very likely to prevail over the districts of Odisha. Farmers are advised to provide one live saving irrigation in standing crop and conduct all kind of spraying and intercultural operations during that period at morning or in evening hours.",
    "crops_data": {
       "dry season rice": {
          "advisory": [
-            "Transplanting of 3-5 week old seedlings in well-puddled soil at appropriate spacing with proper fertilization.",
-            "Implement weed management strategies after transplanting to ensure crop health.",
-            "Monitor and control insect pests using pheromone traps and recommended insecticides."
+            "In transplanted rice, application of 35 kg urea per acre should be advised as first top dressing at 20-25 days after transplanting or maximum tillering stage.",
+            "Insect/Pest management: In just transplanted field use 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Whenever the number of male moths in trap reaches 4 or 5, spraying of Azadiractin 0.15% neem seed kernel based EC formulation @ 800 ml/acre should be advised."
          ]
       },
       "green gram": {
          "advisory": [
-            "Use yellow sticky traps per acre to control sucking insects.",
-            "Apply neem oil for insect control at the vegetative stage.",
-            "Avoid insecticide applications during the flowering stage."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Implement insect control measures similar to green gram at the appropriate stage of growth."
+            "If sucking insect attack is noticed in Green/Black gram field, then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage. At the initial stage of attack, farmers should spray 5 ml neem oil per liter of water to control these insect.",
+            "To control yellow mosaic virus attack in field, spraying of imidacloprid 17.8% SL @ 0.3 ml or thiamethoxam 25% WG @ 0.3-0.5ml per liter of water should be advised."
          ]
       },
       "mango": {
          "advisory": [
-            "Protect mango trees from mealy bugs using polythene or alkathane sheet wrapping.",
-            "Prune diseased branches and leaves to manage fungal infections."
+            "Prevailing increasing temperature condition may accelerate the Mango Hopper attack in orchard so its regular monitoring should be advised.",
+            "Avoid irrigation at flowering stage to reduce flower drop in Mango orchard.",
+            "Wrap or fix polythene/alkathane sheet tightly on Mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Use recommended insecticides to control leaf-eating caterpillars and fruit borers at different growth stages.",
-            "Regularly monitor and avoid chemical applications during flowering."
+            "To control leaf-eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised.",
+            "For Diamond Back Moth attack in Cauliflower, spraying of Spinosad 45 SC @ 0.5 ml or Fipronil 5% SC @ 2ml or Neem oil @ 5ml per liter of water should be advised.",
+            "Regular monitoring against sucking insect attack (aphids, thrips etc.) should be advised. Avoid chemical application at flowering stage.",
+            "Current weather condition is favorable for purple blotch disease infestation in onion plant so its regular monitoring is advised."
          ]
       },
       "livestock": {
          "advisory": [
-            "Feed animals a mixture of oil cakes and jaggery to maintain body temperature.",
-            "Provide additional feed to pregnant animals and ensure vaccination and deworming practices."
+            "Looking to the increase in temperature in the upcoming week, farmers are advised to increase the fresh clean drinking water supply to the animals. Avoid grazing of animals at noon hours.",
+            "Vaccination against FMF, HS, BQ, etc. should be advised. Deworming of animals is advised to control harmful worm."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

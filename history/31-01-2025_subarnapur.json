@@ -1,0 +1,103 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 64,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 67,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 202,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 55,
+         "rh_min": 20,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 57,
+         "rh_min": 22,
+         "wind_speed": 2,
+         "wind_direction": 63,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 51,
+         "rh_min": 22,
+         "wind_speed": 4,
+         "wind_direction": 79,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "green gram",
+      "black gram",
+      "mango",
+      "vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "According to the extended range forecast, dry weather is expected over the districts of Odisha. Farmers are advised to provide irrigation, conduct spraying operations, keep fields weed-free, and monitor temperature conditions for crop and animal health.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "Transplanting of 3-5 week old seedlings in well-puddled soil at appropriate spacing with proper fertilization.",
+            "Implement weed management strategies after transplanting to ensure crop health.",
+            "Monitor and control insect pests using pheromone traps and recommended insecticides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Use yellow sticky traps per acre to control sucking insects.",
+            "Apply neem oil for insect control at the vegetative stage.",
+            "Avoid insecticide applications during the flowering stage."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Implement insect control measures similar to green gram at the appropriate stage of growth."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Protect mango trees from mealy bugs using polythene or alkathane sheet wrapping.",
+            "Prune diseased branches and leaves to manage fungal infections."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Use recommended insecticides to control leaf-eating caterpillars and fruit borers at different growth stages.",
+            "Regularly monitor and avoid chemical applications during flowering."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Feed animals a mixture of oil cakes and jaggery to maintain body temperature.",
+            "Provide additional feed to pregnant animals and ensure vaccination and deworming practices."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

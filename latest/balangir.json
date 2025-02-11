@@ -4,49 +4,60 @@
          "rainfall": 5,
          "t_max": 25,
          "t_min": 15,
-         "rh_max": 80,
+         "rh_max": 85,
          "rh_min": 60,
-         "wind_speed": 10,
+         "wind_speed": 20,
          "wind_direction": 180,
-         "cloud_cover": 4
+         "cloud_cover": 6
       },
       "2022-01-02": {
          "rainfall": 2,
-         "t_max": 27,
+         "t_max": 28,
          "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 62,
-         "wind_speed": 12,
+         "rh_max": 80,
+         "rh_min": 55,
+         "wind_speed": 15,
          "wind_direction": 200,
-         "cloud_cover": 3
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "rice",
       "wheat",
-      "cattle"
+      "corn",
+      "chicken",
+      "fish"
    ],
-   "general_advisory": "Sow rice seeds in well-prepared fields. Use balanced fertilizers for wheat. Take care of cattle health and provide proper nutrition.",
+   "general_advisory": "It is recommended to plant rice and wheat during this season. Maintain proper ventilation for chicken and fish farms.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Sow seeds at a depth of 2 inches.",
-            "Provide irrigation at critical growth stages.",
-            "Protect the crop from pests and diseases."
+            "Ensure adequate water supply for the rice crop",
+            "Monitor for any signs of pests and diseases"
          ]
       },
       "wheat": {
          "advisory": [
-            "Apply nitrogen fertilizer during stem elongation.",
-            "Monitor for water stress and provide irrigation as needed.",
-            "Harvest when moisture content is below 14%."
+            "Apply fertilizer for better growth",
+            "Protect from frost during colder nights"
          ]
       },
-      "cattle": {
+      "corn": {
          "advisory": [
-            "Ensure availability of clean water at all times.",
-            "Provide a balanced diet containing roughage and concentrates.",
-            "Vaccinate against common diseases as per schedule."
+            "Plant in well-drained soil",
+            "Protect from strong winds"
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Maintain proper ventilation in the poultry farm",
+            "Provide clean water and feed regularly"
+         ]
+      },
+      "fish": {
+         "advisory": [
+            "Monitor water quality for fish health",
+            "Ensure proper feeding schedule"
          ]
       }
    },

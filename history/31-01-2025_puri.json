@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 218,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 61,
+         "wind_speed": 11,
+         "wind_direction": 213,
+         "cloud_cover": 0
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 231,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Dry weather may prevail for the next five days. Maintain standing water in fields before uprooting seedlings. Irrigate fields due to mild dry conditions. Various crop management recommendations are provided in the advisory.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer, use Trichogramma japonicum card weekly interval for 6 times.",
+            "Use pheromone traps and apply recommended insecticides."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in recommended solution to prevent diseases."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Spray recommended fungicides for powdery mildew management."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Spray recommended fungicides for powdery mildew management."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Control cut worm by spraying recommended insecticides."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray recommended insecticides for mite control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Control aphid infestation by spraying recommended formulations."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Manage purple blotch and Stemphylium leaf blight by spraying recommended fungicides."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Control black spot disease in Roses by spraying recommended fungicides."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for fish hibernating in warmer bottom zones."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

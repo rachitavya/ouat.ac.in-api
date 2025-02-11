@@ -1,53 +1,53 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 26,
+         "wind_speed": 8,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "09-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 28,
+         "wind_speed": 6,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 32,
+         "wind_speed": 8,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "11-02-2025": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 18,
-         "rh_max": 92,
-         "rh_min": 55,
-         "wind_speed": 7,
-         "wind_direction": 225,
+         "t_min": 20,
+         "rh_max": 81,
+         "rh_min": 34,
+         "wind_speed": 6,
+         "wind_direction": 260,
          "cloud_cover": 0
       },
-      "02-02-2025": {
+      "12-02-2025": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 18,
-         "rh_max": 93,
-         "rh_min": 53,
-         "wind_speed": 7,
-         "wind_direction": 225,
-         "cloud_cover": 0
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 19,
-         "rh_max": 94,
-         "rh_min": 50,
-         "wind_speed": 3,
-         "wind_direction": 242,
-         "cloud_cover": 0
-      },
-      "04-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 19,
-         "rh_max": 90,
-         "rh_min": 54,
-         "wind_speed": 7,
-         "wind_direction": 225,
-         "cloud_cover": 0
-      },
-      "05-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 44,
-         "wind_speed": 1,
-         "wind_direction": 284,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 230,
          "cloud_cover": 0
       }
    },
@@ -56,73 +56,71 @@
       "groundnut",
       "sugarcane",
       "black gram",
-      "green gram",
-      "potato",
       "chilli",
-      "tomato",
+      "cole crops",
       "onion",
+      "mango",
       "rose",
-      "pisciculture"
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advisory": "Farmers are advised to maintain standing water depth, irrigate fields, manage foot rot disease in paddy, apply zinc in deficient soil, and follow specific crop-related instructions provided in the advisory.",
+   "general_advisory": "Dry weather conditions with clear skies are expected. Farmers are advised to monitor pest infestation, apply irrigation as needed, and follow specific crop management practices.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "To manage stem borer, use Trichogramma japonicum card weekly and pheromone traps.",
-            "Apply specified insecticides for stem borer control."
+            "In transplanted paddy, control grasses, sedges, and broad leaf weeds by spraying recommended pesticides."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
+            "To manage Bud Necrosis, spray Neem-based pesticide or chemical pesticides during primary pest infestation."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Select resistant varieties to prevent red rot disease.",
-            "Soak setts in specified solution during planting."
+            "For Sett Rot management, use recommended pesticides for basal drenching or foliar spray."
          ]
       },
       "black gram": {
          "advisory": [
-            "To manage powdery mildew, spray specified fungicides."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "To manage powdery mildew, spray specified fungicides."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "To control cut worm, spray specified insecticides in the evening."
+            "To control aphids, spray Neem-based pesticide followed by chemical pesticides."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control mites, spray specified miticides."
+            "To manage Fruit rot and Die back disease, spray recommended fungicides at specific crop stages."
          ]
       },
-      "tomato": {
+      "cole crops": {
          "advisory": [
-            "To control aphids, spray neem oil formulation or Flonicam."
+            "To control Alternaria Leaf Spot, spray recommended fungicides based on current weather conditions."
          ]
       },
       "onion": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight, spray specified fungicides."
+            "To manage Purple Blotch and Stemphylium leaf blight, spray recommended fungicides at intervals."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To manage mango hoppers, spray recommended pesticides at specific intervals."
          ]
       },
       "rose": {
          "advisory": [
-            "To control black spot disease, spray specified fungicides."
+            "For Powdery mildew infestation, spray Carbendazim as a preventive measure."
          ]
       },
-      "pisciculture": {
+      "animal husbandry": {
          "advisory": [
-            "Maintain water depth for fish hibernation."
+            "For countering Foot and Mouth diseases, ensure FMD vaccination once a year."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate chicks against Sleeping disease using appropriate vaccines."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

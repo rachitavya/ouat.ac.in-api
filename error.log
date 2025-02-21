@@ -256,3 +256,4 @@ ERROR:root:Error downloading PDF for bargarh
 ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/04/Cuttack_IAAS_English_02.04.2024_14_27.pdf: 504
 ERROR:root:Error downloading PDF for cuttack
 ERROR:root:Error processing PDF for kalahandi: Expecting ',' delimiter: line 109 column 248 (char 6042)
+ERROR:root:Error scraping website: HTTPSConnectionPool(host='provider-reverse-proxy.uat.bhasai.samagra.io', port=443): Max retries exceeded with url: /ouat/quick-links/agro-advisory-services/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fba095d0ad0>, 'Connection to provider-reverse-proxy.uat.bhasai.samagra.io timed out. (connect timeout=None)'))
